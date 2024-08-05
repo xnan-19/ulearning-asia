@@ -1,0 +1,30 @@
+{
+  "userLearning": {
+    "message": "ไฟล์การเรียนรู้ของ{name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "userCourse": {
+    "message": "ไฟล์หลักสูตรของ {name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "courseArchive": {
+    "message": "ไฟล์หลักสูตร",
+    "description": "1.0 learningArchives.js"
+  },
+  "learningStats": {
+    "message": "กำลังเรียน{count}หลักสูตร",
+    "description": "1.0 learningArchives.js"
+  },
+  "submmitStats": {
+    "message": "ส่งการบ้านแล้ว {count} ครั้ง",
+    "description": "1.0 learningArchives.js"
+  },
+  "partinStats": {
+    "message": "เข้าร่วมการสอบแล้ว {count} ครั้ง",
+    "description": "1.0 learningArchives.js"
+  },
+  "publishStats": {
+    "message": "โพสต์แล้ว{count} หัวข้อ, ตอบกลับ{reply} คำตอบ",
+    "description": "1.0 learningArchives.js"
+  }
+}

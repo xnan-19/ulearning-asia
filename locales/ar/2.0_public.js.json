@@ -1,0 +1,2490 @@
+{
+  "homePage": {
+    "message": "الصفحة الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "lastPage": {
+    "message": "آخر صفحة",
+    "description": "2.0 public.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 public.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 public.js"
+  },
+  "jumpPage": {
+    "message": "إذهب إلى",
+    "description": "2.0 public.js"
+  },
+  "search": {
+    "message": "بحث",
+    "description": "2.0 public.js"
+  },
+  "friendshipLink": {
+    "message": "الروابط",
+    "description": "2.0 public.js"
+  },
+  "ulearning": {
+    "message": "ULearning",
+    "description": "2.0 public.js"
+  },
+  "peopleMooc": {
+    "message": "People.cn المقررات الدراسية المفتوحة",
+    "description": "2.0 public.js"
+  },
+  "leiClass": {
+    "message": "leiClass",
+    "description": "2.0 public.js"
+  },
+  "helpCenter": {
+    "message": "ركن المساعدة",
+    "description": "2.0 public.js"
+  },
+  "signin": {
+    "message": "تسجيل دخول",
+    "description": "2.0 public.js"
+  },
+  "signup": {
+    "message": "تسجيل",
+    "description": "2.0 public.js"
+  },
+  "signout": {
+    "message": "تسجيل خروج",
+    "description": "2.0 public.js"
+  },
+  "myHomePage": {
+    "message": "صفحتي الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "backToHomePage": {
+    "message": "الرجوع للصفحة الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "personalPage": {
+    "message": "ملف شخصي",
+    "description": "2.0 public.js"
+  },
+  "signupNow": {
+    "message": "سجل الآن",
+    "description": "2.0 public.js"
+  },
+  "username": {
+    "message": "اسم المستخدم/ البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "password": {
+    "message": "كلمه المرور",
+    "description": "2.0 public.js"
+  },
+  "forgetPassword": {
+    "message": "هل نسيت كلمة المرور؟",
+    "description": "2.0 public.js"
+  },
+  "usernameNotExist": {
+    "message": "اسم المستخدم غير موجود",
+    "description": "2.0 public.js"
+  },
+  "wrongPassword": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "2.0 public.js"
+  },
+  "wrongCode": {
+    "message": "رمز التحقق غير صحيح",
+    "description": "2.0 public.js"
+  },
+  "verificationCodePlaceholder": {
+    "message": "الرجاء إدخال رمز التحقق المكون من 6 أرقام",
+    "description": "2.0 public.js"
+  },
+  "sendVerificationCode": {
+    "message": "إرسال رمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterUsername": {
+    "message": "الرجاء إدخال اسم المستخدم/ البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterPassword": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterVerificationCode": {
+    "message": "الرجاء إدخال رمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "wrongToManyTimes": {
+    "message": "لقد حاولت 5 مرات ويتم تأمين الحساب. الرجاء إعادة المحاولة بعد 3 دقائق.",
+    "description": "2.0 public.js"
+  },
+  "searchCourse": {
+    "message": "البحث في كل المقررات الدراسية",
+    "description": "2.0 public.js"
+  },
+  "Classification": {
+    "message": "تصنيف",
+    "description": "2.0 public.js"
+  },
+  "defaultOrder": {
+    "message": "الترتيب الشامل",
+    "description": "2.0 public.js"
+  },
+  "mostRecent": {
+    "message": "الأحدث",
+    "description": "2.0 public.js"
+  },
+  "mostPopular": {
+    "message": "الأكثر طلبا",
+    "description": "2.0 public.js"
+  },
+  "all": {
+    "message": "الكل",
+    "description": "2.0 public.js"
+  },
+  "other": {
+    "message": "أخرى",
+    "description": "2.0 public.js"
+  },
+  "department": {
+    "message": "الكلية/ القسم",
+    "description": "2.0 public.js"
+  },
+  "allDepartment": {
+    "message": "جميع الكليات",
+    "description": "2.0 public.js"
+  },
+  "totalCourse": {
+    "message": "مجموع المقررات الدراسية {n}",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "departments": {
+    "message": "الكلية/ القسم",
+    "description": "2.0 public.js"
+  },
+  "moreDepartments": {
+    "message": "المزيد من الكليات/ الأقسام",
+    "description": "2.0 public.js"
+  },
+  "allDepartments": {
+    "message": "كل الكليات/ الأقسام",
+    "description": "2.0 public.js"
+  },
+  "announcement": {
+    "message": "إشعارات",
+    "description": "2.0 public.js"
+  },
+  "moreAnnouncement": {
+    "message": "المزيد من الإشعارات",
+    "description": "2.0 public.js"
+  },
+  "otherAnnouncement": {
+    "message": "إشعارات أخرى",
+    "description": "2.0 public.js"
+  },
+  "moreCourse": {
+    "message": "المزيد من المقررات الدراسية",
+    "description": "2.0 public.js"
+  },
+  "joinCourseCount": {
+    "message": "المشاركون: {n} ",
+    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "التنقل المخصص",
+    "description": "2.0 public.js"
+  },
+  "courseManager": {
+    "message": "مدير المقرر الدراسي: ",
+    "description": "2.0 public.js"
+  },
+  "affiliatedCollege": {
+    "message": "المدرسة:",
+    "description": "2.0 public.js"
+  },
+  "classNum": {
+    "message": "الفصول:",
+    "description": "2.0 public.js"
+  },
+  "courseStartTime": {
+    "message": "وقت بدء المقرر الدراسي: ",
+    "description": "2.0 public.js"
+  },
+  "usingTextbook": {
+    "message": "منهج دراسي",
+    "description": "2.0 public.js"
+  },
+  "noTextbook": {
+    "message": "لا مناهج دراسية / الكتب مستخدمة",
+    "description": "2.0 public.js"
+  },
+  "courseAnnouncement": {
+    "message": "إشعارات مقرر دراسي",
+    "description": "2.0 public.js"
+  },
+  "publisher": {
+    "message": "الناشر: ",
+    "description": "2.0 public.js"
+  },
+  "publishTime": {
+    "message": "نشرت في: ",
+    "description": "2.0 public.js"
+  },
+  "noCourseAnnouncement": {
+    "message": "لا توجد إشعارات لمقرر دراسي",
+    "description": "2.0 public.js"
+  },
+  "teachingActivity": {
+    "message": "التعليم/ أنشطة التعلم",
+    "description": "2.0 public.js"
+  },
+  "homework": {
+    "message": "الواجبات",
+    "description": "2.0 public.js"
+  },
+  "noHomework": {
+    "message": "لا توجد واجبات حاليا!",
+    "description": "2.0 public.js"
+  },
+  "no": {
+    "message": "لا يوجد",
+    "description": "2.0 public.js"
+  },
+  "discussion": {
+    "message": "المناقشات",
+    "description": "2.0 public.js"
+  },
+  "noDiscussion": {
+    "message": "لا توجد مناقشات حاليا!",
+    "description": "2.0 public.js"
+  },
+  "exam": {
+    "message": "الامتحانات",
+    "description": "2.0 public.js"
+  },
+  "noExam": {
+    "message": "لا توجد إمتحانات حاليا!",
+    "description": "2.0 public.js"
+  },
+  "teachingTeam": {
+    "message": "فريق التدريس",
+    "description": "2.0 public.js"
+  },
+  "noTeachingTeam": {
+    "message": "لا يوجد أعضاء هييئة تدريس حاليا!",
+    "description": "2.0 public.js"
+  },
+  "joinCourse": {
+    "message": "تسجيل مقرر دراسي",
+    "description": "2.0 public.js"
+  },
+  "searchNoCourse": {
+    "message": "لا توجد مقررات دراسيية حاليا!",
+    "description": "2.0 public.js"
+  },
+  "noCourse": {
+    "message": "لا توجد مقررات دراسيية حاليا!",
+    "description": "2.0 public.js"
+  },
+  "netError": {
+    "message": "خطأ في الشبكة - انقر الزر {reloadButton} لإعادة تحميل الصفحة",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "reload": {
+    "message": "إعادة التحميل",
+    "description": "2.0 public.js"
+  },
+  "viewDetail": {
+    "message": "عرض التفاصيل",
+    "description": "2.0 public.js"
+  },
+  "contentSummary": {
+    "message": "وصف المقرر الدراسي: ",
+    "description": "2.0 public.js"
+  },
+  "studyTimesOf": {
+    "message": "{n} تسجيلات",
+    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+  },
+  "totalSearchResult": {
+    "message": "إجمالي نتائج البحث {n} لكلمة \"{keyword}\"",
+    "description": "自定义门户网站 -> 上方搜索框搜索"
+  },
+  "schoolCourse": {
+    "message": "مقررات دراسية مدرسية",
+    "description": "2.0 public.js"
+  },
+  "openCourse": {
+    "message": "مقررات دراسية مفتوحة",
+    "description": "2.0 public.js"
+  },
+  "moreSearchResult": {
+    "message": "المزيد من نتائج البحث",
+    "description": "2.0 public.js"
+  },
+  "annex": {
+    "message": "المرفقات",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "People.cn المقررات الدراسية المفتوحة",
+    "description": "2.0 public.js"
+  },
+  "personalResource": {
+    "message": "مصادر شخصية",
+    "description": "2.0 public.js"
+  },
+  "resourceTips1": {
+    "message": "لا يمكن أن يتجاوز حجم الملف 1 غيغابايت",
+    "description": "2.0 public.js"
+  },
+  "addResource": {
+    "message": "إضافة مصدر",
+    "description": "2.0 public.js"
+  },
+  "modifyResource": {
+    "message": "تعديل مصدر",
+    "description": "2.0 public.js"
+  },
+  "modifyResourceName": {
+    "message": "تعديل اسم مصدر",
+    "description": "2.0 public.js"
+  },
+  "myResource": {
+    "message": "مصادري",
+    "description": "2.0 public.js"
+  },
+  "courseResource": {
+    "message": "مصادر المقررات الدراسية",
+    "description": "2.0 public.js"
+  },
+  "subjectResourceLibrary": {
+    "message": "مكتبة مصادر موضوع",
+    "description": "2.0 public.js"
+  },
+  "inputKeywordSearch": {
+    "message": "أدخل كلمة للبحث",
+    "description": "2.0 public.js"
+  },
+  "resourceTips2": {
+    "message": "حجم الملف 1 جيجابايت كحد أقصى",
+    "description": "2.0 public.js"
+  },
+  "localUpload": {
+    "message": "رفع محلي",
+    "description": "2.0 public.js"
+  },
+  "back": {
+    "message": "رجوع",
+    "description": "2.0 public.js"
+  },
+  "currentPosition": {
+    "message": "الوضع الحالي: ",
+    "description": "2.0 public.js"
+  },
+  "allResource": {
+    "message": "كل المصادر",
+    "description": "2.0 public.js"
+  },
+  "resourceName": {
+    "message": "اسم المصدر",
+    "description": "2.0 public.js"
+  },
+  "noResource": {
+    "message": "لا توجد مصادر",
+    "description": "2.0 public.js"
+  },
+  "publisher2": {
+    "message": "الناشر ",
+    "description": "2.0 public.js"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "2.0 public.js"
+  },
+  "cancel": {
+    "message": "إلغاء",
+    "description": "2.0 public.js"
+  },
+  "pleaseAddContent": {
+    "message": "الرجاء إضافة محتوى",
+    "description": "2.0 public.js"
+  },
+  "resourceTips3": {
+    "message": "لا يمكن أن يتجاوز المحتوى 20000 حرف",
+    "description": "2.0 public.js"
+  },
+  "saveSuccess": {
+    "message": "تم الحفظ بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "saveFailed": {
+    "message": "لم نتمكن من الحفظ",
+    "description": "2.0 public.js"
+  },
+  "modify": {
+    "message": "تعديل",
+    "description": "2.0 public.js"
+  },
+  "add": {
+    "message": "إضافة",
+    "description": "2.0 public.js"
+  },
+  "resource": {
+    "message": "مصدر",
+    "description": "2.0 public.js"
+  },
+  "resourceTips4": {
+    "message": "انقر لإدخال اسم المصدر",
+    "description": "2.0 public.js"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "2.0 public.js"
+  },
+  "size": {
+    "message": "الحجم",
+    "description": "2.0 public.js"
+  },
+  "duration": {
+    "message": "المدة",
+    "description": "2.0 public.js"
+  },
+  "cover": {
+    "message": "الغلاف",
+    "description": "2.0 public.js"
+  },
+  "reUpload": {
+    "message": "إعادة رفع",
+    "description": "2.0 public.js"
+  },
+  "upload": {
+    "message": "رفع",
+    "description": "2.0 public.js"
+  },
+  "subtitle": {
+    "message": "عنوان فرعي",
+    "description": "2.0 public.js"
+  },
+  "contentValidateTips5": {
+    "message": "ندعم صيغةsrt فقط",
+    "description": "2.0 public.js"
+  },
+  "linkAddress": {
+    "message": "الرابط",
+    "description": "2.0 public.js"
+  },
+  "resourceTips5": {
+    "message": "انقر لإدخال الرابط",
+    "description": "2.0 public.js"
+  },
+  "content": {
+    "message": "المحتوى",
+    "description": "2.0 public.js"
+  },
+  "resourceDescription": {
+    "message": "الوصف",
+    "description": "2.0 public.js"
+  },
+  "resourceTips6": {
+    "message": "انقر لإدخال الوصف (غير مطلوب)",
+    "description": "2.0 public.js"
+  },
+  "downloadSettings": {
+    "message": "إعدادات التنزيل",
+    "description": "2.0 public.js"
+  },
+  "allowDownload": {
+    "message": "السماح بالتنزيل",
+    "description": "2.0 public.js"
+  },
+  "disallowDownload": {
+    "message": "ممنوع التنزيل",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "نطاق النشر",
+    "description": "2.0 public.js"
+  },
+  "myClassess": {
+    "message": "فصولي فقط",
+    "description": "2.0 public.js"
+  },
+  "courseAllClass": {
+    "message": "كل الفصول",
+    "description": "2.0 public.js"
+  },
+  "resourceTips7": {
+    "message": "حدد المصادر التي تريد إضافتها",
+    "description": "2.0 public.js"
+  },
+  "changePassword": {
+    "message": "تغيير كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "safeguard": {
+    "message": "الأمان",
+    "description": "2.0 public.js"
+  },
+  "securitySetting": {
+    "message": "إعدادات الأمان",
+    "description": "2.0 public.js"
+  },
+  "welcomeUlearn": {
+    "message": "مرحبا بكم في ULearning",
+    "description": "2.0 public.js"
+  },
+  "wrongUsernamePassword": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "2.0 public.js"
+  },
+  "wrongDynamicCode": {
+    "message": "رمز التحقق غير صحيح",
+    "description": "2.0 public.js"
+  },
+  "loginTips1": {
+    "message": "المنصة مفتوحة للطلاب لغرض التعلم فقط. قم بتسجيل الدخول باستخدام حساب الطالب لبدء التعلم. يمكنك أيضا تسجيل الدخول عن طريق مسح رمز QR باستخدام Wechat.",
+    "description": "2.0 public.js"
+  },
+  "wxLogin": {
+    "message": "دخول WeChat",
+    "description": "2.0 public.js"
+  },
+  "registeredAccount": {
+    "message": "تسجيل",
+    "description": "2.0 public.js"
+  },
+  "forgotPassword": {
+    "message": "نسيت كلمة المرور؟",
+    "description": "2.0 public.js"
+  },
+  "userWXLogin": {
+    "message": "تسجيل الدخول باستخدام WeChat",
+    "description": "2.0 public.js"
+  },
+  "bindUlearnAccount": {
+    "message": "ربط حساب ULearning ",
+    "description": "2.0 public.js"
+  },
+  "loginTips2": {
+    "message": "يمكن نسخ و مطابقة الحسابات بعد التنقيح",
+    "description": "2.0 public.js"
+  },
+  "loginTips3": {
+    "message": "المنصة مفتوحة للطلاب لغرض التعلم فقط. يرجى ربط fحساب الطالب الخاص بك. ليس مطلوب من للذين ليس لديهم حساب طالب الربط .",
+    "description": "2.0 public.js"
+  },
+  "unbound": {
+    "message": "عدم الربط ",
+    "description": "2.0 public.js"
+  },
+  "unboundSkip": {
+    "message": "عدم الربط - تخطي",
+    "description": "2.0 public.js"
+  },
+  "reSend": {
+    "message": "إعادة الإرسال",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips1": {
+    "message": "إقتصاص الصورة",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips2": {
+    "message": "اسحب الإطار/استخدم حدود الإطار لضبط الاقتصاص",
+    "description": "2.0 public.js"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "2.0 public.js"
+  },
+  "baseInfo": {
+    "message": "المعلومات الأساسية",
+    "description": "2.0 public.js"
+  },
+  "userName": {
+    "message": "اسم المستخدم",
+    "description": "2.0 public.js"
+  },
+  "headImg": {
+    "message": "صورة الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImg": {
+    "message": "رفع صورة الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImgTips": {
+    "message": "الصيغ: jpg, jpeg,png و الحجم: لا يتخطى 2 ميغابايت و العرض × الارتفاع المقترحان: 300x50 بكسل",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber": {
+    "message": "الهاتف #",
+    "description": "2.0 public.js"
+  },
+  "modifyRelatedPhone": {
+    "message": "تعديل الهاتف",
+    "description": "2.0 public.js"
+  },
+  "relatePhone": {
+    "message": "الهاتف المضاف",
+    "description": "2.0 public.js"
+  },
+  "fullName": {
+    "message": "الاسم",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips1": {
+    "message": "الرجاء إدخال اسمك",
+    "description": "2.0 public.js"
+  },
+  "gender": {
+    "message": "‏‏النوع",
+    "description": "2.0 public.js"
+  },
+  "male": {
+    "message": "ذكر",
+    "description": "2.0 public.js"
+  },
+  "female": {
+    "message": "أنثى",
+    "description": "2.0 public.js"
+  },
+  "email": {
+    "message": "البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips2": {
+    "message": "سيتم استخدامها لاستعادة كلمة المرور الخاصة بك",
+    "description": "2.0 public.js"
+  },
+  "birthday": {
+    "message": "تاريخ الميلاد",
+    "description": "2.0 public.js"
+  },
+  "telphoneNum": {
+    "message": "الهاتف",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips3": {
+    "message": "اختر تاريخ ميلادك",
+    "description": "2.0 public.js"
+  },
+  "schoolInfo": {
+    "message": "معلومات المدرسة",
+    "description": "2.0 public.js"
+  },
+  "college": {
+    "message": "المدرسة",
+    "description": "2.0 public.js"
+  },
+  "department2": {
+    "message": "الكلية/ القسم",
+    "description": "2.0 public.js"
+  },
+  "department3": {
+    "message": "الكلية",
+    "description": "2.0 public.js"
+  },
+  "grade": {
+    "message": "سنة",
+    "description": "2.0 public.js"
+  },
+  "pleaseChoose": {
+    "message": "الرجاء الاختيار",
+    "description": "2.0 public.js"
+  },
+  "normalClass": {
+    "message": "الفئة الإدارية",
+    "description": "2.0 public.js"
+  },
+  "studentNo": {
+    "message": "كود الطالب",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips4": {
+    "message": "تأكد من إدخال معلومات دقيقة وصحيحة لأنها تتعلق بالتقدير / نتائج التعلم.",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "حساب جهة خارجية ",
+    "description": "2.0 public.js"
+  },
+  "unbind": {
+    "message": "إزالة الارتباط ",
+    "description": "2.0 public.js"
+  },
+  "bindWX": {
+    "message": "ربط WeChat",
+    "description": "2.0 public.js"
+  },
+  "phoneNum": {
+    "message": "الهاتف #",
+    "description": "2.0 public.js"
+  },
+  "inputPhoneNum": {
+    "message": "الرجاء إدخال هاتفك #",
+    "description": "2.0 public.js"
+  },
+  "inputCorrectPhoneNum": {
+    "message": "الرجاء إدخال رقم هاتف صالح #",
+    "description": "2.0 public.js"
+  },
+  "verificationCode": {
+    "message": "رمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "inputVerificationCode": {
+    "message": "الرجاء إدخال رمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "hanNationality": {
+    "message": "صيني",
+    "description": "2.0 public.js"
+  },
+  "city": {
+    "message": "المدينة",
+    "description": "2.0 public.js"
+  },
+  "town": {
+    "message": "البلدة",
+    "description": "2.0 public.js"
+  },
+  "countryside": {
+    "message": "الحي",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips5": {
+    "message": "هذا البريد الإلكتروني مستخدم بالفعل. رجاءً إستعملَ بريد إلكتروني آخر.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips6": {
+    "message": "كود الطالب هذا مستخدم بالفعل. رجاءً إستعملَ كود آخر.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips7": {
+    "message": "رقم الهاتف هذا مستخدم بالفعل. رجاءً إستعملَ رقم هاتف آخر.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips8": {
+    "message": "لا يمكن أن يكون فارغاً",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips9": {
+    "message": "البريد الإلكتروني مكتوب بطريقة غير صحيحة",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips10": {
+    "message": "لا يجب أن تتجاوز عدد الحروف المحددة للإدخال",
+    "description": "2.0 public.js"
+  },
+  "modifyFailed": {
+    "message": "لم نتمكن من التعديل!",
+    "description": "2.0 public.js"
+  },
+  "unbindSuccess": {
+    "message": "تم إزالة الارتباط بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "getVerificationCode": {
+    "message": "ارسل",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips11": {
+    "message": "انقر لإدخال هاتفك #",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips12": {
+    "message": "الرجاء إدخال رقم هاتف صالح #",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips13": {
+    "message": "رقم الهاتف هذا مستخدم بالفعل",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips14": {
+    "message": "حفظ هاتفك # بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCode": {
+    "message": "رمز التحقق غير صحيح!",
+    "description": "2.0 public.js"
+  },
+  "bindSuccess": {
+    "message": "تم القيد بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "bindFailed": {
+    "message": "لم نتمكن من الربط!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips15": {
+    "message": "هذا WeChat lستخدام بالفعل. رجاءً إستعملَ واحد آخر.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips16": {
+    "message": "حماية تسجيل الدخو مفعل. يمكنك تعطيله إذا كنت لا تحتاج إليه.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips17": {
+    "message": "بمجرد التفعيل، سيتم التحقق من هويتك عند تسجيل الدخول.",
+    "description": "2.0 public.js"
+  },
+  "loginProtection": {
+    "message": "حماية تسجيل الدخول",
+    "description": "2.0 public.js"
+  },
+  "close": {
+    "message": "‏‏معطل",
+    "description": "2.0 public.js"
+  },
+  "open": {
+    "message": "متاح",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips18": {
+    "message": "حماية تسجيل الدخول للتحقق من الهاتف",
+    "description": "2.0 public.js"
+  },
+  "phone": {
+    "message": "الهاتف",
+    "description": "2.0 public.js"
+  },
+  "thisAccount": {
+    "message": "هذا الحساب",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips19": {
+    "message": " لا يوجد رقم هاتف مرتبط،",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips20": {
+    "message": " أكمل ملفك الشخصي برقم هاتف قبل تمكينه",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "تم التعيين بنجاح !",
+    "description": "2.0 public.js"
+  },
+  "oldPassword": {
+    "message": "كلمة المرور القديمة",
+    "description": "2.0 public.js"
+  },
+  "newpassword": {
+    "message": "كلمة المرور الجديدة",
+    "description": "2.0 public.js"
+  },
+  "confirmPassword": {
+    "message": "تأكيد كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips21": {
+    "message": " لا يمكن أن يكون اسم المستخدم وكلمة المرور متطابقتين",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips22": {
+    "message": "الرجاء إدخال كلمة المرور القديمة ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips23": {
+    "message": "الرجاء إدخال كلمة مرور قديمة صحيحة ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips24": {
+    "message": "الرجاء إدخال كلمة المرور الجديدة",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips25": {
+    "message": "يجب أن تكون كلمة المرور بين ٨ - ١٦ حرفاً، يجب أن تحتوي على حروف و أرقام (يجب مراعاة حالة الأحرف)",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips26": {
+    "message": "تأكيد كلمة المرور الجديدة",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips27": {
+    "message": " كلمتا المرور ليستا متطابقتين",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips28": {
+    "message": "تم تغيير كلمة المرور بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips29": {
+    "message": "كلمة المرور القديمة غير صحيحة!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips30": {
+    "message": "لم نتمكن من تغيير كلمة المرور!",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText1": {
+    "message": "تنزيل تطبيق ULearning",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText2": {
+    "message": "مسح رمز QR للتنزيل",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText3": {
+    "message": "خدمة العملاء",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText4": {
+    "message": "ركن المساعدة",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText5": {
+    "message": "أعلى",
+    "description": "2.0 public.js"
+  },
+  "myOrder": {
+    "message": "طلباتي",
+    "description": "2.0 public.js"
+  },
+  "improveCourse": {
+    "message": "تم الإنتهاء من إعدادات المقرر الدراسي",
+    "description": "2.0 public.js"
+  },
+  "teachingProcess": {
+    "message": "سير عملية التدريس",
+    "description": "2.0 public.js"
+  },
+  "studyPlan": {
+    "message": "خطة التعلم",
+    "description": "2.0 public.js"
+  },
+  "studyProgress": {
+    "message": "تقدم عملية التعلم",
+    "description": "2.0 public.js"
+  },
+  "myTextbook": {
+    "message": "كتبي الإلكترونية",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "ترتيب غرفة الامتحان",
+    "description": "2.0 public.js"
+  },
+  "studyStatistics": {
+    "message": "إحصاءات نتائج التعلم",
+    "description": "2.0 public.js"
+  },
+  "randomGroupPaper": {
+    "message": "امتحان عشوائي",
+    "description": "2.0 public.js"
+  },
+  "faceAuthentication": {
+    "message": "التحقق من الوجه",
+    "description": "2.0 public.js"
+  },
+  "questionAnalysis": {
+    "message": "تحليل أسئلة الامتحان",
+    "description": "2.0 public.js"
+  },
+  "batchRemarkQue": {
+    "message": "تقدير الدفعة",
+    "description": "2.0 public.js"
+  },
+  "examPaperLibrary": {
+    "message": "بنك الامتحانات",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "محطة المراقبة",
+    "description": "2.0 public.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "التحقق من صورة وجه الطالب",
+    "description": "2.0 public.js"
+  },
+  "joinCourseClass": {
+    "message": "تسجيل المقرر الدراسي/ الفصل",
+    "description": "2.0 public.js"
+  },
+  "classDivideGroup": {
+    "message": "مجموعات الفصل",
+    "description": "2.0 public.js"
+  },
+  "resourceStatistic": {
+    "message": "إحصاءات المصادر",
+    "description": "2.0 public.js"
+  },
+  "resourcePreview": {
+    "message": "المصادر التي تم عرضها",
+    "description": "2.0 public.js"
+  },
+  "resourceImport": {
+    "message": "المصادر المستوردة",
+    "description": "2.0 public.js"
+  },
+  "publishToCourse": {
+    "message": "المصادر المنشورة للمقررات الدراسية",
+    "description": "2.0 public.js"
+  },
+  "resourceLibrary": {
+    "message": "مكتبة المصادر",
+    "description": "2.0 public.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "2.0 public.js"
+  },
+  "createAssessment": {
+    "message": "إنشاء قواعد التقدير",
+    "description": "2.0 public.js"
+  },
+  "modifyAssessment": {
+    "message": "تعديل قواعد التقدير",
+    "description": "2.0 public.js"
+  },
+  "viewScore": {
+    "message": "عرض التقديرات",
+    "description": "2.0 public.js"
+  },
+  "courseAnalysis": {
+    "message": "تحليل المقرر الدراسي",
+    "description": "2.0 public.js"
+  },
+  "coursewareContent": {
+    "message": "محتوى المنهج الدراسي",
+    "description": "2.0 public.js"
+  },
+  "livePlayback": {
+    "message": "تشغيل بث مباشر لمحاضرة",
+    "description": "2.0 public.js"
+  },
+  "liveAnalysis": {
+    "message": "تحليل محاضره مباشرة",
+    "description": "2.0 public.js"
+  },
+  "live": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 public.js"
+  },
+  "semesterManagement": {
+    "message": "الفصل الدراسي/ إدارة الفصل الدراسي",
+    "description": "2.0 public.js"
+  },
+  "foreignMember": {
+    "message": "الأعضاء الخارجيين",
+    "description": "2.0 public.js"
+  },
+  "copyRight": {
+    "message": "حقوق النشر من قبل ULearning. جميع الحقوق محفوظة.",
+    "description": "2.0 public.js"
+  },
+  "certificateManagement": {
+    "message": "إدارة الشهادات",
+    "description": "2.0 public.js"
+  },
+  "certificateSettings": {
+    "message": "إعدادات الشهادة",
+    "description": "2.0 public.js"
+  },
+  "certificateTemplate": {
+    "message": "قالب الشهادة الخاص بي",
+    "description": "2.0 public.js"
+  },
+  "createCertificate": {
+    "message": "إنشاء قالب جديد",
+    "description": "2.0 public.js"
+  },
+  "selectTemplate": {
+    "message": "تحديد القالب",
+    "description": "2.0 public.js"
+  },
+  "electronicSignature": {
+    "message": "التوقيع الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "liveManagement": {
+    "message": "فصل افتراضي",
+    "description": "2.0 public.js"
+  },
+  "setAssesmentRules": {
+    "message": "وضع قواعد التقدير",
+    "description": "2.0 public.js"
+  },
+  "basicInfo": {
+    "message": "المعلومات الأساسية",
+    "description": "2.0 public.js"
+  },
+  "activityCalendar": {
+    "message": "التقويم",
+    "description": "2.0 public.js"
+  },
+  "studyEportfolio": {
+    "message": "الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": " ",
+    "description": "2.0 public.js"
+  },
+  "ofEportfolio": {
+    "message": "'ق المحفظة الإلكترونية",
+    "description": "2.0 public.js"
+  },
+  "myHomePage2": {
+    "message": "صفحتي الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "eportfolio": {
+    "message": "الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "folder": {
+    "message": "المجلدات",
+    "description": "2.0 public.js"
+  },
+  "fileSize": {
+    "message": "حجم الملف",
+    "description": "2.0 public.js"
+  },
+  "eportfolioTips": {
+    "message": "هذا ملف شخصي الخاص - لا يسمح لك بالوصول إليه",
+    "description": "2.0 public.js"
+  },
+  "addFolder2": {
+    "message": "إضافة مجلد",
+    "description": "2.0 public.js"
+  },
+  "inputFolderName": {
+    "message": "انقر لإدخال اسم المجلد",
+    "description": "2.0 public.js"
+  },
+  "addEportfolio": {
+    "message": "إنشاء ملف شخصي",
+    "description": "2.0 public.js"
+  },
+  "editEportfolio": {
+    "message": "تعديل ملف شخصي",
+    "description": "2.0 public.js"
+  },
+  "inputEportfolioName": {
+    "message": "انقر لإدخال اسم الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "permission": {
+    "message": "الإذن ",
+    "description": "2.0 public.js"
+  },
+  "private": {
+    "message": "خاص",
+    "description": "2.0 public.js"
+  },
+  "notPrivate": {
+    "message": "عام",
+    "description": "2.0 public.js"
+  },
+  "tag": {
+    "message": "العلامات",
+    "description": "2.0 public.js"
+  },
+  "add2": {
+    "message": "إضافة",
+    "description": "2.0 public.js"
+  },
+  "tagName": {
+    "message": "اسم العلامة",
+    "description": "2.0 public.js"
+  },
+  "inputAddTagName": {
+    "message": "انقر لإضافة العلامة",
+    "description": "2.0 public.js"
+  },
+  "homePageTemplate": {
+    "message": "قالب الصفحة الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "template1": {
+    "message": "القالب 1",
+    "description": "2.0 public.js"
+  },
+  "template2": {
+    "message": "القالب 2",
+    "description": "2.0 public.js"
+  },
+  "copyLinkTips": {
+    "message": "انسخ الرابط لمشاركته",
+    "description": "2.0 public.js"
+  },
+  "copySuccess": {
+    "message": "تم النسخ بنجاح!",
+    "description": "2.0 public.js"
+  },
+  "copyLink": {
+    "message": "رابط النسخ",
+    "description": "2.0 public.js"
+  },
+  "importHw": {
+    "message": "استيراد واجب",
+    "description": "2.0 public.js"
+  },
+  "importHwTips": {
+    "message": "اختر الواجبات المراد نشرها على ملفك الشخصي. سيتم حفظه بصيغ الصور والمستندات في الدليل الحالي.",
+    "description": "2.0 public.js"
+  },
+  "allCourses": {
+    "message": "كل المقررات الدراسية",
+    "description": "2.0 public.js"
+  },
+  "uploaded": {
+    "message": "تم الرفع",
+    "description": "2.0 public.js"
+  },
+  "allEportfolio": {
+    "message": "كل الملفات الشخصية",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips1": {
+    "message": "هل تريد حذف هذا الملف الشخصي؟",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips2": {
+    "message": "سيؤدي حذف المجلد إلى حذف الملف الشخصي الموجود به. هل تريد حذف المجلد؟",
+    "description": "2.0 public.js"
+  },
+  "searchByNameAndTag": {
+    "message": "البحث بالاسم والعلامة",
+    "description": "2.0 public.js"
+  },
+  "noDesc": {
+    "message": "لا يوجد وصف!",
+    "description": "2.0 public.js"
+  },
+  "previewEportfolio": {
+    "message": "معاينة الملف الشخصي",
+    "description": "2.0 public.js"
+  },
+  "personalHomepage": {
+    "message": "الصفحة الرئيسية",
+    "description": "2.0 public.js"
+  },
+  "accountManage": {
+    "message": "حساب",
+    "description": "2.0 public.js"
+  },
+  "afterImportPerssion": {
+    "message": "إذن الوصول للملف الشخصي بعد الاستيراد: ",
+    "description": "2.0 public.js"
+  },
+  "importHwTips2": {
+    "message": "اختر الواجب/ الواجبات أولاً",
+    "description": "2.0 public.js"
+  },
+  "moveFolder": {
+    "message": "نقل مجلد",
+    "description": "2.0 public.js"
+  },
+  "deleteFolder": {
+    "message": "حذف مجلد",
+    "description": "2.0 public.js"
+  },
+  "editPhone": {
+    "message": "تعديل رقم الهاتف",
+    "description": "2.0 public.js"
+  },
+  "editMail": {
+    "message": "تعديل البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "editPhone1": {
+    "message": "تعديل رقم الهاتف",
+    "description": "2.0 public.js"
+  },
+  "inpitMail": {
+    "message": "انقر لإدخال البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "getFail": {
+    "message": "لم نتمكن من الاستعادة!",
+    "description": "2.0 public.js"
+  },
+  "paramError": {
+    "message": "خطأ في المعاملات",
+    "description": "2.0 public.js"
+  },
+  "mailTip": {
+    "message": "البريد الإلكتروني مكتوب بطريقة غير صحيحة!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip": {
+    "message": "الهاتف مكتوب بطريقة غير صحيحة!",
+    "description": "2.0 public.js"
+  },
+  "mailTip1": {
+    "message": "البريد الإلكتروني منضم بالفعل!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip1": {
+    "message": "رقم الهاتف منضم بالفعل!",
+    "description": "2.0 public.js"
+  },
+  "mailTip2": {
+    "message": "رقم الهاتف هذا مستخدم بالفعل!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip2": {
+    "message": "البريد الإلكتروني هذا مستخدم بالفعل!",
+    "description": "2.0 public.js"
+  },
+  "codeTip1": {
+    "message": "يرجى الانتظار لمدة 60 ثانية لتقديم طلب آخر لرمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "طلب رمز التحقق كثيرر التكرار!",
+    "description": "2.0 public.js"
+  },
+  "codeTip3": {
+    "message": "رمز التحقق هذا منتهي الصلاحية",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin": {
+    "message": "تسجيل الدخول عن طريق اسم المستخدم / كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "account": {
+    "message": "اسم المستخدم / الهاتف / البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip": {
+    "message": "نظام تسجيل الدخول عبر الرسائل القصيرة يدعم فقط أرقام الهواتف المحمولة الصينية",
+    "description": "2.0 public.js"
+  },
+  "goRegister": {
+    "message": "سجل الآن",
+    "description": "2.0 public.js"
+  },
+  "phoneLogin": {
+    "message": "تسجيل الدخول عن طريق الرسائل القصيرة",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin1": {
+    "message": "تسجيل الدخول باستخدام اسم المستخدم/كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "accountTip": {
+    "message": "انقر لإدخال اسم المستخدم / الهاتف / البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "userNotExit": {
+    "message": "المستخدم غير موجود",
+    "description": "2.0 public.js"
+  },
+  "loginFail": {
+    "message": "لم نتمكن من تسجيل الدخول!",
+    "description": "2.0 public.js"
+  },
+  "getAgain": {
+    "message": "إعادة الطلب",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip1": {
+    "message": "رقم الهاتف غير مسجل",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber1": {
+    "message": "رقم الهاتف",
+    "description": "2.0 public.js"
+  },
+  "mail": {
+    "message": "البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "otherTypeLogin": {
+    "message": "تسجيل الدخول بطرق أخرى",
+    "description": "2.0 public.js"
+  },
+  "success": {
+    "message": "نجاح",
+    "description": "2.0 public.js"
+  },
+  "video": {
+    "message": "مقطع فيديو",
+    "description": "2.0 public.js"
+  },
+  "audio": {
+    "message": "مقطع صوتي",
+    "description": "2.0 public.js"
+  },
+  "picture": {
+    "message": "صورة",
+    "description": "2.0 public.js"
+  },
+  "document": {
+    "message": "مستند",
+    "description": "2.0 public.js"
+  },
+  "archive": {
+    "message": "ملف مضغوط",
+    "description": "2.0 public.js"
+  },
+  "link": {
+    "message": "رابط",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "المحتوى الغني",
+    "description": "2.0 public.js"
+  },
+  "microCourse": {
+    "message": "مقررات دراسية صغيرة",
+    "description": "2.0 public.js"
+  },
+  "otherResource": {
+    "message": "أخرى",
+    "description": "2.0 public.js"
+  },
+  "allType": {
+    "message": "كل الأنواع",
+    "description": "2.0 public.js"
+  },
+  "saved": {
+    "message": "تم الحفظ",
+    "description": "2.0 public.js"
+  },
+  "modifySuccess": {
+    "message": "تم التعديل بنجاح!",
+    "description": "2.0 course.js"
+  },
+  "jqueryValidatorRequired": {
+    "message": "هذا حقل مطلوب",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRemote": {
+    "message": "الرجاء تصحيح هذا الحقل",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEmail": {
+    "message": "الرجاء إدخال بريد إلكتروني صالح.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorUrl": {
+    "message": "الرجاء إدخال رابط صالح.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDate": {
+    "message": "الرجاء إدخال تاريخ صحيح",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDateISO": {
+    "message": "الرجاء إدخال تاريخ صالح (YYYY-MM-DD)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorNumber": {
+    "message": "الرجاء إدخال رقم صحيح",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDigits": {
+    "message": "أدخل أرقام فقط!",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorCreditcard": {
+    "message": "الرجاء إدخال رقم بطاقة ائتمان صالح",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEqualTo": {
+    "message": "البيانات المدخلة غير متطابقة",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorExtension": {
+    "message": "الرجاء إدخال لاحقة صالحة.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMaxlength": {
+    "message": "يمكنك إدخال ما لا يزيد عن {0} حرف",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMinlength": {
+    "message": "إدخال {0} حرفا على الأقل",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRangelength": {
+    "message": "إدخال نص بين {0} و {1} حرف",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRange": {
+    "message": "أدخل قيمة بين {0} و {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMax": {
+    "message": "أدخل قيمة ليست أكبر من {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMin": {
+    "message": "أدخل قيمة ليست أصغر من {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorLoginName": {
+    "message": "لا يمكن أن تحتوي أسماء المستخدمين على الاحرف الصينية والمسافات و الرموز الخاصة",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorPassWord": {
+    "message": "يجب أن تكون ما بين ٨ - ١٦ حرفاً، يجب أن تحتوي على حروف و أرقام (يجب مراعاة حالة الأحرف)!",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorStudentID": {
+    "message": "الرجاء إدخال ما بين 4-20 حرف أو أرقام، مع مراعاة حالة الحروف.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRealName": {
+    "message": "لا يمكن أن تحتوي على أحرف أو مسافات غير مسموح بها",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsMobile": {
+    "message": "الرجاء إدخال رقم هاتف صالح",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsZipCode": {
+    "message": "الرجاء إدخال رمز بريدي صالح",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsEmail": {
+    "message": "الرجاء إدخال بريد إلكتروني صحيح",
+    "description": "2.0 public.js"
+  },
+  "identityVerification": {
+    "message": "تأكيد الهوية",
+    "description": "2.0 public.js"
+  },
+  "selectDomain": {
+    "message": "اسم المجال المؤسسي",
+    "description": "2.0 public.js"
+  },
+  "inputDomainTip": {
+    "message": "الرجاء إدخال اسم نطاق مؤسستك",
+    "description": "2.0 public.js"
+  },
+  "networkError": {
+    "message": "حدث خطأ",
+    "description": "2.0 public.js"
+  },
+  "unopenedError": {
+    "message": "عذرا، هذه الوكالة ليس لديها تسجيل دخول SSO تمكين",
+    "description": "2.0 public.js"
+  },
+  "invalidDomainError": {
+    "message": "لم يتم العثور على المجال، يرجى إعادة إدخاله",
+    "description": "2.0 public.js"
+  },
+  "blankError": {
+    "message": "اسم المجال فارغ",
+    "description": "2.0 public.js"
+  },
+  "selectClassification": {
+    "message": "اختر الفئة",
+    "description": "2.0 public.js"
+  },
+  "secondClassification": {
+    "message": "التصنيف الثانوي (يمكنك اختيار أكثر من خيار)",
+    "description": "2.0 public.js"
+  },
+  "alphabeta": {
+    "message": "فرز أبجديا",
+    "description": "2.0 public.js"
+  },
+  "revevance": {
+    "message": "الفرز حسب الصلة",
+    "description": "2.0 public.js"
+  },
+  "timeSort": {
+    "message": "الفرز حسب وقت التحديث",
+    "description": "2.0 public.js"
+  },
+  "application": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 public.js"
+  },
+  "notApplication": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 public.js"
+  },
+  "applicationTime": {
+    "message": "وقت التقديم:",
+    "description": "2.0 public.js"
+  },
+  "enrolment": {
+    "message": "التسجيل:",
+    "description": "2.0 public.js"
+  },
+  "tuition": {
+    "message": "الرسوم الدراسيه",
+    "description": "2.0 public.js"
+  },
+  "credits": {
+    "message": "نقاط الائتمان",
+    "description": "2.0 public.js"
+  },
+  "learningStyles": {
+    "message": "أسلوب التعلم",
+    "description": "2.0 public.js"
+  },
+  "studyTime": {
+    "message": "مدة التعلم",
+    "description": "2.0 public.js"
+  },
+  "certificate": {
+    "message": "شهادة",
+    "description": "2.0 public.js"
+  },
+  "contactUs": {
+    "message": "اتصل بنا",
+    "description": "2.0 public.js"
+  },
+  "noProgram": {
+    "message": "لم يتم العثور على برنامج.\n",
+    "description": "2.0 public.js"
+  },
+  "enroll": {
+    "message": "تطبيق",
+    "description": "2.0 public.js"
+  },
+  "majorName": {
+    "message": "اسم مهني",
+    "description": "2.0 public.js"
+  },
+  "majorName2": {
+    "message": "التخصص",
+    "description": "2.0 public.js"
+  },
+  "enrollEmail": {
+    "message": "العنوان البريدي",
+    "description": "2.0 public.js"
+  },
+  "enrollPhone": {
+    "message": "رقم الاتصال",
+    "description": "2.0 public.js"
+  },
+  "enrollOther": {
+    "message": "معلومات إضافية",
+    "description": "2.0 public.js"
+  },
+  "inputFullName": {
+    "message": "أدخل اسمك الكامل",
+    "description": "2.0 public.js"
+  },
+  "inputEmail": {
+    "message": "أدخل عنوان بريدك الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "inputOther": {
+    "message": "معلومات إضافية عنك (اختياري)",
+    "description": "2.0 public.js"
+  },
+  "submitApply": {
+    "message": "أرسل طلبك",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg1": {
+    "message": "يرجى ملء اسمك",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg2": {
+    "message": "لا يمكن أن يتجاوز الاسم 50 حرفا",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg1": {
+    "message": "يرجى ملء عنوان بريدك الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg2": {
+    "message": "عنوان البريد الإلكتروني غير صحيح",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg3": {
+    "message": "تم إرسال عنوان البريد الإلكتروني أو إلغاؤه أو استخدام عنوان بريد إلكتروني آخر",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg4": {
+    "message": "يجب ألا يزيد طول الرسائل عن 254 حرفا",
+    "description": "2.0 public.js"
+  },
+  "errorPhoneMsg": {
+    "message": "رقم الاتصال غير صحيح",
+    "description": "2.0 public.js"
+  },
+  "errorOtherMsg": {
+    "message": "الحد الأقصى 300 حرف",
+    "description": "2.0 public.js"
+  },
+  "selectMajor": {
+    "message": "اختر التخصص",
+    "description": "2.0 public.js"
+  },
+  "securityCodeExpired": {
+    "message": "انتهت صلاحية رمز الأمان الديناميكي",
+    "description": "2.0 public.js"
+  },
+  "securityCodeError": {
+    "message": "رمز التحقق غير صحيح",
+    "description": "2.0 public.js"
+  },
+  "enterCourse": {
+    "message": "إدخال المقرر الدراسي",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "تم التقديم ، في انتظار الموافقة",
+    "description": "2.0 public.js"
+  },
+  "newVersion": {
+    "message": "جانب المسؤول الجديد",
+    "description": "2.0 public.js"
+  },
+  "loginTip": {
+    "message": "الرجاء إدخال اسم المستخدم أو كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "schoolBadge": {
+    "message": "الشعار",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadge": {
+    "message": "رفع الشعار",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip1": {
+    "message": "صيغ الصور: png, bmp, jpg, gif و الحجم حتى 2 ميحابايت، العرض x الارتفاع: 120x120 بكسل",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip2": {
+    "message": "يمكن تحميل الملفات فقط بتنسيق PNG و BMP و JPG و JPEG و GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip3": {
+    "message": "يجب أن تكون الملفات التي تم رفعها أقل من 1 ميغابايت",
+    "description": "2.0 public.js"
+  },
+  "uploadLogo": {
+    "message": "رفع",
+    "description": "2.0 public.js"
+  },
+  "background": {
+    "message": "الخلفية",
+    "description": "2.0 public.js"
+  },
+  "setBackground": {
+    "message": "صور خلفية الموقع (اختر صورة واحدة أو أكثر، حتى ٥ صور)",
+    "description": "2.0 public.js"
+  },
+  "customImage": {
+    "message": "رفع صورة",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip1": {
+    "message": "تنسيقات الصور: png, bmp, jpg, jpeg, gif; الحجم: حتى 5MB؛ عرض x الارتفاع: 1920x1080 بكسل أو أكبر (سيتم عرض الصور الأصغر بأبعادها الأصلية و وضعها في وسط الصفحة).",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip2": {
+    "message": " سيتم عرض الصور بالترتيب الذي قمت برفعه.",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip3": {
+    "message": "يمكن تحميل الملفات فقط بتنسيق PNG و BMP و JPG و JPEG و GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip4": {
+    "message": "يجب أن تكون الملفات التي تم رفعها أقل من 1 ميغابايت",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip5": {
+    "message": "لا أكثر من ٥.",
+    "description": "2.0 public.js"
+  },
+  "editFriendLinks": {
+    "message": "تعديل الروابط",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder1": {
+    "message": "انقر لإدخال اسم الارتباط",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder2": {
+    "message": "انقر لإدخال عنوان URL للارتباط بتنسيق http://",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip1": {
+    "message": "ملحوظة: يمكنك إضافة ما يصل إلى ١٠ روابط؛ اسم الرابط لا يزيد عن ٢٠ حرفًا. يمكنك السحب لنقل الروابط و إعادة ترتيبها.",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip2": {
+    "message": "إضافة ما لا يزيد عن 10",
+    "description": "2.0 public.js"
+  },
+  "addFriendLinks": {
+    "message": "إضافة رابط",
+    "description": "2.0 public.js"
+  },
+  "resource1": {
+    "message": "نوع",
+    "description": "2.0 public.js"
+  },
+  "resource2": {
+    "message": "تصنيف",
+    "description": "2.0 public.js"
+  },
+  "resource3": {
+    "message": "مقطع فيديو",
+    "description": "2.0 public.js"
+  },
+  "resource4": {
+    "message": "مقاطع صوت",
+    "description": "2.0 public.js"
+  },
+  "resource5": {
+    "message": "صورة",
+    "description": "2.0 public.js"
+  },
+  "resource6": {
+    "message": "مستند",
+    "description": "2.0 public.js"
+  },
+  "resource7": {
+    "message": "رابط",
+    "description": "2.0 public.js"
+  },
+  "searchResource": {
+    "message": "بحث عن مصادر",
+    "description": "2.0 public.js"
+  },
+  "resourceDetail": {
+    "message": "تفاصيل المصدر",
+    "description": "2.0 public.js"
+  },
+  "hotResource": {
+    "message": "المصادر الشائعة",
+    "description": "2.0 public.js"
+  },
+  "uploadTime": {
+    "message": "وقت الرفع",
+    "description": "2.0 public.js"
+  },
+  "viewCount": {
+    "message": "عدد مرات التصفح",
+    "description": "2.0 public.js"
+  },
+  "downloadCount": {
+    "message": "عدد مرات التنزيل",
+    "description": "2.0 public.js"
+  },
+  "name": {
+    "message": "اسم",
+    "description": "2.0 public.js"
+  },
+  "searchNoResource": {
+    "message": "لم يتم نشر أي مصادر",
+    "description": "2.0 public.js"
+  },
+  "uploadFile": {
+    "message": "رفع ملف",
+    "description": "2.0 public.js"
+  },
+  "addLink": {
+    "message": "إضافة رابط",
+    "description": "2.0 public.js"
+  },
+  "addRichtext": {
+    "message": "إضافة رسم",
+    "description": "2.0 public.js"
+  },
+  "passwordRegTips": {
+    "message": "8-16 حرفا، تحتوي على 3 أحرف على الأقل (أرقام أو أحرف كبيرة أو أحرف صغيرة أو رموز خاصة)",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip3": {
+    "message": "لا يزيد عن ٤٠ حرفاً",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus1": {
+    "message": "انتهت الدورة",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus2": {
+    "message": "الدورة لم تبدأ",
+    "description": "2.0 public.js"
+  },
+  "joinNum": {
+    "message": "شارك",
+    "description": "2.0 public.js"
+  },
+  "courseinfo1": {
+    "message": "المعهد",
+    "description": "2.0 public.js"
+  },
+  "courseinfo2": {
+    "message": "ساعات التعلم الموصى بها",
+    "description": "2.0 public.js"
+  },
+  "courseinfo3": {
+    "message": "فئة المادة",
+    "description": "2.0 public.js"
+  },
+  "courseinfo4": {
+    "message": "قابل للتطبيق بشكل احترافي",
+    "description": "2.0 public.js"
+  },
+  "coursebtn1": {
+    "message": "جربه الآن",
+    "description": "2.0 public.js"
+  },
+  "coursebtn2": {
+    "message": "بدء التعلم",
+    "description": "2.0 public.js"
+  },
+  "coursebtn3": {
+    "message": "الانضمام إلى دورة التدريبية للفصل الدراسي",
+    "description": "2.0 public.js"
+  },
+  "coursebtn4": {
+    "message": "الشراء الآن",
+    "description": "2.0 public.js"
+  },
+  "coursebtn5": {
+    "message": "تجربة الذهاب",
+    "description": "2.0 public.js"
+  },
+  "coursetime": {
+    "message": "ساعات التعلم",
+    "description": "2.0 public.js"
+  },
+  "courseTitle1": {
+    "message": "جدول محتويات الفصل",
+    "description": "2.0 public.js"
+  },
+  "courseTitle2": {
+    "message": "مقدمة المقرر",
+    "description": "2.0 public.js"
+  },
+  "courseTitle3": {
+    "message": "مخطط المقرر",
+    "description": "2.0 public.js"
+  },
+  "courseTitle4": {
+    "message": "فريق المقرر",
+    "description": "2.0 public.js"
+  },
+  "courseTitle5": {
+    "message": "كتاب مدرسي موصى به",
+    "description": "2.0 public.js"
+  },
+  "courseTitle6": {
+    "message": "المقرر الدراسي الموصى به",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook1": {
+    "message": "سعر التجزئة",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook2": {
+    "message": "المؤلف",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook3": {
+    "message": "المترجم",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook4": {
+    "message": "داخلي",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook5": {
+    "message": "خارج البلاد",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook6": {
+    "message": "الناشر",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook7": {
+    "message": "مقدمة المؤلف ",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook8": {
+    "message": "مقدمة المترجم",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook9": {
+    "message": "أبرز الكتب المدرسية",
+    "description": "2.0 public.js"
+  },
+  "send": {
+    "message": "ارسل",
+    "description": "2.0 public.js"
+  },
+  "login1": {
+    "message": "العنوان",
+    "description": "2.0 public.js"
+  },
+  "login2": {
+    "message": "تخطيط الصفحة",
+    "description": "2.0 public.js"
+  },
+  "login3": {
+    "message": "صورة الخلفية",
+    "description": "2.0 public.js"
+  },
+  "login4": {
+    "message": "حفظ الإعدادات",
+    "description": "2.0 public.js"
+  },
+  "login5": {
+    "message": "بريدك الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "login6": {
+    "message": "أدخل عنوان بريدك الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "login7": {
+    "message": "تذكرني",
+    "description": "2.0 public.js"
+  },
+  "login8": {
+    "message": "التحقق من الرسالة",
+    "description": "2.0 public.js"
+  },
+  "login9": {
+    "message": "لقد أرسلنا رسالة تأكيد بالبريد الإلكتروني إلى {email} ، يرجى إدخال رمز التحقق أدناه للتحقق من بريدك الإلكتروني.",
+    "description": "2.0 public.js"
+  },
+  "login10": {
+    "message": "تم إرسال رسالة تأكيد بالبريد الإلكتروني ، يرجى إدخال رمز التحقق أدناه للتحقق من بريدك الإلكتروني.",
+    "description": "2.0 public.js"
+  },
+  "login11": {
+    "message": "لم يتم استلام البريد الإلكتروني؟",
+    "description": "2.0 public.js"
+  },
+  "login12": {
+    "message": "تم إلغاء تنشيط الحساب",
+    "description": "2.0 public.js"
+  },
+  "login13": {
+    "message": "تم إلغاء تنشيط حسابك ولن تتمكن من تسجيل الدخول إلى النظام. اتصل بمشرف مؤسستك لإعادة تفعيل حسابك.",
+    "description": "2.0 public.js"
+  },
+  "login14": {
+    "message": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك",
+    "description": "2.0 public.js"
+  },
+  "login15": {
+    "message": "تنسيق البريد الإلكتروني غير صحيح ، يرجى إدخال عنوان البريد الإلكتروني الصحيح",
+    "description": "2.0 public.js"
+  },
+  "login16": {
+    "message": "الرجاء إدخال كلمة المرور الخاصة بك",
+    "description": "2.0 public.js"
+  },
+  "login17": {
+    "message": "تتكون كلمة المرور من 8 إلى 20 حرفا ويجب أن تحتوي على أحرف وأرقام",
+    "description": "2.0 public.js"
+  },
+  "login18": {
+    "message": "المعلومات الواردة غير مكتملة",
+    "description": "2.0 public.js"
+  },
+  "login19": {
+    "message": "الحساب غير موجود",
+    "description": "2.0 public.js"
+  },
+  "login20": {
+    "message": "الحساب في انتظار التفعيل",
+    "description": "2.0 public.js"
+  },
+  "login21": {
+    "message": "تم إلغاء تنشيط الحساب",
+    "description": "2.0 public.js"
+  },
+  "login22": {
+    "message": "بلغ عدد الأخطاء خمسة",
+    "description": "2.0 public.js"
+  },
+  "login23": {
+    "message": "تم حذف الحساب",
+    "description": "2.0 public.js"
+  },
+  "login24": {
+    "message": "كلمة مرور خاطئة",
+    "description": "2.0 public.js"
+  },
+  "login25": {
+    "message": "إرسال الرسائل بشكل متكرر",
+    "description": "2.0 public.js"
+  },
+  "login26": {
+    "message": "فشل إرسال رسالة",
+    "description": "2.0 public.js"
+  },
+  "login27": {
+    "message": "المعلومات غير صالحة",
+    "description": "2.0 public.js"
+  },
+  "firstLogin1": {
+    "message": "مرحباً",
+    "description": "2.0 public.js"
+  },
+  "firstLogin2": {
+    "message": "موافقة المستخدم",
+    "description": "2.0 public.js"
+  },
+  "firstLogin3": {
+    "message": "أكمل معلوماتك الشخصية",
+    "description": "2.0 public.js"
+  },
+  "firstLogin4": {
+    "message": "التفضيلات",
+    "description": "2.0 public.js"
+  },
+  "firstLogin5": {
+    "message": "أنهى!",
+    "description": "2.0 public.js"
+  },
+  "firstLogin6": {
+    "message": "يرجى قراءة الاتفاقية وسياسة الخصوصية التالية ، والتوقيع على موافقة المستخدم على الاستخدام",
+    "description": "2.0 public.js"
+  },
+  "firstLogin7": {
+    "message": "استخدام البروتوكولات",
+    "description": "2.0 public.js"
+  },
+  "firstLogin8": {
+    "message": "تحكم اتفاقية المستخدم هذه كيفية استخدام المستخدمين لهذا الموقع. إذا كنت تريد الاطلاع على اتفاقية المستخدم الكاملة، فراجع اتفاقية المستخدم الكاملة.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin9": {
+    "message": "أوافق",
+    "description": "2.0 public.js"
+  },
+  "firstLogin10": {
+    "message": "اتفاقية المستخدم",
+    "description": "2.0 public.js"
+  },
+  "firstLogin11": {
+    "message": "سياسة الخصوصية",
+    "description": "2.0 public.js"
+  },
+  "firstLogin12": {
+    "message": "يتعلق بيان الخصوصية هذا بحسابات المستخدمين التي تم إنشاؤها على هذا الموقع. إذا كنت ترغب في رؤية النص الكامل، يرجى الرجوع إلى بيان الخصوصية الكامل.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin13": {
+    "message": "سياسة ملفات تعريف الارتباط",
+    "description": "2.0 public.js"
+  },
+  "firstLogin14": {
+    "message": "توضح سياسة ملفات تعريف الارتباط الخاصة بنا ما هي ملفات تعريف الارتباط ، وكيف نستخدم ملفات تعريف الارتباط ، وكيف يمكن للأطراف الثالثة التي نعمل معها استخدام ملفات تعريف الارتباط على هذا الموقع وخياراتك فيما يتعلق بملفات تعريف الارتباط. إذا كنت ترغب في رؤية النص الكامل ، يرجى الرجوع إلى سياسة ملفات تعريف الارتباط الكاملة.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin15": {
+    "message": "اسمك الكامل",
+    "description": "2.0 public.js"
+  },
+  "firstLogin16": {
+    "message": "اسم العرض",
+    "description": "2.0 public.js"
+  },
+  "firstLogin17": {
+    "message": "تغيير كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "firstLogin18": {
+    "message": "اللغة",
+    "description": "2.0 public.js"
+  },
+  "firstLogin19": {
+    "message": "مرحبا بكم في Ulearning وأتمنى لكم كل التوفيق في رحلة التعلم الخاصة بكم",
+    "description": "2.0 public.js"
+  },
+  "firstLogin20": {
+    "message": "أكمل الإعداد",
+    "description": "2.0 public.js"
+  },
+  "firstLogin21": {
+    "message": "كلمة مرور مكونة من 8-20 رقما ، بما في ذلك الأرقام والحروف",
+    "description": "2.0 public.js"
+  },
+  "firstLogin22": {
+    "message": "يرجى ملء اسمك الكامل",
+    "description": "2.0 public.js"
+  },
+  "firstLogin23": {
+    "message": "لا يمكن أن يكون الاسم الكامل أطول من 128 حرفا",
+    "description": "2.0 public.js"
+  },
+  "firstLogin24": {
+    "message": "يرجى ملء اسم العرض",
+    "description": "2.0 public.js"
+  },
+  "firstLogin25": {
+    "message": "لا يمكن أن يكون اسم العرض أطول من 64 حرفا",
+    "description": "2.0 public.js"
+  },
+  "firstLogin26": {
+    "message": "صيغة كلمة المرور غير صحيحة ، يرجى إعادة إدخالها",
+    "description": "2.0 public.js"
+  },
+  "firstLogin27": {
+    "message": "كلمات المرور غير متطابقة ، يرجى إعادة إدخال",
+    "description": "2.0 public.js"
+  },
+  "firstLogin28": {
+    "message": "لا يمكن استخدام كلمة المرور الأصلية",
+    "description": "2.0 public.js"
+  },
+  "cookieSettings": {
+    "message": "إعدادات ملفات تعريف الارتباط",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle1": {
+    "message": "تفضيلات ملفات تعريف الارتباط",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip1": {
+    "message": "هناك ثلاثة أنواع من ملفات تعريف الارتباط المستخدمة على موقعنا: إلزامية ووظيفية وأطراف ثالثة. يمكنك اختيار ما إذا كنت تريد تطبيق الوظائف وتشغيل ملفات تعريف ارتباط الطرف الثالث. انقر فوق فئات ملفات تعريف الارتباط المختلفة لمعرفة المزيد حول كل فئة وتغيير الإعدادات الافتراضية.",
+    "description": "2.0 public.js"
+  },
+  "cookiesAll": {
+    "message": "دائما قيد التشغيل",
+    "description": "2.0 public.js"
+  },
+  "cookiesMore": {
+    "message": "المزيد من المعلومات",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle2": {
+    "message": "ملفات تعريف الارتباط المطلوبة",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip2": {
+    "message": "ملفات تعريف الارتباط الضرورية ضرورية لوظائف موقع الويب الأساسية. تتضمن بعض الأمثلة: ملفات تعريف ارتباط الجلسة وملفات تعريف ارتباط المصادقة وملفات تعريف ارتباط الأمان المطلوبة لنقل مواقع الويب.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle3": {
+    "message": "ملفات تعريف الارتباط الوظيفية",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip3": {
+    "message": "تعمل ملفات تعريف الارتباط الوظيفية على تحسين الوظائف والأداء والخدمات على موقع الويب. تتضمن بعض الأمثلة: ملفات تعريف الارتباط المستخدمة لتحليل حركة مرور موقع الويب ، وملفات تعريف الارتباط المستخدمة لأبحاث المستخدم ، وملفات تعريف الارتباط المستخدمة لعرض الإعلانات التي لا تستهدف فردا معينا.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle4": {
+    "message": "ملفات تعريف ارتباط الطرف الثالث",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip4": {
+    "message": "بالإضافة إلى ملفات تعريف الارتباط الخاصة بنا ، قد نستخدم العديد من ملفات تعريف ارتباط الطرف الثالث للإبلاغ عن إحصائيات استخدام موقع الويب وتحسين جهود التسويق.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle5": {
+    "message": "تتبع ملفات تعريف الارتباط: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip5": {
+    "message": "تتبع سلوك موقع الويب واربطه بمقاييس أخرى لفهم عادات الاستخدام بشكل أفضل.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle6": {
+    "message": "تحسين ملفات تعريف الارتباط: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip6": {
+    "message": "يسمح بتتبع تحويلات المستخدمين في الوقت الفعلي من قنوات التسويق المختلفة لتقييم فعاليتها.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle7": {
+    "message": "ملفات تعريف الارتباط الخاصة بالشركاء: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip7": {
+    "message": "توفير مقاييس تحويل التسويق لشركائنا حتى يتمكنوا من تحسين جهودهم التسويقية المدفوعة.",
+    "description": "2.0 public.js"
+  },
+  "policies": {
+    "message": "اتفاق",
+    "description": "2.0 public.js"
+  },
+  "usePolicy": {
+    "message": "اتفاقية استخدام المستخدم",
+    "description": "2.0 public.js"
+  },
+  "privacyPolicy": {
+    "message": "اتفاقية الخصوصية",
+    "description": "2.0 public.js"
+  },
+  "cookiesPolicy": {
+    "message": "سياسة ملفات تعريف الارتباط",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting1": {
+    "message": "نحن نستخدم ملفات تعريف الارتباط لتذكر تفاصيل تسجيل الدخول الخاصة بك ، وتوفير تجربة تسجيل دخول آمنة ، وجمع الإحصائيات لتحسين وظائف موقع الويب.",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting2": {
+    "message": "يمكنك العثور على وصف تفصيلي لأنواع ملفات تعريف الارتباط التي نستخدمها في سياسة ملفات تعريف الارتباط الخاصة بنا. انقر فوق \"موافق\" لقبول جميع ملفات تعريف الارتباط أو \"رفض\" للسماح بملفات تعريف الارتباط الضرورية فقط. انقر فوق إعدادات ملفات تعريف الارتباط لتكوين ملفات تعريف الارتباط بالتفصيل.",
+    "description": "2.0 public.js"
+  },
+  "refuse": {
+    "message": "رفض",
+    "description": "2.0 public.js"
+  },
+  "agree": {
+    "message": "موافقة",
+    "description": "2.0 public.js"
+  },
+  "userPolicy": {
+    "message": "اتفاقية المستخدم",
+    "description": "2.0 public.js"
+  },
+  "switchRole": {
+    "message": "تبديل الأدوار",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "حدد دورا",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "حدد الدور الذي تريد استخدامه",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "تأكيد",
+    "description": "2.0 public.js"
+  },
+  "register01": {
+    "message": "دعوة للتسجيل",
+    "description": "2.0 public.js"
+  },
+  "register02": {
+    "message": "هل لديك حساب بالفعل؟",
+    "description": "2.0 public.js"
+  },
+  "register03": {
+    "message": "تسجيل الدخول",
+    "description": "2.0 public.js"
+  },
+  "register04": {
+    "message": "بوضع علامة في هذا المربع ، فإنك توافق",
+    "description": "2.0 public.js"
+  },
+  "register05": {
+    "message": "و",
+    "description": "2.0 public.js"
+  },
+  "register06": {
+    "message": "انتهت صلاحية الدعوة",
+    "description": "2.0 public.js"
+  },
+  "register07": {
+    "message": "انتهت صلاحية دعوة البريد الإلكتروني. إذا لم تكمل التسجيل، فاتصل بالمسؤول لإعادة إرسال الدعوة.",
+    "description": "2.0 public.js"
+  },
+  "register08": {
+    "message": "اكتمل التسجيل",
+    "description": "2.0 public.js"
+  },
+  "register09": {
+    "message": "اكتملت الدعوة ويمكنك تسجيل الدخول باستخدام بريدك الإلكتروني وكلمة المرور.",
+    "description": "2.0 public.js"
+  },
+  "register10": {
+    "message": "لم نتمكن من التحقق من الرمز",
+    "description": "2.0 public.js"
+  },
+  "register11": {
+    "message": "تم استخدام كلمة التحقق بالفعل",
+    "description": "2.0 public.js"
+  },
+  "register12": {
+    "message": "علبة البريد غير موجودة",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "لقد أرسلنا بريدا إلكترونيا لدعوة التسجيل إلى {registeremail}.",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "معلومات الموقع الثانوي غير صحيحة",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "لا يوجد حساب مطابق لعنوان البريد الإلكتروني",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "حساب تسجيل الدخول ليس حساب الموقع أو المؤسسة الفرعية",
+    "description": "2.0 public.js"
+  },
+  "register13": {
+    "message": "تم إرسال رمز التحقق ، يرجى التحقق من بريدك",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "اكتشف النظام أن هذا الحساب قد غش وسلوكيات أخرى غير لائقة في تعلم الدورة ل {textbooks} ، وقام النظام بتجميد هذا الحساب تلقائيا ، يرجى الاتصال بمعلم الفصل أو المنصة للتعامل معها",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "رمز التحقق غير صحيح، يرجى إدخال رمز التحقق الصحيح",
+    "description": "2.0 public.js"
+  },
+  "sso": {
+    "message": "لم يتم فتح الحساب",
+    "description": "2.0 public.js"
+  },
+  "sso1": {
+    "message": "إذا لم يتم تنشيط الخدمة لهذا الحساب، يرجى الاتصال بالمسؤول لتفعيل الخدمة وتسجيل الدخول من خلال الدخول الموحد (SSO).",
+    "description": "2.0 public.js"
+  },
+  "sso2": {
+    "message": "الحساب مسجل بالفعل لدى مؤسسة أخرى",
+    "description": "2.0 public.js"
+  },
+  "sso3": {
+    "message": "الحساب مسجل بالفعل مع منظمة أخرى ، يرجى تسجيل الدخول إلى المؤسسة المسجلة. إذا كنت بحاجة إلى تسجيل الدخول في هذه المؤسسة، فاتصل بالمسؤول لتسجيل الأدوار في هذه المؤسسة.",
+    "description": "2.0 public.js"
+  },
+  "sso4": {
+    "message": "تسجيل الدخول إلى SSO",
+    "description": "2.0 public.js"
+  },
+  "sso5": {
+    "message": "أو",
+    "description": "2.0 public.js"
+  },
+  "firstLogin29": {
+    "message": "سيتم استخدام الاسم الكامل للنصوص والتقارير الرسمية",
+    "description": "2.0 public.js"
+  },
+  "firstLogin30": {
+    "message": "الاسم الذي تعرضه في النظام",
+    "description": "2.0 public.js"
+  },
+  "centralCertificationSystem": {
+    "message": "تسجيل الدخول للمصادقة الموحدة",
+    "description": "2.0 public.js"
+  },
+  "confirmUnbind": {
+    "message": "\"هل أنت متأكد من إلغاء ربط الحساب؟\"؛",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": " تذكير ",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "ربط Welink",
+    "description": "2.0 public.js"
+  },
+  "userNameReadOnlyTips": {
+    "message": "تمنع المدرسة الطلاب من تغيير أسمائهم، لذا يرجى الاتصال بمدير المدرسة أو خدمة العملاء",
+    "description": "2.0 public.js"
+  },
+  "moreOperation": {
+    "message": "الاجراءات",
+    "description": "2.0 public.js"
+  }
+}

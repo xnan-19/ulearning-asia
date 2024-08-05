@@ -1,0 +1,610 @@
+{
+  "allStudentsList": {
+    "message": "lista de todos los alumnos",
+    "description": "2.0 certification.js "
+  },
+  "passStuList": {
+    "message": "lista de alumnos probados",
+    "description": "2.0 certification.js "
+  },
+  "excellenceStuList": {
+    "message": "lista de alumnos excelentes",
+    "description": "2.0 certification.js "
+  },
+  "unqualifiedStuList": {
+    "message": "lista de alumnos pendientes",
+    "description": "2.0 certification.js "
+  },
+  "allClasses": {
+    "message": "todos los clases",
+    "description": "2.0 certification.js "
+  },
+  "pass": {
+    "message": "probado",
+    "description": "2.0 certification.js "
+  },
+  "certificateConfirm": {
+    "message": "¿Seguro que desea emitir el certificado?",
+    "description": "2.0 certificate.js"
+  },
+  "certificateIssuedSuccess": {
+    "message": "expedir certificado con éxito",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificateFailed": {
+    "message": "expedir cerdificdo fallido",
+    "description": "2.0 certification.js "
+  },
+  "batchIssueCertificates": {
+    "message": "expedir cerdificado por mayor reúnen",
+    "description": "2.0 certification.js "
+  },
+  "batchTip": {
+    "message": "¿Seguro que expide usted certificados a todos los alumnos a quienes corresponden los requisistos? No se puede editar de nuevo.",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificate": {
+    "message": "expedir certificado",
+    "description": "2.0 certification.js "
+  },
+  "refreshFailed": {
+    "message": "actualizar fallido",
+    "description": "2.0 certification.js "
+  },
+  "excellent": {
+    "message": "excelente",
+    "description": "2.0 certification.js "
+  },
+  "certificateManagement": {
+    "message": "gestión del certificado",
+    "description": "2.0 certification.js "
+  },
+  "certificateMaTip": {
+    "message": "\"solo líder de curso puede establecer certificado, adquirir los requisitos y expedir cerdificados.\"",
+    "description": "2.0 certification.js "
+  },
+  "certificateSettings": {
+    "message": "establecimiento del certificado",
+    "description": "2.0 certification.js "
+  },
+  "certificateTemplate": {
+    "message": "Mi plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificate": {
+    "message": "Crear una nueva plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "createBgImage": {
+    "message": "Fondo",
+    "description": "2.0 certificate.js"
+  },
+  "studentName": {
+    "message": "Nombre del alumno",
+    "description": "2.0 certificate.js"
+  },
+  "certificateBody": {
+    "message": "El cuerpo del certificado",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNum": {
+    "message": "código del certificado",
+    "description": "2.0 certificate.js"
+  },
+  "createDate": {
+    "message": "la fecha de la pulicación",
+    "description": "2.0 certificate.js"
+  },
+  "createSignature": {
+    "message": "firma electrónica",
+    "description": "2.0 certificate.js"
+  },
+  "issuingUnit": {
+    "message": "La unidad emisora",
+    "description": "2.0 certificate.js"
+  },
+  "operating": {
+    "message": "Instrucciones de uso",
+    "description": "2.0 certificate.js"
+  },
+  "changeBg": {
+    "message": "Reemplazar",
+    "description": "2.0 certificate.js"
+  },
+  "editText": {
+    "message": "Editar",
+    "description": "2.0 certificate.js"
+  },
+  "scanCode": {
+    "message": "Barrer el código",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip1": {
+    "message": "Seleccione los elementos que componen la plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip2": {
+    "message": "Vista previa de la plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip3": {
+    "message": "1. El gráfico de fondo es una necesidad, haga clic en \"Reemplazar\" para personalizar el mapa de fondo de carga, admitir la imagen de formato jppg / jpeg / png, no más de 2M tamaño recomendado 1754px x 1240px (relación A4).",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip4": {
+    "message": "2. Cuerpo del certificado se puede personalizar edición, \"firma electrónica\" puede barrer la carga de la firma de código, seleccione este elemento después del botón de operación Oh.",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip5": {
+    "message": "3. \"Nombre del estudiante\", \"Unidad de licencias\" para tomar la información de datos personales del usuario del estudiante, si se selecciona, el sistema se emparejará automáticamente cuando se emita el certificado, por favor pida al estudiante que use el nombre real en el centro personal.",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip6": {
+    "message": "4. \"Número de certificado\", \"tiempo de emisión\" para el sistema generado automáticamente, no se puede editar, si se selecciona, el sistema se generará automáticamente cuando se emita el certificado.",
+    "description": "2.0 certificate.js"
+  },
+  "noFinish": {
+    "message": "La firma electrónica que seleccionó no está completa, por favor {finishSign} o {cancelSelect}",
+    "description": "{finishSign} 和 {cancelSelect} 是两个按钮，完整句子为：您选择的电子签名未完成，请 完成签名 或 取消选择"
+  },
+  "finishSign": {
+    "message": "Completa la firma",
+    "description": "2.0 certificate.js"
+  },
+  "cancelSelect": {
+    "message": "Deseleccionar",
+    "description": "2.0 certificate.js"
+  },
+  "cropBgImg": {
+    "message": "Capturar la imagen de fondo",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateName": {
+    "message": "Editar el nombre de la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "newTemplateTip": {
+    "message": "Ingrese el nombre de la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateTip": {
+    "message": "Nota: El nombre de la plantilla no se puede duplicar",
+    "description": "2.0 certificate.js"
+  },
+  "outTime": {
+    "message": "El código de barrido agote el tiempo de salida",
+    "description": "2.0 certificate.js"
+  },
+  "eligibleCertificateTem": {
+    "message": "La plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCertificateTem": {
+    "message": "Excelente plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "systemTemplate": {
+    "message": "Plantilla de sistema",
+    "description": "2.0 certificate.js"
+  },
+  "selectTemplate": {
+    "message": "Seleccione la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "refreshGrade": {
+    "message": "actualizar la nota",
+    "description": "2.0 certification.js "
+  },
+  "exportList": {
+    "message": "derivar la lista de alumnos",
+    "description": "2.0 certification.js "
+  },
+  "certSummary": {
+    "message": "El número total de estudiantes en este curso {total}, de acuerdo con las condiciones de adquisición del certificado, el número de calificados {qualified}, el número de no calificados {unqualified}, la tasa de aprobación {rate}%",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "certSummary2": {
+    "message": "El número total de estudiantes en este curso {total}, de acuerdo con las condiciones de adquisición del certificado, el número de personas calificadas {qualified}, el número de personas no calificadas {unqualified}, la tasa de aprobación{rate}%, excelente tasa {excellent}%",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "type": {
+    "message": "tipo",
+    "description": "2.0 certification.js "
+  },
+  "certificateRequest": {
+    "message": "los requisitos de certificados",
+    "description": "2.0 certification.js "
+  },
+  "selectedCertificateTem": {
+    "message": "La plantilla de certificado que se ha seleccionado",
+    "description": "2.0 certificate.js"
+  },
+  "preview": {
+    "message": "Vista previa",
+    "description": "2.0 certificate.js"
+  },
+  "passNum": {
+    "message": "número de los probados",
+    "description": "2.0 certification.js "
+  },
+  "proportion": {
+    "message": "proporción",
+    "description": "2.0 certification.js "
+  },
+  "conformityCertificate": {
+    "message": "certificados probados",
+    "description": "2.0 certification.js "
+  },
+  "sample": {
+    "message": "modelo",
+    "description": "2.0 certification.js "
+  },
+  "sureSelect": {
+    "message": "Confirmar la selección",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate": {
+    "message": "Crear una nueva plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate2": {
+    "message": "Crear una nueva plantilla de certificado",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplate": {
+    "message": "Editar la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "signErrorTip": {
+    "message": "Por favor, seleccione la firma electrónica primero",
+    "description": "2.0 certificate.js"
+  },
+  "electronicSignature": {
+    "message": "firma electrónica",
+    "description": "2.0 certificate.js"
+  },
+  "courseName": {
+    "message": "Nombre del curso",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip1": {
+    "message": "El nombre de la plantilla no puede estar vacío",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip2": {
+    "message": "El nombre de la plantilla no se puede repetir",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip3": {
+    "message": "La plantilla se creó correctamente",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip4": {
+    "message": "La plantilla se modificó correctamente",
+    "description": "2.0 certificate.js"
+  },
+  "editContent": {
+    "message": "Editar el cuerpo del certificado",
+    "description": "2.0 certificate.js"
+  },
+  "editContentTip1": {
+    "message": "Nota: El nombre del curso en el número de título es el valor automático del sistema, puede editar el contenido central del número de título, si elimina el nombre del curso junto con el número de título, la plantilla no puede valorar automáticamente los datos del sistema, debe editarlos usted mismo.",
+    "description": "2.0 certificate.js"
+  },
+  "scanCodeTitle": {
+    "message": "Por favor, escanee el código QR en busca de firma",
+    "description": "2.0 certificate.js"
+  },
+  "signTip": {
+    "message": "Por favor, firme dentro de {time}, la ventana se cerrará automáticamente",
+    "description": "2.0 certificate.js"
+  },
+  "defaultText": {
+    "message": "predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "setDefault": {
+    "message": "Establecer en default",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefault": {
+    "message": "Cancelar el valor predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "copyTemplate": {
+    "message": "Copiar la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "delTemplate": {
+    "message": "Eliminar la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "confirmDelete": {
+    "message": "No se puede recuperar después de la eliminación, por favor asegúrese de eliminarlo?",
+    "description": "2.0 certificate.js"
+  },
+  "deleteSuccessMsg": {
+    "message": "La eliminación fue exitosa",
+    "description": "2.0 certificate.js"
+  },
+  "deleteFailMsg": {
+    "message": "Error en la eliminación",
+    "description": "2.0 certificate.js"
+  },
+  "defaultSucMsg": {
+    "message": "Establecer el éxito predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "defaultFailMsg": {
+    "message": "Error al establecer el valor predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultSuc": {
+    "message": "Cancelación del éxito predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultFail": {
+    "message": "Error al cancelar el valor predeterminado",
+    "description": "2.0 certificate.js"
+  },
+  "copySuccessMsg": {
+    "message": "La copia fue exitosa",
+    "description": "2.0 certificate.js"
+  },
+  "copyFailMsg": {
+    "message": "Error en la replicación",
+    "description": "2.0 certificate.js"
+  },
+  "fileTypeError": {
+    "message": "La imagen de fondo solo está disponible en formato jppg/jpeg/png",
+    "description": "2.0 certificate.js"
+  },
+  "nameErrorTip": {
+    "message": "El nombre de la plantilla no puede superar las 70 palabras",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip": {
+    "message": "El contenido de la plantilla no puede superar las 70 palabras",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip2": {
+    "message": "Introduzca el contenido del cuerpo del certificado",
+    "description": "2.0 certificate.js"
+  },
+  "courseAssessmentScore": {
+    "message": "la nota de la evaluación del curso",
+    "description": "2.0 certification.js "
+  },
+  "assessRule1": {
+    "message": "Puntuación de la evaluación del curso ≥ {min} puntos, <{max} puntos",
+    "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
+  },
+  "assessRule2": {
+    "message": "Puntuación de la evaluación del curso ≥ {n} puntos",
+    "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
+  },
+  "assessRule3": {
+    "message": "Puntuación de la evaluación del curso <{n} puntos",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "excellenceCertificate": {
+    "message": "certificado excelente",
+    "description": "2.0 certification.js "
+  },
+  "unqualified": {
+    "message": "no probado",
+    "description": "2.0 certification.js "
+  },
+  "studentList": {
+    "message": "lista de alumnos",
+    "description": "2.0 certification.js "
+  },
+  "lastCertificateIssued": {
+    "message": "el último tiempo para expedir certificados",
+    "description": "2.0 certification.js "
+  },
+  "username": {
+    "message": "usuario",
+    "description": "2.0 certification.js "
+  },
+  "actualName": {
+    "message": "nombre real",
+    "description": "2.0 certification.js "
+  },
+  "explanation": {
+    "message": "explicación",
+    "description": "2.0 certification.js "
+  },
+  "explanationContent": {
+    "message": "La nota de la evaluación es para los certificados de los alumnos. Si cambia la nota después de expedir certificados a los alumnos. El certificado no va a actualizar por la nueva nota.",
+    "description": "2.0 certification.js "
+  },
+  "certificateType": {
+    "message": "tipo de certificados",
+    "description": "2.0 certification.js "
+  },
+  "certificateIssued": {
+    "message": "certificados publicados",
+    "description": "2.0 certification.js "
+  },
+  "NoResults": {
+    "message": "no resultados",
+    "description": "2.0 certification.js "
+  },
+  "noCourseAssessment": {
+    "message": "no se puede adquirir lista de certificados porque el curso todavía no hay estrategia de la evaluación",
+    "description": "2.0 certification.js "
+  },
+  "clickToSet": {
+    "message": "clink aquí para configurar>>",
+    "description": "2.0 certification.js "
+  },
+  "noCertificate": {
+    "message": "el curso no se pone las condicionales para adquirir cerdificados",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip1": {
+    "message": "\"certificados ya publicdos, no se soporta modificar la configuración de certificados\"",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip2": {
+    "message": "nota：Solo la persona a cargo del curso puede establecer el certificado. Las clases sin una estrategia de calificación no pueden contar el estado de la adquisición del certificado。Solo el directo puede ajustar certidicados. El grupo que no se ajusta la estrategia no puede hacer estadísticas de la situacion de certificados adquridos",
+    "description": "2.0 certification.js "
+  },
+  "gradeRule1": {
+    "message": "Puntuación del resumen del curso ≥ {input} puntos para obtener un certificado",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "gradeRule2": {
+    "message": "Puntuación de resumen del curso ≥ {inputLow} puntos, pero <{inputHigh} puntos, puede obtener un certificado",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "gradeRule3": {
+    "message": "Puntuación del resumen del curso ≥ {input} puntos para obtener un certificado de excelencia",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "setPass": {
+    "message": "solo ajustes para certificados probados",
+    "description": "2.0 certification.js "
+  },
+  "setPassAndExcellence": {
+    "message": "ajustes para certificados probados y excelentes",
+    "description": "2.0 certification.js "
+  },
+  "enterScore": {
+    "message": "por favor introduzca la nota",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip": {
+    "message": "\"por favor introduzca la nota correta,y solo guarde un decimal\"",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip1": {
+    "message": "nota no se puede exceder 100",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip2": {
+    "message": "las notas probados no pudecen exceder las notas excelentes",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip3": {
+    "message": "solo el directo puede ajustar el curso",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip4": {
+    "message": "\"ya hay certificado, no se puede cambiar la nota\"",
+    "description": "2.0 certification.js "
+  },
+  "save": {
+    "message": "guardado",
+    "description": "2.0 certification.js "
+  },
+  "cancel": {
+    "message": "suprimir",
+    "description": "2.0 certification.js "
+  },
+  "close": {
+    "message": "apagar",
+    "description": "2.0 certification.js "
+  },
+  "certificate": {
+    "message": "certificado",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip5": {
+    "message": "guardado",
+    "description": "2.0 certification.js "
+  },
+  "studentID": {
+    "message": "identificación de estudiante",
+    "description": "2.0 certification.js "
+  },
+  "school": {
+    "message": "la escuela",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedCert2": {
+    "message": "Felicitaciones por haber completado con éxito el estudio y la evaluación del curso {coursename}, y sus calificaciones son satisfactorias.",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCert2": {
+    "message": "Felicitaciones por haber completado con éxito el estudio y la evaluación del curso {coursename} con excelentes calificaciones.",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNo": {
+    "message": "código del certificado",
+    "description": "2.0 certification.js "
+  },
+  "certificateSignature": {
+    "message": "firma electrónica",
+    "description": "2.0 certificate.js"
+  },
+  "CertificateIssuing": {
+    "message": "La unidad emisora",
+    "description": "2.0 certificate.js"
+  },
+  "issueDate": {
+    "message": "la fecha de la pulicación",
+    "description": "2.0 certification.js "
+  },
+  "certificateReq": {
+    "message": "los requisitos para conseguir el certificado",
+    "description": "2.0 certification.js "
+  },
+  "viewExample": {
+    "message": "ver modelos",
+    "description": "2.0 certification.js "
+  },
+  "myCertificate": {
+    "message": "mi certificado",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedNotice": {
+    "message": "Su puntuación de evaluación del curso ha cumplido con los criterios de elegibilidad, felicitaciones por obtener el siguiente certificado.",
+    "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
+  },
+  "excellentNotice": {
+    "message": "Su puntuación de evaluación del curso ha cumplido con los criterios para obtener un certificado de excelencia, y felicitaciones por la obtención de su certificado.",
+    "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
+  },
+  "certificateStuTip": {
+    "message": "\"nota：El certificado no va a actualizr por el cambio de la nota,que estudian otra vez\"",
+    "description": "2.0 certification.js "
+  },
+  "downloadCertificate": {
+    "message": "descargar el certificado",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip": {
+    "message": "certificado pendiente",
+    "description": "2.0 certification.js "
+  },
+  "certTip": {
+    "message": "Para garantizar la exactitud de la información del certificado, asegúrese de {informLink}",
+    "description": "学生账户 -> 考核 -> 课程证书 (还未发放证书时，才会显示)"
+  },
+  "informLink": {
+    "message": "Mejore su información personal básica",
+    "description": "2.0 certificate.js"
+  },
+  "notSetCerTip": {
+    "message": "el profesor no pone las condicionales para adquirir certificado",
+    "description": "2.0 certification.js "
+  },
+  "newTemplate": {
+    "message": "Introduzca el nombre de la plantilla",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip3": {
+    "message": "El contenido de la plantilla no puede superar las 100 palabras",
+    "description": "2.0 certificate.js"
+  },
+  "saveTemplateCheck": {
+    "message": "Por favor, compruebe al menos un artículo",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip4": {
+    "message": "El contenido de la plantilla no puede exceder las 160 palabras",
+    "description": "2.0 certificate.js"
+  }
+}

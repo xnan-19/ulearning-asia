@@ -1,0 +1,510 @@
+{
+  "courseAssess": {
+    "message": "Règles de notation des cours",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt1": {
+    "message": "Le résumé des notes est en cours - Ne fermez pas la fenêtre avant qu’elle ne soit terminée!",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt2": {
+    "message": "La suppression des règles de notation des cours supprimera également les notes résumées en fonction des règles de notation des cours. Veuillez procéder avec prudence. Si vous souhaitez vraiment supprimer, entrez le code de vérification ci-dessous.\n",
+    "description": "1.0 assessment.json"
+  },
+  "codeErrorTxt": {
+    "message": "Code de vérification incorrect!\n",
+    "description": "1.0 assessment.json"
+  },
+  "deleteSucTxt": {
+    "message": "Supprimé avec succès !",
+    "description": "1.0 assessment.json"
+  },
+  "failDeleteTxt": {
+    "message": "Impossible de supprimer !",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt3": {
+    "message": "Une erreur s’est produite en résumant la note!",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt4": {
+    "message": "Erreur du serveur - Le résumé de la note a échoué!",
+    "description": "1.0 assessment.json"
+  },
+  "serviceErrorTxt": {
+    "message": "Erreur de serveur - Veuillez réessayer plus tard !",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips": {
+    "message": "Les noms d’utilisateur ne peuvent contenir que des lettres, des chiffres, des traits de soulignement et des caractères chinois.",
+    "description": "1.0 assessment.json"
+  },
+  "notFoundTxt": {
+    "message": "Aucun cours trouvé - Veuillez entrer à nouveau ou sélectionner !",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips1": {
+    "message": "Entrez le nom des règles de notation",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips2": {
+    "message": "Le nom des règles de notationdoit être inférieur à 200 caractères!\n",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips3": {
+    "message": "Ne peux pas contenir des caractères spéciaux !",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips4": {
+    "message": "Le nom des règles de notation existe déjà !",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips5": {
+    "message": "Doit sélectionner un cours!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips6": {
+    "message": "Doit entrer le total des points!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips7": {
+    "message": "Entrez un entier positif de 5-1000!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips8": {
+    "message": "Une date d’échéance doit être fixée!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips9": {
+    "message": "Doit sélectionner une ou plusieurs classes!",
+    "description": "1.0 assessment.json"
+  },
+  "tipsTxt1": {
+    "message": "Il a déjà dépassé la date d’échéance. L’édition n’est plus autorisée.",
+    "description": "1.0 assessment.json"
+  },
+  "tipsTxt2": {
+    "message": "Remarque : Si vous souhaitez toujours modifier, redéfinissez la date d’échéance de la notation.",
+    "description": "1.0 assessment.json"
+  },
+  "alerttips": {
+    "message": "Il a dépassé la date  d’échéance et les notes sont déjà résumées. Vous ne pouvez pas résumer à nouveau les notes du cours.",
+    "description": "1.0 assessment.json"
+  },
+  "examTipTxt": {
+    "message": "Il ne prend actuellement pas en charge les cours de type examen!",
+    "description": "1.0 assessment.json"
+  },
+  "resourceTxt": {
+    "message": "Il ne prend actuellement pas en charge les cours de type ressource!",
+    "description": "1.0 assessment.json"
+  },
+  "selectCourseTxt": {
+    "message": "Sélectionnez d’abord le cours!",
+    "description": "1.0 assessment.json"
+  },
+  "selectRelevantCourseTxt": {
+    "message": "Tout d’abord, sélectionnez le cours à laquelle vous souhaitez vous associer!",
+    "description": "1.0 assessment.json"
+  },
+  "selectByYearTxt": {
+    "message": "Sélectionner par année",
+    "description": "1.0 assessment.json"
+  },
+  "selectByTeacherTxt": {
+    "message": "Sélectionner par enseignant",
+    "description": "1.0 assessment.json"
+  },
+  "searchTxt": {
+    "message": "Rechercher",
+    "description": "1.0 assessment.json"
+  },
+  "inputClassNameTxt": {
+    "message": "Entrez le nom de classe",
+    "description": "1.0 assessment.json"
+  },
+  "selectClassTxt": {
+    "message": "Choisir une classe",
+    "description": "1.0 assessment.json"
+  },
+  "selectClassFirseTxt": {
+    "message": "Sélectionnez d’abord la classe!",
+    "description": "1.0 assessment.json"
+  },
+  "noDataTxt": {
+    "message": "Aucune donnée trouvée - Veuillez réessayer!",
+    "description": "1.0 assessment.json"
+  },
+  "selectAllTxt": {
+    "message": "Sélectionner tout",
+    "description": "1.0 assessment.json"
+  },
+  "haveRule": {
+    "message": "Il a déjà des règles de notation.",
+    "description": "1.0 assessment.json"
+  },
+  "noDataTxt1": {
+    "message": "Aucune donnée trouvée!",
+    "description": "1.0 assessment.json"
+  },
+  "loadDataTxt": {
+    "message": "Impossible de charger les données - veuillez vérifier le réseau!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt": {
+    "message": "Entrez un entier de 1 à 100 seulement !",
+    "description": "1.0 assessment.json"
+  },
+  "selectNodeTxt": {
+    "message": "Ce cours n’a pas encore de contenu structuré que vous pouvez sélectionner",
+    "description": "1.0 assessment.json"
+  },
+  "countRuleTxt": {
+    "message": "Règle de notation",
+    "description": "1.0 assessment.json"
+  },
+  "selectAllChpaterTxt": {
+    "message": "Sélectionner tous les modules",
+    "description": "1.0 assessment.json"
+  },
+  "averageScoreTxt": {
+    "message": "Noté par le score moyen des modules sélectionnés",
+    "description": "1.0 assessment.json"
+  },
+  "selectCourseAndRulesTxt": {
+    "message": "Sélectionner les modules de cours et la règle de notation",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt1": {
+    "message": "Entrez un temps d’apprentissage pour un score de total possible",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt2": {
+    "message": "Entrez un temps d’apprentissage limite pour un score de 0",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt3": {
+    "message": "Sélectionner une règle de notation",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt4": {
+    "message": "Sélectionnez le module/sujet de notation",
+    "description": "1.0 assessment.json"
+  },
+  "noAssiTxt": {
+    "message": "Pas encore d’affectations",
+    "description": "1.0 assessment.json"
+  },
+  "averageScoreAssiTxt": {
+    "message": "Noté par le score moyen des devoirs sélectionnés",
+    "description": "1.0 assessment.json"
+  },
+  "selectAssiTxt": {
+    "message": "Sélectionner le devoir",
+    "description": "1.0 assessment.json"
+  },
+  "noAssiTxt1": {
+    "message": "Pas encore d’affectations",
+    "description": "1.0 assessment.json"
+  },
+  "noExamTxt": {
+    "message": "Pas encore d’examens",
+    "description": "1.0 assessment.json"
+  },
+  "examTipsTxt": {
+    "message": "Si plusieurs tentatives ont permis un examen, le score le plus élevé est compté",
+    "description": "1.0 assessment.json"
+  },
+  "moreExamTxt": {
+    "message": "Règle de notation pour plusieurs examens",
+    "description": "1.0 assessment.json"
+  },
+  "highTxt": {
+    "message": "Score le plus élevé",
+    "description": "1.0 assessment.json"
+  },
+  "averageTxt": {
+    "message": "Note moyenne",
+    "description": "1.0 assessment.json"
+  },
+  "selectExamTxt": {
+    "message": "Sélectionnez l’examen",
+    "description": "1.0 assessment.json"
+  },
+  "confirmDeleteTxt": {
+    "message": "Voulez-vous vraiment supprimer cet élément de note ?",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt1": {
+    "message": "Le poids total des éléments de classement sélectionnés est déjà de 100%. Si vous souhaitez ajouter d’autres éléments de classement, modifiez d’abord les poids pour que le total soit inférieur à 100%.",
+    "description": "1.0 assessment.json"
+  },
+  "tableTipsTxt": {
+    "message": "Il manque encore des entrées dans le formulaire",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt2": {
+    "message": "La somme des points doit être de 100%. Modifiez les points, puis cliquez sur le bouton Terminer pour créer.",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt3": {
+    "message": "La somme des points est supérieure à 100%. Modifiez les points, puis enregistrez-les.",
+    "description": "1.0 assessment.json"
+  },
+  "createSucTxt": {
+    "message": "Créé avec succès!",
+    "description": "1.0 assessment.json"
+  },
+  "createFailTxt": {
+    "message": "Impossible de créer !",
+    "description": "1.0 assessment.json"
+  },
+  "confirmCancelTxt": {
+    "message": "Les mises à jour que vous avez effectuées sur cette page ne seront pas enregistrées après l’annulation. Êtes-vous sûr de vouloir annuler?",
+    "description": "1.0 assessment.json"
+  },
+  "confirmCancel": {
+    "message": "Confirmer pour annuler",
+    "description": "1.0 assessment.json"
+  },
+  "clickErrorTxt": {
+    "message": "Vous avez mal cliqué!",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired1": {
+    "message": "La progression cumulée de l’apprentissage du module sélectionné atteint {inputMax}% pour le total possible; moins de {inputMin}% pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired2": {
+    "message": "Pour les  modules sélectionnés, les progrès d’apprentissage cumulés par module atteignent {inputMax}% pour le total possible; inférieur à {inputMin}% pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired3": {
+    "message": "Le temps d’apprentissage cumulé des modules sélectionnés atteint {inputMax} minutes pour le total possible; moins de {inputMin} minutes pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired4": {
+    "message": "Pour les modules sélectionnés,le temps d’apprentissage cumulé par module atteint {inputMax} minutes pour le total possible; inférieur à {inputMin} minutes pour 0 point\n",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired5": {
+    "message": "Pour les sujets sélectionnés,le temps d’apprentissage cumulé par sujet atteint {inputMax} minutes pour le total possible; moins de {inputMin} minutes pour 0 point.",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation1": {
+    "message": "Le contenu de ce didacticiel diffère entre la version PC et la version ULearning  App. Si les étudiants ont accédé au contenu sur PC et sur l’application ULearning,  le temps d’apprentissage sera calculé en fonction de la somme totale des deux.",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation2": {
+    "message": "Le score du didacticiel est calculé séparément pour PC et ULearning  App. La note la plus élevée de chaque module/sujet est transmise à la note finale du cours. De plus, le score pour le contenu PC uniquement (lecontenu n’est pas disponible pour  uLearning  App) est compté dans la note finale.",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation3": {
+    "message": "(La couleur rouge indique que cette section n’apparaît que dans la version PC)",
+    "description": "1.0 assessment.json"
+  },
+  "associatePaper": {
+    "message": "Les examens associés",
+    "description": "1.0 assessment.json"
+  },
+  "selectRule": {
+    "message": "Sélectionner les modules de cours et la règle de notation",
+    "description": "1.0 assessment.json"
+  },
+  "setCourseTime": {
+    "message": "Définir le temps d’apprentissage du cours",
+    "description": "1.0 assessment.json"
+  },
+  "setCourseGrade": {
+    "message": "Cours de niveau",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps1": {
+    "message": "Suivez les étapes ci-dessous :",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps2": {
+    "message": "Téléchargez le modèle et organisez les données dans les formats spécifiés dans le  modèle.",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps3": {
+    "message": "Télécharger le modèle",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps4": {
+    "message": "Télécharger le fichier terminé",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps5": {
+    "message": "Remarque : Si vous souhaitez mettre à jour les notes des étudiants, vous pouvez mettre à jour le fichier, puis le télécharger à nouveau.",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps6": {
+    "message": "Après le retentement, les notes des élèves seront remplacées par de nouvelles notes.",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps7": {
+    "message": "Télécharger le fichier",
+    "description": "1.0 assessment.json"
+  },
+  "classTxt": {
+    "message": "Classe:",
+    "description": "1.0 assessment.json"
+  },
+  "toSelectTxt": {
+    "message": "Choisir",
+    "description": "1.0 assessment.json"
+  },
+  "typeTxt": {
+    "message": "Type",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTxt": {
+    "message": "Élément de notation\n",
+    "description": "1.0 assessment.json"
+  },
+  "scoreRuleTxt": {
+    "message": "Règles de notation",
+    "description": "1.0 assessment.json"
+  },
+  "weightTxt": {
+    "message": "Points (%)",
+    "description": "1.0 assessment.json"
+  },
+  "fullMarkTxt": {
+    "message": "Total Possible",
+    "description": "1.0 assessment.json"
+  },
+  "actionTxt": {
+    "message": "Actions",
+    "description": "1.0 assessment.json"
+  },
+  "finishtxt": {
+    "message": "Complet",
+    "description": "1.0 assessment.json"
+  },
+  "cancelTxt": {
+    "message": "Annuler",
+    "description": "1.0 assessment.json"
+  },
+  "classesTxt": {
+    "message": "{className}, ..., {count} classes",
+    "description": "1.0 assessment.json"
+  },
+  "selectTxt": {
+    "message": "Choisir",
+    "description": "1.0 assessment.json"
+  },
+  "courseTxt": {
+    "message": "Cours",
+    "description": "1.0 assessment.json"
+  },
+  "assignmentTxt": {
+    "message": "Affectations",
+    "description": "1.0 assessment.json"
+  },
+  "examTxt": {
+    "message": "Examens",
+    "description": "1.0 assessment.json"
+  },
+  "othersTxt": {
+    "message": "Autres",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt1": {
+    "message": "La progression cumulée de l’apprentissage des modules sélectionnés atteint {max}% pour le total possible; inférieur à {min}% pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt2": {
+    "message": "Pour les modules sélectés, la progression cumulée de l’apprentissage par module atteint {max}% pour le total possible; moins de {min}% pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt3": {
+    "message": "Le temps d’apprentissage cumulé des modules sélectionnés atteint {max} minutes pour le total possible; moins de {min} minutes pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt4": {
+    "message": "Pour les modules sélectionnés, le temps d’apprentissage cumulé par module atteint {max} minutes pour le total possible; moins de {min} minutes pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt5": {
+    "message": "Pour les sujets sélectionnés, le temps d’apprentissage cumulé par sujet atteint {max} minutes pour le total possible; moins de {min} minutes pour 0 point",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt6": {
+    "message": "Noté par le score moyen des modules/sujets sélectionnés",
+    "description": "1.0 assessment.json"
+  },
+  "editTxt": {
+    "message": "Éditer",
+    "description": "1.0 assessment.json"
+  },
+  "selectScoreTxt": {
+    "message": "Sélectionner une règle de notation",
+    "description": "1.0 assessment.json"
+  },
+  "studyTimeTxt": {
+    "message": "Temps d’apprentissage",
+    "description": "1.0 assessment.json"
+  },
+  "studyProgressTxt": {
+    "message": "Progrès d'apprentissage",
+    "description": "1.0 assessment.json"
+  },
+  "courseResultTxt": {
+    "message": "Résultat d’apprentissage",
+    "description": "1.0 assessment.json"
+  },
+  "assignmentResultTxt": {
+    "message": "Scores d’affectation",
+    "description": "1.0 assessment.json"
+  },
+  "examResultTxt": {
+    "message": "Scores d’examen",
+    "description": "1.0 assessment.json"
+  },
+  "selectedHomeworkTxt": {
+    "message": "(Affectations {count} sélectionnées)",
+    "description": "注意：花括号( 即 {} ) 里面的值是插值，不要改，大小写也不能变化"
+  },
+  "selectedExamTxt": {
+    "message": "(Sélectionné {count} examens)",
+    "description": "注意：花括号( 即 {} ) 里面的值是插值，不要改，大小写也不能变化"
+  },
+  "notSelectAssiTxt": {
+    "message": "Aucune affectation sélectionnée",
+    "description": "1.0 assessment.json"
+  },
+  "notSelectExamTxt": {
+    "message": "Aucun examen sélectionné",
+    "description": "1.0 assessment.json"
+  },
+  "notInputScoreTxt": {
+    "message": "N’a pas entré les scores",
+    "description": "1.0 assessment.json"
+  },
+  "haveInputScore": {
+    "message": "Les scores ont déjà été entré",
+    "description": "1.0 assessment.json"
+  },
+  "deleteTxt": {
+    "message": "Supprimer",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxt": {
+    "message": "Entrée manuellement",
+    "description": "1.0 assessment.json"
+  },
+  "inputScoreTxt": {
+    "message": "Entrez le score",
+    "description": "1.0 assessment.json"
+  },
+  "selectTipTxt": {
+    "message": "Nom de l’élément de notation, par exemple, temps d’apprentissage",
+    "description": "1.0 assessment.json"
+  },
+  "teacherTxt": {
+    "message": "Les devoirs - Enseignant: {teacherName}",
+    "description": "1.0 assessment.json"
+  }
+}

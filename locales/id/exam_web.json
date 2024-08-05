@@ -1,0 +1,3838 @@
+{
+  "home": {
+    "message": "Beranda",
+    "description": "考试快捷地址"
+  },
+  "note": {
+    "message": "Tips",
+    "description": "考试快捷地址"
+  },
+  "getIt": {
+    "message": "Saya sudah tahu",
+    "description": "考试快捷地址"
+  },
+  "confirm": {
+    "message": "OK",
+    "description": "考试快捷地址"
+  },
+  "cancel": {
+    "message": "Batalkan",
+    "description": "考试快捷地址"
+  },
+  "userNameLogin": {
+    "message": "Login akun dan kata sandi",
+    "description": "考试快捷地址"
+  },
+  "login": {
+    "message": "Masuk",
+    "description": "考试快捷地址"
+  },
+  "forgetPassword": {
+    "message": "Lupa kata sandi",
+    "description": "考试快捷地址"
+  },
+  "userName": {
+    "message": "Nama pengguna/No. ponsel/Email",
+    "description": "考试快捷地址"
+  },
+  "password": {
+    "message": "Kata sandi",
+    "description": "考试快捷地址"
+  },
+  "inputUserName": {
+    "message": "Silahkan masukkan nama pengguna/no. ponsel/Email",
+    "description": "考试快捷地址"
+  },
+  "inputPas": {
+    "message": "Silahkan masukkan kata sandi",
+    "description": "考试快捷地址"
+  },
+  "freezeTip": {
+    "message": "Sistem menemukan bahwa akun ini terdapat tindakan yang tidak benar pada saat mata kuliah {names} berlangsung, sistem telah membekukan akun ini, silahkan hubungi dosen kelas atau platform untuk penanganan lebih lanjut",
+    "description": "考试快捷地址"
+  },
+  "overErrorTimes": {
+    "message": "Anda telah salah input 5 kali berturut-turut, coba kembali setelah 3 menit",
+    "description": "考试快捷地址"
+  },
+  "passwordErr": {
+    "message": "Nama pengguna/kata sandi salah",
+    "description": "考试快捷地址"
+  },
+  "loginFail": {
+    "message": "Login gagal",
+    "description": "考试快捷地址"
+  },
+  "personalInfo": {
+    "message": "Pusat Pribadi",
+    "description": "考试快捷地址"
+  },
+  "quit": {
+    "message": "Keluar",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess": {
+    "message": "Verifikasi telah lolos, 3 detik kemudian akan masuk ke ujian",
+    "description": "考试快捷地址"
+  },
+  "faceFail": {
+    "message": "Verifikasi wajah tidak diterima.",
+    "description": "考试快捷地址"
+  },
+  "retry": {
+    "message": "Coba lagi",
+    "description": "考试快捷地址"
+  },
+  "leaveSeat": {
+    "message": "Meninggalkan kursi",
+    "description": "考试快捷地址"
+  },
+  "exam": {
+    "message": "Ujian",
+    "description": "考试快捷地址"
+  },
+  "joinType": {
+    "message": "Cara partisipasi",
+    "description": "考试快捷地址"
+  },
+  "limitTime": {
+    "message": "Masa berlaku ujian",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "Ambil Periksa melalui aplikasi ULearning",
+    "description": "考试快捷地址"
+  },
+  "downloadApp": {
+    "message": "Turunkan aplikasi ULearning",
+    "description": "考试快捷地址"
+  },
+  "pc": {
+    "message": "Web",
+    "description": "考试快捷地址"
+  },
+  "app": {
+    "message": "ULearning APP",
+    "description": "考试快捷地址"
+  },
+  "exe": {
+    "message": "Pelayar Kunci ULearning",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip": {
+    "message": "Jika kamera ditempati atau izinnya dilarang, harap izinkan izin kamera atau tutup aplikasi kamera lainnya",
+    "description": "考试快捷地址"
+  },
+  "fileSizeLimitType": {
+    "message": "Ukuran lampiran tidak boleh melebihi {maxSize}",
+    "description": "考试快捷地址"
+  },
+  "notSupportTip": {
+    "message": "Ujian ini tidak mendukung jawaban berbasis web, silakan ikuti metode partisipasi yang ditentukan untuk mengikuti ujian",
+    "description": "考试快捷地址"
+  },
+  "noFaceTip": {
+    "message": "Ujian ini membuka pengenalan wajah, dan Anda hanya dapat mengikuti ujian setelah menyelesaikan sertifikasi wajah.",
+    "description": "考试快捷地址"
+  },
+  "identification": {
+    "message": "Verifikasi",
+    "description": "考试快捷地址"
+  },
+  "timeLimit": {
+    "message": "Batas waktu ujian",
+    "description": "考试快捷地址"
+  },
+  "minute": {
+    "message": "{n} menit",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "Jumlah menjawab yang diijinkan",
+    "description": "考试快捷地址"
+  },
+  "notLimit": {
+    "message": "Tidak terbatas",
+    "description": "考试快捷地址"
+  },
+  "myScore": {
+    "message": "Nilai saya",
+    "description": "考试快捷地址"
+  },
+  "score": {
+    "message": "{n} titik",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "Usaha Digunakan",
+    "description": "考试快捷地址"
+  },
+  "examTime": {
+    "message": "Durasi Ujian",
+    "description": "考试快捷地址"
+  },
+  "lateLimit": {
+    "message": "Batas terlambat",
+    "description": "考试快捷地址"
+  },
+  "lateLimitTip": {
+    "message": "Tidak diizinkan untuk mengambil ujian setelah {min} menit dari awal ujian",
+    "description": "考试快捷地址"
+  },
+  "submitLimit": {
+    "message": "Batas kumpul",
+    "description": "考试快捷地址"
+  },
+  "submitLimitType": {
+    "message": "Makalah tidak diperbolehkan dalam waktu {min} menit dari awal ujian",
+    "description": "考试快捷地址"
+  },
+  "examMonitor": {
+    "message": "Pengawasan ujian",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitorTip": {
+    "message": "{deviceMonitor} diaktifkan, jangan mengganti perangkat di tengah",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitor": {
+    "message": "Pengawasan perangkat",
+    "description": "考试快捷地址"
+  },
+  "ipMonitorTip": {
+    "message": "{ipMonitor} diaktifkan, jangan beralih jaringan di tengah",
+    "description": "考试快捷地址"
+  },
+  "ipMonitor": {
+    "message": "Pemantauan IP",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip1": {
+    "message": "{cutScreenMonitor} telah diaktifkan, dan sistem akan memaksa rollover jika keberangkatan tunggal melebihi {s} detik atau keberangkatan kumulatif melebihi {times}",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip2": {
+    "message": "{cutScreenMonitor} diaktifkan - Ujian akan dikirim secara tidak sengaja jika siswa berganti dari layar ujian ke layar/aplikasi lain lebih dari {kali} kali!",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip3": {
+    "message": "{cutScreenMonitor} diaktifkan - Ujian akan dikirim secara tidak sengaja jika siswa berganti dari layar ujian ke layar/aplikasi lain selama lebih dari {s} detik dalam satu tombol!",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitor": {
+    "message": "Pemantauan layar",
+    "description": "考试快捷地址"
+  },
+  "faceMonitorTip": {
+    "message": "{faceMonitor} diaktifkan dan Anda harus mengikuti ujian melalui verifikasi wajah",
+    "description": "考试快捷地址"
+  },
+  "faceMonitor": {
+    "message": "Identifikasi wajah",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorTip": {
+    "message": "{cameraMonitor} dinyalakan, silakan nyalakan dan hadapi kamera",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitor": {
+    "message": "Pemantauan kamera",
+    "description": "考试快捷地址"
+  },
+  "debugCamera": {
+    "message": "Debug kamera",
+    "description": "考试快捷地址"
+  },
+  "stratExam": {
+    "message": "Ujian dimulai",
+    "description": "考试快捷地址"
+  },
+  "noPermissionTip": {
+    "message": "Anda tidak berwenang untuk mengikuti ujian ini, jika Anda memiliki pertanyaan, silakan hubungi penyelenggara ujian.",
+    "description": "考试快捷地址"
+  },
+  "multipleSessions": {
+    "message": "Ujian ini berisi beberapa sesi tersegmentasi, kandidat dapat berpartisipasi dalam jumlah sesi dan waktu tertentu, silakan masuk untuk memeriksa",
+    "description": "考试快捷地址"
+  },
+  "loginToExam": {
+    "message": "Masuk untuk mengikuti ujian",
+    "description": "考试快捷地址"
+  },
+  "downloadAppBtn": {
+    "message": "Unduh aplikasi",
+    "description": "考试快捷地址"
+  },
+  "downloadExe": {
+    "message": "Unduh klien ujian",
+    "description": "考试快捷地址"
+  },
+  "windows": {
+    "message": "Versi Windows",
+    "description": "考试快捷地址"
+  },
+  "windowsTip": {
+    "message": "Mendukung Windows 7 dan versi sistem di atas",
+    "description": "考试快捷地址"
+  },
+  "download": {
+    "message": "Unduh",
+    "description": "考试快捷地址"
+  },
+  "mac": {
+    "message": "Versi Mac",
+    "description": "考试快捷地址"
+  },
+  "macTip": {
+    "message": "Mendukung macOS10.11 dan versi sistem di atas",
+    "description": "考试快捷地址"
+  },
+  "examEnvironmentTesting": {
+    "message": "Tes lingkungan ujian",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormality": {
+    "message": "Perangkat bermasalah",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormality": {
+    "message": "IP bermasalah",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormalityTip": {
+    "message": "Pemantauan perangkat telah diaktifkan untuk ujian ini, dan tidak ada penggantian perangkat atau browser yang diizinkan di tengah, jadi silakan gunakan perangkat yang memasuki ujian untuk pertama kalinya.",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormalityTip": {
+    "message": "Pemantauan IP diaktifkan untuk ujian ini, dan perubahan alamat IP tidak diperbolehkan di tengah proses (beralih jaringan dapat menyebabkan alamat IP berubah).",
+    "description": "考试快捷地址"
+  },
+  "useCodeTip": {
+    "message": "Jika Anda perlu mengubah perangkat dalam keadaan khusus, silakan minta kode verifikasi kepada pengawas dan masukkan ujian dengan {useCode}.",
+    "description": "考试快捷地址"
+  },
+  "useCode": {
+    "message": "Menggunakan kode verifikasi",
+    "description": "考试快捷地址"
+  },
+  "faceVerification": {
+    "message": "Verifikasi wajah",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip": {
+    "message": "Anda belum menyelesaikan sertifikasi wajah dan tidak akan dapat lulus pengenalan wajah untuk mengikuti ujian.",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip1": {
+    "message": "Entah {goToCertification} atau {useCodeEnter}",
+    "description": "考试快捷地址"
+  },
+  "goToCertification": {
+    "message": "Verifikasi",
+    "description": "考试快捷地址"
+  },
+  "useCodeEnter": {
+    "message": "Gunakan nomor verifikasi untuk masuk ujian",
+    "description": "考试快捷地址"
+  },
+  "examNotes": {
+    "message": "Pemberitahuan mengenai ujian",
+    "description": "考试快捷地址"
+  },
+  "agreenExamNotes": {
+    "message": "Saya telah membaca dan setuju dengan hal-hal dalam catatan ujian",
+    "description": "考试快捷地址"
+  },
+  "checkFirst": {
+    "message": "Silakan periksa dulu",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc": {
+    "message": "Menghadap kamera untuk memastikan ada banyak cahaya. Tidak bisa melakukan verifikasi wajah?",
+    "description": "考试快捷地址"
+  },
+  "examCode": {
+    "message": "Kode verifikasi ujian",
+    "description": "考试快捷地址"
+  },
+  "examCodeTip": {
+    "message": "Silakan tanyakan kepada pengawas untuk kode verifikasi dan masukkan:",
+    "description": "考试快捷地址"
+  },
+  "examCodeError": {
+    "message": "Kode verifikasi salah",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorDesc": {
+    "message": "Ketika pemantauan kamera dihidupkan, sistem akan mendeteksi dan merekam perilaku abnormal seperti kandidat meninggalkan kursi mereka, penyimpangan jangka panjang dari mata mereka, dan kontak head-to-head dengan orang-orang. Jadi harap dicatat: {br}1. Harap sesuaikan sudut kamera sebelum pengujian, sehingga wajah difoto sepenuhnya, dan cobalah untuk menghadap kamera sebanyak mungkin. {br} 2. Jaga mata Anda tetap fokus pada layar selama ujian, jangan tinggalkan tempat duduk Anda, dan jangan berbicara dengan orang lain.",
+    "description": "考试快捷地址"
+  },
+  "notStart": {
+    "message": "Belum mulai",
+    "description": "考试快捷地址"
+  },
+  "inProgress": {
+    "message": "Sedang berlangsung",
+    "description": "考试快捷地址"
+  },
+  "ended": {
+    "message": "Telah selesai",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "Web / APLIKASI seluler / klien layar kunci komputer",
+    "description": "考试快捷地址"
+  },
+  "resultsNotAnnounce": {
+    "message": "Hasil tidak dipublikasikan untuk ujian ini",
+    "description": "考试快捷地址"
+  },
+  "resultsNotYetAnnounce": {
+    "message": "Hasilnya belum diumumkan",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionsToBeReviewed": {
+    "message": "Tidak dikelas",
+    "description": "考试快捷地址"
+  },
+  "ipPermissionsTip": {
+    "message": "IP saat ini: {ip} tidak ada akses ke ujian, silahkan gunakan komputer yang ditentukan untuk ujian",
+    "description": "考试快捷地址"
+  },
+  "lateTip": {
+    "message": "Anda telah melampaui waktu terlambat yang diizinkan untuk ujian ini dan tidak dapat mengikuti ujian.",
+    "description": "考试快捷地址"
+  },
+  "noCamera": {
+    "message": "Kamera tidak terdeteksi.",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip1": {
+    "message": "Pengenalan wajah diaktifkan untuk ujian ini, jadi silakan ikuti ujian menggunakan perangkat dengan kamera.",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip2": {
+    "message": "Pengawasan kamera diaktifkan untuk ujian ini, jadi silakan ikuti ujian menggunakan perangkat dengan kamera.",
+    "description": "考试快捷地址"
+  },
+  "testCamera": {
+    "message": "Mendeteksi kamera",
+    "description": "考试快捷地址"
+  },
+  "examNotStart": {
+    "message": "Ujian tidak dimulai",
+    "description": "考试快捷地址"
+  },
+  "examEnded": {
+    "message": "Ujian telah berakhir",
+    "description": "考试快捷地址"
+  },
+  "loadError": {
+    "message": "Permintaan gagal",
+    "description": "考试快捷地址"
+  },
+  "expireTip": {
+    "message": "Login telah habis, silakan log lagi.",
+    "description": "考试快捷地址"
+  },
+  "ltiTip1": {
+    "message": "Jika Anda perlu mengikuti ujian melalui klien layar APP/kunci ponsel Anda, masuk dengan akun U-Test Anda. Nama pengguna Anda adalah: {loginName}, kata sandi awal sama dengan nama pengguna.",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "Untuk mengikuti ujian dengan klien layar APP/kunci ponsel Anda, masuk dengan akun U-Test Anda. Nama pengguna Anda adalah: {loginName}, kata sandi awal sama dengan nama pengguna. Setelah masuk, Anda dapat mengubah kata sandi atau meningkatkan informasi pribadi Anda dalam Manajemen Akun.",
+    "description": "考试快捷地址"
+  },
+  "toUpdatePsd": {
+    "message": "untuk mengubah kata sandi",
+    "description": "考试快捷地址"
+  },
+  "accountTipHead": {
+    "message": "Halo, {name}",
+    "description": "考试快捷地址"
+  },
+  "accountTipContent": {
+    "message": "Selamat datang di Sistem Ujian ULearning. Kami telah mendaftarkan Anda untuk akun ULearning, jika Anda perlu menggunakan ponsel Anda untuk mengikuti ujian, silakan unduh APLIKASI ULearning terlebih dahulu, dan masuk dengan akun ULearning.",
+    "description": "考试快捷地址"
+  },
+  "userInfo": {
+    "message": "Nomor akun ULearning Anda adalah sebagai berikut:",
+    "description": "考试快捷地址"
+  },
+  "userName1": {
+    "message": "Nama pengguna",
+    "description": "考试快捷地址"
+  },
+  "passwordTip": {
+    "message": "Kata sandi awal cocok dengan nama pengguna dan dapat diubah setelah masuk.",
+    "description": "考试快捷地址"
+  },
+  "examInfo": {
+    "message": "Informasi ujian",
+    "description": "考试快捷地址"
+  },
+  "examName": {
+    "message": "Nama ujian",
+    "description": "考试快捷地址"
+  },
+  "openAppTip": {
+    "message": "Jika Anda tidak berhasil memulai APLIKASI ULearning, harap konfirmasi apakah itu diinstal. Jika Anda belum memilikinya, unduh dan instal terlebih dahulu.",
+    "description": "考试快捷地址"
+  },
+  "openAppBtn": {
+    "message": "Luncurkan APLIKASI ULearning",
+    "description": "考试快捷地址"
+  },
+  "save": {
+    "message": "Simpan",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess1": {
+    "message": "Sertifikasi lulus",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc1": {
+    "message": "Tidak bisa melakukan verifikasi wajah?",
+    "description": "考试快捷地址"
+  },
+  "close": {
+    "message": "Tutup",
+    "description": "考试快捷地址"
+  },
+  "view": {
+    "message": "Lihat",
+    "description": "考试快捷地址"
+  },
+  "delete": {
+    "message": "Hapus",
+    "description": "考试快捷地址"
+  },
+  "confirmDelete": {
+    "message": "Yakin untuk hapus?",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip": {
+    "message": "File sedang transcoding, silakan mainkan nanti.",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip1": {
+    "message": "File sedang ditranskode, silakan coba lagi nanti",
+    "description": "考试快捷地址"
+  },
+  "clickToTry": {
+    "message": "Klik dan coba kembali",
+    "description": "考试快捷地址"
+  },
+  "mute": {
+    "message": "bisu",
+    "description": "考试快捷地址"
+  },
+  "unmute": {
+    "message": "Menyalakan suara",
+    "description": "考试快捷地址"
+  },
+  "play": {
+    "message": "Mainkan",
+    "description": "考试快捷地址"
+  },
+  "pause": {
+    "message": "Berhenti sementara",
+    "description": "考试快捷地址"
+  },
+  "fullscreen": {
+    "message": "Layar penuh",
+    "description": "考试快捷地址"
+  },
+  "exitFullscreen": {
+    "message": "Keluar dari layar penuh",
+    "description": "考试快捷地址"
+  },
+  "clickToRecord": {
+    "message": "Klik untuk mulai merekam",
+    "description": "考试快捷地址"
+  },
+  "saving": {
+    "message": "Menyimpan",
+    "description": "考试快捷地址"
+  },
+  "saveFail": {
+    "message": "Simpan gagal",
+    "description": "考试快捷地址"
+  },
+  "saveSuccess": {
+    "message": "Simpan dengan sukses",
+    "description": "考试快捷地址"
+  },
+  "reRecord": {
+    "message": "Rekam lagi",
+    "description": "考试快捷地址"
+  },
+  "recordingTip": {
+    "message": "Ada rekaman audio lain dalam proses, silakan tutup dulu.",
+    "description": "考试快捷地址"
+  },
+  "noRecordingTip": {
+    "message": "Izin perekaman telah ditolak, silakan aktifkan izin perekaman di pengaturan browser Anda",
+    "description": "考试快捷地址"
+  },
+  "uploadAudioFail": {
+    "message": "Upload audio gagal, silakan periksa koneksi jaringan",
+    "description": "考试快捷地址"
+  },
+  "addFile": {
+    "message": "Tambah lampiran",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError1": {
+    "message": "Unggah hingga {n} lampiran",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError2": {
+    "message": "File tidak dapat melebihi {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError3": {
+    "message": "Jenis file ini tidak didukung",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError4": {
+    "message": "Ukuran file tidak cocok",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError5": {
+    "message": "Transcoding gagal",
+    "description": "考试快捷地址"
+  },
+  "uploadImgError": {
+    "message": "Ukuran berkas tidak dapat melebihi  {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadMediaError": {
+    "message": "Ukuran berkas tidak dapat melebihi  {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFail": {
+    "message": "Upload gagal",
+    "description": "考试快捷地址"
+  },
+  "mark": {
+    "message": "tanda",
+    "description": "考试快捷地址"
+  },
+  "clear": {
+    "message": "Hapus",
+    "description": "考试快捷地址"
+  },
+  "addMark": {
+    "message": "Tambah catatan",
+    "description": "考试快捷地址"
+  },
+  "deleteMark": {
+    "message": "Hapus catatan",
+    "description": "考试快捷地址"
+  },
+  "playTimesError": {
+    "message": "Parameter nomor pemutaran salah",
+    "description": "考试快捷地址"
+  },
+  "manualRefresh": {
+    "message": "Pemuatan manual",
+    "description": "考试快捷地址"
+  },
+  "selectQuestionType": {
+    "message": "Silahkan pilih jenis soal yang mau ditambah",
+    "description": "考试快捷地址"
+  },
+  "questionNum": {
+    "message": "{n} ",
+    "description": "考试快捷地址"
+  },
+  "questionType": {
+    "message": "Jenis soal",
+    "description": "考试快捷地址"
+  },
+  "singleQ": {
+    "message": "Pilihan ganda",
+    "description": "考试快捷地址"
+  },
+  "multipleQ": {
+    "message": "Pilih lebih dari 1",
+    "description": "考试快捷地址"
+  },
+  "judgmentQ": {
+    "message": "Benar atau salah",
+    "description": "考试快捷地址"
+  },
+  "completion": {
+    "message": "Isian",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer": {
+    "message": "Uraian",
+    "description": "考试快捷地址"
+  },
+  "sortingQ": {
+    "message": "Urutan",
+    "description": "考试快捷地址"
+  },
+  "comprehensiveQ": {
+    "message": "Komprehensif",
+    "description": "考试快捷地址"
+  },
+  "formulaCalculationQ": {
+    "message": "Rumus",
+    "description": "考试快捷地址"
+  },
+  "blankQ": {
+    "message": "Pilih kata dan isi",
+    "description": "考试快捷地址"
+  },
+  "clozeQ": {
+    "message": "Lengkapi paragraf",
+    "description": "考试快捷地址"
+  },
+  "dropDownQ": {
+    "message": "Dropdown",
+    "description": "考试快捷地址"
+  },
+  "oralSubjectQ": {
+    "message": "Percakapan",
+    "description": "考试快捷地址"
+  },
+  "oralReadingQ": {
+    "message": "Membaca",
+    "description": "考试快捷地址"
+  },
+  "single": {
+    "message": "Pilih 1",
+    "description": "考试快捷地址"
+  },
+  "multiple": {
+    "message": "Pilih lebih dari 1",
+    "description": "考试快捷地址"
+  },
+  "judgment": {
+    "message": "Benar atau salah",
+    "description": "考试快捷地址"
+  },
+  "completion1": {
+    "message": "Isian",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer1": {
+    "message": "Uraian",
+    "description": "考试快捷地址"
+  },
+  "stuAnswer": {
+    "message": "Jawaban kandidat",
+    "description": "考试快捷地址"
+  },
+  "correctAnswer": {
+    "message": "Jawaban tepat",
+    "description": "考试快捷地址"
+  },
+  "questionScore": {
+    "message": "({n} poin)",
+    "description": "考试快捷地址"
+  },
+  "questionDesc": {
+    "message": "{n} sub-pertanyaan, total {score} poin",
+    "description": "考试快捷地址"
+  },
+  "answer": {
+    "message": "Jawaban",
+    "description": "考试快捷地址"
+  },
+  "answerCanChangeTip": {
+    "message": "Urutan setiap jawaban kosong dapat dipertukarkan",
+    "description": "考试快捷地址"
+  },
+  "range": {
+    "message": "Margin of error",
+    "description": "考试快捷地址"
+  },
+  "examineeRecording": {
+    "message": "Rekaman kandidat",
+    "description": "考试快捷地址"
+  },
+  "notAnswer": {
+    "message": "Belum dijawab",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip": {
+    "message": "Silakan isi jawabannya di sini",
+    "description": "考试快捷地址"
+  },
+  "enableUploadTip": {
+    "message": "Saat memublikasikan ujian, Anda dapat memilih apakah akan mengizinkan kandidat mengunggah lampiran",
+    "description": "考试快捷地址"
+  },
+  "referenceAnswer": {
+    "message": "Jawaban referensi",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "Saat memilih file, sistem untuk sementara akan keluar dari status layar penuh, harap selesaikan operasi memilih lampiran dan kembali ke antarmuka ujian dalam waktu 30 detik, dan kemudian klik ruang kosong pada halaman untuk kembali ke status layar penuh, jika tidak sistem akan merekam operasi saat meninggalkan ujian.",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTip": {
+    "message": "Upload lampiran atau transcoding gagal, silakan hapus dan upload ulang.",
+    "description": "考试快捷地址"
+  },
+  "sortTip": {
+    "message": "Seret opsi untuk mengurutkan",
+    "description": "考试快捷地址"
+  },
+  "yourAnswer": {
+    "message": "Jawaban anda",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip": {
+    "message": "Silahkan masukkan rumus jawaban ini",
+    "description": "考试快捷地址"
+  },
+  "backSpace": {
+    "message": "Kembali",
+    "description": "考试快捷地址"
+  },
+  "answerRight": {
+    "message": "Jawabannya benar",
+    "description": "考试快捷地址"
+  },
+  "answerError": {
+    "message": "Jawaban yang salah",
+    "description": "考试快捷地址"
+  },
+  "scoreResult": {
+    "message": "Nilai",
+    "description": "考试快捷地址"
+  },
+  "graded": {
+    "message": "Telah dinilai",
+    "description": "考试快捷地址"
+  },
+  "toBeRated": {
+    "message": "Akan dinilai",
+    "description": "考试快捷地址"
+  },
+  "comments": {
+    "message": "Komen",
+    "description": "考试快捷地址"
+  },
+  "analy": {
+    "message": "Penjelasan Jawaban",
+    "description": "考试快捷地址"
+  },
+  "rating": {
+    "message": "Skor",
+    "description": "考试快捷地址"
+  },
+  "inputScoreTip": {
+    "message": "Silakan masukkan sebagian kecil dari {num} untuk memesan tempat desimal",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip": {
+    "message": "Masukkan komentar, tidak diperlukan",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip1": {
+    "message": "Komentar tidak boleh melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "option": {
+    "message": "Pilihan",
+    "description": "考试快捷地址"
+  },
+  "optionContent": {
+    "message": "Silakan masukkan konten opsi",
+    "description": "考试快捷地址"
+  },
+  "addOption": {
+    "message": "Tambah pilihan",
+    "description": "考试快捷地址"
+  },
+  "inputAnaly": {
+    "message": "Silakan masukkan penjelasan jawaban",
+    "description": "考试快捷地址"
+  },
+  "inputAnalyTip": {
+    "message": "Penjelasan jawaban tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip1": {
+    "message": "Tambahkan setidaknya satu sub-pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip": {
+    "message": "Konten opsi tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip1": {
+    "message": "Konten opsi tidak bisa kosong",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip2": {
+    "message": "Tambahkan hingga opsi {n}",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip1": {
+    "message": "Harap atur jawaban yang benar",
+    "description": "考试快捷地址"
+  },
+  "inputQuestionTitle": {
+    "message": "Silakan masukkan isi pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip1": {
+    "message": "Isi pertanyaan tidak bisa kosong",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip2": {
+    "message": "Konten judul tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "insertBlankTip": {
+    "message": "Tekan tombol Tab juga memungkinkan Anda untuk memasukkan item kosong",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip2": {
+    "message": "Kosong jika ada beberapa jawaban yang dipisahkan oleh //",
+    "description": "考试快捷地址"
+  },
+  "inputAnswer": {
+    "message": "Silahkan masukkan jawaban",
+    "description": "考试快捷地址"
+  },
+  "answerTip": {
+    "message": "Setiap jawaban kosong untuk soal ini dapat ditukar",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip1": {
+    "message": "Tambahkan setidaknya satu fill-in-the-blank",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip3": {
+    "message": "Jawabannya tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip4": {
+    "message": "Jawabannya tidak bisa kosong",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestion": {
+    "message": "Tambah soal kecil",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestionTip": {
+    "message": "Tambahkan paling banyak {n} sub-pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "defineRange": {
+    "message": "Cakupan nilai variabel",
+    "description": "考试快捷地址"
+  },
+  "minimum": {
+    "message": "minimum",
+    "description": "考试快捷地址"
+  },
+  "max": {
+    "message": "maksimum",
+    "description": "考试快捷地址"
+  },
+  "precision": {
+    "message": "Presisi",
+    "description": "考试快捷地址"
+  },
+  "answerPrecision": {
+    "message": "Presisi",
+    "description": "考试快捷地址"
+  },
+  "allowedDeviation": {
+    "message": "Tingkat toleransi",
+    "description": "考试快捷地址"
+  },
+  "detectionFormula": {
+    "message": "Mendeteksi rumus",
+    "description": "考试快捷地址"
+  },
+  "inputFormula": {
+    "message": "Silahkan masukkan rumus",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip1": {
+    "message": "Panjang rumus harus antara 1 dan {n} karakter",
+    "description": "考试快捷地址"
+  },
+  "inputDeviationTip": {
+    "message": "Ukuran kesalahan harus antara 0-{n}",
+    "description": "考试快捷地址"
+  },
+  "unableToCalculateAnswer": {
+    "message": "Jawaban tidak bisa dihitung",
+    "description": "考试快捷地址"
+  },
+  "inputRangeTip": {
+    "message": "Silakan masukkan rentang nilai yang benar",
+    "description": "考试快捷地址"
+  },
+  "readText": {
+    "message": "Baca teks dengan lantang",
+    "description": "考试快捷地址"
+  },
+  "readTextTip": {
+    "message": "Hanya bahasa Inggris yang didukung, tidak lebih dari {n} kata",
+    "description": "考试快捷地址"
+  },
+  "wordNum": {
+    "message": "Jumlah kata",
+    "description": "考试快捷地址"
+  },
+  "readTextTip1": {
+    "message": "Membaca teks tidak bisa kosong",
+    "description": "考试快捷地址"
+  },
+  "readTextTip2": {
+    "message": "Teks tidak boleh melebihi kata {n}",
+    "description": "考试快捷地址"
+  },
+  "inputReferenceAnswer": {
+    "message": "Silahkan masukkan jawaban referensi",
+    "description": "考试快捷地址"
+  },
+  "formula": {
+    "message": "Rumus perhitungan",
+    "description": "考试快捷地址"
+  },
+  "remarked": {
+    "message": "Telah dikoreksi",
+    "description": "考试快捷地址"
+  },
+  "toBeGradedManually": {
+    "message": "Untuk diuji",
+    "description": "考试快捷地址"
+  },
+  "correctAnswerNotAnnounce": {
+    "message": "Jawaban Benar Tidak Dibebaskan",
+    "description": "考试快捷地址"
+  },
+  "select": {
+    "message": "Silahkan pilih",
+    "description": "考试快捷地址"
+  },
+  "paramErrorTip": {
+    "message": "Parameter halaman tidak lengkap",
+    "description": "考试快捷地址"
+  },
+  "getDataFail": {
+    "message": "Gagal mendapatkan data",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQToBeGraded": {
+    "message": "Untuk diuji",
+    "description": "考试快捷地址"
+  },
+  "autoLoadNext": {
+    "message": "Auto memuat berikutnya",
+    "description": "考试快捷地址"
+  },
+  "completeRemark": {
+    "message": "Lengkapi koreksi",
+    "description": "考试快捷地址"
+  },
+  "exitRemark": {
+    "message": "Keluar",
+    "description": "考试快捷地址"
+  },
+  "nextPaper": {
+    "message": "Depan",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip": {
+    "message": "Selamat, semua kandidat di kelas Anda telah menyelesaikan persetujuan mereka!",
+    "description": "考试快捷地址"
+  },
+  "remarkTip": {
+    "message": "Pertanyaan {n} tidak dicetak, apakah sudah berakhir?",
+    "description": "考试快捷地址"
+  },
+  "end": {
+    "message": "Selesai",
+    "description": "考试快捷地址"
+  },
+  "remarkSuccess": {
+    "message": "Persetujuan berhasil!",
+    "description": "考试快捷地址"
+  },
+  "remarkFail": {
+    "message": "Simpan gagal",
+    "description": "考试快捷地址"
+  },
+  "answerHistoryTimes": {
+    "message": "Jawaban {n}",
+    "description": "考试快捷地址"
+  },
+  "showAnswer": {
+    "message": "Tampilkan jawaban",
+    "description": "考试快捷地址"
+  },
+  "hideAnswer": {
+    "message": "Sembunyikan jawaban",
+    "description": "考试快捷地址"
+  },
+  "used": {
+    "message": "Digunakan",
+    "description": "考试快捷地址"
+  },
+  "preview": {
+    "message": "Pra-tinjau",
+    "description": "考试快捷地址"
+  },
+  "saveAndExit": {
+    "message": "Simpan dan keluar",
+    "description": "考试快捷地址"
+  },
+  "more": {
+    "message": "Lebih banyak",
+    "description": "考试快捷地址"
+  },
+  "batchEntry": {
+    "message": "Buat batch",
+    "description": "考试快捷地址"
+  },
+  "importFromBank": {
+    "message": "Import dari bank pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "batchEditScore": {
+    "message": "Titik per pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "inputScore": {
+    "message": "Masukkan skor",
+    "description": "考试快捷地址"
+  },
+  "batchEditTimes": {
+    "message": "Bilangan permainan per audio",
+    "description": "考试快捷地址"
+  },
+  "batchSetting": {
+    "message": "Penyetelan massal",
+    "description": "考试快捷地址"
+  },
+  "partName": {
+    "message": "Nama (dapat disesuaikan)",
+    "description": "考试快捷地址"
+  },
+  "desc": {
+    "message": "Penjelasan",
+    "description": "考试快捷地址"
+  },
+  "savePaper": {
+    "message": "Simpan kertas kuis",
+    "description": "考试快捷地址"
+  },
+  "editName": {
+    "message": "Mengubah nama",
+    "description": "考试快捷地址"
+  },
+  "fullScore": {
+    "message": "Nilai sempurna",
+    "description": "考试快捷地址"
+  },
+  "inputPartName": {
+    "message": "Klik untuk memasukkan nama daerah",
+    "description": "考试快捷地址"
+  },
+  "inputPartNameTip": {
+    "message": "Nama seksi tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "inputPartDescTip": {
+    "message": "Deskripsi seksi tidak dapat melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip": {
+    "message": "Nama kertas kuis tidak bisa kosong",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip1": {
+    "message": "Nama kertas kuis tidak boleh melebihi karakter {n}",
+    "description": "考试快捷地址"
+  },
+  "newPaper": {
+    "message": "Ujian Baru",
+    "description": "考试快捷地址"
+  },
+  "firstPart": {
+    "message": "Seksi 1",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip1": {
+    "message": "Kertas ujian ini telah digunakan dalam ujian, hanya memungkinkan isi pertanyaan, jawaban dan skor dimodifikasi, dan struktur kertas ujian tidak dapat dimodifikasi, atau pertanyaan dapat ditambahkan atau dihapus. Pertanyaan yang berisi sub-pertanyaan tidak diizinkan untuk menambahkan atau menghapus sub-pertanyaan. {br} Jika jawaban pertanyaan atau skor dimodifikasi, kertas kuis bergradasi harus dinilai ulang dalam ujian.",
+    "description": "考试快捷地址"
+  },
+  "previewTip": {
+    "message": "Tambah setidaknya satu pertanyaan ke setiap bagian untuk menyimpannya atau memperlihatkannya.",
+    "description": "考试快捷地址"
+  },
+  "previewTip1": {
+    "message": "Pertanyaan {n} tidak disimpan, harap simpan pertanyaannya terlebih dahulu.",
+    "description": "考试快捷地址"
+  },
+  "savingTip": {
+    "message": "Menabung, silakan tunggu...",
+    "description": "考试快捷地址"
+  },
+  "addPartTip": {
+    "message": "Tambah ke {n} bagian per ujian.",
+    "description": "考试快捷地址"
+  },
+  "editPart": {
+    "message": "Ubah",
+    "description": "考试快捷地址"
+  },
+  "deletePart": {
+    "message": "Hapus",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip": {
+    "message": "Hati-hati! Menghapus bagian akan menghapus semua pertanyaan di bagian itu pada saat yang sama. Secara lalai, pertanyaan baru yang dibuat dalam ujian tidak akan disimpan ke bank pertanyaan, dan tidak dapat dikembalikan setelah dihapus, jadi hati-hati. Anda yakin ingin menghapusnya?",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip1": {
+    "message": "Simpan setidaknya satu bagian.",
+    "description": "考试快捷地址"
+  },
+  "addPartQuestionTip": {
+    "message": "Tidak lebih dari {n} pertanyaan per bagian.",
+    "description": "考试快捷地址"
+  },
+  "confirmCancelEdit": {
+    "message": "Apakah Anda yakin ingin membatalkan modifikasi?",
+    "description": "考试快捷地址"
+  },
+  "deleteQuestion": {
+    "message": "Menghapus pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteQuestion": {
+    "message": "Apakah Anda yakin ingin menghapus pertanyaan ini?",
+    "description": "考试快捷地址"
+  },
+  "editSuccess": {
+    "message": "Berhasil diubah",
+    "description": "考试快捷地址"
+  },
+  "editFail": {
+    "message": "Gagal mengubah",
+    "description": "考试快捷地址"
+  },
+  "importFail": {
+    "message": "Gagal mengimpor",
+    "description": "考试快捷地址"
+  },
+  "exitTip": {
+    "message": "Kertas dan pertanyaan belum disimpan, dan jika Anda keluar saat ini, pertanyaan yang baru dibuat tidak akan dipulihkan. Apakah Anda yakin ingin keluar?",
+    "description": "考试快捷地址"
+  },
+  "exitTip1": {
+    "message": "Pertanyaan {n} tidak disimpan, biarkan saat ini, modifikasi tidak akan disimpan. Apakah Anda yakin ingin pergi?",
+    "description": "考试快捷地址"
+  },
+  "confirmExit": {
+    "message": "Apakah Anda yakin ingin keluar?",
+    "description": "考试快捷地址"
+  },
+  "answered": {
+    "message": "Menjawab",
+    "description": "考试快捷地址"
+  },
+  "interruptAnswer": {
+    "message": "Keluar",
+    "description": "考试快捷地址"
+  },
+  "saveAnswerRecord": {
+    "message": "Simpan Jawaban",
+    "description": "考试快捷地址"
+  },
+  "submitPaper": {
+    "message": "Kirim ujian",
+    "description": "考试快捷地址"
+  },
+  "joinExamByCode": {
+    "message": "Masuk ke ujian melalui nomor verifikasi",
+    "description": "考试快捷地址"
+  },
+  "examLimitTime": {
+    "message": "Waktu terbatas",
+    "description": "考试快捷地址"
+  },
+  "saved": {
+    "message": "Telah disimpan",
+    "description": "考试快捷地址"
+  },
+  "networkError": {
+    "message": "Anomali jaringan, pengiriman kertas uji gagal!",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "Sistem telah menyimpan sementara catatan jawaban secara lokal, tidak meninggalkan atau menutup halaman, dan mencoba mengirimkan secara manual lagi nanti.",
+    "description": "考试快捷地址"
+  },
+  "leftTimeTip": {
+    "message": "Waktunya kurang dari 1 menit",
+    "description": "考试快捷地址"
+  },
+  "restoringAnswerRecords": {
+    "message": "Catatan jawaban sedang dipulihkan, harap tunggu...",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip2": {
+    "message": "Jaringan saat ini tidak normal, kertas uji tidak dapat dimuat secara normal, silakan periksa jaringan lokal, dan kemudian coba masukkan tes setelah jaringan dipulihkan.",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip3": {
+    "message": "Data tidak normal, dan kertas ujian tidak dapat dimuat secara normal, silakan hubungi layanan pelanggan.",
+    "description": "考试快捷地址"
+  },
+  "notExitFullScreenTip": {
+    "message": "Harap jangan keluar dari layar penuh selama ujian, jika tidak maka akan dianggap meninggalkan ujian dan dapat dinilai sebagai kecurangan, mempengaruhi nilai tes.",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip": {
+    "message": "Mohon untuk tidak menutup halaman web, sistem sedang mengumpulkan kertas ujian… ",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip1": {
+    "message": "Jaringan saat ini tidak stabil, silakan periksa apakah koneksi jaringan normal.",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip2": {
+    "message": "Kertas ujian gagal dikumpul, mohon untuk tidak menutup halaman web, karena sistem sedang mencoba kembali… ",
+    "description": "考试快捷地址"
+  },
+  "submitSuccess": {
+    "message": "Berhasil dikumpul",
+    "description": "考试快捷地址"
+  },
+  "submitFail": {
+    "message": "Gagal dikumpul",
+    "description": "考试快捷地址"
+  },
+  "submiting": {
+    "message": "Mengirimkan, silakan tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "notAllowedSubmitTip": {
+    "message": "Makalah tidak diperbolehkan dalam waktu {waktu} menit dari dimulainya ujian.",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip": {
+    "message": "Apakah Anda yakin Anda ingin menyerahkan?",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip1": {
+    "message": "Pertanyaan {n} tidak dijawab, apakah Anda yakin ingin menyerahkan kertas?",
+    "description": "考试快捷地址"
+  },
+  "confirmPaper": {
+    "message": "Ujian Akhir",
+    "description": "考试快捷地址"
+  },
+  "timeOverTip": {
+    "message": "Waktu telah habis, dan gulungan secara otomatis diputar setelah 3 detik.",
+    "description": "考试快捷地址"
+  },
+  "nextPart": {
+    "message": "Seksi Berikutnya",
+    "description": "考试快捷地址"
+  },
+  "isLast": {
+    "message": "Ini adalah akhir",
+    "description": "考试快捷地址"
+  },
+  "examinee": {
+    "message": "Ujian",
+    "description": "考试快捷地址"
+  },
+  "result": {
+    "message": "Nilai",
+    "description": "考试快捷地址"
+  },
+  "objectiveQuestionScore": {
+    "message": "Skor otomatis",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionScore": {
+    "message": "Skor manual",
+    "description": "考试快捷地址"
+  },
+  "totalNumberOfQuestions": {
+    "message": "Jumlah soal",
+    "description": "考试快捷地址"
+  },
+  "totalScore": {
+    "message": "Total nilai",
+    "description": "考试快捷地址"
+  },
+  "numberOfQuestions": {
+    "message": "Jumlah pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "scoreNum": {
+    "message": "Nilai",
+    "description": "考试快捷地址"
+  },
+  "addPart": {
+    "message": "Tambah Bahagian",
+    "description": "考试快捷地址"
+  },
+  "numberOfPlaysAllowed": {
+    "message": "Berapa kali pemutaran diizinkan",
+    "description": "考试快捷地址"
+  },
+  "notLimit1": {
+    "message": "Tidak terbatas",
+    "description": "考试快捷地址"
+  },
+  "playTimesAllowed": {
+    "message": "Jumlah drama yang diizinkan: {n} kali",
+    "description": "考试快捷地址"
+  },
+  "playedTimes": {
+    "message": "Dimainkan {n} kali",
+    "description": "考试快捷地址"
+  },
+  "playTimesOver": {
+    "message": "Jumlah drama telah habis",
+    "description": "考试快捷地址"
+  },
+  "switchPartTipAboutRecording": {
+    "message": "Ada juga rekaman yang sedang berlangsung, jika Anda beralih, rekaman akan berhenti, OK untuk mengganti bagian?",
+    "description": "考试快捷地址"
+  },
+  "submitTipAboutUpload": {
+    "message": "Ada file yang diunggah, silakan kirimkan nanti",
+    "description": "考试快捷地址"
+  },
+  "saveTipAboutUpload": {
+    "message": "Ada file yang diunggah, silakan simpan setelah upload selesai",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip": {
+    "message": "Tambahkan hingga {n} fill-in-the-blanks",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip": {
+    "message": "Tambahkan paling banyak {n} sub-pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "notExitTip": {
+    "message": "Dilarang keluar dari layar penuh atau meninggalkan antarmuka ujian selama ujian!",
+    "description": "考试快捷地址"
+  },
+  "leaveTimesTip": {
+    "message": "Anda telah meninggalkan ujian {n} kali!",
+    "description": "考试快捷地址"
+  },
+  "continueAnswer": {
+    "message": "Lanjut menjawab pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "finish": {
+    "message": "Selesai",
+    "description": "考试快捷地址"
+  },
+  "nextStep": {
+    "message": "Selanjutnya",
+    "description": "考试快捷地址"
+  },
+  "skip": {
+    "message": "Lewati",
+    "description": "考试快捷地址"
+  },
+  "guide1": {
+    "message": "Selamat datang di versi baru kertas ujian, mari kita lihat apa perubahannya!",
+    "description": "考试快捷地址"
+  },
+  "guide2": {
+    "message": "Di sebelah kiri, Anda dapat menambah, bergerak dan menghapus bagian ujian. Klik judul bagian untuk berganti ke bagian yang sesuai.",
+    "description": "考试快捷地址"
+  },
+  "guide3": {
+    "message": "Klik di sini untuk mengubah nama dan deskripsi daerah.",
+    "description": "考试快捷地址"
+  },
+  "guide4": {
+    "message": "Dalam versi baru ini, Anda dapat menciptakan dan edit pertanyaan dalam ujian langsung ! Pilih jenis pertanyaan di sini untuk menambah pertanyaan baru. Tentu saja, Anda juga dapat mengimport pertanyaan dari bank pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "guide5": {
+    "message": "Pertanyaan baru yang dibuat di sini tidak akan secara otomatis disimpan ke bank pertanyaan. Jika perlu, Anda dapat menggunakan fungsi Import dari Exam di bank pertanyaan untuk mengimport pertanyaan dari ujian ke bank pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "guide6": {
+    "message": "Atur skor pertanyaan dan jumlah waktu pemutaran audio dalam batch, dan pindah ke sini.",
+    "description": "考试快捷地址"
+  },
+  "guide7": {
+    "message": "Selama proses pengeditan, klik di sini untuk melihat pratinjau efek kertas uji.",
+    "description": "考试快捷地址"
+  },
+  "guide8": {
+    "message": "Ingat untuk klik Simpan setelah semua penyuntingan.",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip": {
+    "message": "Kertas ujian ini telah digunakan dalam ujian, hanya memungkinkan isi pertanyaan, jawaban dan skor dimodifikasi, dan struktur kertas ujian tidak dapat dimodifikasi, atau pertanyaan dapat ditambahkan atau dihapus. Pertanyaan yang berisi sub-pertanyaan tidak diizinkan untuk menambahkan atau menghapus sub-pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "createPaper": {
+    "message": "Ujian Baru",
+    "description": "考试快捷地址"
+  },
+  "editPaper": {
+    "message": "Mengedit kertas kuis",
+    "description": "考试快捷地址"
+  },
+  "previewPaper": {
+    "message": "Pra-tinjau kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "teacherRemark": {
+    "message": "Menandakan kertas tes",
+    "description": "考试快捷地址"
+  },
+  "answerHistory": {
+    "message": "Catatan jawaban",
+    "description": "考试快捷地址"
+  },
+  "cameraErrorTip": {
+    "message": "Kelainan pemantauan kamera, kegagalan mulai kamera, silakan periksa apakah ada situasi berikut: {br}1. Izin kamera tidak diaktifkan{br}2. Kamera ditempati oleh program lain atau halaman web {br}3. Pengecualian jaringan {br} Jika ada situasi di atas, silakan selesaikan dan kemudian klik Lanjutkan Menjawab.",
+    "description": "考试快捷地址"
+  },
+  "cameraNoStartTip": {
+    "message": "Silakan nyalakan kamera terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "choiceQue": {
+    "message": "Pilih jenis soal",
+    "description": "考试快捷地址"
+  },
+  "queBank": {
+    "message": "Kumpulan soal",
+    "description": "考试快捷地址"
+  },
+  "insert": {
+    "message": "Tambah",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoices": {
+    "message": "{n} pertanyaan telah dipilih",
+    "description": "考试快捷地址"
+  },
+  "mineQueBank": {
+    "message": "Kumpulan soal saya",
+    "description": "考试快捷地址"
+  },
+  "schoolQueBank": {
+    "message": "Kumpulan soal universitas ini",
+    "description": "考试快捷地址"
+  },
+  "shareBank": {
+    "message": "Berbagi kumpulan soal",
+    "description": "考试快捷地址"
+  },
+  "goBack": {
+    "message": "Kembali",
+    "description": "考试快捷地址"
+  },
+  "allQuestions": {
+    "message": "Semua soal",
+    "description": "考试快捷地址"
+  },
+  "parsentArea": {
+    "message": "Posisi saat ini",
+    "description": "考试快捷地址"
+  },
+  "search": {
+    "message": "Cari",
+    "description": "考试快捷地址"
+  },
+  "addQuestions": {
+    "message": "Tambah soal baru",
+    "description": "考试快捷地址"
+  },
+  "editQuestions": {
+    "message": "Revisi soal",
+    "description": "考试快捷地址"
+  },
+  "importQuestions": {
+    "message": "Impor secara batch",
+    "description": "考试快捷地址"
+  },
+  "addBank": {
+    "message": "Tambah folder",
+    "description": "考试快捷地址"
+  },
+  "editBank": {
+    "message": "Ubah folder",
+    "description": "考试快捷地址"
+  },
+  "bankNameError1": {
+    "message": "Nama folder tidak boleh kosong",
+    "description": "考试快捷地址"
+  },
+  "bankNameError2": {
+    "message": "Nama folder tidak boleh melebihi 200 karakter",
+    "description": "考试快捷地址"
+  },
+  "bankNameError3": {
+    "message": "Nama folder tidak dapat berisi karakter berikut:<> *?:\" '|/\\~.'\"",
+    "description": "考试快捷地址"
+  },
+  "bankNameError4": {
+    "message": "Folder dapat ditambahkan hingga 5 level, direktori saat ini adalah level {l}, dan tidak ada subfolder yang dapat ditambahkan",
+    "description": "考试快捷地址"
+  },
+  "writeBankName": {
+    "message": "Silahkan masukkan nama folder",
+    "description": "考试快捷地址"
+  },
+  "addSuccess": {
+    "message": "Berhasil ditambah",
+    "description": "考试快捷地址"
+  },
+  "addFail": {
+    "message": "Tambahkan gagal",
+    "description": "考试快捷地址"
+  },
+  "queBankStatistics": {
+    "message": "Statistik bank soal",
+    "description": "考试快捷地址"
+  },
+  "importBank": {
+    "message": "Ekspor bank soal",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "Jumlah pertanyaan yang diekspor melebihi batas atas.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg": {
+    "message": "Mengekspor, harap tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg1": {
+    "message": "Waktu ekspor mungkin panjang, harap bersabar.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg2": {
+    "message": "Jika browser memblokir jendela pop-up, pilih Selalu izinkan pop-up situs web.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg3": {
+    "message": "Mengekspor, {n}/{m} selesai",
+    "description": "考试快捷地址"
+  },
+  "cancelExportRecord": {
+    "message": "Batalkan ekspor",
+    "description": "考试快捷地址"
+  },
+  "imporBanktNone": {
+    "message": "Tidak ada judul di direktori ini untuk diekspor.",
+    "description": "考试快捷地址"
+  },
+  "importBankErrorMsg": {
+    "message": "Ekspor gagal",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsType": {
+    "message": "Semua jenis pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsLevel": {
+    "message": "Semua kesulitan",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTime": {
+    "message": "Urutan waktu terbalik",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTimePositive": {
+    "message": "Urutan sesuai waktu",
+    "description": "考试快捷地址"
+  },
+  "writeSearch": {
+    "message": "Cari pertanyaan/folder",
+    "description": "考试快捷地址"
+  },
+  "titleDetails": {
+    "message": "Rincian pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "choiceQueType": {
+    "message": "Pilih jenis pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "textImport": {
+    "message": "impor melalui teks",
+    "description": "考试快捷地址"
+  },
+  "paperImport": {
+    "message": "Impor dari kertas kuis",
+    "description": "考试快捷地址"
+  },
+  "paperImportError": {
+    "message": "Saat Anda mengimpor kertas kuis di direktori saat ini, level folder akan melebihi batas atas. Bank soal mendukung hingga 5 tingkat direktori, harap pilih kembali impor folder.",
+    "description": "考试快捷地址"
+  },
+  "excelImport": {
+    "message": "impor melalui Excel",
+    "description": "考试快捷地址"
+  },
+  "importExcelLoadMsg": {
+    "message": "Mengimpor, harap tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "importSuccess": {
+    "message": "Impor berhasil",
+    "description": "考试快捷地址"
+  },
+  "hardlevels1": {
+    "message": "Mudah",
+    "description": "考试快捷地址"
+  },
+  "hardlevels2": {
+    "message": "Biasa",
+    "description": "考试快捷地址"
+  },
+  "hardlevels3": {
+    "message": "Sedang",
+    "description": "考试快捷地址"
+  },
+  "hardlevels4": {
+    "message": "Agak sulit",
+    "description": "考试快捷地址"
+  },
+  "hardlevels5": {
+    "message": "Sulit",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplate": {
+    "message": "Unduh templat",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplateMsg": {
+    "message": "Unduh template Excel dan isi pertanyaan sesuai dengan persyaratan template",
+    "description": "考试快捷地址"
+  },
+  "uploadFile": {
+    "message": "Unggah dokumen",
+    "description": "考试快捷地址"
+  },
+  "uploadFileMsg": {
+    "message": "Unggah file Excel yang sudah selesai",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError": {
+    "message": "Beberapa pertanyaan tes tidak terisi dengan benar, mohon periksa dan perbaiki sebelum mengunggahnya",
+    "description": "考试快捷地址"
+  },
+  "uploadFileErrorMsg": {
+    "message": "baris {n}, kolom {m}",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg": {
+    "message": "Silakan pilih pertanyaan terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg1": {
+    "message": "Mengimpor hingga 200 pertanyaan sekaligus",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg2": {
+    "message": "Mengimpor hingga 200 pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "choiceAll": {
+    "message": "Pilih semua",
+    "description": "考试快捷地址"
+  },
+  "moveSuccess": {
+    "message": "Berhasil dipindahkan",
+    "description": "考试快捷地址"
+  },
+  "moveFail": {
+    "message": "Gagal memindahkan",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg1": {
+    "message": "Level folder tidak boleh melebihi 5 level, dan jumlah level folder tujuan dan folder saat ini melebihi batas atas dan tidak dapat dipindahkan.",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg2": {
+    "message": "Folder dengan nama yang sama ada di folder tujuan dan tidak dapat dipindahkan.",
+    "description": "考试快捷地址"
+  },
+  "moveLoadMsg": {
+    "message": "Sedang berlangsung, harap tunggu...",
+    "description": "考试快捷地址"
+  },
+  "changeShareRange": {
+    "message": "Ubah cakupan berbagi",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError1": {
+    "message": "Silakan pilih guru yang ditunjuk",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError2": {
+    "message": "Silakan pilih pembagi",
+    "description": "考试快捷地址"
+  },
+  "shareTeacherEmpty": {
+    "message": "Tidak ada guru yang ditunjuk",
+    "description": "考试快捷地址"
+  },
+  "shareNumOver": {
+    "message": "Pilih hingga 100 guru",
+    "description": "考试快捷地址"
+  },
+  "shareLoadMsg": {
+    "message": "Menyimpan, harap tunggu...",
+    "description": "考试快捷地址"
+  },
+  "queBankEmpty": {
+    "message": "Tidak ada judul dalam daftar isi saat ini",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirmNew": {
+    "message": "Apakah Anda yakin ingin menghapus [{n}]?",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm1": {
+    "message": "Jika Anda memilih [Simpan soal, hanya menghapus folder], topik dalam folder akan dipindahkan ke direktori root.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm2": {
+    "message": "Jika Anda memilih [Hapus semua], pertanyaan dalam folder juga akan dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm3": {
+    "message": "Simpan soal, hanya menghapus folder",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm4": {
+    "message": "Apakah Anda yakin ingin menghapus konten item {n} seperti {x}?",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm6": {
+    "message": "Data tidak dapat dipulihkan setelah penghapusan.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm7": {
+    "message": "Apakah Anda yakin ingin menghapusnya? Data tidak dapat dipulihkan setelah penghapusan.",
+    "description": "考试快捷地址"
+  },
+  "deleteLoadMsg": {
+    "message": "Menghapus, harap tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "deleteAll": {
+    "message": "Hapus semua",
+    "description": "考试快捷地址"
+  },
+  "deleteSuccess": {
+    "message": "Berhasil dihapus",
+    "description": "考试快捷地址"
+  },
+  "deleteFail": {
+    "message": "Gagal menghapus",
+    "description": "考试快捷地址"
+  },
+  "hardLevel": {
+    "message": "Tingkat kesulitan",
+    "description": "考试快捷地址"
+  },
+  "schoolTeacher": {
+    "message": "Dosen universitas ini",
+    "description": "考试快捷地址"
+  },
+  "allTeacher": {
+    "message": "Semua dosen",
+    "description": "考试快捷地址"
+  },
+  "appointTeacher": {
+    "message": "Dosen tertentu",
+    "description": "考试快捷地址"
+  },
+  "sameQueinPaper": {
+    "message": "Pertanyaan serupa sudah ada di koran",
+    "description": "考试快捷地址"
+  },
+  "alreadyinPaper": {
+    "message": "Sudah ada di kertas kuis",
+    "description": "考试快捷地址"
+  },
+  "subQuestionNum": {
+    "message": "{n} sub-pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime": {
+    "message": "Waktu revisi terakhir: {time}",
+    "description": "考试快捷地址"
+  },
+  "queLocation": {
+    "message": "posisi",
+    "description": "考试快捷地址"
+  },
+  "founder": {
+    "message": "Pembuat",
+    "description": "考试快捷地址"
+  },
+  "own": {
+    "message": "Saya sendiri",
+    "description": "考试快捷地址"
+  },
+  "batchType1": {
+    "message": "Ubah nama",
+    "description": "考试快捷地址"
+  },
+  "batchType2": {
+    "message": "Geser",
+    "description": "考试快捷地址"
+  },
+  "batchType3": {
+    "message": "Berbagi",
+    "description": "考试快捷地址"
+  },
+  "batchType5": {
+    "message": "Ubah",
+    "description": "考试快捷地址"
+  },
+  "batchType6": {
+    "message": "Salin",
+    "description": "考试快捷地址"
+  },
+  "copySuccess": {
+    "message": "Berhasil disalin! {y} telah disalin ke {x} Anda.",
+    "description": "考试快捷地址"
+  },
+  "copyQuestion": {
+    "message": "Soal",
+    "description": "考试快捷地址"
+  },
+  "copyFolder": {
+    "message": "Folder",
+    "description": "考试快捷地址"
+  },
+  "copyFail": {
+    "message": "Gagal menyalin",
+    "description": "考试快捷地址"
+  },
+  "copyLoadMsg": {
+    "message": "Menyalin, harap tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "currentDirectory": {
+    "message": "Posisi saat ini",
+    "description": "考试快捷地址"
+  },
+  "rootDirectory": {
+    "message": "Daftar isi utama",
+    "description": "考试快捷地址"
+  },
+  "targetFolder": {
+    "message": "Silakan pilih folder tujuan.",
+    "description": "考试快捷地址"
+  },
+  "sharePeople": {
+    "message": "Soal ini dibagikan ke：",
+    "description": "考试快捷地址"
+  },
+  "justOwn": {
+    "message": "Diri sendiri",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolTeacher": {
+    "message": "Dosen tertentu di universitas ini",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolAllTeacher": {
+    "message": "Semua dosen universitas ini",
+    "description": "考试快捷地址"
+  },
+  "choicesallTeacher": {
+    "message": "Semua dosen",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacher": {
+    "message": "Pilih dosen",
+    "description": "考试快捷地址"
+  },
+  "searchTeacher": {
+    "message": "Masukkan nama lengkap dosen",
+    "description": "考试快捷地址"
+  },
+  "previousPage": {
+    "message": "Sebelumnya",
+    "description": "考试快捷地址"
+  },
+  "NextPage": {
+    "message": "Berikutnya",
+    "description": "考试快捷地址"
+  },
+  "choicePage": {
+    "message": "Lewati",
+    "description": "考试快捷地址"
+  },
+  "totleQueNum": {
+    "message": "Jumlah soal",
+    "description": "考试快捷地址"
+  },
+  "totleFolderNum": {
+    "message": "Jumlah total folder",
+    "description": "考试快捷地址"
+  },
+  "hardDistribution": {
+    "message": "Distribusi kesulitan",
+    "description": "考试快捷地址"
+  },
+  "queTypeDistribution": {
+    "message": "Analisa jenis soal",
+    "description": "考试快捷地址"
+  },
+  "tagsMsg": {
+    "message": "Label (Maks. 30 kata, Enter berarti OK, maks. 3):",
+    "description": "考试快捷地址"
+  },
+  "analysisTit": {
+    "message": "Masukkan konten dianalisa di sini, boleh memilih untuk tidak mengisi",
+    "description": "考试快捷地址"
+  },
+  "stemArea": {
+    "message": "Masukkan konten soal di sini",
+    "description": "考试快捷地址"
+  },
+  "choiceA": {
+    "message": "Pilihan 1",
+    "description": "考试快捷地址"
+  },
+  "choiceB": {
+    "message": "Pilihan 2",
+    "description": "考试快捷地址"
+  },
+  "choiceC": {
+    "message": "Pilihan 3",
+    "description": "考试快捷地址"
+  },
+  "choiceD": {
+    "message": "Pilihan 4",
+    "description": "考试快捷地址"
+  },
+  "completionStem": {
+    "message": "Semangat Olimpiade adalah ( ), ( ) , , ( ) .",
+    "description": "考试快捷地址"
+  },
+  "completionAnswer": {
+    "message": "lebih cepat || lebih tinggi || lebih kuat",
+    "description": "考试快捷地址"
+  },
+  "shortAnsStem": {
+    "message": "Masukkan soal uraian di sini",
+    "description": "考试快捷地址"
+  },
+  "shortAnsAnswer": {
+    "message": "Isi jawaban soal uraian di sini",
+    "description": "考试快捷地址"
+  },
+  "saveErrorTips2": {
+    "message": "Sebagian soal gagal disimpan",
+    "description": "考试快捷地址"
+  },
+  "numExceededTips": {
+    "message": "Sekali input harus kurang dari 200 soal",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage1": {
+    "message": "Judul tidak boleh kosong",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage2": {
+    "message": "Pilihan kurang dari 2",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage3": {
+    "message": "Pilihan tidak boleh lebih dari 20 buah",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage4": {
+    "message": "Jawaban tepat tidak boleh kosong",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage5": {
+    "message": "Konten jawaban tepat tidak boleh kosong",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage6": {
+    "message": "Silahkan isi konten pilihan, atau hapus pilihan yang berlebih",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage7": {
+    "message": "Jumlah jawaban tepat tidak boleh lebih dari jumlah pilihan",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage8": {
+    "message": "Hanya poin pilihan yang bisa tertera pada jawaban tepat",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage9": {
+    "message": "Terdapat pengulangan pada jawaban tepat",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage10": {
+    "message": "Konten jawaban referensi tidak boleh kosong",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage11": {
+    "message": "Jumlah jawaban tepat tidak boleh kurang dari jumlah kosong",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage12": {
+    "message": "Menambahkan hingga 20 item isian yang kosong",
+    "description": "考试快捷地址"
+  },
+  "completionAnswerTips": {
+    "message": "Perhatian: Setiap jawaban kosong di soal ini bersifat fleksibel, jawaban tetap dinyatakan benar asalkan konten sesuai",
+    "description": "考试快捷地址"
+  },
+  "changeScoreText": {
+    "message": "Yakin untuk revisi nilai secara batch?",
+    "description": "考试快捷地址"
+  },
+  "scoreTips": {
+    "message": "Silahkan masukkan nilai yang valid",
+    "description": "考试快捷地址"
+  },
+  "setScoreTips": {
+    "message": "Buat soal terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "detailDescription": {
+    "message": "Rincian",
+    "description": "考试快捷地址"
+  },
+  "batchChangeScore": {
+    "message": "Nilai revisi batch",
+    "description": "考试快捷地址"
+  },
+  "questionEditarea": {
+    "message": "Area pengeditan judul",
+    "description": "考试快捷地址"
+  },
+  "questionPreviewarea": {
+    "message": "Area pratinjau judul",
+    "description": "考试快捷地址"
+  },
+  "questionEdit1": {
+    "message": "1. Jenis pertanyaan yang didukung oleh fungsi ini: pilihan tunggal, pilihan ganda, penilaian, fill-in-the-blank, jawaban singkat.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit2": {
+    "message": "2. Saat ini, ini hanya berlaku untuk impor pertanyaan teks biasa, dan tidak mendukung pertanyaan yang berisi gambar, rumus, video, dan audio.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit3": {
+    "message": "3. Ada dua cara untuk menambahkan pertanyaan: (1) Klik pada jenis pertanyaan di atas untuk menambahkan pertanyaan baru dan mengedit pertanyaan sesuai dengan format template. (2) Tempel teks judul dalam dokumen kata langsung di sini, dan sistem akan secara otomatis mengidentifikasi jenis pertanyaan dan menghasilkan pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit4": {
+    "message": "4. Setelah pertanyaan diimpor, periksa apakah informasi seperti jenis pertanyaan, skor, jawaban, dan analisis akurat di area pratinjau yang tepat, lalu simpan setelah konfirmasi.",
+    "description": "考试快捷地址"
+  },
+  "correct": {
+    "message": "Benar",
+    "description": "考试快捷地址"
+  },
+  "incorrect": {
+    "message": "Salah",
+    "description": "考试快捷地址"
+  },
+  "quesOrder": {
+    "message": "Soal ke {n}, ",
+    "description": "考试快捷地址"
+  },
+  "saveOutText": {
+    "message": " Ada soal yang belum disimpan, yakin untuk keluar?",
+    "description": "考试快捷地址"
+  },
+  "bindDownload": {
+    "message": "Unduh Alat Konversi Format Pustaka Pertanyaan Moodle",
+    "description": "考试快捷地址"
+  },
+  "downloadMoodleTitle": {
+    "message": "Cara menggunakannya",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc1": {
+    "message": "1. Unduh dan instal alat konversi format (hanya sistem Windows).",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc2": {
+    "message": "2. Ekspor bank soal dari platform Moodle ke dalam file format xml (hanya mendukung pilihan ganda, penilaian, isi-yang-kosong, jawaban singkat).",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc3": {
+    "message": "3. Gunakan alat konversi format untuk mengonversi file xml yang diekspor oleh Moodle ke format Excel.",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc4": {
+    "message": "4. Gunakan fungsi impor batch ULearning untuk mengunggah file Excel dan menyelesaikan impor bank soal.",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoicesAll": {
+    "message": "{n} item dipilih",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst1": {
+    "message": "1. Dengan fungsi ini, Anda dapat mengekspor semua topik di folder saat ini dan subfoldernya.",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst2": {
+    "message": "2. Saat ini, ini hanya mendukung ekspor format Excel, dan tidak mendukung ekspor gambar, audio, video, dan lampiran lain dalam judul.",
+    "description": "考试快捷地址"
+  },
+  "startImport": {
+    "message": "Mulai ekspor",
+    "description": "考试快捷地址"
+  },
+  "queBankEmptyNew": {
+    "message": "Tidak ada pertanyaan yang memenuhi syarat yang ditemukan",
+    "description": "考试快捷地址"
+  },
+  "examUploadTipNew": {
+    "message": "Ketika memilih file, sistem akan keluar sementara dari layar penuh, harap selesaikan operasi pemilihan lampiran dan kembali dalam waktu 60 detik, kemudian klik pada ruang kosong pada halaman untuk kembali ke layar penuh, jika tidak, sistem akan menandai operasi ini sebagai meninggalkan pemeriksaan.",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip": {
+    "message": "Silakan menilai berdasarkan kisaran yang ditentukan",
+    "description": "考试快捷地址"
+  },
+  "textCount": {
+    "message": "{n} kata",
+    "description": "考试快捷地址"
+  },
+  "noSkipping": {
+    "message": "Melewatkan pertanyaan dilarang untuk ujian ini, jadi harap jawab secara berurutan.",
+    "description": "考试快捷地址"
+  },
+  "preQue": {
+    "message": "Sebelumnya",
+    "description": "考试快捷地址"
+  },
+  "nextQue": {
+    "message": "Berikutnya",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "Ini adalah akhir",
+    "description": "考试快捷地址"
+  },
+  "quitExam": {
+    "message": "Keluar dari ujian",
+    "description": "考试快捷地址"
+  },
+  "networkMsg1": {
+    "message": "Jaringan saat ini tidak stabil, dan terus menjawab pertanyaan dapat menyebabkan catatan jawaban hilang.",
+    "description": "考试快捷地址"
+  },
+  "networkMsg2": {
+    "message": "Jika jaringan tidak dapat dipulihkan sementara, disarankan untuk mundur dari ujian setelah mendapatkan persetujuan dari guru, dan kemudian mengatur pengambilan ulang di kemudian hari.",
+    "description": "考试快捷地址"
+  },
+  "submissionExam": {
+    "message": "Kumpul otomatis",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip1": {
+    "message": "Anda telah meninggalkan ujian untuk mencapai {n} kali, sesuai dengan pengaturan pemantauan ujian, Anda akan dipaksa untuk menyerahkan kertas.",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip2": {
+    "message": "Anda telah jauh dari ujian selama lebih dari {n} detik dan akan dipaksa untuk menyerahkan sesuai dengan pengaturan pemantauan ujian.",
+    "description": "考试快捷地址"
+  },
+  "submitingNew": {
+    "message": "Mengirimkan...",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTip": {
+    "message": "Sisakan {n} kali dan sistem akan memaksa rollover!",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTimeTip": {
+    "message": "Kali ini telah meninggalkan {n} detik, lebih dari {m} detik, sistem akan memaksa rollover!",
+    "description": "考试快捷地址"
+  },
+  "uploadFileType": {
+    "message": "Unggah lampiran",
+    "description": "考试快捷地址"
+  },
+  "uploadFinishTip": {
+    "message": "Setelah memilih lampiran, klik Lanjutkan menjawab pertanyaan untuk kembali ke ujian.",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUpload": {
+    "message": "Pindai kode untuk diunggah",
+    "description": "考试快捷地址"
+  },
+  "uploadByPhone": {
+    "message": "Pindai kode untuk diunggah",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc": {
+    "message": "Pindai kode QR ini untuk mengunggah file ke komputer Anda dari perangkat seluler Anda.",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc1": {
+    "message": "Kode QR {num} berlaku selama beberapa menit, harap buka kembali jendela pop-up setelah kedaluwarsa.",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip": {
+    "message": "Menggunakan perangkat seluler untuk memindai kode, atau memodifikasi pengidentifikasi jenis perangkat browser",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip1": {
+    "message": "Tautan telah kedaluwarsa",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "Pilih dari album",
+    "description": "考试快捷地址"
+  },
+  "selectFile": {
+    "message": "Pilih dokumen",
+    "description": "考试快捷地址"
+  },
+  "uploadFirst": {
+    "message": "Silakan unggah file terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "submitToPC": {
+    "message": "Kirim ke komputer",
+    "description": "考试快捷地址"
+  },
+  "submitFileSuccess": {
+    "message": "Unggah berhasil!",
+    "description": "考试快捷地址"
+  },
+  "submitFileFail": {
+    "message": "Unggah gagal!",
+    "description": "考试快捷地址"
+  },
+  "continueUpload": {
+    "message": "Lanjut unggah",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip1": {
+    "message": "Satu file tidak melebihi {size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip2": {
+    "message": "Unggah file {num} pada waktu maksimum",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "Ukuran file tidak boleh melebihi {size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip4": {
+    "message": "Unggah hingga {n} lampiran per pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip5": {
+    "message": "File sedang diunggah, harap tunggu hingga unggahan selesai sebelum mengirimkan",
+    "description": "考试快捷地址"
+  },
+  "exit": {
+    "message": "Keluar",
+    "description": "考试快捷地址"
+  },
+  "exitUploadTip": {
+    "message": "Dokumen tidak diserahkan, apakah Anda yakin untuk pergi?",
+    "description": "考试快捷地址"
+  },
+  "qrCodeOver": {
+    "message": "Kode QR telah kedaluwarsa, silakan klik {refresh}",
+    "description": "考试快捷地址"
+  },
+  "refresh": {
+    "message": "Memerah",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTipNew": {
+    "message": "Pengunggahan file atau transcoding gagal, silakan coba transcoding lalu unggah.",
+    "description": "考试快捷地址"
+  },
+  "publisher": {
+    "message": "Perilis",
+    "description": "考试快捷地址"
+  },
+  "examBatch": {
+    "message": "Sesi ujian",
+    "description": "考试快捷地址"
+  },
+  "examBatchNums": {
+    "message": "{n}",
+    "description": "考试快捷地址"
+  },
+  "examMonitorConsole": {
+    "message": "Pengawasan ujian",
+    "description": "考试快捷地址"
+  },
+  "enterCode": {
+    "message": "Silakan masukkan kode verifikasi alternatif untuk ujian",
+    "description": "考试快捷地址"
+  },
+  "monitorConsole": {
+    "message": "Meja pemantauan seluler ujian",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "Kode verifikasi telah kedaluwarsa",
+    "description": "考试快捷地址"
+  },
+  "answerTimeLimit": {
+    "message": "Jawabannya terbatas waktu",
+    "description": "考试快捷地址"
+  },
+  "answerTimes": {
+    "message": "{n} kali",
+    "description": "考试快捷地址"
+  },
+  "batchArrangement": {
+    "message": "Pengaturan batch ujian",
+    "description": "考试快捷地址"
+  },
+  "allBatchs": {
+    "message": "Semua sesi ujian",
+    "description": "考试快捷地址"
+  },
+  "allClasses": {
+    "message": "Semua kelas",
+    "description": "考试快捷地址"
+  },
+  "all": {
+    "message": "Semua",
+    "description": "考试快捷地址"
+  },
+  "notApproved": {
+    "message": "Akan dikoreksi",
+    "description": "考试快捷地址"
+  },
+  "readed": {
+    "message": "Telah dikoreksi",
+    "description": "考试快捷地址"
+  },
+  "notSubmitted": {
+    "message": "Belum kumpul",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "Silakan lihat dan setujui kertas ujian dari komputer Anda",
+    "description": "考试快捷地址"
+  },
+  "selectBatch": {
+    "message": "Memilih sesi",
+    "description": "考试快捷地址"
+  },
+  "selectClass": {
+    "message": "Pilih kelas",
+    "description": "考试快捷地址"
+  },
+  "totalBatch": {
+    "message": "{n} jumlah total sesi",
+    "description": "考试快捷地址"
+  },
+  "ownSpieltag": {
+    "message": "Lihat saja berapa kali kelas saya berada",
+    "description": "考试快捷地址"
+  },
+  "batchIndex": {
+    "message": "Session{index}",
+    "description": "考试快捷地址"
+  },
+  "totalNums": {
+    "message": "Jumlah total orang",
+    "description": "考试快捷地址"
+  },
+  "class": {
+    "message": "Kelas",
+    "description": "考试快捷地址"
+  },
+  "student": {
+    "message": "Mahasiswa",
+    "description": "考试快捷地址"
+  },
+  "signInCode": {
+    "message": "Kode check-in",
+    "description": "考试快捷地址"
+  },
+  "verificationCode": {
+    "message": "Nomor verifikasi cadangan",
+    "description": "考试快捷地址"
+  },
+  "notEnter": {
+    "message": "Belum masuk",
+    "description": "考试快捷地址"
+  },
+  "signedIn": {
+    "message": "Sudah absen",
+    "description": "考试快捷地址"
+  },
+  "haveEntered": {
+    "message": "Sudah masuk",
+    "description": "考试快捷地址"
+  },
+  "leave": {
+    "message": "Tinggalkan",
+    "description": "考试快捷地址"
+  },
+  "answering": {
+    "message": "Sedang menjawab",
+    "description": "考试快捷地址"
+  },
+  "handInExam": {
+    "message": "Telah kumpul",
+    "description": "考试快捷地址"
+  },
+  "answerTimes1": {
+    "message": "{n} Jawaban",
+    "description": "考试快捷地址"
+  },
+  "copyLink": {
+    "message": "Salin tautan",
+    "description": "考试快捷地址"
+  },
+  "wx": {
+    "message": "WeChat",
+    "description": "考试快捷地址"
+  },
+  "shareTo": {
+    "message": "Bagikan ke",
+    "description": "考试快捷地址"
+  },
+  "behaviorRecord": {
+    "message": "Rekaman pemantauan",
+    "description": "考试快捷地址"
+  },
+  "exe1": {
+    "message": "Klien layar kunci",
+    "description": "考试快捷地址"
+  },
+  "notSignIn": {
+    "message": "Belum absen",
+    "description": "考试快捷地址"
+  },
+  "intoPage": {
+    "message": "Masuk halaman",
+    "description": "考试快捷地址"
+  },
+  "leavePage": {
+    "message": "Tinggalkan halaman",
+    "description": "考试快捷地址"
+  },
+  "leavePageTimeTip": {
+    "message": "Sisakan waktu > 5 detik",
+    "description": "考试快捷地址"
+  },
+  "replaceDevice": {
+    "message": "Ganti perangkat",
+    "description": "考试快捷地址"
+  },
+  "replaceIp": {
+    "message": "Ganti IP",
+    "description": "考试快捷地址"
+  },
+  "commitExam": {
+    "message": "Kumpul kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip1": {
+    "message": "Setengah jalan untuk mencapai jumlah waktu yang ditentukan, sistem memaksa pengiriman kertas.",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip2": {
+    "message": "Tinggalkan di tengah-tengah jangka waktu yang ditentukan, sistem memaksa pengiriman volume",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip3": {
+    "message": "Sistem secara otomatis membentuk",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "Ketika waktu untuk menjawab pertanyaan habis, sistem secara otomatis menutup volume",
+    "description": "考试快捷地址"
+  },
+  "signinCode": {
+    "message": "Kode masuk ujian",
+    "description": "考试快捷地址"
+  },
+  "refreshed": {
+    "message": "Segar",
+    "description": "考试快捷地址"
+  },
+  "refreshInterval": {
+    "message": "Interval refresh",
+    "description": "考试快捷地址"
+  },
+  "intervalTime": {
+    "message": "{seconds} detik",
+    "description": "考试快捷地址"
+  },
+  "signinCodeTip": {
+    "message": "1. Silakan masuk ke APP ULearning untuk memindai kode untuk masuk. {br} 2. Setelah masuk, silakan gunakan peralatan untuk memasukkan jawaban tes, Anda tidak dapat mengganti peralatan di tengah, keadaan khusus, silakan tanyakan kepada pengawas untuk penggantian kode verifikasi.",
+    "description": "考试快捷地址"
+  },
+  "examVerificationCode": {
+    "message": "Kode verifikasi ujian",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "Kandidat yang tidak dapat mengikuti tes karena keadaan khusus dapat menggunakan kode verifikasi ini untuk masuk, termasuk: {br}- Ujian dengan pemantauan perangkat/IP diaktifkan, kandidat perlu mengubah perangkat atau IP mereka di tengah jalan. {br1}- Ujian untuk pengenalan wajah diaktifkan, dan kandidat tidak dapat lulus verifikasi wajah",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "Kode verifikasi valid dalam {minute}, harap segarkan dan dapatkan kembali setelah pembatalan.",
+    "description": "考试快捷地址"
+  },
+  "noExamTip": {
+    "message": "Tidak menemukan ujian terkait",
+    "description": "考试快捷地址"
+  },
+  "noMore": {
+    "message": "Tidak ada lagi",
+    "description": "考试快捷地址"
+  },
+  "errorTip": {
+    "message": "Permintaan gagal, silakan muat ulang",
+    "description": "考试快捷地址"
+  },
+  "noStudentTip": {
+    "message": "Tidak ada data yang ditemukan.",
+    "description": "考试快捷地址"
+  },
+  "pulling": {
+    "message": "Tarik ke bawah untuk menyegarkan...",
+    "description": "考试快捷地址"
+  },
+  "loosing": {
+    "message": "Rilis untuk menyegarkan...",
+    "description": "考试快捷地址"
+  },
+  "loading": {
+    "message": "Sedang memuat...",
+    "description": "考试快捷地址"
+  },
+  "enterTip": {
+    "message": "Masukkan nomor atau nama siswa Anda",
+    "description": "考试快捷地址"
+  },
+  "noData": {
+    "message": "Belum ada data",
+    "description": "考试快捷地址"
+  },
+  "copySuccess1": {
+    "message": "Telah disalin",
+    "description": "考试快捷地址"
+  },
+  "shareTip": {
+    "message": "Silakan instal klien WeChat terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "tokenTip": {
+    "message": "Anda sudah masuk di terminal lain.",
+    "description": "考试快捷地址"
+  },
+  "scanTip": {
+    "message": "Silakan pindai kode QR yang benar",
+    "description": "考试快捷地址"
+  },
+  "forceSubmit": {
+    "message": "Bungkus terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip": {
+    "message": "Guru mengakhiri ujian terlebih dahulu, itu akan diserahkan secara otomatis setelah {seconds} detik, tolong jangan tinggalkan atau tutup halaman.",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip5": {
+    "message": "Guru mengumpulkan kertas terlebih dahulu",
+    "description": "考试快捷地址"
+  },
+  "intoExamTime": {
+    "message": "Waktu masuk ujian",
+    "description": "考试快捷地址"
+  },
+  "answerUsedTime": {
+    "message": "Waktu yang digunakan",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip1": {
+    "message": "Siswa sedang menjawab pertanyaan. Dengan menggunakan fitur ini, siswa akan dipaksa untuk mengirimkan lebih awal. Mungkin ada penundaan sekitar 10 detik hingga 1 menit. Operasi ini tidak dapat dibatalkan, jadi harap gunakan dengan hati-hati.",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip3": {
+    "message": "Apakah Anda yakin untuk mengakhiri lebih awal?",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitSuccess": {
+    "message": "Permintaan berhasil dikirim",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitFail": {
+    "message": "Prewinding gagal",
+    "description": "考试快捷地址"
+  },
+  "forceSubmiting": {
+    "message": "Memutar",
+    "description": "考试快捷地址"
+  },
+  "screenshot": {
+    "message": "Tangkapan layar",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip6": {
+    "message": "Screenshot pelanggaran, pengiriman terpaksa oleh sistem.",
+    "description": "考试快捷地址"
+  },
+  "questionTrain": {
+    "message": "Pelatihan bank soal",
+    "description": "考试快捷地址"
+  },
+  "questionTrainManage": {
+    "message": "Manajemen pelatihan bank pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "trainProgress": {
+    "message": "Kemajuan pelatihan",
+    "description": "考试快捷地址"
+  },
+  "importQue": {
+    "message": "Mengimpor judul",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg1": {
+    "message": "Impor berhasil, dan pertanyaan {n} ditambahkan.",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg2": {
+    "message": "Pelatihan bank soal hanya mendukung pertanyaan objektif dan pertanyaan isian, dan secara otomatis melewati jenis pertanyaan yang tidak didukung.",
+    "description": "考试快捷地址"
+  },
+  "trainMsg": {
+    "message": "Silakan pilih pertanyaan yang terbuka untuk siswa untuk dipraktikkan dari bank soal individu / sekolah dan impor ke bank soal pelatihan saat ini. Hanya administrator kursus yang dapat mengimpor/menghapus pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "deleteBank": {
+    "message": "Kosongkan bank soal",
+    "description": "考试快捷地址"
+  },
+  "deleteBankMsg": {
+    "message": "Apakah Anda yakin ingin mengosongkan bank soal?",
+    "description": "考试快捷地址"
+  },
+  "previewError": {
+    "message": "Pertanyaan telah dihapus dari kumpulan",
+    "description": "考试快捷地址"
+  },
+  "batchDelete": {
+    "message": "Penghapusan massal",
+    "description": "考试快捷地址"
+  },
+  "queNum": {
+    "message": "Jumlah pertanyaan: {n}",
+    "description": "考试快捷地址"
+  },
+  "answeredNum": {
+    "message": "Jumlah jawaban",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "Waktu pengiriman rata-rata",
+    "description": "考试快捷地址"
+  },
+  "firstAccuracy": {
+    "message": "Akurasi pertama kali",
+    "description": "考试快捷地址"
+  },
+  "operation": {
+    "message": "Pengoperasian",
+    "description": "考试快捷地址"
+  },
+  "removeQue": {
+    "message": "Buka",
+    "description": "考试快捷地址"
+  },
+  "removeQueTitle": {
+    "message": "Menghapus judul",
+    "description": "考试快捷地址"
+  },
+  "removeQueMsg": {
+    "message": "Apakah Anda yakin ingin menghapus pertanyaan yang dipilih?",
+    "description": "考试快捷地址"
+  },
+  "previewQue": {
+    "message": "Mempratinjau judul",
+    "description": "考试快捷地址"
+  },
+  "searchStu": {
+    "message": "Cari siswa",
+    "description": "考试快捷地址"
+  },
+  "export": {
+    "message": "Ekspor",
+    "description": "考试快捷地址"
+  },
+  "studentID": {
+    "message": "NIM",
+    "description": "考试快捷地址"
+  },
+  "studentName": {
+    "message": "Nama lengkap",
+    "description": "考试快捷地址"
+  },
+  "answerProgress": {
+    "message": "Jumlah jawaban (kemajuan)",
+    "description": "考试快捷地址"
+  },
+  "errorRate": {
+    "message": "Jumlah jawaban yang salah (proporsi)",
+    "description": "考试快捷地址"
+  },
+  "progress": {
+    "message": "Progres",
+    "description": "考试快捷地址"
+  },
+  "rightRate": {
+    "message": "Tingkat akurasi",
+    "description": "考试快捷地址"
+  },
+  "practice": {
+    "message": "Latihan berurutan",
+    "description": "考试快捷地址"
+  },
+  "errorQuestion": {
+    "message": "Pertanyaan yang salah",
+    "description": "考试快捷地址"
+  },
+  "bankClosed": {
+    "message": "Kolam ditutup",
+    "description": "考试快捷地址"
+  },
+  "noBank": {
+    "message": "Bank soal tidak ada",
+    "description": "考试快捷地址"
+  },
+  "notAnswerNum": {
+    "message": "Tidak dijawab",
+    "description": "考试快捷地址"
+  },
+  "answerErrorNum": {
+    "message": "Jawaban yang salah",
+    "description": "考试快捷地址"
+  },
+  "errorRate1": {
+    "message": "Tingkat kesalahan",
+    "description": "考试快捷地址"
+  },
+  "submit": {
+    "message": "Kumpul",
+    "description": "考试快捷地址"
+  },
+  "answerCard": {
+    "message": "Kartu jawaban",
+    "description": "考试快捷地址"
+  },
+  "questionDelete": {
+    "message": "Pertanyaan telah dihapus, silakan refresh halaman dan coba lagi",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteTip": {
+    "message": "Judul telah dihapus",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteFail": {
+    "message": "Penghapusan pertanyaan gagal",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "Tidak ada judul",
+    "description": "考试快捷地址"
+  },
+  "trainPageTip": {
+    "message": "Pelatihan bank soal saat ini hanya didukung di komputer",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip": {
+    "message": "Sistem telah mendeteksi bahwa Anda telah mengikuti ujian dari halaman lain, dan jika Anda perlu masuk kembali, silakan tutup halaman jawaban lainnya.",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip1": {
+    "message": "Jika Anda mengalami situasi yang tidak biasa, mintalah kode verifikasi kepada pengajar dan gunakan kode verifikasi untuk masuk.",
+    "description": "考试快捷地址"
+  },
+  "submitSuccessTip": {
+    "message": "Serah terima berhasil",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip7": {
+    "message": "Ketika waktu habis, sistem secara otomatis mengirimkan makalah",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip4": {
+    "message": "Sistem telah menyimpan sementara catatan jawaban secara lokal, lalu mencoba mengirimkannya secara manual lagi.",
+    "description": "考试快捷地址"
+  },
+  "batchRemark": {
+    "message": "Ulasan batch",
+    "description": "考试快捷地址"
+  },
+  "lateTime": {
+    "message": "Waktu telat",
+    "description": "考试快捷地址"
+  },
+  "lateTimeTip": {
+    "message": "Menit di luar {minute} tidak diperbolehkan",
+    "description": "考试快捷地址"
+  },
+  "submitTime": {
+    "message": "Waktu giliran",
+    "description": "考试快捷地址"
+  },
+  "submitTimeTip": {
+    "message": "Makalah tidak diperbolehkan dalam {minute} menit",
+    "description": "考试快捷地址"
+  },
+  "usedPaper": {
+    "message": "Kertas ujian yang digunakan",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip1": {
+    "message": "{n} ",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip2": {
+    "message": "Volume grup acak",
+    "description": "考试快捷地址"
+  },
+  "submitRecord": {
+    "message": "Kirim catatan",
+    "description": "考试快捷地址"
+  },
+  "times": {
+    "message": "Jawaban {n}",
+    "description": "考试快捷地址"
+  },
+  "remarkPageTip": {
+    "message": "Dalam status Persetujuan, hanya topik yang akan ditinjau yang ditampilkan.",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip1": {
+    "message": "Silakan masukkan nomor {num}",
+    "description": "考试快捷地址"
+  },
+  "choiceRemarkPaper": {
+    "message": "Silakan pilih kertas ujian yang ingin Anda tinjau",
+    "description": "考试快捷地址"
+  },
+  "subQue": {
+    "message": "Pertanyaan subjektif:",
+    "description": "考试快捷地址"
+  },
+  "remarkProgress": {
+    "message": "Kemajuan Persetujuan:",
+    "description": "考试快捷地址"
+  },
+  "remarkMsg": {
+    "message": "Catatan: Jika siswa mengirimkan beberapa rekaman, peninjauan massal hanya akan menampilkan yang terbaru",
+    "description": "考试快捷地址"
+  },
+  "remarkQueEmpty": {
+    "message": "Tidak ada pertanyaan dalam makalah ini yang memerlukan penilaian manual",
+    "description": "考试快捷地址"
+  },
+  "noScore": {
+    "message": "Belum dinilai",
+    "description": "考试快捷地址"
+  },
+  "noStudentSubmit": {
+    "message": "Tidak ada kiriman siswa",
+    "description": "考试快捷地址"
+  },
+  "anonymous": {
+    "message": "Anonim",
+    "description": "考试快捷地址"
+  },
+  "mark1": {
+    "message": "Catatan",
+    "description": "考试快捷地址"
+  },
+  "inputContent": {
+    "message": "Input konten",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "Berputar",
+    "description": "考试快捷地址"
+  },
+  "showDetail": {
+    "message": "Lihat rincian",
+    "description": "考试快捷地址"
+  },
+  "continueRemark": {
+    "message": "Lanjutkan untuk meninjau",
+    "description": "考试快捷地址"
+  },
+  "remarkTip1": {
+    "message": "Pertanyaan {n} belum ditinjau, apakah Anda yakin akan mengakhiri ulasan?",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip1": {
+    "message": "Selamat, semua makalah telah disetujui!",
+    "description": "考试快捷地址"
+  },
+  "remarkBackTip": {
+    "message": "Apakah saya perlu menyetujui kembali dan mengonfirmasi keberangkatan saya setelah berangkat lagi?",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn1": {
+    "message": "Jangan pergi dulu",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn2": {
+    "message": "Yakin untuk keluar",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes1": {
+    "message": "Jumlah pengiriman yang diizinkan",
+    "description": "考试快捷地址"
+  },
+  "scoreTips1": {
+    "message": "Silahkan masukkan nilai",
+    "description": "考试快捷地址"
+  },
+  "openLockScreen": {
+    "message": "Memulai klien layar kunci",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg": {
+    "message": "Halaman ini akan membangkitkan klien layar kunci",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg1": {
+    "message": "Jika klien tidak diinstal atau tidak dapat melompat secara normal, unduh dan instal klien terlebih dahulu.",
+    "description": "考试快捷地址"
+  },
+  "clickHere": {
+    "message": "Klik di sini",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg2": {
+    "message": "Jika sudah terinstal, silakan {clickHere}, dan ketika halaman web muncul kotak dialog, klik tombol [Buka klien layar kunci].",
+    "description": "考试快捷地址"
+  },
+  "downloadLockScreen": {
+    "message": "Unduh klien layar kunci",
+    "description": "考试快捷地址"
+  },
+  "goToExamDetile": {
+    "message": "Kembali ke detail ujian",
+    "description": "考试快捷地址"
+  },
+  "ltiTip3": {
+    "message": "Catatan: Jika klien tidak dapat masuk secara otomatis setelah memulai, Anda dapat mencoba memasukkan akun ULearning untuk masuk, nama pengguna Anda adalah: {loginName}, dan kata sandi awal sama dengan nama pengguna.",
+    "description": "考试快捷地址"
+  },
+  "allowedTimesNew": {
+    "message": "Jumlah pengiriman yang diizinkan",
+    "description": "考试快捷地址"
+  },
+  "usedTimesNew": {
+    "message": "Waktu dikirim",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNumNew": {
+    "message": "Jumlah rata-rata pengiriman",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "Foto",
+    "description": "考试快捷地址"
+  },
+  "ps": {
+    "message": "5 item/halaman",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenError": {
+    "message": "Klien layar kunci tidak terdeteksi, harap konfirmasi bahwa itu diinstal dengan benar. Jika penginstalan masih belum dimulai, Anda dapat mencoba mencopot pemasangan dan menginstal ulang versi terbaru.",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "Waktu revisi terakhir",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip2": {
+    "message": "Jika Anda yakin tidak memiliki beberapa halaman jawaban yang terbuka secara bersamaan, atau jika Anda telah menutup halaman lain dan Anda masih diminta, {closeBrowser} lalu masuk kembali ke ujian.",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "Tutup browser Anda",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "Jika Anda mengalami situasi yang tidak biasa, mintalah kode verifikasi kepada pengajar dan gunakan kode verifikasi untuk masuk.",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "Kertas ujian/bank soal",
+    "description": "考试快捷地址"
+  },
+  "paperBank": {
+    "message": "Kumpulan kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "selectPaper": {
+    "message": "Pilih kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "selectedPaper": {
+    "message": "{n} item telah dipilih",
+    "description": "考试快捷地址"
+  },
+  "myExamPaper": {
+    "message": "Kertas ujian saya",
+    "description": "考试快捷地址"
+  },
+  "schoolExamPaper": {
+    "message": "Kertas ujian universitas ini",
+    "description": "考试快捷地址"
+  },
+  "archivePwdSet": {
+    "message": "Mengatur atau mengubah kata sandi tahan",
+    "description": "考试快捷地址"
+  },
+  "addExamPaper": {
+    "message": "Tambah kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "aotoGroupExamPaper": {
+    "message": "Pengelompokan kertas ujian secara otomatis",
+    "description": "考试快捷地址"
+  },
+  "searchPaper": {
+    "message": "Cari folder / kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "batchAction": {
+    "message": "Pengoperasian batch",
+    "description": "考试快捷地址"
+  },
+  "updateDate": {
+    "message": "Waktu pembaruan",
+    "description": "考试快捷地址"
+  },
+  "name": {
+    "message": "Nama",
+    "description": "考试快捷地址"
+  },
+  "shareFolder": {
+    "message": "Folder bersama",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "Disegel",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "Tidak biasa",
+    "description": "考试快捷地址"
+  },
+  "inputFolderTip": {
+    "message": "Silahkan masukkan nama folder",
+    "description": "考试快捷地址"
+  },
+  "createShareFolder": {
+    "message": "Membuat folder bersama",
+    "description": "考试快捷地址"
+  },
+  "searchShareFolder": {
+    "message": "Mencari folder bersama",
+    "description": "考试快捷地址"
+  },
+  "permissionSettings": {
+    "message": "Pengaturan akses",
+    "description": "考试快捷地址"
+  },
+  "exitShare": {
+    "message": "Keluar dari berbagi",
+    "description": "考试快捷地址"
+  },
+  "exitSuccess": {
+    "message": "Pintu keluar berhasil",
+    "description": "考试快捷地址"
+  },
+  "exitFail": {
+    "message": "Keluar gagal",
+    "description": "考试快捷地址"
+  },
+  "actionLog": {
+    "message": "Log operasi",
+    "description": "考试快捷地址"
+  },
+  "shareFolderDesc": {
+    "message": "Folder bersama mendukung kolaborasi multi-orang, dan Anda dapat mengundang guru lain untuk berpartisipasi dalam manajemen setelah pembuatan.",
+    "description": "考试快捷地址"
+  },
+  "usePermission": {
+    "message": "Hak Penggunaan",
+    "description": "考试快捷地址"
+  },
+  "usePermission1": {
+    "message": "Hanya tersedia untuk anggota tim manajemen",
+    "description": "考试快捷地址"
+  },
+  "usePermission2": {
+    "message": "Tersedia di seluruh sekolah",
+    "description": "考试快捷地址"
+  },
+  "canCopy": {
+    "message": "Izinkan konsumen membuat salinan",
+    "description": "考试快捷地址"
+  },
+  "managementTeam": {
+    "message": "Tim manajemen",
+    "description": "考试快捷地址"
+  },
+  "teamNums": {
+    "message": "{n} orang",
+    "description": "考试快捷地址"
+  },
+  "addMembers": {
+    "message": "Menambahkan anggota",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "pemilik",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "Semua universitas",
+    "description": "考试快捷地址"
+  },
+  "searchTeachers": {
+    "message": "Cari pengajar",
+    "description": "考试快捷地址"
+  },
+  "jobNumber": {
+    "message": "Nomor pekerjaan",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "Universitas",
+    "description": "考试快捷地址"
+  },
+  "removeMember": {
+    "message": "Buka",
+    "description": "考试快捷地址"
+  },
+  "removeMemberNote": {
+    "message": "Menghapus anggota",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip": {
+    "message": "Anggota yang dihapus tidak akan lagi dapat melihat dan menggunakan kertas di folder bersama.",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip1": {
+    "message": "Apakah Anda yakin ingin menghapus {name}?",
+    "description": "考试快捷地址"
+  },
+  "createdDate": {
+    "message": "Waktu pembuatan",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "Jumlah kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "Pindah ke",
+    "description": "考试快捷地址"
+  },
+  "moveTip": {
+    "message": "Objek yang dipindahkan berisi kertas ujian atau folder yang dibuat oleh orang lain hanya dapat dipindahkan dalam folder bersama saat ini.",
+    "description": "考试快捷地址"
+  },
+  "questionMoveTip": {
+    "message": "Objek yang dipindahkan berisi topik atau folder yang dibuat oleh orang lain, dan hanya dapat dipindahkan dalam folder bersama saat ini.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "Kertas ujian telah digunakan dalam ujian dan tidak dapat dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip1": {
+    "message": "{name} telah digunakan dalam ujian dan tidak dapat dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip2": {
+    "message": "{name} bukan pencipta dan tidak dapat dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip3": {
+    "message": "{nama} tidak ada",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "Hapus kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "Hapus Folder",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro1": {
+    "message": "Jika Anda memilih Simpan kertas ujian, hapus hanya folder, kertas ujian yang terdapat dalam folder akan dipindahkan ke direktori root setelah penghapusan.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro2": {
+    "message": "Jika Anda memilih Hapus Semua, kertas ujian di folder juga akan dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro3": {
+    "message": "Simpan kertas ujian, hanya menghapus folder",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip": {
+    "message": "Folder tersebut berisi kertas ujian yang dibuat oleh orang lain dan tidak dapat dihapus secara langsung.<br />Jika Anda ingin menghapusnya, hapus dulu kertas ujian yang dibuat oleh orang lain.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip1": {
+    "message": "Folder berisi kertas kuis bekas dan tidak dapat dihapus.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip2": {
+    "message": "Folder tersebut berisi kertas ujian yang tidak ada dan tidak dapat dihapus secara langsung.",
+    "description": "考试快捷地址"
+  },
+  "batchDelete1": {
+    "message": "Hapus secara massal",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelected": {
+    "message": "Apakah Anda yakin untuk menghapus item {n} yang dipilih secara massal?",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip": {
+    "message": "Item yang dipilih berisi kertas ujian yang dibuat oleh orang lain dan tidak dapat dihapus secara massal.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip1": {
+    "message": "Item yang dipilih berisi kertas yang telah digunakan dalam ujian dan tidak dapat dihapus secara massal.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip2": {
+    "message": "Item yang dipilih berisi kertas ujian yang tidak ada dan tidak dapat dihapus secara massal.",
+    "description": "考试快捷地址"
+  },
+  "noPaperTip": {
+    "message": "Tidak ada dokumen yang memenuhi syarat ditemukan",
+    "description": "考试快捷地址"
+  },
+  "noShareFolderTip": {
+    "message": "Tidak ada folder bersama yang memenuhi syarat yang ditemukan",
+    "description": "考试快捷地址"
+  },
+  "loadErrorTip": {
+    "message": "Jika jaringan tidak normal, silakan klik {reload}",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "Memuat ulang",
+    "description": "考试快捷地址"
+  },
+  "copySuccess2": {
+    "message": "Berhasil disalin",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolder": {
+    "message": "Menghapus folder bersama",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip1": {
+    "message": "Jika Anda menghapus folder bersama, subfolder dan kertas ujian yang terdapat di dalamnya akan dipindahkan kembali ke direktori pribadi pembuatnya dan tidak akan dihapus secara serempak.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip3": {
+    "message": "Jika Anda menghapus folder bersama, subfolder dan pertanyaan yang terdapat di dalamnya akan dipindahkan kembali ke direktori pribadi pembuatnya dan tidak akan dihapus secara serempak.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip2": {
+    "message": "Apakah Anda yakin ingin menghapus folder bersama ini?",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip": {
+    "message": "Setelah Anda meninggalkannya, Anda tidak akan lagi dapat melihat dan menggunakan kertas di folder bersama.",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip1": {
+    "message": "Apakah Anda yakin ingin memilih untuk tidak berbagi?",
+    "description": "考试快捷地址"
+  },
+  "inputPw": {
+    "message": "Masukkan kata sandi",
+    "description": "考试快捷地址"
+  },
+  "inputCheckPw": {
+    "message": "Silahkan masukkan kata sandi",
+    "description": "考试快捷地址"
+  },
+  "forgetPw": {
+    "message": "Lupa kata sandi",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "Verifikasi identitas",
+    "description": "考试快捷地址"
+  },
+  "authenticationMethods": {
+    "message": "Cara verifikasi",
+    "description": "考试快捷地址"
+  },
+  "mobileSMS": {
+    "message": "SMS",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "Email",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "Captcha grafis",
+    "description": "考试快捷地址"
+  },
+  "emailCaptcha": {
+    "message": "Kode verifikasi email",
+    "description": "考试快捷地址"
+  },
+  "SMSCaptcha": {
+    "message": "Kode verifikasi SMS",
+    "description": "考试快捷地址"
+  },
+  "getCaptcha": {
+    "message": "Dapatkan kode verifikasi",
+    "description": "考试快捷地址"
+  },
+  "reacquiredSeconds": {
+    "message": "{s} detik kemudian",
+    "description": "考试快捷地址"
+  },
+  "setLockPw": {
+    "message": "Mengatur kata sandi tahan",
+    "description": "考试快捷地址"
+  },
+  "updateLockPw": {
+    "message": "Mengubah kata sandi tahan",
+    "description": "考试快捷地址"
+  },
+  "oldPw": {
+    "message": "Kata sandi lama",
+    "description": "考试快捷地址"
+  },
+  "newPw": {
+    "message": "Kata sandi baru",
+    "description": "考试快捷地址"
+  },
+  "newPwAgain": {
+    "message": "Masukkan kata sandi baru lagi",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPw": {
+    "message": "Menghapus kata sandi tahan",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "Masuk kembali",
+    "description": "考试快捷地址"
+  },
+  "setLockPwTip": {
+    "message": "Setelah mengatur kata sandi arsip, Anda dapat menyegel kertas atau folder kuis yang ditentukan, dan kertas kuis atau folder yang disimpan perlu memasukkan kata sandi untuk melihat atau membuka segel.",
+    "description": "考试快捷地址"
+  },
+  "inputCodeTip": {
+    "message": "Silahkan masukkan no. verifikasi",
+    "description": "考试快捷地址"
+  },
+  "lockTip": {
+    "message": "Akun Anda belum ditautkan ke ponsel atau alamat email, jika Anda lupa kata sandi Anda, harap ikat alamat telepon atau email Anda ke profil Anda terlebih dahulu.",
+    "description": "考试快捷地址"
+  },
+  "bindBtn": {
+    "message": "Pergi mengikat",
+    "description": "考试快捷地址"
+  },
+  "pwNotSame": {
+    "message": "Kata sandi yang dimasukkan dua kali tidak konsisten",
+    "description": "考试快捷地址"
+  },
+  "pwError": {
+    "message": "Kata sandi salah",
+    "description": "考试快捷地址"
+  },
+  "pwError1": {
+    "message": "Kata sandi harus 6-16 digit atau huruf",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPwTip": {
+    "message": "Setelah menghapus kata sandi yang diarsipkan, semua kertas ujian dan folder yang disegel akan dibuka.",
+    "description": "考试快捷地址"
+  },
+  "captchaError": {
+    "message": "Kesalahan captcha grafis",
+    "description": "考试快捷地址"
+  },
+  "inputCaptcha": {
+    "message": "Silakan masukkan kode grafis",
+    "description": "考试快捷地址"
+  },
+  "codeError": {
+    "message": "Kode verifikasi salah",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid1": {
+    "message": "Kode verifikasi telah kedaluwarsa, silakan ambil",
+    "description": "考试快捷地址"
+  },
+  "inputPasswordAgain": {
+    "message": "Ulang kata sandi",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "Kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "teamsMaxCount": {
+    "message": "Maksimum {n} anggota dapat ditambahkan",
+    "description": "考试快捷地址"
+  },
+  "selectPaperIntro": {
+    "message": "Pilih kertas kuis dan impor pertanyaan dari kertas kuis ke direktori bank pertanyaan saat ini, pilih hingga {n} set kertas kuis sekaligus.",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip": {
+    "message": "Silahkan pilih kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip1": {
+    "message": "Pilih hingga {n} set kertas kuis sekaligus",
+    "description": "考试快捷地址"
+  },
+  "insertSuccess": {
+    "message": "Impor berhasil",
+    "description": "考试快捷地址"
+  },
+  "insertFail": {
+    "message": "Gagal mengimpor",
+    "description": "考试快捷地址"
+  },
+  "allPaper": {
+    "message": "Semua kertas ujian",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "Statistik",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[0]": {
+    "message": "Urutan default",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[1]": {
+    "message": "Yang paling tertagih",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[2]": {
+    "message": "Topik terbanyak",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[3]": {
+    "message": "Terakhir diperbaharui",
+    "description": "考试快捷地址"
+  },
+  "searchBank": {
+    "message": "Cari bank soal",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "Sumber",
+    "description": "考试快捷地址"
+  },
+  "questionNums": {
+    "message": "Jumlah pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "updateTime": {
+    "message": "Waktu pembaruan terakhir",
+    "description": "考试快捷地址"
+  },
+  "timeOver": {
+    "message": "Kedaluwarsa",
+    "description": "考试快捷地址"
+  },
+  "deadLine": {
+    "message": "Berlaku sampai",
+    "description": "考试快捷地址"
+  },
+  "collect": {
+    "message": "Favorite",
+    "description": "考试快捷地址"
+  },
+  "cancelCollect": {
+    "message": "Tidak favorit",
+    "description": "考试快捷地址"
+  },
+  "requestSuccess": {
+    "message": "{msg} sukses",
+    "description": "考试快捷地址"
+  },
+  "requestFail": {
+    "message": "{msg} gagal",
+    "description": "考试快捷地址"
+  },
+  "noShareBank": {
+    "message": "Kolam renang yang tidak cocok ditemukan",
+    "description": "考试快捷地址"
+  },
+  "shareBankTip": {
+    "message": "Bank soal bersama yang diimpor dari luar tersedia untuk semua guru di sekolah.",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip": {
+    "message": "Folder bersama telah ditingkatkan!",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip1": {
+    "message": "Versi baru Folder Bersama memungkinkan guru bekerja sama sebagai tim untuk mengelola makalah atau pertanyaan dalam folder yang sama. Jika Anda perlu terus berbagi kertas ujian atau pertanyaan dengan guru lain, Anda dapat membuat folder di [Folder Bersama], mengatur anggota tim berbagi, dan memindahkan konten yang akan dibagikan ke folder terkait.",
+    "description": "考试快捷地址"
+  },
+  "updateDesc": {
+    "message": "Deskripsi pembaruan:",
+    "description": "考试快捷地址"
+  },
+  "paperUpdateDesc": {
+    "message": "Fungsi asli [Kertas Ujian Sekolah Kami] dan [Bagikan Kertas Ujian] telah offline, silakan gunakan [Folder Bersama] di [Kertas Ujian Saya] agar tim guru dapat membagikan kertas ujian.",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "Pintu Masuk Legacy",
+    "description": "考试快捷地址"
+  },
+  "questionUpdateDesc": {
+    "message": "Fungsi asli [Bank Soal Sekolah Lokal] dan [Bank Soal Bersama] telah offline, silakan gunakan [Folder Bersama] di [Bank Soal Saya] agar guru dapat berbagi pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip1": {
+    "message": "Kertas atau folder ujian tidak ada",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip4": {
+    "message": "Pertanyaan atau folder tidak ada",
+    "description": "考试快捷地址"
+  },
+  "mobileGoBack": {
+    "message": "Kembali",
+    "description": "考试快捷地址"
+  },
+  "quitCheckAll": {
+    "message": "Batalkan pilihan",
+    "description": "考试快捷地址"
+  },
+  "notAllowCopy": {
+    "message": "Replikasi tidak diizinkan",
+    "description": "考试快捷地址"
+  },
+  "isArchiveTip": {
+    "message": "Folder yang saat ini dibagikan telah diarsipkan.",
+    "description": "考试快捷地址"
+  },
+  "moveQue": {
+    "message": "Memindahkan pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "createQue": {
+    "message": "Membuat pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "appCreateQueMsg": {
+    "message": "Terminal seluler tidak mendukung pembuatan jenis pertanyaan lain, harap buat dari komputer.",
+    "description": "考试快捷地址"
+  },
+  "saveCreateQue": {
+    "message": "Simpan dan lanjutkan membuat pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "submitQue": {
+    "message": "Selesai membuat",
+    "description": "考试快捷地址"
+  },
+  "queScoreError": {
+    "message": "Skor harus antara 0 dan 100, dengan satu tempat desimal",
+    "description": "考试快捷地址"
+  },
+  "saveQue": {
+    "message": "Simpan pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "choicePict": {
+    "message": "Pilih Album",
+    "description": "考试快捷地址"
+  },
+  "choicePict1": {
+    "message": "Pilih dari album",
+    "description": "考试快捷地址"
+  },
+  "moveMsg": {
+    "message": "Objek yang dipindahkan berisi pertanyaan yang dibuat oleh orang lain, dan hanya dapat dipindahkan dalam folder bersama saat ini.",
+    "description": "考试快捷地址"
+  },
+  "noFolder": {
+    "message": "Tidak ada subfolder",
+    "description": "考试快捷地址"
+  },
+  "choiceMsg": {
+    "message": "Klik pada huruf opsi untuk mengaturnya ke jawaban yang benar",
+    "description": "考试快捷地址"
+  },
+  "setAnswer": {
+    "message": "Tetapkan jawabannya",
+    "description": "考试快捷地址"
+  },
+  "changeTabMsg": {
+    "message": "Saat Anda beralih jenis pertanyaan, konten yang diedit tidak disimpan. Apakah Anda yakin tentang saklar?",
+    "description": "考试快捷地址"
+  },
+  "goBackMsg": {
+    "message": "Setelah kembali, konten pertanyaan yang diedit tidak akan disimpan, apakah Anda yakin akan mengembalikannya?",
+    "description": "考试快捷地址"
+  },
+  "optionContentNew": {
+    "message": "Silahkan masukkan konten pilihan",
+    "description": "考试快捷地址"
+  },
+  "soundRecording": {
+    "message": "Klik untuk mulai merekam",
+    "description": "考试快捷地址"
+  },
+  "soundRecording1": {
+    "message": "Sedang merekam, klik gelombang untuk berhenti",
+    "description": "考试快捷地址"
+  },
+  "soundRecording2": {
+    "message": "Unggah ulang",
+    "description": "考试快捷地址"
+  },
+  "soundRecording3": {
+    "message": "Catatan tambahan, tidak harus diisi, tidak lebih dari 200 kata",
+    "description": "考试快捷地址"
+  },
+  "insertQue": {
+    "message": "Menyisipkan item isian yang kosong",
+    "description": "考试快捷地址"
+  },
+  "deleQueNote": {
+    "message": "Apakah Anda yakin ingin menghapus pertanyaan?",
+    "description": "考试快捷地址"
+  },
+  "imgloading": {
+    "message": "Gambar sedang diunggah",
+    "description": "考试快捷地址"
+  },
+  "fileLoading": {
+    "message": "Ada file yang sedang dalam proses diunggah, silakan unggah nanti",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle": {
+    "message": "Pertanyaan cerdas AI",
+    "description": "考试快捷地址"
+  },
+  "questionTextType1": {
+    "message": "Buat pertanyaan berdasarkan deskripsi",
+    "description": "考试快捷地址"
+  },
+  "questionTextType2": {
+    "message": "Buat pertanyaan berdasarkan teks",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc1": {
+    "message": "Silakan masukkan persyaratan pertanyaan di bawah ini (pertanyaan dihasilkan oleh model besar AI, yang tidak dapat sepenuhnya menjamin kebenaran konten, disarankan untuk memeriksanya sebelum menyimpan)",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc2": {
+    "message": "Silakan masukkan persyaratan di bawah ini, semakin spesifik teksnya, semakin akurat hasil pembuatan pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder1": {
+    "message": "Masukkan persyaratan untuk pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder2": {
+    "message": "Masukkan materi teks, dan AI akan mengekstrak poin utama darinya dan menghasilkan pertanyaan.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionBtn": {
+    "message": "Buat pertanyaan",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTip": {
+    "message": "Pertanyaan sedang dibuat, harap tunggu ...",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "Beta",
+    "description": "考试快捷地址"
+  },
+  "maxCountTip": {
+    "message": "Masukkan hingga {max} karakter",
+    "description": "考试快捷地址"
+  },
+  "knowledgePoints": {
+    "message": "Poin pengetahuan",
+    "description": "考试快捷地址"
+  },
+  "relateKnowledgePoints": {
+    "message": "Kaitkan poin pengetahuan",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip2": {
+    "message": "Jika Anda ingin terus menandai kertas ujian, silakan keluar dan saring kembali kandidat untuk dinilai.",
+    "description": "考试快捷地址"
+  },
+  "qrQuestionAnswer": {
+    "message": "Pindai untuk melihat jawabannya",
+    "description": "考试快捷地址"
+  },
+  "exerciseQuestion": {
+    "message": "Latihan",
+    "description": "考试快捷地址"
+  },
+  "draft": {
+    "message": "Bagan",
+    "description": "考试快捷地址"
+  },
+  "draftTip": {
+    "message": "Silakan edit informasi ujian di PC Anda",
+    "description": "考试快捷地址"
+  }
+}

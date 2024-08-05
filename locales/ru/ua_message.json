@@ -1,0 +1,394 @@
+{
+    "dropMobileTip2": {
+        "message": "выбрать вариант для обмена",
+        "description": ""
+    },
+    "oralRecordingTips": {
+        "message": "Каждое слово/предложение/абзац нужно прочитать",
+        "description": ""
+    },
+    "sectionScore": {
+        "message": "Оценка раздела",
+        "description": ""
+    },
+    "oralResponseQuestion": {
+        "message": "Устный субъективный",
+        "description": ""
+    },
+    "watching": {
+        "message": "Смотреть",
+        "description": ""
+    },
+    "finishVideoQuestion": {
+        "message": "После завершения вопроса видео продолжит воспроизводиться через 3 секунды",
+        "description": ""
+    },
+    "completeChapter2": {
+        "message": "Следующий, ты можешь нажать «продолжить следующую главу», чтобы начать новое Изучение или освежить контент этой главы в памяти.",
+        "description": ""
+    },
+    "nextSection": {
+        "message": "Следующий раздел:",
+        "description": ""
+    },
+    "studyTime": {
+        "message": "время обучения",
+        "description": ""
+    },
+    "score": {
+        "message": "{n} балл",
+        "description": ""
+    },
+    "dropMobileTip1": {
+        "message": "Нажмите, чтобы выбрать 2 варианта и изменить их последовательность",
+        "description": ""
+    },
+    "quizGuide": {
+        "message": "Упражнения и правила",
+        "description": ""
+    },
+    "singleChoiceQuestion": {
+        "message": "вопрос с выбором одного варианта ответа",
+        "description": ""
+    },
+    "goNextSection": {
+        "message": "Продолжить следующий раздел",
+        "description": ""
+    },
+    "finished": {
+        "message": "просмотренный",
+        "description": ""
+    },
+    "yourAnswer": {
+        "message": "Твой ответ:",
+        "description": ""
+    },
+    "enterAnswer": {
+        "message": "Введите Ответ",
+        "description": ""
+    },
+    "submit": {
+        "message": "Подача",
+        "description": ""
+    },
+    "loading": {
+        "message": "загружается...",
+        "description": ""
+    },
+    "theEnd": {
+        "message": "Больше нет",
+        "description": ""
+    },
+    "completeChapter3": {
+        "message": "Поздравляю с завершением этого раздела можно поставить «Похвалу»!",
+        "description": ""
+    },
+    "oneChancePartialWrong": {
+        "message": "Часть ответов правильная!",
+        "description": ""
+    },
+    "exercise": {
+        "message": "упражнение",
+        "description": ""
+    },
+    "viewed": {
+        "message": "Просмотрено",
+        "description": ""
+    },
+    "studyProgress": {
+        "message": "Прогресс обучения",
+        "description": ""
+    },
+    "redo": {
+        "message": "Пересдача",
+        "description": ""
+    },
+    "chooseFillBlankQuestion": {
+        "message": "заполните_пропуски",
+        "description": ""
+    },
+    "correctAnswer": {
+        "message": "Правильный ответ:",
+        "description": ""
+    },
+    "sectionSummary": {
+        "message": "Статистика раздела",
+        "description": ""
+    },
+    "incompleteChapter": {
+        "message": "В этой главе есть некоторые страницы, изучение которых не завершено. Чтобы не повлиять на твою оценку, предлагаем просмотреть в каталоге, какие страницы не завершены, и снова изучить их. Удачи!",
+        "description": ""
+    },
+    "dropPCTip": {
+        "message": "Перетаскивайте варианты, чтобы изменить последовательность",
+        "description": ""
+    },
+    "completeChapter1": {
+        "message": "Поздравляем с завершением главы! Не могу удержаться, чтобы не поставить тебе отметку «Нравится»!",
+        "description": ""
+    },
+    "clozeQuestion": {
+        "message": "Заполнение пробелов",
+        "description": ""
+    },
+    "blankQuestion": {
+        "message": "Заполнение пробела",
+        "description": ""
+    },
+    "notAuditionPage": {
+        "message": "Эта страница не являлась контентом предварительного просмотра, временно невозможно просмотреть",
+        "description": ""
+    },
+    "catalog1": {
+        "message": "каталог",
+        "description": ""
+    },
+    "chapterScore": {
+        "message": "Оценка по этой главе",
+        "description": ""
+    },
+    "inputedText": {
+        "message": "Написано букв: {count}",
+        "description": ""
+    },
+    "reviewChapter": {
+        "message": "вернуться к главе",
+        "description": ""
+    },
+    "exit": {
+        "message": "Выход",
+        "description": ""
+    },
+    "right": {
+        "message": "правильный",
+        "description": ""
+    },
+    "logTip": {
+        "message": "Вы уже вошли через другие конечные устройства",
+        "description": ""
+    },
+    "nextChapter": {
+        "message": "Продолжить к следующей главе",
+        "description": ""
+    },
+    "emptyPage": {
+        "message": "Упс, эта страница пуста, взгляните на другие",
+        "description": ""
+    },
+    "close": {
+        "message": "Закрывать",
+        "description": ""
+    },
+    "answerRight": {
+        "message": "Правильный ответ!",
+        "description": ""
+    },
+    "shortAnswerQuestion": {
+        "message": "Вопрос с кратким ответом",
+        "description": ""
+    },
+    "timeLeft": {
+        "message": "Оставшееся время:",
+        "description": ""
+    },
+    "reviewSection": {
+        "message": "Вернуться в раздел",
+        "description": ""
+    },
+    "quizArea": {
+        "message": "Ниже приведены упражнения",
+        "description": ""
+    },
+    "judgeQuestion": {
+        "message": "Заявление истинности или ложности",
+        "description": ""
+    },
+    "backToCourse": {
+        "message": "Вернуться к разделу курса",
+        "description": ""
+    },
+    "incompleteSection2": {
+        "message": "Чтобы не влиять на оценку, рекомендуется просмотреть в каталоге, какие страницы незавершенные, и продолжить изучение этих страниц.",
+        "description": ""
+    },
+    "nextQuestion": {
+        "message": "Следующий вопрос",
+        "description": ""
+    },
+    "unviewed": {
+        "message": "не просмотрено",
+        "description": ""
+    },
+    "readMaterialQuestion": {
+        "message": "Чтение вслух",
+        "description": ""
+    },
+    "hiddenPage": {
+        "message": "Контент скрыт учителем, временно недоступен для изучения",
+        "description": ""
+    },
+    "oneChance": {
+        "message": "Ограничение по количеству ответов: 1 раз",
+        "description": ""
+    },
+    "unanswered": {
+        "message": "Не ответил",
+        "description": ""
+    },
+    "closeSubtitle": {
+        "message": "Закрывать субтитры",
+        "description": ""
+    },
+    "beginQuiz": {
+        "message": "Начать отвечать",
+        "description": ""
+    },
+    "oralRecording": {
+        "message": "Идет аудиозапись, нажмите, чтобы остановить",
+        "description": ""
+    },
+    "manyChanceWrong": {
+        "message": "Ответ неправильный, попробуйте еще раз!",
+        "description": ""
+    },
+    "videoTip": {
+        "message": "Видео считается просмотренным, если продолжительность просмотра видео равна или превышает продолжительность видео",
+        "description": ""
+    },
+    "answered": {
+        "message": "Ответ представлен!",
+        "description": ""
+    },
+    "multipleChoiceQuestion": {
+        "message": "Множественного выбора",
+        "description": ""
+    },
+    "quizGuideP1": {
+        "message": "Чтобы усвоить знания и углубить понимание, пожалуйста, ответьте на вопросы!",
+        "description": ""
+    },
+    "previousPage": {
+        "message": "Предыдущая страница",
+        "description": ""
+    },
+    "manyChance": {
+        "message": "Повторно ответить",
+        "description": ""
+    },
+    "quizUlLi2": {
+        "message": "После ответа на каждый вопрос система даст обратную связь по правильности/неправильности в кружочке выше, нажмите на каждый кружок, чтобы перейти к этому вопросу.",
+        "description": ""
+    },
+    "viewAnalysis": {
+        "message": "Просмотр разбора ответов",
+        "description": ""
+    },
+    "completeSection": {
+        "message": "Поздравляю тебя с завершением раздела обучения!",
+        "description": ""
+    },
+    "answerTimeLimit": {
+        "message": "В пределах {time}",
+        "description": ""
+    },
+    "showCatalog": {
+        "message": "развернуть каталог",
+        "description": ""
+    },
+    "videoQuizUlLi1": {
+        "message": "Видео продолжится автоматически после завершения упражнения.",
+        "description": ""
+    },
+    "manyChancePartialWrong": {
+        "message": "Часть ответов правильная. Попробуйте еще раз!",
+        "description": ""
+    },
+    "hideCatalog": {
+        "message": "Свернуть каталог",
+        "description": ""
+    },
+    "sequencingQuestion": {
+        "message": "упорядочивание",
+        "description": ""
+    },
+    "oneChanceWrong": {
+        "message": "Неправильный ответ!",
+        "description": ""
+    },
+    "noMore": {
+        "message": "Исчерпано",
+        "description": ""
+    },
+    "totalQuestions": {
+        "message": "Всего {n} вопросов",
+        "description": ""
+    },
+    "quizUlLi1": {
+        "message": "Обратите внимание и просмотрите количество попыток и время ответа. Если есть ограничение по времени, обязательно завершите ответ в течение установленного времени.",
+        "description": ""
+    },
+    "comprehensiveQuestion": {
+        "message": "Комплексное задание",
+        "description": ""
+    },
+    "totalStudyTime": {
+        "message": "Накопленное время обучения",
+        "description": ""
+    },
+    "stayHere": {
+        "message": "Остаться на этой странице",
+        "description": ""
+    },
+    "incompleteSection1": {
+        "message": "В этом разделе еще часть страниц не изучено!",
+        "description": ""
+    },
+    "answerRecord": {
+        "message": "Запись ответов",
+        "description": ""
+    },
+    "explanation": {
+        "message": "Парсинг ответов:",
+        "description": ""
+    },
+    "exerciseScore": {
+        "message": "оценка",
+        "description": ""
+    },
+    "chapterSummary": {
+        "message": "Статистика этой главы",
+        "description": ""
+    },
+    "wrong": {
+        "message": "неправильный",
+        "description": ""
+    },
+    "dropDownQuestion": {
+        "message": "выбрать",
+        "description": ""
+    },
+    "openSubtitle": {
+        "message": "Включить субтитры",
+        "description": ""
+    },
+    "incompleteChapter2": {
+        "message": "В этой главе есть разделы, которые не были пройдены. Чтобы это не повлияло на твою оценку, рекомендуем просмотреть в каталоге, какие страницы не пройдены, и пройти их снова. Удачи!",
+        "description": ""
+    },
+    "nextPage": {
+        "message": "Следующая страница",
+        "description": ""
+    },
+    "enableSubtitle": {
+        "message": "Субтитры:",
+        "description": ""
+    },
+    "skipVideoHead": {
+        "message": "Пропустить заставку:",
+        "description": ""
+    },
+    "videoSetting": {
+        "message": "настройки",
+        "description": ""
+    }
+}

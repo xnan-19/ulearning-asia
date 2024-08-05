@@ -1,0 +1,18 @@
+{
+    "minorStream": {
+        "message": "Fluxo auxíliar",
+        "description": ""
+    },
+    "majorStream": {
+        "message": "Faixa Principal",
+        "description": ""
+    },
+    "vFailedReload": {
+        "message": "Falha ao carregar o vídeo. Recarregar novamente",
+        "description": ""
+    },
+    "reload": {
+        "message": "Recarregar",
+        "description": ""
+    }
+}

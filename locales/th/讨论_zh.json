@@ -1,0 +1,638 @@
+{
+  "_name": {
+    "message": "ภาษาจีนแบบตัวย่อ",
+    "description": "讨论"
+  },
+  "langCss": {
+    "message": "zhCss",
+    "description": "讨论"
+  },
+  "system.me": {
+    "message": "(ฉัน)",
+    "description": "讨论"
+  },
+  "system.allTeacher": {
+    "message": "อาจารย์ทั้งหมด",
+    "description": "讨论"
+  },
+  "system.selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "讨论"
+  },
+  "system.cancel": {
+    "message": "ยกเลิก",
+    "description": "讨论"
+  },
+  "system.confirm": {
+    "message": "ตกลง",
+    "description": "讨论"
+  },
+  "system.reload": {
+    "message": "โหลดใหม่",
+    "description": "讨论"
+  },
+  "system.error": {
+    "message": "ข้อผิดพลาด",
+    "description": "讨论"
+  },
+  "system.loadComplete": {
+    "message": "โหลดเสร็จสมบูรณ์",
+    "description": "讨论"
+  },
+  "system.loadFailed": {
+    "message": "การโหลดล้มเหลว",
+    "description": "讨论"
+  },
+  "system.search": {
+    "message": "ค้นหา",
+    "description": "讨论"
+  },
+  "system.pleaseSelect": {
+    "message": "โปรดเลือก",
+    "description": "讨论"
+  },
+  "system.reupload": {
+    "message": "อัปโหลดไม่สำเร็จ คลิกเพื่ออัปโหลดใหม่",
+    "description": "讨论"
+  },
+  "system.selectLocal": {
+    "message": "เลือกจากเครื่องนี้",
+    "description": "讨论"
+  },
+  "system.takePhoto": {
+    "message": "ถ่ายภาพ",
+    "description": "讨论"
+  },
+  "system.pageOf": {
+    "message": "{current}/{total}หน้า",
+    "description": "手机讨论 -> 帖子详情"
+  },
+  "system.pointsOf": {
+    "message": "{n}คะแนน",
+    "description": "教师 -> 手机讨论 -> 帖子详情 -> 点击回复帖子中学生的头像 \n 教师 -> 手机讨论 -> 帖子详情 -> 选择一条帖子的右上角 ... 按钮 -> 加分"
+  },
+  "system.inputPoints": {
+    "message": "{input} คะแนน",
+    "description": "教师 -> 手机讨论 -> 帖子详情 -> 点击回复帖子中学生的头像 -> 修改得分"
+  },
+  "system.notStart": {
+    "message": "ไม่ได้เริ่มต้น",
+    "description": "讨论"
+  },
+  "system.inProgress": {
+    "message": "กําลังดําเนินอยู่",
+    "description": "讨论"
+  },
+  "system.ended": {
+    "message": "เสร็จสิ้นแล้ว",
+    "description": "讨论"
+  },
+  "system.wrong": {
+    "message": "ข้อผิดพลาด",
+    "description": "讨论"
+  },
+  "system.edit": {
+    "message": "แก้ไข",
+    "description": "讨论"
+  },
+  "system.delete": {
+    "message": "ลบ",
+    "description": "讨论"
+  },
+  "system.tip": {
+    "message": "เคล็ดลับ",
+    "description": "讨论"
+  },
+  "system.deleteTip": {
+    "message": "ยืนยันที่จะลบการอภิปรายนี้?",
+    "description": "讨论"
+  },
+  "system.editing": {
+    "message": "อยู่ในระหว่างการแก้ไข",
+    "description": "讨论"
+  },
+  "system.editFailed": {
+    "message": "แก้ไขล้มเหลว",
+    "description": "讨论"
+  },
+  "system.deleteFailed": {
+    "message": "การลบล้มเหลว",
+    "description": "讨论"
+  },
+  "system.deleteSuccess": {
+    "message": "การลบเสร็จเรียบร้อยแล้ว",
+    "description": "讨论"
+  },
+  "system.myPoints": {
+    "message": "คะแนนของฉัน",
+    "description": "讨论"
+  },
+  "system.discuss": {
+    "message": "อภิปราย",
+    "description": "讨论"
+  },
+  "system.throwScreen": {
+    "message": "แคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "system.startingScreen": {
+    "message": "เริ่มแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "system.screenCodeError": {
+    "message": "เกิดข้อผิดพลาดในการรับรหัสหน้าจอ",
+    "description": "讨论"
+  },
+  "system.screenStatusError": {
+    "message": "ไม่สามารถรับสถานะหน้าจอ",
+    "description": "讨论"
+  },
+  "system.stopScreenSuccess": {
+    "message": "ปิดการแคสต์หน้าจอสําเร็จแล้ว",
+    "description": "讨论"
+  },
+  "system.stopScreenError": {
+    "message": "มีข้อผิดพลาดเกิดขึ้นกับเครือข่ายขณะปิดการแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "system.allClass": {
+    "message": "ชั้นเรียนทั้งหมด",
+    "description": "讨论"
+  },
+  "system.filterReply": {
+    "message": "กรองการตอบกลับ",
+    "description": "讨论"
+  },
+  "system.timeDesc1": {
+    "message": "ย้อนกลับลำดับเวลา (ค่าเริ่มต้น)",
+    "description": "讨论"
+  },
+  "system.timeDesc": {
+    "message": "ย้อนกลับเวลา",
+    "description": "讨论"
+  },
+  "system.timeAsc2": {
+    "message": "จัดเรียงตามเวลาเก่าที่สุดไปหาใหม่ที่สุด",
+    "description": "讨论"
+  },
+  "system.timeAsc": {
+    "message": "ลําดับเวลา",
+    "description": "讨论"
+  },
+  "system.orderByReplyNum": {
+    "message": "ตามจํานวนการตอบกลับ",
+    "description": "讨论"
+  },
+  "system.replyNum": {
+    "message": "จํานวนการตอบกลับ",
+    "description": "讨论"
+  },
+  "system.orderByLikesNum": {
+    "message": "ตามจำนวนการกดไลค์",
+    "description": "讨论"
+  },
+  "system.likesNum": {
+    "message": "จํานวนการกดไลค์",
+    "description": "讨论"
+  },
+  "system.relateMe": {
+    "message": "ที่เกี่ยวข้องกับฉัน",
+    "description": "讨论"
+  },
+  "system.startTime": {
+    "message": "เวลาเริ่มต้น",
+    "description": "讨论"
+  },
+  "system.setStartTime": {
+    "message": "ตั้งค่าเวลาเริ่มต้น",
+    "description": "讨论"
+  },
+  "system.endTime": {
+    "message": "กําหนดเวลาสิ้นสุด",
+    "description": "讨论"
+  },
+  "system.setEndTime": {
+    "message": "ตั้งค่าเวลาสิ้นสุด",
+    "description": "讨论"
+  },
+  "system.startTopic": {
+    "message": "โพสต์หัวข้อ",
+    "description": "讨论"
+  },
+  "system.pleaseSetTopicName": {
+    "message": "กรุณาใส่ชื่อหัวข้อ",
+    "description": "讨论"
+  },
+  "system.classNumTip": {
+    "message": "รอชั้นเรียน {num} คลาส",
+    "description": "讨论"
+  },
+  "system.participatingClass": {
+    "message": "เข้าร่วมชั้นเรียน",
+    "description": "讨论"
+  },
+  "system.pleaseSelectClass": {
+    "message": "โปรดเลือกชั้นเรียน",
+    "description": "讨论"
+  },
+  "system.plzSetStartTime": {
+    "message": "โปรดตั้งค่าเวลาเริ่มต้น",
+    "description": "讨论"
+  },
+  "system.plzSetEndTime": {
+    "message": "โปรดตั้งค่าเวลาสิ้นสุด",
+    "description": "讨论"
+  },
+  "system.afterMinutesOf": {
+    "message": "หลังจาก{count}นาที",
+    "description": "教师 -> 发布讨论 -> 高级设置 -> 限制讨论时间"
+  },
+  "system.afterOneDay": {
+    "message": "หลังจากหนึ่งวัน",
+    "description": "讨论"
+  },
+  "system.afterOneWeek": {
+    "message": "หลังจากหนึ่งสัปดาห์",
+    "description": "讨论"
+  },
+  "system.afterOneMonth": {
+    "message": "หลังจากหนึ่งเดือน",
+    "description": "讨论"
+  },
+  "system.scoreRule": {
+    "message": "กฎคะแนน",
+    "description": "讨论"
+  },
+  "system.setScoreRule": {
+    "message": "ตั้งกฎคะแนน",
+    "description": "讨论"
+  },
+  "system.inputScorePer": {
+    "message": "{input}คะแนน/แถว",
+    "description": "教师 -> 发布讨论 -> 高级设置 -> 积分规则"
+  },
+  "system.publishing": {
+    "message": "กำลังเผยแพร่",
+    "description": "讨论"
+  },
+  "system.publishSuccess": {
+    "message": "การเผยแพร่สําเร็จ",
+    "description": "讨论"
+  },
+  "system.publishErrorTip": {
+    "message": "การเผยแพร่ล้มเหลว โปรดประกาศใหม่",
+    "description": "讨论"
+  },
+  "system.publish": {
+    "message": "เผยแพร่",
+    "description": "讨论"
+  },
+  "system.plzSetTopicContent": {
+    "message": "กรุณาใส่เนื้อหาของหัวข้อ",
+    "description": "讨论"
+  },
+  "system.plzObserve": {
+    "message": "โปรดปฏิบัติตาม",
+    "description": "讨论"
+  },
+  "system.uConvention": {
+    "message": "อนุสัญญาว่าด้วยการอภิปรายของULearning",
+    "description": "讨论"
+  },
+  "system.uConventionTip": {
+    "message": ", ไม่ละเมิดกฎหมายและข้อบังคับของรัฐ",
+    "description": "讨论"
+  },
+  "system.noSearchContent": {
+    "message": "ไม่มีเนื้อหาที่ตรงตามเงื่อนไข",
+    "description": "讨论"
+  },
+  "system.noContent": {
+    "message": "ไม่มีเนื้อหา",
+    "description": "讨论"
+  },
+  "system.rankingList": {
+    "message": "รายการการจัดอันดับ",
+    "description": "讨论"
+  },
+  "system.stuNum": {
+    "message": "รหัสนักเรียน",
+    "description": "讨论"
+  },
+  "system.lastScore": {
+    "message": "คะแนนสุดท้ายที่ได้",
+    "description": "讨论"
+  },
+  "system.finalScore": {
+    "message": "คะแนนสุดท้ายที่ได้: {score}",
+    "description": "教师 -> 手机讨论 -> 帖子详情 -> 点击回复帖子中学生的头像"
+  },
+  "system.refreshSuccess": {
+    "message": "รีเฟรชสำเร็จ",
+    "description": "讨论"
+  },
+  "system.changeLastScore": {
+    "message": "แก้ไขคะแนนสุดท้าย",
+    "description": "讨论"
+  },
+  "system.changeScoreTip": {
+    "message": "คําอธิบาย: ครูสามารถแก้ไขคะแนนของนักเรียนได้ คะแนนที่แก้ไขจะถูกนำมาใช้เป็นเกณฑ์เมื่อคํานวณคะแนน",
+    "description": "讨论"
+  },
+  "system.avatar": {
+    "message": "รูปภาพประจำตัว",
+    "description": "讨论"
+  },
+  "system.sReply": {
+    "message": "ตอบกลับของ",
+    "description": "讨论"
+  },
+  "system.reply": {
+    "message": "ตอบกลับ",
+    "description": "讨论"
+  },
+  "system.beReplied": {
+    "message": "ถูกตอบกลับ",
+    "description": "讨论"
+  },
+  "system.stuLikes": {
+    "message": "นักเรียนกดไลค์",
+    "description": "讨论"
+  },
+  "system.teaLikes": {
+    "message": "อาจารย์กดไลค์",
+    "description": "讨论"
+  },
+  "system.teaAddScore": {
+    "message": "อาจารย์เพิ่มคะแนน",
+    "description": "讨论"
+  },
+  "system.teaCanEdit": {
+    "message": "(ครูสามารถปรับเปลี่ยนได้)",
+    "description": "讨论"
+  },
+  "system.editScore": {
+    "message": "แก้ไขคะแนน",
+    "description": "讨论"
+  },
+  "system.limitTime": {
+    "message": "จํากัดเวลาการอภิปราย",
+    "description": "讨论"
+  },
+  "system.isAnonymous": {
+    "message": "เริ่มการอภิปรายแบบไม่ระบุชื่อ",
+    "description": "讨论"
+  },
+  "system.validTip1": {
+    "message": "ชื่อเรื่องของการอภิปรายห้ามเว้นว่าง",
+    "description": "讨论"
+  },
+  "system.validTip2": {
+    "message": "โปรดป้อนเนื้อหาของโพสต์",
+    "description": "讨论"
+  },
+  "system.validTip3": {
+    "message": "โปรดเลือกเวลาเริ่มต้นและกําหนดเวลาสิ้นสุดของการอภิปราย",
+    "description": "讨论"
+  },
+  "system.validTip4": {
+    "message": "โปรดเลือกเวลาเริ่มต้นของการอภิปราย",
+    "description": "讨论"
+  },
+  "system.validTip5": {
+    "message": "โปรดเลือกกําหนดเวลาสิ้นสุดสําหรับการอภิปราย",
+    "description": "讨论"
+  },
+  "system.validTip6": {
+    "message": "กําหนดเวลาต้องไม่เร็วกว่าเวลาเริ่มต้น",
+    "description": "讨论"
+  },
+  "system.validTip7": {
+    "message": "โปรดเลือกชั้นเรียน",
+    "description": "讨论"
+  },
+  "system.chooseClass": {
+    "message": "เลือกชั้นเรียน",
+    "description": "讨论"
+  },
+  "system.addPoint": {
+    "message": "เพิ่มคะแนน",
+    "description": "讨论"
+  },
+  "system.deleteTip2": {
+    "message": "การลบคำตอบจะเป็นการลบ \"ไลค์\" และ \"การให้คะแนนประเมินจากครู\"  แน่ใจว่าต้องการลบ?",
+    "description": "讨论"
+  },
+  "system.addPointFailed": {
+    "message": "เพิ่มคะแนนล้มเหลว",
+    "description": "讨论"
+  },
+  "system.likeFailed": {
+    "message": "กดไลค์ไม่สำเร็จ",
+    "description": "讨论"
+  },
+  "system.teacher": {
+    "message": "อาจารย์",
+    "description": "讨论"
+  },
+  "system.addPointForStu": {
+    "message": "เพิ่มคะแนนให้กับนักเรียน",
+    "description": "讨论"
+  },
+  "system.send": {
+    "message": "ส่ง",
+    "description": "讨论"
+  },
+  "system.mon": {
+    "message": "หนึ่ง",
+    "description": "星期一"
+  },
+  "system.tue": {
+    "message": "สอง",
+    "description": "星期二"
+  },
+  "system.wed": {
+    "message": "สาม",
+    "description": "星期三"
+  },
+  "system.thu": {
+    "message": "สี่",
+    "description": "星期四"
+  },
+  "system.frid": {
+    "message": "ห้า",
+    "description": "星期五"
+  },
+  "system.sat": {
+    "message": "หก",
+    "description": "星期六"
+  },
+  "system.sun": {
+    "message": "วัน",
+    "description": "星期日"
+  },
+  "system.hour": {
+    "message": "{hour}",
+    "description": "讨论"
+  },
+  "system.cancelScreen": {
+    "message": "ยกเลิกการแคสหน้าจอ",
+    "description": "讨论"
+  },
+  "system.replying": {
+    "message": "กำลังตอบกลับ",
+    "description": "讨论"
+  },
+  "system.replySuccess": {
+    "message": "ตอบกลับสำเร็จ",
+    "description": "讨论"
+  },
+  "system.replayFail": {
+    "message": "ตอบกลับล้มเหลว",
+    "description": "讨论"
+  },
+  "system.imgUploading": {
+    "message": "รูปภาพกําลังถูกอัปโหลด",
+    "description": "讨论"
+  },
+  "system.inputContent": {
+    "message": "กรุณาใส่เนื้อหา",
+    "description": "讨论"
+  },
+  "system.notStart1": {
+    "message": "การอภิปรายยังไม่ได้เริ่มต้น",
+    "description": "讨论"
+  },
+  "system.ended1": {
+    "message": "การอภิปรายได้สิ้นสุดลงแล้ว",
+    "description": "讨论"
+  },
+  "system.replay": {
+    "message": "เขียนตอบกลับ",
+    "description": "讨论"
+  },
+  "system.viewReply": {
+    "message": "ดูการตอบกลับ",
+    "description": "讨论"
+  },
+  "system.discussTime": {
+    "message": "เวลาสําหรับการอภิปราย",
+    "description": "讨论"
+  },
+  "system.openDiscuss": {
+    "message": "เปิดการอภิปรายแบบระยะยาว",
+    "description": "讨论"
+  },
+  "system.moreSetting": {
+    "message": "การตั้งค่าขั้นสูง",
+    "description": "讨论"
+  },
+  "system.points": {
+    "message": "คะแนน",
+    "description": "讨论"
+  },
+  "system.anonymous": {
+    "message": "การอภิปรายแบบไม่ระบุชื่อ",
+    "description": "讨论"
+  },
+  "system.lastClass": {
+    "message": "ชั้นเรียนครั้งก่อน",
+    "description": "讨论"
+  },
+  "system.lastClassContent": {
+    "message": "{name} เท่ากับ {num} คลาสชั้นเรียน",
+    "description": "讨论"
+  },
+  "system.wordCloud": {
+    "message": "คลาวด์คำศัพท์",
+    "description": "讨论"
+  },
+  "system.wordCloudTip": {
+    "message": "นักเรียนพูดค่อนข้างน้อย ไม่สามารถดึงคีย์เวิร์ดได้ชั่วคราว",
+    "description": "讨论"
+  },
+  "system.closeWordCloud": {
+    "message": "ปิดคลาวด์คำศัพท์",
+    "description": "讨论"
+  },
+  "system.mobilePermissionTip1": {
+    "message": "คุณได้ปิดสิทธิ์การใช้กล้อง ไม่สามารถใช้ฟังก์ชั่นดังกล่าวได้ โปรดไปที่ [การตั้งค่า] ในโทรศัพท์มือถือเพื่อดำเนินการให้สิทธิ์",
+    "description": "讨论"
+  },
+  "system.mobilePermissionTip2": {
+    "message": "คุณได้ปิดสิทธิ์การใช้ไมโครโฟน ไม่สามารถใช้ฟังก์ชั่นดังกล่าวได้ โปรดไปที่ [การตั้งค่า] ในโทรศัพท์มือถือเพื่อให้สิทธิ์",
+    "description": "讨论"
+  },
+  "screen.title": {
+    "message": "แคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "screen.close": {
+    "message": "ปิดการแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "screen.creating": {
+    "message": "กำลังเริ่มแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "screen.success": {
+    "message": "แคสต์หน้าจอสำเร็จ",
+    "description": "讨论"
+  },
+  "screen.fail": {
+    "message": "แคสต์หน้าจอล้มเหลว",
+    "description": "讨论"
+  },
+  "screen.closeSuccess": {
+    "message": "ปิดการแคสต์หน้าจอสําเร็จแล้ว",
+    "description": "讨论"
+  },
+  "screen.start": {
+    "message": "เริ่มแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "screen.pleaseOpenUrl": {
+    "message": "กรุณาเปิดเว็บไซต์ผ่านคอมพิวเตอร์",
+    "description": "讨论"
+  },
+  "screen.inputCodeTips": {
+    "message": "ป้อนรหัสแคสต์หน้าจอต่อไปนี้ลงในคอมพิวเตอร์เพื่อเปิดแคสต์หน้าจอ",
+    "description": "讨论"
+  },
+  "screen.fiveMinutesEffective": {
+    "message": "มีผลใช้ได้ภายในห้านาที",
+    "description": "讨论"
+  },
+  "screen.clickRefresh": {
+    "message": "คลิกรีเฟรช",
+    "description": "讨论"
+  },
+  "screen.cancel": {
+    "message": "ยกเลิกการแคสหน้าจอ",
+    "description": "讨论"
+  },
+  "dateFormat.month": {
+    "message": "YYYYปีMMเดือน",
+    "description": "讨论"
+  },
+  "dateFormat.calendar": {
+    "message": "YYYY ปี MM เดือน DD วัน",
+    "description": "讨论"
+  },
+  "dateFormat.dateTime": {
+    "message": "HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.long": {
+    "message": "YYYY-MM-DD HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.long2": {
+    "message": "YYYY ปี MM เดือน DD วัน HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.longSecond": {
+    "message": "YYYY-MM-DD HH:mm:ss",
+    "description": "讨论"
+  }
+}

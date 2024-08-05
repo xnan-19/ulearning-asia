@@ -1,0 +1,30 @@
+{
+  "userLearning": {
+    "message": "Archivo de aprendizaje de {name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "userCourse": {
+    "message": "Archivo del curso de {name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "courseArchive": {
+    "message": "Archivo del curso",
+    "description": "1.0 learningArchives.js"
+  },
+  "learningStats": {
+    "message": "Tomar cursos de {count}",
+    "description": "1.0 learningArchives.js"
+  },
+  "submmitStats": {
+    "message": "{count} asignaciones enviadas",
+    "description": "1.0 learningArchives.js"
+  },
+  "partinStats": {
+    "message": "Tomó exámenes {count}",
+    "description": "1.0 learningArchives.js"
+  },
+  "publishStats": {
+    "message": "Publicada {count} temas, {reply} respuestas",
+    "description": "1.0 learningArchives.js"
+  }
+}

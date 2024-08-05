@@ -1,0 +1,182 @@
+{
+  "saveOutText": {
+    "message": "You have unsaved question(s) , are you sure you want to quit?",
+    "description": "1.0 editor.js"
+  },
+  "CreatedText": {
+    "message": "Created {count} questions",
+    "description": "1.0 editor.js"
+  },
+  "returnListText": {
+    "message": "Return to List",
+    "description": "1.0 editor.js"
+  },
+  "haveText": {
+    "message": "You have {n} unsaved questions",
+    "description": "1.0 editor.js"
+  },
+  "goToCheck": {
+    "message": "Check Now!",
+    "description": "1.0 editor.js"
+  },
+  "quesParseError": {
+    "message": "Parsing error for the question \"{title}\"",
+    "description": "1.0 editor.js"
+  },
+  "batchCreate": {
+    "message": "Batch Create",
+    "description": "1.0 editor.js"
+  },
+  "createQues": {
+    "message": "Select to Create",
+    "description": "1.0 editor.js"
+  },
+  "allTypeQues": {
+    "message": "All",
+    "description": "1.0 editor.js"
+  },
+  "gotoSubQues": {
+    "message": "Click a question number to jump to it",
+    "description": "1.0 editor.js"
+  },
+  "changeScoreText": {
+    "message": "Are you sure you want to batch assign points?",
+    "description": "1.0 editor.js"
+  },
+  "scoreTips": {
+    "message": "Please enter a valid value",
+    "description": "1.0 editor.js"
+  },
+  "setScoreTips": {
+    "message": "Create the exam questions first",
+    "description": "1.0 editor.js"
+  },
+  "questionTitle": {
+    "message": "Select",
+    "description": "1.0 editor.js"
+  },
+  "questionDetailDesc": {
+    "message": "Help",
+    "description": "1.0 editor.js"
+  },
+  "questionReferenceAnswerText": {
+    "message": "Reference Answer: {content}",
+    "description": "1.0 editor.js"
+  },
+  "analysis": {
+    "message": "Answer Explanation: {content}",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "Answer: {content}",
+    "description": "1.0 public.js"
+  },
+  "completionAnswerTips": {
+    "message": "Note: The answers for the blanks do not need to be in order.",
+    "description": "1.0 editor.js"
+  },
+  "batchSetScoreText": {
+    "message": "Batch edit points",
+    "description": "1.0 editor.js"
+  },
+  "scoreText": {
+    "message": "{score} points",
+    "description": "注意，这个指的是某道题目的分值，不是得了多少分，在试题编辑器 -> 批量导入 -> 导入习题后，每个习题的标题的左侧有一个括号，括号内标有题目的分值"
+  },
+  "correct": {
+    "message": "Correct",
+    "description": "指判断题的答案，如果答案是true，则显示“正确”"
+  },
+  "incorrect": {
+    "message": "Incorrect",
+    "description": "指判断题的答案，如果答案是false，则显示“错误”"
+  },
+  "singleQ2": {
+    "message": "Multiple Choice",
+    "description": "1.0 editor.js"
+  },
+  "moreQ2": {
+    "message": "Multiple Response",
+    "description": "1.0 editor.js"
+  },
+  "yesNoQ2": {
+    "message": "True/False",
+    "description": "1.0 editor.js"
+  },
+  "fillQ2": {
+    "message": "Fill in the Blank",
+    "description": "1.0 editor.js"
+  },
+  "JQuiz2": {
+    "message": "Essay Question",
+    "description": "1.0 editor.js"
+  },
+  "analysisTit": {
+    "message": "Click to enter the answer explanation - optional",
+    "description": "1.0 editor.js"
+  },
+  "saveSuccessTips": {
+    "message": "Saved successfully!",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips": {
+    "message": "Failed to save!",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips2": {
+    "message": "Failed to save some questions!",
+    "description": "1.0 editor.js"
+  },
+  "numExceededTips": {
+    "message": "The number of questions entered at a time cannot exceed 200",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage1": {
+    "message": "The question title cannot be empty",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage2": {
+    "message": "Keep at least two answer options",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage3": {
+    "message": "No more than 20 answer options",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage4": {
+    "message": "The correct answer cannot be empty!",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage5": {
+    "message": "The content in the correct answer option cannot be empty",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage6": {
+    "message": "Please fill in the options, or delete the extra options",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage7": {
+    "message": "The number of correct answers cannot exceed the number of options",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage8": {
+    "message": "No non-option items can appear in the correct answer",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage9": {
+    "message": "There are duplicates in the correct answer",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage10": {
+    "message": "The content of the reference answer cannot be empty",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage11": {
+    "message": "The number of correct answers cannot be less than the number of blanks",
+    "description": "1.0 editor.js"
+  },
+  "quesOrder": {
+    "message": "Question {n} , ",
+    "description": "1.0 editor.js"
+  }
+}

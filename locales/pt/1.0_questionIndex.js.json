@@ -1,0 +1,106 @@
+{
+    "checkDetail2": {
+        "message": "Ver Mais",
+        "description": ""
+    },
+    "parseError": {
+        "message": "Erro de análise",
+        "description": ""
+    },
+    "selectPage": {
+        "message": "Selecionar todos",
+        "description": ""
+    },
+    "allUnit": {
+        "message": "Todos os Módulos",
+        "description": ""
+    },
+    "unitEtc": {
+        "message": "Módulos equivalentes",
+        "description": ""
+    },
+    "examQues": {
+        "message": "prova",
+        "description": ""
+    },
+    "getUnitError": {
+        "message": "Falha ao obter o módulo.",
+        "description": ""
+    },
+    "serialNo": {
+        "message": "Código: {id}",
+        "description": ""
+    },
+    "checkDetailText": {
+        "message": "Ver Mais",
+        "description": ""
+    },
+    "lastModifyTime": {
+        "message": "Última modificação: {time}",
+        "description": ""
+    },
+    "details": {
+        "message": "Detalhes",
+        "description": ""
+    },
+    "lackQTip": {
+        "message": "dica: Não há provas relacionadas no diretório atual",
+        "description": ""
+    },
+    "clickAddTip": {
+        "message": "Clicando no botão 'Adicionar prova', você entrará na página de adição de provas.",
+        "description": ""
+    },
+    "collapseDetail": {
+        "message": "Recolher Detalhes",
+        "description": ""
+    },
+    "share": {
+        "message": "partilhar",
+        "description": ""
+    },
+    "copy": {
+        "message": "Copiar",
+        "description": ""
+    },
+    "difficulty": {
+        "message": "Dificuldade:",
+        "description": ""
+    },
+    "editQ": {
+        "message": "Editar Prova",
+        "description": ""
+    },
+    "selected": {
+        "message": "Selecionado {count} itens",
+        "description": ""
+    },
+    "rename": {
+        "message": "renomear",
+        "description": ""
+    },
+    "move": {
+        "message": "Mover",
+        "description": ""
+    },
+    "allCourse": {
+        "message": "Todas as disciplinas",
+        "description": ""
+    },
+    "creator": {
+        "message": "Criador: {creator}",
+        "description": ""
+    },
+    "modify": {
+        "message": "editar",
+        "description": ""
+    },
+    "cancelSelect": {
+        "message": "Cancelar Múltipla Escolha",
+        "description": ""
+    },
+    "personal": {
+        "message": "Pessoa",
+        "description": ""
+    }
+}

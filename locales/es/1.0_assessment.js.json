@@ -1,0 +1,510 @@
+{
+  "courseAssess": {
+    "message": "Evaluación del curso",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt1": {
+    "message": "Está resumiendo los resultados. No puede cerrar esta ventana antes de que se complete el resumen",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt2": {
+    "message": "Los resultados de la estrategia se han resumido. Después de eliminar la estrategia, los maestros y los estudiantes no verán los resultados que se han resumido. Maneje con precaución. Si está seguro de eliminar, ingrese el código de verificación a continuación",
+    "description": "1.0 assessment.json"
+  },
+  "codeErrorTxt": {
+    "message": "¡El código es incorrecto!",
+    "description": "1.0 assessment.json"
+  },
+  "deleteSucTxt": {
+    "message": "eliminado correctamente",
+    "description": "1.0 assessment.json"
+  },
+  "failDeleteTxt": {
+    "message": "no se pudo eliminar",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt3": {
+    "message": "Se produjo una excepción durante el proceso de agregación",
+    "description": "1.0 assessment.json"
+  },
+  "summarizingTipsTxt4": {
+    "message": "¡El servidor es anormal y la agregación ha fallado!",
+    "description": "1.0 assessment.json"
+  },
+  "serviceErrorTxt": {
+    "message": "¡Error del servidor, por favor intente más tarde!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips": {
+    "message": "El nombre de usuario solo puede incluir caracteres chinos, letras en inglés, números y guiones bajos",
+    "description": "1.0 assessment.json"
+  },
+  "notFoundTxt": {
+    "message": "No se encontraron cursos relacionados, ¡vuelva a ingresar o seleccione!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips1": {
+    "message": "Debe ingresar el nombre de la estrategia!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips2": {
+    "message": "¡El nombre de la estrategia debe estar dentro de las 200 palabras!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips3": {
+    "message": "¡No puede contener caracteres especiales!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips4": {
+    "message": "Nombre de estrategia duplicado",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips5": {
+    "message": "¡Debes elegir el curso relevante!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips6": {
+    "message": "¡Se debe ingresar la puntuación total!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips7": {
+    "message": "¡Ingrese un entero positivo de 5-1000!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips8": {
+    "message": "¡Se debe establecer la fecha límite!",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxtTips9": {
+    "message": "¡Debes elegir la clase asociada!",
+    "description": "1.0 assessment.json"
+  },
+  "tipsTxt1": {
+    "message": "El tiempo de evaluación ha expirado, no está permitido modificar el elemento de puntuación",
+    "description": "1.0 assessment.json"
+  },
+  "tipsTxt2": {
+    "message": "Nota: si necesita modificar, restablezca el plazo de evaluación",
+    "description": "1.0 assessment.json"
+  },
+  "alerttips": {
+    "message": "La estrategia se ha resumido y supera el plazo de resumen, no se puede resumir de nuevo",
+    "description": "1.0 assessment.json"
+  },
+  "examTipTxt": {
+    "message": "¡La operación del curso de prueba de papel aún no es compatible!",
+    "description": "1.0 assessment.json"
+  },
+  "resourceTxt": {
+    "message": "¡La operación de cursos de recursos aún no es compatible!",
+    "description": "1.0 assessment.json"
+  },
+  "selectCourseTxt": {
+    "message": "Por favor, elija un curso primero!",
+    "description": "1.0 assessment.json"
+  },
+  "selectRelevantCourseTxt": {
+    "message": "¡Seleccione el curso asociado primero!",
+    "description": "1.0 assessment.json"
+  },
+  "selectByYearTxt": {
+    "message": "Seleccionar por año escolar",
+    "description": "1.0 assessment.json"
+  },
+  "selectByTeacherTxt": {
+    "message": "Seleccionar por profesor",
+    "description": "1.0 assessment.json"
+  },
+  "searchTxt": {
+    "message": "Consulta de busqueda",
+    "description": "1.0 assessment.json"
+  },
+  "inputClassNameTxt": {
+    "message": "Ingrese el nombre de la clase ",
+    "description": "1.0 assessment.json"
+  },
+  "selectClassTxt": {
+    "message": "Elige una clase",
+    "description": "1.0 assessment.json"
+  },
+  "selectClassFirseTxt": {
+    "message": "¡Por favor, elige una clase primero!",
+    "description": "1.0 assessment.json"
+  },
+  "noDataTxt": {
+    "message": "No se encontraron datos relevantes, ¡inténtalo de nuevo!",
+    "description": "1.0 assessment.json"
+  },
+  "selectAllTxt": {
+    "message": "seleccionar todo",
+    "description": "1.0 assessment.json"
+  },
+  "haveRule": {
+    "message": "Estrategia existente",
+    "description": "1.0 assessment.json"
+  },
+  "noDataTxt1": {
+    "message": "Datos relevantes no encontrados",
+    "description": "1.0 assessment.json"
+  },
+  "loadDataTxt": {
+    "message": "Error al cargar los datos, por favor revise la red",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt": {
+    "message": "Solo ingrese enteros de 1-100",
+    "description": "1.0 assessment.json"
+  },
+  "selectNodeTxt": {
+    "message": "Este curso no tiene estructura en este momento, no puede elegir un nodo",
+    "description": "1.0 assessment.json"
+  },
+  "countRuleTxt": {
+    "message": "Reglas de cálculo",
+    "description": "1.0 assessment.json"
+  },
+  "selectAllChpaterTxt": {
+    "message": "Seleccionar todos los capítulos",
+    "description": "1.0 assessment.json"
+  },
+  "averageScoreTxt": {
+    "message": "Puntuación basada en la puntuación media del capítulo seleccionado",
+    "description": "1.0 assessment.json"
+  },
+  "selectCourseAndRulesTxt": {
+    "message": "Seleccionar capítulos de curso y reglas de cálculo",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt1": {
+    "message": "Ingrese la puntuación completa del tiempo de estudio",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt2": {
+    "message": "Ingrese cero minutos de tiempo de estudio",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt3": {
+    "message": "Seleccione una regla de puntuación",
+    "description": "1.0 assessment.json"
+  },
+  "inputTipsTxt4": {
+    "message": "Seleccione el capítulo de evaluación",
+    "description": "1.0 assessment.json"
+  },
+  "noAssiTxt": {
+    "message": "El profesor no tiene tarea",
+    "description": "1.0 assessment.json"
+  },
+  "averageScoreAssiTxt": {
+    "message": "De acuerdo con la calificación promedio de la tarea seleccionada",
+    "description": "1.0 assessment.json"
+  },
+  "selectAssiTxt": {
+    "message": "Elegir asignación",
+    "description": "1.0 assessment.json"
+  },
+  "noAssiTxt1": {
+    "message": "Este profesor no tiene tarea",
+    "description": "1.0 assessment.json"
+  },
+  "noExamTxt": {
+    "message": "Los profesores no tienen exámenes",
+    "description": "1.0 assessment.json"
+  },
+  "examTipsTxt": {
+    "message": "Si un examen permite que los estudiantes respondan varias preguntas, la puntuación más alta se selecciona como puntaje del estudiante para el examen de forma predeterminada",
+    "description": "1.0 assessment.json"
+  },
+  "moreExamTxt": {
+    "message": "Método de cálculo para pruebas múltiples",
+    "description": "1.0 assessment.json"
+  },
+  "highTxt": {
+    "message": "Puntuación más alta",
+    "description": "1.0 assessment.json"
+  },
+  "averageTxt": {
+    "message": "El puntaje promedio",
+    "description": "1.0 assessment.json"
+  },
+  "selectExamTxt": {
+    "message": "Elige un examen",
+    "description": "1.0 assessment.json"
+  },
+  "confirmDeleteTxt": {
+    "message": "¿Está seguro de que desea eliminar este elemento de calificación?",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt1": {
+    "message": "La suma de los pesos de los elementos de calificación actuales ha alcanzado el 100%. Si necesita continuar agregando elementos de calificación, primero modifique la proporción de otros elementos de calificación",
+    "description": "1.0 assessment.json"
+  },
+  "tableTipsTxt": {
+    "message": "Todavía hay contenidos sin completar en el formulario",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt2": {
+    "message": "La suma de los pesos de los elementos de calificación actuales no ha alcanzado el 100%. Asegúrese de que la suma de los pesos de los elementos de calificación sea del 100% y haga clic para completar la creación",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTipsTxt3": {
+    "message": "El peso total de cada elemento de calificación ha excedido el 100%. Modifique la ponderación de cada elemento de calificación",
+    "description": "1.0 assessment.json"
+  },
+  "createSucTxt": {
+    "message": "¡Creado con éxito!",
+    "description": "1.0 assessment.json"
+  },
+  "createFailTxt": {
+    "message": "¡Creación fallida!",
+    "description": "1.0 assessment.json"
+  },
+  "confirmCancelTxt": {
+    "message": "Esta operación hará que el contenido editado de esta página no se pueda guardar. ¿Está seguro de cancelar?",
+    "description": "1.0 assessment.json"
+  },
+  "confirmCancel": {
+    "message": "Confirmar cancelación",
+    "description": "1.0 assessment.json"
+  },
+  "clickErrorTxt": {
+    "message": "El punto está mal",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired1": {
+    "message": "El progreso de aprendizaje acumulativo de los capítulos seleccionados alcanza el {inputMax}% para obtener una puntuación completa, que es 0 puntos por debajo del {inputMin}%",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired2": {
+    "message": "En los capítulos seleccionados, el progreso de aprendizaje acumulativo de cada capítulo alcanza el {inputMax}% para obtener una puntuación completa, que es 0 puntos por debajo del {inputMin}%",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired3": {
+    "message": "El tiempo de aprendizaje acumulado del capítulo seleccionado alcanza {inputMax} minutos para obtener una puntuación completa, y menos de {inputMin} minutos cuenta 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired4": {
+    "message": "En los capítulos seleccionados, el tiempo de aprendizaje acumulado de cada capítulo alcanza {inputMax} minutos para obtener una puntuación completa, y menos de {inputMin} minutos cuentan 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired5": {
+    "message": "En los capítulos seleccionados, cada sección tiene una puntuación completa de {inputMax} minutos y una puntuación de menos de {inputMin} minutos",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation1": {
+    "message": "El contenido de este curso es diferente debido a la diferencia entre la versión de computadora y la versión móvil. Si los estudiantes estudian en la computadora y el teléfono móvil, se calcula el tiempo de aprendizaje total de los dos",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation2": {
+    "message": "La versión para computadora y la versión móvil de este curso se cuentan por separado. Al calcular el puntaje del capítulo, el puntaje más alto es el puntaje final. Solo la versión para computadora del capítulo se calcula en función de la versión para computadora",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation3": {
+    "message": "(Rojo indica que esta parte del contenido solo aparece en la versión de la computadora)",
+    "description": "1.0 assessment.json"
+  },
+  "associatePaper": {
+    "message": "Documento de prueba asociado",
+    "description": "1.0 assessment.json"
+  },
+  "selectRule": {
+    "message": "Seleccionar capítulos de curso y reglas de cálculo",
+    "description": "1.0 assessment.json"
+  },
+  "setCourseTime": {
+    "message": "Establecer el tiempo de estudio del curso",
+    "description": "1.0 assessment.json"
+  },
+  "setCourseGrade": {
+    "message": "Establecer puntaje del curso",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps1": {
+    "message": "Siga las instrucciones en los siguientes pasos",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps2": {
+    "message": "Descargue la plantilla y organice los datos según el formato de la plantilla",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps3": {
+    "message": "Descargar plantilla",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps4": {
+    "message": "Subir archivos organizados",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps5": {
+    "message": "Nota: si necesita modificar las calificaciones de los estudiantes, puede volver a cargar el archivo",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps6": {
+    "message": "Después de volver a subir, las calificaciones de los estudiantes serán reemplazadas por nuevas calificaciones",
+    "description": "1.0 assessment.json"
+  },
+  "operationSetps7": {
+    "message": "subir archivos",
+    "description": "1.0 assessment.json"
+  },
+  "classTxt": {
+    "message": "clase:",
+    "description": "1.0 assessment.json"
+  },
+  "toSelectTxt": {
+    "message": "Ve a elegir",
+    "description": "1.0 assessment.json"
+  },
+  "typeTxt": {
+    "message": "categoría",
+    "description": "1.0 assessment.json"
+  },
+  "scoreTxt": {
+    "message": "Elementos de calificación",
+    "description": "1.0 assessment.json"
+  },
+  "scoreRuleTxt": {
+    "message": "Reglas de calificación",
+    "description": "1.0 assessment.json"
+  },
+  "weightTxt": {
+    "message": "Pesos (%)",
+    "description": "1.0 assessment.json"
+  },
+  "fullMarkTxt": {
+    "message": "Puntuación completa",
+    "description": "1.0 assessment.json"
+  },
+  "actionTxt": {
+    "message": "operando",
+    "description": "1.0 assessment.json"
+  },
+  "finishtxt": {
+    "message": "Creación completa",
+    "description": "1.0 assessment.json"
+  },
+  "cancelTxt": {
+    "message": "cancelar",
+    "description": "1.0 assessment.json"
+  },
+  "classesTxt": {
+    "message": "{className} y otras {count} clases",
+    "description": "1.0 assessment.json"
+  },
+  "selectTxt": {
+    "message": "por favor elige",
+    "description": "1.0 assessment.json"
+  },
+  "courseTxt": {
+    "message": "curso",
+    "description": "1.0 assessment.json"
+  },
+  "assignmentTxt": {
+    "message": "operación",
+    "description": "1.0 assessment.json"
+  },
+  "examTxt": {
+    "message": "examen",
+    "description": "1.0 assessment.json"
+  },
+  "othersTxt": {
+    "message": "otro",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt1": {
+    "message": "El progreso de aprendizaje acumulativo del capítulo seleccionado alcanza {max}% como puntaje completo, y menos de {min}% es 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt2": {
+    "message": "En los capítulos seleccionados, el progreso de aprendizaje de cada capítulo alcanza {max}% es una puntuación completa, y debajo de {min}% es 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt3": {
+    "message": "El tiempo de aprendizaje acumulado del capítulo seleccionado alcanza {max} minutos como puntaje completo, y menos de {min} minutos es 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt4": {
+    "message": "En los capítulos seleccionados, el tiempo de aprendizaje para cada capítulo alcanza {max} minutos como puntaje completo, y menos de {min} minutos es 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt5": {
+    "message": "En los capítulos seleccionados, el tiempo de aprendizaje de cada sesión alcanza {max} minutos como puntaje completo, y menos de {min} minutos es 0 puntos",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt6": {
+    "message": "Calculado en base al puntaje promedio del capítulo seleccionado",
+    "description": "1.0 assessment.json"
+  },
+  "editTxt": {
+    "message": "modificar",
+    "description": "1.0 assessment.json"
+  },
+  "selectScoreTxt": {
+    "message": "Seleccione una regla de puntuación",
+    "description": "1.0 assessment.json"
+  },
+  "studyTimeTxt": {
+    "message": "tiempo de estudio",
+    "description": "1.0 assessment.json"
+  },
+  "studyProgressTxt": {
+    "message": "Progreso de aprendizaje",
+    "description": "1.0 assessment.json"
+  },
+  "courseResultTxt": {
+    "message": "Logro escolar",
+    "description": "1.0 assessment.json"
+  },
+  "assignmentResultTxt": {
+    "message": "Grado de tarea",
+    "description": "1.0 assessment.json"
+  },
+  "examResultTxt": {
+    "message": "Resultados de examen",
+    "description": "1.0 assessment.json"
+  },
+  "selectedHomeworkTxt": {
+    "message": "({count} trabajos seleccionados)",
+    "description": "1.0 assessment.json"
+  },
+  "selectedExamTxt": {
+    "message": "({count} exámenes seleccionados)",
+    "description": "1.0 assessment.json"
+  },
+  "notSelectAssiTxt": {
+    "message": "Ningún trabajo seleccionado todavía",
+    "description": "1.0 assessment.json"
+  },
+  "notSelectExamTxt": {
+    "message": "Examen aún no seleccionado",
+    "description": "1.0 assessment.json"
+  },
+  "notInputScoreTxt": {
+    "message": "Aún no se han ingresado resultados",
+    "description": "1.0 assessment.json"
+  },
+  "haveInputScore": {
+    "message": "Grados ingresados",
+    "description": "1.0 assessment.json"
+  },
+  "deleteTxt": {
+    "message": "Eliminar",
+    "description": "1.0 assessment.json"
+  },
+  "inputTxt": {
+    "message": "Entrada manual",
+    "description": "1.0 assessment.json"
+  },
+  "inputScoreTxt": {
+    "message": "Ingresar grado",
+    "description": "1.0 assessment.json"
+  },
+  "selectTipTxt": {
+    "message": "Nombre del elemento de calificación, como: tiempo de aprendizaje",
+    "description": "1.0 assessment.json"
+  },
+  "teacherTxt": {
+    "message": "Tarea asignada por el profesor {teacherName}",
+    "description": "1.0 assessment.json"
+  }
+}

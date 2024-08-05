@@ -1,0 +1,4150 @@
+{
+  "close": {
+    "message": "ปิด",
+    "description": "2.0 exam.js"
+  },
+  "examinationResults": {
+    "message": "ผลการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "gradeSumCl": {
+    "message": "คําถามปรนัย / คําถามอัตนัย / คะแนนรวม",
+    "description": "2.0 {filename}"
+  },
+  "examinationAnalysis": {
+    "message": "วิเคราะห์การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "allBatches": {
+    "message": "การสอบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "allClasses": {
+    "message": "ชั้นเรียนทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "allTeachers": {
+    "message": "อาจารย์ทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "submissionStatus": {
+    "message": "สถานะการส่ง",
+    "description": "2.0 exam.js"
+  },
+  "sort": {
+    "message": "จัดลำดับ",
+    "description": "2.0 exam.js"
+  },
+  "studentNumUp": {
+    "message": "เรียงลำดับตามรหัสนักเรียนจากน้อยไปมาก",
+    "description": "2.0 exam.js"
+  },
+  "studentNumDown": {
+    "message": "เรียงลำดับตามรหัสนักเรียนจากมากไปน้อย",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreUp": {
+    "message": "เรียงลำดับคะแนนรวมจากน้อยไปมาก",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreDown": {
+    "message": "เรียงลำดับคะแนนรวมจากมากไปน้อย",
+    "description": "2.0 exam.js"
+  },
+  "export": {
+    "message": "ส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "derivedAchievements": {
+    "message": "ส่งออกคะแนน",
+    "description": "2.0 exam.js"
+  },
+  "exportAnswerRecords": {
+    "message": "ส่งออกบันทึกการตอบคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "fastExport": {
+    "message": "ส่งออกผลการเรียนอย่างเร่งด่วน",
+    "description": "2.0 exam.js"
+  },
+  "customExport": {
+    "message": "ปรับแต่งคะแนนส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "startRemark": {
+    "message": "เริ่มตรวจข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "batchRemark": {
+    "message": "ตรวจเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "remarkByQuestion": {
+    "message": "ตรวจตามลำดับข้อ",
+    "description": "2.0 exam.js"
+  },
+  "all": {
+    "message": "ทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "notApproved": {
+    "message": "ยังไม่ได้ตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "readed": {
+    "message": "ตรวจแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "notSubmitted": {
+    "message": "ไม่ได้ส่ง",
+    "description": "2.0 exam.js"
+  },
+  "exception": {
+    "message": "ผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "readTip1": {
+    "message": "“รอการตรวจ”",
+    "description": "2.0 exam.js"
+  },
+  "readTip2": {
+    "message": "หมายความว่าข้อสอบประกอบด้วยคำถามอัตนัยและจำเป็นต้องได้รับการตรวจด้วยตนเองท่านเอง",
+    "description": "2.0 exam.js"
+  },
+  "serialNumber": {
+    "message": "ลำดับเลข",
+    "description": "2.0 exam.js"
+  },
+  "studentNumber": {
+    "message": "รหัสนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "name": {
+    "message": "ชื่อสกุล",
+    "description": "2.0 exam.js"
+  },
+  "namePrefix": {
+    "message": "ชื่อ: {name}",
+    "description": "2.0 {filename}"
+  },
+  "accountPrefix": {
+    "message": "หมายเลขบัญชี: {account}",
+    "description": "2.0 {filename}"
+  },
+  "schoolPrefix": {
+    "message": "โรงเรียน: {org}",
+    "description": "2.0 {filename}"
+  },
+  "certPrefix": {
+    "message": "หมายเลขใบรับรองการประเมิน: {no}",
+    "description": "2.0 {filename}"
+  },
+  "totalScore": {
+    "message": "คะแนนรวม",
+    "description": "2.0 exam.js"
+  },
+  "objectiveQuestions": {
+    "message": "คะแนนจากคำถามปรนัย",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQuestions": {
+    "message": "คะแนนคําถามอัตนัย",
+    "description": "2.0 exam.js"
+  },
+  "examinationPapers": {
+    "message": "ข้อสอบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "status": {
+    "message": "สถานะ",
+    "description": "2.0 exam.js"
+  },
+  "submissionTime": {
+    "message": "เวลาที่ส่งข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "operation": {
+    "message": "ดำเนินการ",
+    "description": "2.0 exam.js"
+  },
+  "leaveExam": {
+    "message": "ออกจากการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "leaveExamTip": {
+    "message": "หากนักเรียนออกจากการสอบเกินกว่าจำนวนครั้งที่กำหนดจะถูกระบบบังคับให้ส่งข้อสอบ ถ้าหากท่านคิดว่านักเรียนละเมิดข้อกำหนดในการสอบ สามารถจัดให้นักเรียนเข้าสอบใหม่ได้",
+    "description": "2.0 exam.js"
+  },
+  "answerRecord": {
+    "message": "บันทึกคําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "behaviorTrace": {
+    "message": "วิถีพฤติกรรม",
+    "description": "2.0 exam.js"
+  },
+  "markPapers": {
+    "message": "ตรวจข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "setUpRetest": {
+    "message": "ตั้งค่าการสอบใหม่",
+    "description": "2.0 exam.js"
+  },
+  "deleteRecords": {
+    "message": "ลบการบันทึก",
+    "description": "2.0 exam.js"
+  },
+  "noDataTip": {
+    "message": "ไม่มีข้อมูล โปรดเพิ่มนักเรียนในการสอบหรือแก้ไขเกณฑ์การค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "chooseBatch": {
+    "message": "โปรดเลือกชุดที่จะทำการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "betweenTime": {
+    "message": "{startTime} ถึง {endTime}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
+  },
+  "confirm": {
+    "message": "ยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "cancel": {
+    "message": "ยกเลิก",
+    "description": "2.0 exam.js"
+  },
+  "toBeApproved": {
+    "message": "รอการตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "notAttending": {
+    "message": "ไม่ได้เข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "inExam": {
+    "message": "กำลังสอบ",
+    "description": "2.0 exam.js"
+  },
+  "homePage": {
+    "message": "หน้าแรก",
+    "description": "2.0 exam.js"
+  },
+  "lastPage": {
+    "message": "หน้าสุดท้าย",
+    "description": "2.0 exam.js"
+  },
+  "upperPage": {
+    "message": "หน้าที่แล้ว",
+    "description": "2.0 exam.js"
+  },
+  "nextPage": {
+    "message": "หน้าถัดไป",
+    "description": "2.0 exam.js"
+  },
+  "jumpPage": {
+    "message": "ข้ามไปยัง",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip1": {
+    "message": "หลังจากกำหนดให้ทำซ้ำ บันทึกทั้งหมดของนักเรียนในการสอบนี้จะถูกล้าง คุณยืนยันที่จะให้นักเรียนคนนี้ทำซ้ำอีกครั้ง?",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip2": {
+    "message": "ไม่มีเซสชันการทดสอบที่เหมาะสม  ต้องการเพิ่มชุดใหม่หรือไม่?",
+    "description": "2.0 exam.js"
+  },
+  "deleteTip": {
+    "message": "หลังจากลบบันทึการตอบคำถามจะทำให้ไม่สามารถกู้คืนมาได้อีก ยืนยันที่จะลบไหม?",
+    "description": "2.0 exam.js"
+  },
+  "exportTip": {
+    "message": "ขณะที่นักเรียนมีการบันทึกตอบคำถามหลายครั้ง จะนำออกเฉพาะคำตอบที่คะแนนสูงที่สุด ถ้าหากต้องการแก้ไขกรุณาเลือกกำหนดการนำออกด้วยตนเอง",
+    "description": "2.0 exam.js"
+  },
+  "tips": {
+    "message": "เคล็ดลับ",
+    "description": "2.0 exam.js"
+  },
+  "chooseClass": {
+    "message": "เลือกชั้นเรียน:",
+    "description": "2.0 exam.js"
+  },
+  "basicInformation": {
+    "message": "สถานการณ์พื้นฐาน",
+    "description": "2.0 exam.js"
+  },
+  "quantity": {
+    "message": "จำนวน",
+    "description": "2.0 exam.js"
+  },
+  "proportion": {
+    "message": "สัดส่วน",
+    "description": "2.0 exam.js"
+  },
+  "examStuNum": {
+    "message": "{0}คนที่เข้าร่วมการสอบ",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "expectExamStuNum": {
+    "message": "จำนวนผู้ที่คาดว่าจะเข้าสอบ {0}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate": {
+    "message": "อัตราเข้าร่วมการสอบ",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate2": {
+    "message": "อัตราเข้าร่วมการสอบ: {0}% (อัตราความผิดปกติในนั้น: {1}%)",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "exceptionRate": {
+    "message": "อัตราความผิดปกติในนั้น",
+    "description": "2.0 exam.js"
+  },
+  "averageAnswerTime": {
+    "message": "ค่าเฉลี่ยระยะเวลาการตอบคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "maximumAnswerTime": {
+    "message": "ระยะเวลาตอบคำถามที่ยาวที่สุด",
+    "description": "2.0 exam.js"
+  },
+  "minimumAnswerTime": {
+    "message": "ระยะเวลาตอบคำถามที่สั้นที่สุด",
+    "description": "2.0 exam.js"
+  },
+  "mobile": {
+    "message": "อุปกรณ์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "PC": {
+    "message": "คอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "computeTip": {
+    "message": "หมายเหตุ: ข้อมูลเทอร์มินัลที่ใช้ในการทดสอบคำนวณจากจำนวนคน",
+    "description": "2.0 exam.js"
+  },
+  "examinationAchievementsAnalysis": {
+    "message": "การวิเคราะห์ผลคะแนนสอบ",
+    "description": "2.0 exam.js"
+  },
+  "averageAchievement": {
+    "message": "คะแนนเฉลี่ย",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviation": {
+    "message": "ค่าเบี่ยงเบนมาตรฐาน",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviationTip": {
+    "message": "ค่าเบี่ยงเบนมาตรฐานบ่งบอกระดับการกระจายตัวของผลการเรียนของนักเรียน ค่าเบี่ยงเบนมาตรฐานที่ใหญ่กว่า หมายถึงความแตกต่างระหว่างค่าส่วนใหญ่กับค่าเฉลี่ยมีค่ามากกว่า; ค่าเบี่ยงเบนมาตรฐานที่น้อยกว่า แสดงถึงค่าเหล่านี้ใกล้เคียงกับค่าเฉลี่ยมากขึ้น",
+    "description": "2.0 exam.js"
+  },
+  "passRate": {
+    "message": "อัตราการสอบผ่านเกณฑ์",
+    "description": "2.0 exam.js"
+  },
+  "highestScore": {
+    "message": "คะแนนสูงสุด",
+    "description": "2.0 exam.js"
+  },
+  "minimumScore": {
+    "message": "คะแนนต่ำสุด",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip1": {
+    "message": "*หมายเหตุ：1. การรายงานข้อมูลทั้งหมดจะไม่รวมถึงนักเรียนที่ขาดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip2": {
+    "message": "2. นักเรียนที่มีการบันทึกการตอบคำถามหลายครั้ง จะยึดเอาคะแนนที่สูงที่สุดมาคำนวณ",
+    "description": "2.0 exam.js"
+  },
+  "fractionalStatistics": {
+    "message": "สถิติช่วงคะแนน",
+    "description": "2.0 exam.js"
+  },
+  "noStuRecord": {
+    "message": "ไม่มีบันทึกการตอบคำถามของนักเรียนชั่วคราว!",
+    "description": "2.0 exam.js"
+  },
+  "paperAnalysis": {
+    "message": "วิเคราะห์ข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "chart": {
+    "message": "กราฟ",
+    "description": "2.0 exam.js"
+  },
+  "form": {
+    "message": "ตาราง",
+    "description": "2.0 exam.js"
+  },
+  "paperStatistics": {
+    "message": "สถิติการใช้กระดาษข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "personnel": {
+    "message": "{0}คน/{1}%",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "personnel2": {
+    "message": "{count}คน",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "detailedAnalysis": {
+    "message": "การวิเคราะห์อย่างละเอียด",
+    "description": "2.0 exam.js"
+  },
+  "scoreStatistics": {
+    "message": "สถิติคะแนน",
+    "description": "2.0 exam.js"
+  },
+  "paperName": {
+    "message": "ชื่อข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "userNum": {
+    "message": "จํานวนคนที่ใช้",
+    "description": "2.0 exam.js"
+  },
+  "proportion2": {
+    "message": "ร้อยละ",
+    "description": "2.0 exam.js"
+  },
+  "averageScore": {
+    "message": "คะแนนเฉลี่ย",
+    "description": "2.0 exam.js"
+  },
+  "disabled": {
+    "message": "หยุดใช้งานแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "questionAnalysis": {
+    "message": "การวิเคราะห์คําถาม",
+    "description": "2.0 exam.js"
+  },
+  "previewPapers": {
+    "message": "แสดงตัวอย่างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "quantity2": {
+    "message": "จำนวนข้อ:",
+    "description": "2.0 exam.js"
+  },
+  "totalScore2": {
+    "message": "คะแนนรวม:",
+    "description": "2.0 exam.js"
+  },
+  "paperPartAnalysis": {
+    "message": "การวิเคราะห์คะแนนทุกส่วนของข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "pdfGeneration": {
+    "message": "กำลังแปลงpdf...",
+    "description": "2.0 exam.js"
+  },
+  "choosePaper": {
+    "message": "เลือกข้อสอบ:",
+    "description": "2.0 exam.js"
+  },
+  "exportAllQuestion": {
+    "message": "คลิกเดียวนำออกการวิเคราะห์ข้อสอบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "exportCurrentQuestion": {
+    "message": "ส่งออกข้อมูลหน้าปัจจุบัน",
+    "description": "2.0 exam.js"
+  },
+  "paperAccuracy": {
+    "message": "สถิติอัตราความถูกต้องของข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "questionNumSToL": {
+    "message": "เรียงลำดับหมายเลขข้อตั้งแต่น้อยไปมาก",
+    "description": "2.0 exam.js"
+  },
+  "questionNumLToS": {
+    "message": "เรียงลำดับหมายเลขข้อตั้งแต่มากไปน้อย",
+    "description": "2.0 exam.js"
+  },
+  "questionNum": {
+    "message": "หมายเลขข้อ",
+    "description": "2.0 exam.js"
+  },
+  "questionType": {
+    "message": "ประเภทคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "correctRate": {
+    "message": "อัตราความถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "correctAnswer": {
+    "message": "คำตอบที่ถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "optionStuNum": {
+    "message": "ตัวเลือกจำนวนคน",
+    "description": "2.0 exam.js"
+  },
+  "difficulty": {
+    "message": "ระดับความยาก",
+    "description": "2.0 exam.js"
+  },
+  "difficultyTip": {
+    "message": "ระดับความยากมักจะขึ้นอยู่กับอัตราการผ่านเกณฑ์ของคําถามทดสอบเป็นมาตรฐาน ยิ่งค่าระดับความยากสูงเท่าใด คําถามก็จะยิ่งง่าย ค่ายิ่งน้อย คำถามยิ่งยาก โดยทั่วไประดับความยากของหัวข้อที่เหมาะสมอยู่ระหว่าง 0.3 ~ 0.8  ",
+    "description": "2.0 exam.js"
+  },
+  "difficulties": {
+    "message": "ยาก",
+    "description": "2.0 exam.js"
+  },
+  "general": {
+    "message": "ทั่วไป",
+    "description": "2.0 exam.js"
+  },
+  "easy": {
+    "message": "ง่าย",
+    "description": "2.0 exam.js"
+  },
+  "discrimination": {
+    "message": "ระดับการแบ่งแยก",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip": {
+    "message": "ระดับการแบ่งแยกหมายถึงข้อสอบจะแบ่งแยกระดับตามระดับการเรียนที่แตกต่างกันหรือแยกแยะตามความสามารถของนักเรียน ระดับการแบ่งแยกอยู่ที่ระหว่าง -1ถึง+1 ค่ายิ่งสูงยิ่งดี โดยทั่วไปความแตกต่างระหว่างคำถามทดสอบจะต้องมากกว่า0.3",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip1": {
+    "message": "ขณะ จะอธิบายได้ว่าระดับการแบ่งแยกของข้อนี้ค่อนข้างดี",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip2": {
+    "message": "ขณะ จะอธิบายได้ว่าระดับการแบ่งแยกของข้อนี้ค่อนข้างแย่ แนะนำให้แก้ไข",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip3": {
+    "message": "ระดับการแบ่งแยกอยู่ที่ติดลบ อธิบายได้ว่าข้อสอบหรือคำตอบมีปัญหา",
+    "description": "2.0 exam.js"
+  },
+  "noData": {
+    "message": "ไม่มีข้อมูลชั่วคราว",
+    "description": "2.0 exam.js"
+  },
+  "recommendedAnswer": {
+    "message": "คำตอบที่แนะนำ:",
+    "description": "2.0 exam.js"
+  },
+  "parsing": {
+    "message": "แยกวิเคราะห์",
+    "description": "2.0 exam.js"
+  },
+  "previousQuestion": {
+    "message": "ข้อที่แล้ว",
+    "description": "2.0 exam.js"
+  },
+  "nextQuestion": {
+    "message": "ข้อถัดไป",
+    "description": "2.0 exam.js"
+  },
+  "previewQuestion": {
+    "message": "ดูตัวอย่างคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "searchTip": {
+    "message": "ป้อนคีย์เวิร์ดเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "submitByAPP": {
+    "message": "ส่งโดยแอป",
+    "description": "2.0 exam.js"
+  },
+  "submitByPC": {
+    "message": "ส่งผ่านหน้าเว็บ",
+    "description": "2.0 exam.js"
+  },
+  "chooseExamBatch": {
+    "message": "กรุณาเลือกชุดการเข้าร่วมการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "unknown": {
+    "message": "ไม่รู้จัก",
+    "description": "2.0 exam.js"
+  },
+  "points": {
+    "message": "{grade} คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "paperPartName": {
+    "message": "ชื่อทุกส่วนของข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "peopleNum": {
+    "message": "จำนวนคน",
+    "description": "2.0 exam.js"
+  },
+  "abandonRate": {
+    "message": "อัตราการไม่เข้าร่วมการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "hour": {
+    "message": "ชั่วโมง",
+    "description": "2.0 exam.js"
+  },
+  "minute": {
+    "message": "{count} นาที",
+    "description": "2.0 exam.js"
+  },
+  "timeLength": {
+    "message": "{days}วัน{hours}ชั่วโมง{minutes}นาที{seconds}วินาที",
+    "description": "2.0 exam.js"
+  },
+  "scoringRate": {
+    "message": "อัตราคะแนนที่ได้",
+    "description": "2.0 exam.js"
+  },
+  "score": {
+    "message": "คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "exam": {
+    "message": "การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips1": {
+    "message": "ที่นี่แสดงตารางการสอบทั้งหมด ผู้ดูแลจัดการหลักสูตรสามารถประกาศ/ตรวจดูการสอบของทุกระดับชั้นได้ อาจารย์ทำได้เพียงประกาศ/ตรวจดูการสอบของนักเรียนในชั้นตนเองได้เท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips2": {
+    "message": "ที่นี่แสดงการสอบที่อาจารย์ประกาศทั้งหมด การตั้งค่าการสอบอื่นๆเช่น เวลาการเข้าสอบสายที่อนุญาตของทุกสนามสอบ,ระยะเวลาการตอบคำถาม,สามารถตอบคำถามได้หลายครั้งหรือไม่เป็นต้นอาจจะมีความแตกต่าง กรุณาตรวจดูอย่างระมัดระวัง",
+    "description": "2.0 exam.js"
+  },
+  "examTips1": {
+    "message": "ถ้าหากการสอบที่ท่านเข้าร่วมเปิดการใช้งานการยืนยันตนด้วยการแยกแยะใบหน้า กรุณาอัพโหลดรูปภาพยืนยันก่อน เพื่อหลีกเลี่ยงการล่าช้าขณะเข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "goToIdentify": {
+    "message": "ไปยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "addExam": {
+    "message": "เพิ่มการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examPaperLibrary": {
+    "message": "คลังข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "questionLibrary": {
+    "message": "คลังคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "ทดสอบสภาพแวดล้อมการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examName": {
+    "message": "ชื่อการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "field": {
+    "message": "ทั้งหมด{count}สนาม",
+    "description": "指有多少场考试"
+  },
+  "creator": {
+    "message": "ผู้สร้าง",
+    "description": "2.0 exam.js"
+  },
+  "examTime": {
+    "message": "เวลาที่ทำการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examPaper": {
+    "message": "ข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes": {
+    "message": "จำนวนครั้งการตอบ",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimes": {
+    "message": "จํานวนครั้งการตอบ/จํานวนครั้งที่อนุญาต",
+    "description": "2.0 {filename}"
+  },
+  "achievement": {
+    "message": "คะแนนผลการเรียน",
+    "description": "2.0 exam.js"
+  },
+  "noStart": {
+    "message": "ยังไม่เริ่ม",
+    "description": "2.0 exam.js"
+  },
+  "onGoing": {
+    "message": "กำลังดำเนินการ",
+    "description": "2.0 exam.js"
+  },
+  "hasEnded": {
+    "message": "เสร็จสิ้นแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "examDurationCl": {
+    "message": "ระยะเวลาสอบ: {count} นาที",
+    "description": "2.0 exam.js"
+  },
+  "lateTime": {
+    "message": "เวลาสาย: {count}",
+    "description": "2.0 exam.js"
+  },
+  "lateTimeSet": {
+    "message": "เวลาที่มาสาย",
+    "description": "2.0 exam.js"
+  },
+  "myself": {
+    "message": "ตัวฉันเอง",
+    "description": "2.0 exam.js"
+  },
+  "start": {
+    "message": "เริ่ม",
+    "description": "2.0 exam.js"
+  },
+  "startDatePrefix": {
+    "message": "เริ่มต้น: {time}",
+    "description": "2.0 {filename}"
+  },
+  "ended": {
+    "message": "เสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "endDatePrefix": {
+    "message": "สิ้นสุด: {time}",
+    "description": "2.0 {filename}"
+  },
+  "noBatch": {
+    "message": "ไม่มีชุดงาน",
+    "description": "2.0 exam.js"
+  },
+  "partOf": {
+    "message": "{n} ฉบับ",
+    "description": "教师账号 -> 考试"
+  },
+  "randomGroupPaper": {
+    "message": "สุ่มกลุ่มข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "viewScore": {
+    "message": "ตรวจดูคะแนนผลการเรียน",
+    "description": "2.0 exam.js"
+  },
+  "previewExam": {
+    "message": "ดูตัวอย่างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "modifyExam": {
+    "message": "แก้ไขการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatch": {
+    "message": "แก้ไขเซสชัน",
+    "description": "2.0 exam.js"
+  },
+  "delete": {
+    "message": "ลบ",
+    "description": "2.0 exam.js"
+  },
+  "startExam": {
+    "message": "เริ่มการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examTips2": {
+    "message": "กรุณาใช้แอปพลิเคชั่นULearningในการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examTips3": {
+    "message": "เลยเวลาที่อนุญาตให้สายแล้ว ไม่สามารถเข้าสู่การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examTips4": {
+    "message": "ปรนัย/อัตนัย:",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinished": {
+    "message": "หลังการสอบเสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "dayShowExam": {
+    "message": "แสดง {n} วันหลังการสอบสิ้นสุด",
+    "description": "学生账号 -> 考试"
+  },
+  "examTips5": {
+    "message": "คะแนนผลการเรียนยังไม่ประกาศชั่วคราว",
+    "description": "2.0 exam.js"
+  },
+  "examTips6": {
+    "message": "ไม่พบการสอบที่สอดคล้องกัน",
+    "description": "2.0 exam.js"
+  },
+  "noExam": {
+    "message": "ไม่มีการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips": {
+    "message": "ข้อผิดพลาดของเครือข่าย ให้คลิก",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips2": {
+    "message": "ข้อผิดพลาดของเครือข่าย คลิก{button}เพื่อโหลดใหม่ ",
+    "description": "2.0 {filename}"
+  },
+  "loadErrorTips": {
+    "message": "เกิดข้อผิดพลาดในการโหลด คลิก",
+    "description": "2.0 exam.js"
+  },
+  "reload": {
+    "message": "โหลดใหม่",
+    "description": "2.0 exam.js"
+  },
+  "unlimited": {
+    "message": "ไม่จำกัด",
+    "description": "2.0 exam.js"
+  },
+  "examTips7": {
+    "message": "ยืนยันว่าต้องการลบการสอบครั้งนี้?",
+    "description": "2.0 exam.js"
+  },
+  "deletePaper": {
+    "message": "ลบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "deleteSuccess": {
+    "message": "ลบสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "deleteFailed": {
+    "message": "ลบไม่สำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "batchRemarkQue": {
+    "message": "ตรวจข้อสอบเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips1": {
+    "message": "หมายเหตุ：หากผู้เข้าสอบส่งบันทึกคำตอบหลายครั้ง จะแสดงผลเพียงการส่งบันทึกครั้งสุดท้ายเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "totalQue": {
+    "message": "รวม {n} ข้อ",
+    "description": "2.0 exam.js"
+  },
+  "queOf": {
+    "message": "{n} ข้อ",
+    "description": "2.0 exam.js"
+  },
+  "queIndex": {
+    "message": "คําถามข้อที่ {n}",
+    "description": "2.0 exam.js"
+  },
+  "answeringCount": {
+    "message": "ในคำตอบข้อที่ {n}",
+    "description": "2.0 exam.js"
+  },
+  "seeDetails": {
+    "message": "ตรวจดูอย่างละเอียด",
+    "description": "2.0 exam.js"
+  },
+  "allAnswer": {
+    "message": "คำตอบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "thisQueFullScore": {
+    "message": "ข้อนี้คะแนนเต็ม: {grade}คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "noMark": {
+    "message": "ยังไม่ได้ประเมินคะแนน",
+    "description": "2.0 exam.js"
+  },
+  "hasMarked": {
+    "message": "ประเมินคะแนนแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "batchScore": {
+    "message": "ให้คะแนนเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "openedAnonymousMarking": {
+    "message": "เริ่มการตรวจข้อสอบแบบไม่ระบุตัวตนแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "preview": {
+    "message": "แสดงตัวอย่าง",
+    "description": "2.0 exam.js"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "2.0 exam.js"
+  },
+  "modifyScore": {
+    "message": "แก้ไขคะแนน",
+    "description": "2.0 exam.js"
+  },
+  "approximateAnswerBatchScore": {
+    "message": "การให้คะแนนชุดคำตอบโดยประมาณ",
+    "description": "2.0 exam.js"
+  },
+  "inputScore": {
+    "message": "กรุณาใส่คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "fullScore": {
+    "message": "คะแนนเต็ม",
+    "description": "2.0 exam.js"
+  },
+  "save": {
+    "message": "บันทึก",
+    "description": "2.0 exam.js"
+  },
+  "noStudent": {
+    "message": "ไม่มีนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "commit": {
+    "message": "ส่ง",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips2": {
+    "message": "ไม่มีข้อสอบที่ต้องตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips3": {
+    "message": "อธิบาย：ท่านสามารถให้คะแนนแบบเอกภาพให้กับนักเรียนทั้งหมดที่ตอบคำถามข้อนี้ได้ หลังจากให้คะแนนแบบเอกภาพแล้วสามารถเข้าไปแก้ไขในส่วนคะแนนของแต่ละคนได้",
+    "description": "2.0 exam.js"
+  },
+  "attachmentPreview": {
+    "message": "แสดงตัวอย่างสิ่งที่แนบมา",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips4": {
+    "message": "ระบบค้นพบจากนักเรียนที่ยังรอการให้คะแนนอยู่ พบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips5": {
+    "message": "คำตอบโดยประมาณ ถ้าหากยอมรับให้ระบบแยกแยะผลลัพธ์ กดยืนยันก็จะสามารถบันทึกการให้คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[0]": {
+    "message": "ข้อสอบตัวเลือกเดี่ยว",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[1]": {
+    "message": "ข้อสอบหลายตัวเลือก",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[2]": {
+    "message": "ข้อสอบเติมคำในช่องว่าง",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[3]": {
+    "message": "คำถามถูกหรือผิด",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[4]": {
+    "message": "คำถามคําตอบสั้น",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[5]": {
+    "message": "คำถามจับคู่",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[6]": {
+    "message": "คำถามการอ่าน",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[7]": {
+    "message": "คำถามการฟัง",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[8]": {
+    "message": "คำถามการเรียงความ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[9]": {
+    "message": "คำถามการแปล",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[10]": {
+    "message": "คำถามเลือกข้อที่ถูกต้องเติมลงในช่องว่าง",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[11]": {
+    "message": "คำถามการเรียงลำดับ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[12]": {
+    "message": "โมดูลคําอธิบาย",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[13]": {
+    "message": "คําถามไวยากรณ์",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[14]": {
+    "message": "คําถามคําศัพท์",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[15]": {
+    "message": "คําถามการพูดแบบอัตนัย ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[16]": {
+    "message": "คำถามเลือกคำเติมคำลงในช่องว่าง",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[17]": {
+    "message": "คําถามอัปโหลดไฟล์แนบ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[18]": {
+    "message": "คำถามการอ่านปากเปล่า",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[19]": {
+    "message": "คำถามการอ่าน (เลือกคำเติมในช่องว่าง)",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[20]": {
+    "message": "คําถามเรียงความ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[21]": {
+    "message": "คำถามวิเคราะห์สื่อการเรียน",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[22]": {
+    "message": "คำถามแบบตัวเลือกเลื่อนลงด้านล่าง",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[23]": {
+    "message": "คําถามประมวลความรู้",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[24]": {
+    "message": "คําถามการคํานวณสูตร",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[0]": {
+    "message": "ง่าย",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[1]": {
+    "message": "ง่าย",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[2]": {
+    "message": "ปกติ",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[3]": {
+    "message": "ค่อนข้างยาก",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[4]": {
+    "message": "ยาก",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips6": {
+    "message": "ผู้เข้าสอบคนนี้ไม่ได้เขียนคำตอบ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips7": {
+    "message": "ในบรรดาคำตอบที่ยังไม่ได้ให้คะแนน ไม่พบคำตอบโดยประมาณ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips8": {
+    "message": "กรุณาใส่คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips9": {
+    "message": "กรุณาใส่คะแนนที่ถูกต้อง ใช้ทศนิยม1ตำแหน่ง",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips10": {
+    "message": "คะแนนไม่สามารถมากกว่าคะแนนรวมได้",
+    "description": "2.0 exam.js"
+  },
+  "timesOf": {
+    "message": "{n} ครั้ง",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
+  },
+  "baseInformation": {
+    "message": "ข้อมูลพื้นฐาน",
+    "description": "2.0 exam.js"
+  },
+  "examNameCl": {
+    "message": "ชื่อการสอบ:",
+    "description": "2.0 exam.js"
+  },
+  "answerDurationCl": {
+    "message": "ระยะเวลาในการตอบคําถาม: {count}",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOf": {
+    "message": "จํานวนครั้งในการตอบ: {count}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "passScoreCl": {
+    "message": "คะแนนที่ผ่านเกณฑ์:",
+    "description": "2.0 exam.js"
+  },
+  "participtionWaysCl": {
+    "message": "วิธีการเข้าร่วม:",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicTimeCl": {
+    "message": "เวลาการประกาศผล:",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicScopeCl": {
+    "message": "ขอบเขตของการประกาศผล:",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationCl": {
+    "message": "การตรวจสอบใบหน้า:",
+    "description": "2.0 exam.js"
+  },
+  "opened": {
+    "message": "เปิดใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "notOpened": {
+    "message": "ไม่ได้เปิดใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCode": {
+    "message": "รหัสยืนยันสำรอง",
+    "description": "2.0 exam.js"
+  },
+  "detailTips1": {
+    "message": "1. หากนักเรียนไม่สามารถสแกนใบหน้าเพื่อเข้าสู่การสอบได้ สามารถใช้รหัสยืนยันนี้เพื่อเข้าร่วมแทน",
+    "description": "2.0 exam.js"
+  },
+  "detailTips2": {
+    "message": "2. รหัสยืนยันใช้ได้ภายใน 15 นาที โปรดรีเฟรชและรับอีกครั้งหลังจากหมดอายุ",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "ตรวจสอบการยืนยันตนด้วยใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "sets": {
+    "message": "ชุด",
+    "description": "2.0 exam.js"
+  },
+  "enabled": {
+    "message": "เปิดใช้งานแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "queNumberCl": {
+    "message": "จำนวนคำถาม:",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreCl": {
+    "message": "คะแนนเต็ม:",
+    "description": "2.0 exam.js"
+  },
+  "setExamStructure": {
+    "message": "ตั้งค่าโครงสร้างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "phone": {
+    "message": "โทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "pcAndMobile": {
+    "message": "คอมพิวเตอร์และโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "notShow": {
+    "message": "ไม่แสดง",
+    "description": "2.0 exam.js"
+  },
+  "commitImmediatelyShow": {
+    "message": "ประกาศทันทีหลังจากส่ง",
+    "description": "2.0 exam.js"
+  },
+  "cannotAllForbidden": {
+    "message": "ไม่สามารถห้ามใช้งานได้ทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthentication": {
+    "message": "การยืนยันตนด้วยใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "myAuthenticationPhoto": {
+    "message": "รูปถ่ายที่ได้รับการรับรองของฉัน",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips1": {
+    "message": "คลิกเพื่ออัปโหลดภาพถ่ายที่ได้รับการรับรอง",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips2": {
+    "message": "หมายเหตุ:",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips3": {
+    "message": "รูปภาพยืนยันตนใช้สำหรับการสแกนใบหน้าเพื่อเข้าสอบ กรุณาอัปโหลดรูปภาพตามความเป็นจริง หลังจากรูปภาพอัพโหลดแล้ว อาจารย์สามารถดำเนินการตรวจสอบ หากพบว่ารูปภาพไม่ตรงกับตัวบุคคล จะถูกตัดสินว่าทำการทุจริต และอาจจะส่งผลให้ผลคะแนนการสอบถูกยกเลิกได้",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips4": {
+    "message": "รูปยืนยันตนหากอัปโหลดแล้วจะไม่สามารถแก้ไขได้",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips5": {
+    "message": ", โปรดยืนยันว่าพร้อมใช้งานก่อนที่จะอัปโหลด",
+    "description": "2.0 exam.js"
+  },
+  "authenticatePhoto": {
+    "message": "ภาพถ่ายที่ผ่านการรับรอง",
+    "description": "2.0 exam.js"
+  },
+  "reUpload": {
+    "message": "อัปโหลดอีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips6": {
+    "message": "กรุณาทดสอบว่าสามารถสแกนใบหน้าได้สำเร็จค่อยอัปโหลด",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips7": {
+    "message": "ทดสอบว่าสแกนใบหน้าสำเร็จหรือไม่",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips8": {
+    "message": "โปรดหันหน้าเข้าหากล้องและตรวจสอบให้แน่ใจว่ามีแสงสว่างเพียงพอ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthenticateFailed": {
+    "message": "การยืนยันตนด้วยใบหน้าไม่ผ่าน",
+    "description": "2.0 exam.js"
+  },
+  "reTry": {
+    "message": "ลองอีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "authenticateSuccess": {
+    "message": "การยืนยันตนผ่านแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips9": {
+    "message": "กรุณาขอรหัสยืนยันจากอาจารย์ผู้คุมสอบแล้วกรอก",
+    "description": "2.0 exam.js"
+  },
+  "verificationCodeError": {
+    "message": "รหัสยืนยันไม่ถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips10": {
+    "message": "ปรับขนาดกว้างยาวและตำแหน่งของรูป",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips11": {
+    "message": "ลากเส้นประเพื่อปรับขนาดและตำแหน่งของรูป",
+    "description": "2.0 exam.js"
+  },
+  "auditor": {
+    "message": "ผู้ตรวจสอบ：",
+    "description": "2.0 exam.js"
+  },
+  "auditTimeCl": {
+    "message": "เวลาที่ตรวจสอบ:",
+    "description": "2.0 exam.js"
+  },
+  "refuseReasonCl": {
+    "message": "เหตุผลในการปฏิเสธ:",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips12": {
+    "message": "รูปภาพไม่ตรงกับเจ้าตัว",
+    "description": "2.0 exam.js"
+  },
+  "waitTeaAudit": {
+    "message": "รอการตรวจสอบจากอาจารย์",
+    "description": "2.0 exam.js"
+  },
+  "auditPassed": {
+    "message": "ตรวจสอบผ่าน",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditPassVerb": {
+    "message": "ตรวจสอบผ่าน",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditFailed": {
+    "message": "ตรวจสอบไม่ผ่าน",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips13": {
+    "message": "โปรดตรวจสอบว่าสามารถสแกนรูปภาพได้สำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips14": {
+    "message": "ขนาดไฟล์ต้องไม่เกิน10M",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips1": {
+    "message": "การสอบครั้งนี้ได้เปิดใช้การตรวจข้อสอบแบบไม่ระบุตัวตน",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips2": {
+    "message": "คะแนนข้อสอบของฉันที่ถูกจัดแบ่ง",
+    "description": "2.0 exam.js"
+  },
+  "readedCl": {
+    "message": "ได้ตรวจแล้ว：",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedCl": {
+    "message": "รอตรวจ：",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips3": {
+    "message": "จำนวนข้อสอบที่ต้องตรวจจะถูกจัดแบ่งโดยผู้รับผิดชอบการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips4": {
+    "message": "ผ่านการยืนยันใบหน้าเพื่อเข้าสู่การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "toBeAudit": {
+    "message": "รอการตรวจสอบ",
+    "description": "2.0 exam.js"
+  },
+  "thisTimeExamPhoto": {
+    "message": "รูปภาพการสอบครั้งนี้",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips5": {
+    "message": "เข้าสู่การสอบผ่านการใส่รหัสยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "studentNOCl2": {
+    "message": "รหัสนักเรียน: {no}",
+    "description": "2.0 {filename}"
+  },
+  "classOf": {
+    "message": "ชั้นเรียน: {className}",
+    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
+  },
+  "waitApproved": {
+    "message": "รอการตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "examinationBehaviorTrajectory": {
+    "message": "วิถีพฤติกรรมการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips6": {
+    "message": "สถานการณ์ผิดปกติมากกว่าจำนวนที่กำหนด ระบบจะบังคับให้ส่งข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips7": {
+    "message": "การสอบเสร็จสิ้น ระบบจะส่งข้อสอบโดยอัตโนมัติ",
+    "description": "2.0 exam.js"
+  },
+  "computerTerminal": {
+    "message": "เครื่องคอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "mobileTerminal": {
+    "message": "โทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "mobileApp": {
+    "message": "แอปพลิเคชั่นในโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips8": {
+    "message": "ระยะเวลาออกจากการสอบค่อนข้างนาน ความผิดปกติ+1",
+    "description": "2.0 exam.js"
+  },
+  "intoPage": {
+    "message": "เข้าสู่หน้า",
+    "description": "2.0 exam.js"
+  },
+  "leavePage": {
+    "message": "ออกจากหน้า",
+    "description": "2.0 exam.js"
+  },
+  "commitExam": {
+    "message": "ส่งข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "batchArrangement": {
+    "message": "การจัดวางจำนวนครั้งของสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examRoomArrangement": {
+    "message": "การจัดวางสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "markExamArrangement": {
+    "message": "กำหนดการตรวจข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "markingTips1": {
+    "message": "จำนวนข้อสอบที่มีคำถามอัตนัย:",
+    "description": "2.0 exam.js"
+  },
+  "markingTips2": {
+    "message": "แบ่งเฉลี่ยให้กับอาจารย์ผู้ตรวจข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumberCl": {
+    "message": "จำนวนข้อสอบที่รอตรวจ：",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumberCl": {
+    "message": "จำนวนข้อสอบที่ตรวจแล้ว：",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumber": {
+    "message": "จำนวนข้อสอบที่รอตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumber": {
+    "message": "จำนวนข้อสอบที่ตรวจแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "closeAnonymousMarking": {
+    "message": "ปิดการตรวจข้อสอบแบบไม่ระบุตัวตน",
+    "description": "2.0 exam.js"
+  },
+  "openAnonymousMarking": {
+    "message": "เปิดการตรวจข้อสอบแบบไม่ระบุตัวตน",
+    "description": "2.0 exam.js"
+  },
+  "teacher": {
+    "message": "อาจารย์",
+    "description": "2.0 exam.js"
+  },
+  "markingTips3": {
+    "message": "เข้าร่วมการตรวจข้อสอบหรือไม่",
+    "description": "2.0 exam.js"
+  },
+  "markingTips4": {
+    "message": "จำนวนชุดข้อสอบที่ถูกมอบหมายให้ตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "participants": {
+    "message": "เข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "noParticipants": {
+    "message": "ไม่เข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "finished": {
+    "message": "เสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "markRecord": {
+    "message": "บันทึกการตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "teacherCl": {
+    "message": "อาจารย์:",
+    "description": "2.0 exam.js"
+  },
+  "markTime": {
+    "message": "เวลาที่ตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "viewMarkDetail": {
+    "message": "ดูรายละเอียดการตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "markingTips5": {
+    "message": "จำนวนรวมของข้อสอบที่ถูกจัดแบ่งให้ตรวจต้องไม่เกินกว่าจำนวนข้อสอบที่มีคำถามอัตนัย",
+    "description": "2.0 exam.js"
+  },
+  "arrangingExamRoom": {
+    "message": "จัดห้องสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exportTable": {
+    "message": "ส่งออกตาราง",
+    "description": "2.0 exam.js"
+  },
+  "batch": {
+    "message": "เซสชัน",
+    "description": "2.0 exam.js"
+  },
+  "batchNo": {
+    "message": "เซสชัน {n}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "batchNoTime": {
+    "message": "เซสชัน{n}: {startTime} ถึง {endTime}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "clearExamRoomPlan": {
+    "message": "ล้างการจัดวางสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "noDesignatedExamRoom": {
+    "message": "-ไม่มีการกำหนดสนามสอบชั่วคราว",
+    "description": "2.0 exam.js"
+  },
+  "examRoom": {
+    "message": "สนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "classAndStudent": {
+    "message": "ชั้นเรียน/นักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber": {
+    "message": "จำนวนที่นั่ง",
+    "description": "2.0 exam.js"
+  },
+  "examStuNumber": {
+    "message": "จำนวนผู้เข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "remainSeat": {
+    "message": "ที่นั่งเหลือ",
+    "description": "2.0 exam.js"
+  },
+  "invigilator": {
+    "message": "อาจารย์ที่คุมสอบ",
+    "description": "2.0 exam.js"
+  },
+  "etcOfPeople": {
+    "message": "{name} เท่ากับ{n}คน",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "etcOf": {
+    "message": "{name} เป็นต้น",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+  },
+  "peopleOf": {
+    "message": "[{n}คน]",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "empty": {
+    "message": "ว่าง",
+    "description": "2.0 exam.js"
+  },
+  "nnallocated": {
+    "message": "ยังไม่ได้จัดแบ่ง",
+    "description": "2.0 exam.js"
+  },
+  "exanStuList": {
+    "message": "รายชื่อผู้เข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "chooseInvigilator": {
+    "message": "เลือกอาจารย์คุมสอบ",
+    "description": "2.0 exam.js"
+  },
+  "inputTeaNameSearch": {
+    "message": "ใส่ชื่ออาจารย์เพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "roomTips1": {
+    "message": "ไม่มีข้อมูล กรุณาแก้ไขการตรวจสอบเงื่อนไข",
+    "description": "2.0 exam.js"
+  },
+  "roomTips2": {
+    "message": "ยืนยันที่จะลบสนามสอบและอาจารย์คุมสอบของการสอบปัจจุบันนี้?",
+    "description": "2.0 exam.js"
+  },
+  "addBatch": {
+    "message": "เพิ่มการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "someBatch": {
+    "message": "รวม {Count} เซสชัน",
+    "description": "2.0 exam.js"
+  },
+  "time": {
+    "message": "เวลา",
+    "description": "2.0 exam.js"
+  },
+  "participantsClassAndStu": {
+    "message": "ชั้นเรียนที่เข้าร่วม/นักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "shouldArrivePeople": {
+    "message": "จำนวนคนที่มา",
+    "description": "2.0 exam.js"
+  },
+  "participantsNumber": {
+    "message": "จำนวนคนที่เข้าร่วมแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "nonParticipantsNumber": {
+    "message": "จำนวนคนไม่เข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "studentBrackets": {
+    "message": "[นักเรียน]",
+    "description": "2.0 exam.js"
+  },
+  "someClassAndStu": {
+    "message": "ชั้นเรียน/นักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "modify": {
+    "message": "แก้ไข",
+    "description": "2.0 exam.js"
+  },
+  "checkAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "expandEndTime": {
+    "message": "ขยายระยะเวลาการเสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "examTimeCl": {
+    "message": "เวลาทำการสอบ：",
+    "description": "2.0 exam.js"
+  },
+  "startTime": {
+    "message": "เวลาที่เริ่ม",
+    "description": "2.0 exam.js"
+  },
+  "endTime": {
+    "message": "เวลาที่เสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "participantsPeople": {
+    "message": "สมาชิกที่เข้าร่วม:",
+    "description": "2.0 exam.js"
+  },
+  "addClass": {
+    "message": "เพิ่มชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "addStudent": {
+    "message": "เพิ่มนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "selectClass": {
+    "message": "เลือกชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "selectStudent": {
+    "message": "เลือกนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "allTeacher": {
+    "message": "อาจารย์ทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "inputClassNameSearch": {
+    "message": "ใส่ชื่อชั้นเรียนเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "roomTips3": {
+    "message": "ใส่ชื่อนักเรียน/รหัสนักเรียนเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "roomTips4": {
+    "message": "อาจารย์ท่านนี้ยังไม่มีชั้นเรียนที่สอน",
+    "description": "2.0 exam.js"
+  },
+  "roomTips5": {
+    "message": "ไม่พบชั้นเรียนที่สอดคล้อง",
+    "description": "2.0 exam.js"
+  },
+  "roomTips6": {
+    "message": "ไม่พบนักเรียนที่สอดคล้อง",
+    "description": "2.0 exam.js"
+  },
+  "roomTips7": {
+    "message": "ไม่มีนักเรียนชั่วคราว",
+    "description": "2.0 exam.js"
+  },
+  "batchExpand": {
+    "message": "ขยายเวลาชุดงาน {count} นาที",
+    "description": "2.0 exam.js"
+  },
+  "roomTips8": {
+    "message": "หมายเหตุ：หลังจากขยายเวลาเสร็จสิ้นแล้ว นักเรียนที่เวลาทำการสอบไม่พอเพราะการมาสายหรือเพราะเหตุผลอื่น เวลาการสอบของนักเรียนดังกล่าวก็จะขยายออก ส่วนนักเรียนที่ทำการสอบปกติหรือส่งข้อสอบแล้วจะไม่ได้รับผลกระทบ",
+    "description": "2.0 exam.js"
+  },
+  "roomTips9": {
+    "message": "ส่วนขยายเวลาต้องอยู่ในช่วงระหว่าง 1-1000",
+    "description": "2.0 exam.js"
+  },
+  "expandSuccess": {
+    "message": "ขยายสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "expandFailed": {
+    "message": "ขยายไม่สำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "roomTips10": {
+    "message": "ลบการสอบ อาจจะทำให้การบันทึกคำตอบของการสอบปัจจุบันนี้สูญหาย กรุณาดำเนินการอย่างระมัดระวัง ยืนยันที่จะลบ?",
+    "description": "2.0 exam.js"
+  },
+  "roomTips11": {
+    "message": "ยืนยันที่จะลบการสอบครั้งนี้?",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch": {
+    "message": "ลบชุดงาน",
+    "description": "2.0 exam.js"
+  },
+  "roomTips12": {
+    "message": "โปรดตั้งค่าเวลาชุดงาน",
+    "description": "2.0 exam.js"
+  },
+  "roomTips13": {
+    "message": "กรุณาเลือกเป้าหมายของการสอบ (ชั้นเรียนหรือนักเรียน)",
+    "description": "2.0 exam.js"
+  },
+  "monitor": {
+    "message": "มอนิเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "openedFaceVerification": {
+    "message": "เปิดใช้งานการยืนยันตนด้วยใบหน้าแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "viewStandbyVerificationCode": {
+    "message": "ตรวจดูรหัสยืนยันสำรอง",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips1": {
+    "message": "1. หากที่นักเรียนไม่สามารถสแกนใบหน้าเพื่อเข้าสอบได้ สามารถใช้รหัสยืนยันเพื่อเข้าแทน",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips2": {
+    "message": "2. รหัสยืนยันนี้มีผลบังคับใช้ภายในระยะเวลา15นาที หากหมดผลบังคับใช้กรุณากดรับใหม่",
+    "description": "2.0 exam.js"
+  },
+  "allExamRoom": {
+    "message": "สนามสอบทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "inputNameAndStuNoSearch": {
+    "message": "ใส่ชื่อสกุล/รหัสนักเรียนเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "exportMonitorInfo": {
+    "message": "ส่งออกข้อมูลมอนิเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "exportPhotos": {
+    "message": "นำออกรูปภาพ",
+    "description": "2.0 exam.js"
+  },
+  "noEnterExam": {
+    "message": "ไม่ได้เข้าการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "byVerificationCode": {
+    "message": "ผ่านรหัสยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "intoExam": {
+    "message": "เข้าสู่การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "answering": {
+    "message": "กำลังตอบคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "handInExam": {
+    "message": "ส่งข้อสอบแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "equipment": {
+    "message": "อุปกรณ์",
+    "description": "2.0 exam.js"
+  },
+  "verificationType": {
+    "message": "รูปแบบการยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "intoExamTime": {
+    "message": "เวลาที่เข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimeMinite": {
+    "message": "ระยะเวลาการตอบคำถาม(นาที)",
+    "description": "2.0 exam.js"
+  },
+  "faceVerification": {
+    "message": "การยืนยันตนด้วยใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "verificationCode": {
+    "message": "รหัสยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "abnormalRecord": {
+    "message": "บันทึกความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "haveEntered": {
+    "message": "เข้าร่วมแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "notEnter": {
+    "message": "ไม่ได้เข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "beAnswering": {
+    "message": "กำลังตอบคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl": {
+    "message": "อธิบาย：",
+    "description": "2.0 exam.js"
+  },
+  "auditTips1": {
+    "message": "การสอบที่เปิดการใช้งานยืนยันตัวตนจากการแยกแยะใบหน้า จำเป็นต้องอัปโหลดรูปภาพยืนยันของผู้เข้าสอบก่อน รูปภาพสามารถนำเข้าเป็นชุดโดยอาจารย์ หรือให้นักเรียนอัปโหลดเองได้ รูปภาพที่นักเรียนอัปโหลดเอง อาจารย์สามารถเข้าตรวจสอบได้ ที่หัวข้อการตั้งค่าการสอบท่านสามารถเลือกได้ว่าจะอนุญาตให้นักเรียนที่ยังไม่ผ่านการตรวจสอบรูปภาพยืนยันเข้าสู่การสอบได้หรือไม่ นักเรียนที่ไม่ผ่านการตรวจสอบจากอาจารย์จะไม่สามารถเข้าสู่การสอบได้",
+    "description": "2.0 exam.js"
+  },
+  "batchExportPhotos": {
+    "message": "นำเข้ารูปถ่ายเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "exportAuthenticationInfo": {
+    "message": "ส่งออกข้อมูลการยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "unuploadedPhotos": {
+    "message": "ยังไม่ได้อัปโหลดรูปภาพ",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "unuploadedPhotosAlt": {
+    "message": "ยังไม่ได้อัปโหลดรูปภาพ",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "batchOpration": {
+    "message": "ดำเนินการทั้งชุด",
+    "description": "2.0 exam.js"
+  },
+  "finish": {
+    "message": "เสร็จสมบูรณ์",
+    "description": "2.0 exam.js"
+  },
+  "checkAllWholePage": {
+    "message": "เลือกหน้านี้ทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "batchAudit": {
+    "message": "ตรวจสอบเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "batchClearPhoto": {
+    "message": "ล้างรูปภาพเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "replacePhoto": {
+    "message": "แก้ไขรูปภาพ",
+    "description": "2.0 exam.js"
+  },
+  "reAudit": {
+    "message": "ตรวจสอบใหม่อีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "photoUploader": {
+    "message": "ผู้อัปโหลดรูปภาพ:",
+    "description": "2.0 exam.js"
+  },
+  "photoUploadTimeCl": {
+    "message": "เวลาที่ทำการอัปโหลดรูปภาพ:",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditorCl": {
+    "message": "ผู้ตรวจสอบรูปภาพ:",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditTimeCl": {
+    "message": "เวลาการตรวจสอบรูปภาพ:",
+    "description": "2.0 exam.js"
+  },
+  "batchExportAuthenticationPhoto": {
+    "message": "นำเข้ารูปภาพยืนยันเป็นชุด",
+    "description": "2.0 exam.js"
+  },
+  "authenticationPhotoRequire": {
+    "message": "ข้อกําหนดในการรับรองภาพถ่าย",
+    "description": "2.0 exam.js"
+  },
+  "auditTips2": {
+    "message": "รูปแบบ: jpg, jpeg, png, bmp",
+    "description": "2.0 exam.js"
+  },
+  "auditTips3": {
+    "message": "ขนาด：แนะนำให้ใช้รูปถ่ายมาตราฐาน1นิ้ว (413*295 พิกเซล) หรือรูปภาพในขนาดเดียวกัน",
+    "description": "2.0 exam.js"
+  },
+  "auditTips4": {
+    "message": "ชื่อไฟล์รูปภาพต้องครอบคลุมถึงรหัสนักเรียน นอกจากรหัสนักเรียนแล้ว ไม่รวมถึงตัวอักษรอารบิกอื่นๆ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips5": {
+    "message": "แนะนำให้ใช้รูปภาพนักเรียนที่อยู่ในระบบบริหารการศึกษา",
+    "description": "2.0 exam.js"
+  },
+  "auditTips6": {
+    "message": "ตัวอย่างการตั้งชื่อรูปภาพ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips7": {
+    "message": "บุคคลนิรนาม",
+    "description": "2.0 exam.js"
+  },
+  "auditTips8": {
+    "message": "โปรดบีบอัดรูปภาพทั้งหมดในรูปแบบzipแล้วอัปโหลด",
+    "description": "2.0 exam.js"
+  },
+  "uploadPhoto": {
+    "message": "อัปโหลดรูปภาพ",
+    "description": "2.0 exam.js"
+  },
+  "cancelUpload": {
+    "message": "ยกเลิกการอัปโหลด",
+    "description": "2.0 exam.js"
+  },
+  "batchAuditAuthenticationPhoto": {
+    "message": "ตรวจสอบภาพถ่ายที่ได้รับการรับรองเป็นกลุ่ม",
+    "description": "2.0 exam.js"
+  },
+  "auditTips9": {
+    "message": "กรุณาใส่เหตุผลที่ไม่ผ่าน เช่น：รูปภาพไม่ใช่ตัวบุคคลจริง กรุณาอัปโหลดอีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "batchClearAuthenticationPhoto": {
+    "message": "ล้างรูปภาพที่ได้รับการรับรองเป็นกลุ่ม",
+    "description": "2.0 exam.js"
+  },
+  "auditTips26": {
+    "message": "ไม่สามารถกู้คืนรูปภาพได้หลังจากล้างแล้ว ยืนยันที่จะล้างข้อมูลนี้",
+    "description": "2.0 exam.js"
+  },
+  "auditTips10": {
+    "message": "รูปภาพยืนยันตนของนักเรียนหรือไม่?",
+    "description": "2.0 exam.js"
+  },
+  "auditTips12": {
+    "message": "กรุณารอให้รูปภาพก่อนหน้าอัปโหลดเสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "auditTips13": {
+    "message": "กรุณาเลือกนักเรียนที่ต้องการตรวจสอบ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips14": {
+    "message": "กรุณาเลือกภาพของนักเรียนที่จะทำการลบ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips15": {
+    "message": "ไฟล์บีบอัดที่จะอัปโหลดต้องไม่เกิน1GB",
+    "description": "2.0 exam.js"
+  },
+  "uploaded": {
+    "message": "อัปโหลดแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "auditTips16": {
+    "message": "อัปโหลดเสร็จสิ้น กำลังจับคู่รูปภาพ...",
+    "description": "2.0 exam.js"
+  },
+  "auditTips17": {
+    "message": "นำเข้าเสร็จสิ้น นำเข้าสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips18": {
+    "message": "รูปภาพยืนยัน ไม่สำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips19": {
+    "message": "รูป รหัสนักเรียนหรือรูปแบบเอกสารด้านล่างไม่ถูกต้อง (",
+    "description": "2.0 exam.js"
+  },
+  "auditTips20": {
+    "message": "นำเข้าเสร็จสิ้น นำเข้าสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips21": {
+    "message": "รูปภาพยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "auditTips22": {
+    "message": "เอกสารที่เลือกทั้งหมดไม่พบรูปภาพ กรุณาตรวจสอบว่าเอกสารถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "auditTips23": {
+    "message": "การนำเข้ารูปภาพเกิดความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips24": {
+    "message": "อัปโหลดไม่สำเร็จ กรุณาตรวจสอบรูปแบบของเอกสาร",
+    "description": "2.0 exam.js"
+  },
+  "auditTips25": {
+    "message": "การอัปโหลดเกิดความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "myQuestionLibrary": {
+    "message": "คลังข้อสอบของฉัน",
+    "description": "2.0 exam.js"
+  },
+  "examPaperTitle": {
+    "message": "หัวข้อข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examStructure": {
+    "message": "โครงสร้างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "queTotalNumberCl": {
+    "message": "จำนวนรวมหัวข้อ:",
+    "description": "2.0 exam.js"
+  },
+  "examPaperFullScore": {
+    "message": "คะแนนเต็มของข้อสอบ:",
+    "description": "2.0 exam.js"
+  },
+  "randomTips1": {
+    "message": "คัดลอกโครงสร้างกระดาษทดสอบจากการสอบอื่น",
+    "description": "2.0 exam.js"
+  },
+  "inputSectionName": {
+    "message": "กรุณาใส่ชื่อส่วน",
+    "description": "2.0 exam.js"
+  },
+  "scoreCl": {
+    "message": "คะแนน:",
+    "description": "2.0 exam.js"
+  },
+  "moveUp": {
+    "message": "ย้ายขึ้น",
+    "description": "2.0 exam.js"
+  },
+  "moveDown": {
+    "message": "ย้ายลง",
+    "description": "2.0 exam.js"
+  },
+  "extractQueNumberCl": {
+    "message": "จำนวนข้อสุ่ม:",
+    "description": "2.0 exam.js"
+  },
+  "eachContainSubQue": {
+    "message": "แต่ละคำถามประกอบด้วยคำถามย่อย:",
+    "description": "2.0 exam.js"
+  },
+  "eachQueScoreCl": {
+    "message": "คะแนนสำหรับแต่ละคำถาม:",
+    "description": "2.0 exam.js"
+  },
+  "subQueScoreCl": {
+    "message": "คะแนนสำหรับคำถามย่อยแต่ละคำถาม:",
+    "description": "2.0 exam.js"
+  },
+  "containSubQueType": {
+    "message": "ประเภทของคําถามย่อยที่มี:",
+    "description": "2.0 exam.js"
+  },
+  "extractMenuCl": {
+    "message": "สารบัญการสุ่มข้อสอบ:",
+    "description": "2.0 exam.js"
+  },
+  "seleteMenu": {
+    "message": "เลือกสารบัญ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips2": {
+    "message": "(สารบัญนี้หมดอายุแล้ว)",
+    "description": "2.0 exam.js"
+  },
+  "randomTips3": {
+    "message": "หมายเหตุ：คำถามรวมทักษะถือเป็นข้อใหญ่ ทุกครั้งที่เพิ่มรูปแบบข้อสอบรวมทักษะหนึ่งข้อ จะสามารถเลือกข้อใหญ่ได้เพียงหนึ่งข้อ",
+    "description": "2.0 exam.js"
+  },
+  "addQuestionType": {
+    "message": "เพิ่มรูปแบบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "addSection": {
+    "message": "เพิ่มส่วน",
+    "description": "2.0 exam.js"
+  },
+  "copyExamStructure": {
+    "message": "คัดลอกโครงสร้างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "selectCourse": {
+    "message": "เลือกหลักสูตร",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "กรุณาเลือกหลักสูตร",
+    "description": "2.0 exam.js"
+  },
+  "selectExam": {
+    "message": "เลือกการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExam": {
+    "message": "กรุณาเลือกการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "selectExamPaper": {
+    "message": "เลือกข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamPaper": {
+    "message": "กรุณาเลือกข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "selectExtractMenuCl": {
+    "message": "เลือกสารบัญการสุ่มข้อ",
+    "description": "2.0 exam.js"
+  },
+  "schoolQuestionLibrary": {
+    "message": "คลังข้อสอบของโรงเรียนเรา",
+    "description": "2.0 exam.js"
+  },
+  "randomTips4": {
+    "message": "ยังไม่มีการสร้างสารบัญ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips5": {
+    "message": "กรุณาก่อน",
+    "description": "2.0 exam.js"
+  },
+  "randomTips6": {
+    "message": "[คลังข้อสอบของฉัน]",
+    "description": "2.0 exam.js"
+  },
+  "randomTips7": {
+    "message": "เพิ่มสารบัญโฟลเดอร์ใน",
+    "description": "2.0 exam.js"
+  },
+  "singleChoiceQ": {
+    "message": "คำถามตัวเลือกเดียว",
+    "description": "2.0 exam.js"
+  },
+  "multipleChoiceQ": {
+    "message": "คำถามหลายตัวเลือก",
+    "description": "2.0 exam.js"
+  },
+  "completionQ": {
+    "message": "คำถามเติมคำในช่องว่าง",
+    "description": "2.0 exam.js"
+  },
+  "judgementQ": {
+    "message": "คำถามถูกหรือผิด",
+    "description": "2.0 exam.js"
+  },
+  "shortAnswerQ": {
+    "message": "คำถามแบบให้ตอบโดยสังเขป",
+    "description": "2.0 exam.js"
+  },
+  "sequencingQ": {
+    "message": "คำถามแบบเรียงลำดับข้อ",
+    "description": "2.0 exam.js"
+  },
+  "comprehensiveQ": {
+    "message": "คำถามรวมทักษะ",
+    "description": "2.0 exam.js"
+  },
+  "pullDownSelectionQ": {
+    "message": "คำถามแบบตัวเลือกเลื่อนลงด้านล่าง",
+    "description": "2.0 exam.js"
+  },
+  "matchingQ": {
+    "message": "คำถามแบบจับคู่",
+    "description": "2.0 exam.js"
+  },
+  "readingQ": {
+    "message": "คำถามการอ่าน",
+    "description": "2.0 exam.js"
+  },
+  "listeningQ": {
+    "message": "คำถามการฟัง",
+    "description": "2.0 exam.js"
+  },
+  "writingQ": {
+    "message": "คำถามให้เขียนเรียงความ",
+    "description": "2.0 exam.js"
+  },
+  "translationQ": {
+    "message": "คำถามการแปล",
+    "description": "2.0 exam.js"
+  },
+  "clozeQ": {
+    "message": "คำถามเติมคำให้สมบูรณ์",
+    "description": "2.0 exam.js"
+  },
+  "formulaQ": {
+    "message": "คำถามการคำนวณสูตร",
+    "description": "2.0 exam.js"
+  },
+  "descriptionModule": {
+    "message": "โมดูลคําอธิบาย",
+    "description": "2.0 exam.js"
+  },
+  "syntaxModule": {
+    "message": "โมดูลไวยากรณ์",
+    "description": "2.0 exam.js"
+  },
+  "lexicalModule": {
+    "message": "โมดูลคำศัพท์",
+    "description": "2.0 exam.js"
+  },
+  "spokenModule": {
+    "message": "โมดูลการพูด",
+    "description": "2.0 exam.js"
+  },
+  "readingQBankedCloze": {
+    "message": "คำถามการอ่าน (เลือกคำศัพท์เติมในช่องว่าง)",
+    "description": "2.0 exam.js"
+  },
+  "attachUploadQ": {
+    "message": "คําถามอัปโหลดไฟล์แนบ",
+    "description": "2.0 exam.js"
+  },
+  "listeningObjectivesQ": {
+    "message": "คําถามการฟังปรนัย",
+    "description": "2.0 exam.js"
+  },
+  "completionQDisorder": {
+    "message": "คำถามเติมคำในช่องว่างแบบจำนวนช่องมากและไม่เรียงกัน",
+    "description": "2.0 exam.js"
+  },
+  "discussionQ": {
+    "message": "คำถามแบบบรรยาย",
+    "description": "2.0 exam.js"
+  },
+  "materialAnalysisQ": {
+    "message": "คำถามวิเคราะห์สื่อการเรียน",
+    "description": "2.0 exam.js"
+  },
+  "autoGroupPaper": {
+    "message": "รวมกลุ่มข้อสอบอัตโนมัติ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips8": {
+    "message": "ชื่อข้อสอบจำเป็นต้องมีอักขระอยู่ระหว่าง1-200อักขระ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips9": {
+    "message": "อย่างน้อยต้องเพิ่มเข้าไปในข้อสอบส่วนหนึ่ง",
+    "description": "2.0 exam.js"
+  },
+  "randomTips10": {
+    "message": "ชื่อของส่วนย่อยจำเป็นต้องมีอักขระอยู่ระหว่าง1-200อักขระ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips11": {
+    "message": "โครงสร้างข้อสอบไม่สมบูรณ์ กรุณาตรวจสอบแก้ไขและทดลองอีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "randomTips12": {
+    "message": "จำนวนหัวข้อในสารบัญไม่เพียงพอ กรุณาเพิ่มสารบัญ",
+    "description": "2.0 exam.js"
+  },
+  "selectExamRoom": {
+    "message": "เลือกสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "confirmExamRoom": {
+    "message": "ยืนยันสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips1": {
+    "message": "จำนวนผู้เข้าร่วมมากที่สุดในสนามสอบเดี่ยว:",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips2": {
+    "message": "(จำนวนที่นั่งทั้งหมดในห้องสอบที่เลือกควรมากกว่าค่านี้)",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips3": {
+    "message": "จำนวนที่นั่งทั้งหมดในห้องสอบที่เลือกคือ:",
+    "description": "2.0 exam.js"
+  },
+  "addExamRoom": {
+    "message": "เพิ่มห้องสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examRoomName": {
+    "message": "ชื่อห้องสอบ",
+    "description": "2.0 exam.js"
+  },
+  "type": {
+    "message": "รูปแบบ",
+    "description": "2.0 exam.js"
+  },
+  "normalClassroom": {
+    "message": "ห้องเรียนปกติ",
+    "description": "2.0 exam.js"
+  },
+  "computerRoom": {
+    "message": "ห้องคอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "lastStep": {
+    "message": "ขั้นก่อนหน้า",
+    "description": "2.0 exam.js"
+  },
+  "nextStep": {
+    "message": "ขั้นถัดไป",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips4": {
+    "message": "กรุณาเลือห้องสอบที่ต้องการใช้ในแต่ละครั้งการสอบ ที่นั่งรวมของทุกครั้งการสอบจะต้องมากกว่าจำนวนผู้เข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "seatOf": {
+    "message": "ที่นั่ง {n}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "examStudentOf": {
+    "message": "ผู้สอบ {n}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "seatsOf": {
+    "message": "ที่นั่ง {n}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips5": {
+    "message": "ระบบจะจัดเรียงลำดับผลลัพธ์อัตโนมัติจากจำนวนคนในชั้นเรียนและจำนวนที่นั่งของการสอบ ท่านสามารถจัดเรียงได้ด้วยตนเอง หลังจากยืนยันแล้วจะทำการบันทึกผลลัพธ์การจัดเรียงลำดับ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips6": {
+    "message": "กดเลือกหนึ่งชั้นเรียน สามารถแก้ไขสนามสอบ；เลือกสองชั้นเรียน สามารถแลกเปลี่ยนสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamRoom": {
+    "message": "แก้ไขสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exchangeExamRoom": {
+    "message": "แลกเปลี่ยนสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "saveArranging": {
+    "message": "บันทึการจัดเรียงลำดับ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips7": {
+    "message": "ท่านสามารถย้ายชั้นเรียนทั้งชั้นไปยังสนามสอบอื่นได้；และสามารถย้ายนักเรียนบางส่วนจากชั้นเรียนปัจจุบันไปยังสนามสอบอื่นๆได้",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips11": {
+    "message": "ยืนยันที่จะลบสนามสอบนี้?",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips12": {
+    "message": "กรุณาใส่ชื่อสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips13": {
+    "message": "กรุณาใส่ตัวเลขที่มากกว่า 0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips14": {
+    "message": "จำนวนที่นั่งสอบในสนามสอบที่เลือกควรจะมากกว่าจำนวนคนที่เข้าร่วมการสอบสนามเดี่ยว",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips15": {
+    "message": "กรุณาเลือกสนามสอบ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTip16": {
+    "message": "จำนวนที่นั่งในเซสชั่นสอบ {n} น้อยกว่าจำนวนผู้สมัคร",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips17": {
+    "message": "จำนวนที่ย้ายไม่สามารถเป็น0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips18": {
+    "message": "จำนวนคนที่ย้ายไม่สามารถมากกว่าจำนวนนักเรียนรวม",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips19": {
+    "message": "จำนวนคนที่ย้ายไม่สามารถมากกว่าจำนวนที่นั่งสอบที่เหลืออยู่",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips20": {
+    "message": "จำนวนที่นั่งสอบเหลือไม่เพียงพอ",
+    "description": "2.0 exam.js"
+  },
+  "inputExamName": {
+    "message": "กรุณาใส่ชื่อการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examPapers": {
+    "message": "ข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "appointExamPaper": {
+    "message": "กำหนดข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips1": {
+    "message": "(หลังจากที่การสอบเริ่มต้นจะไม่สามารถแก้ไขได้)",
+    "description": "2.0 exam.js"
+  },
+  "enable": {
+    "message": "ใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "disable": {
+    "message": "ห้ามใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "questionNumber": {
+    "message": "จำนวนหัวข้อ:",
+    "description": "2.0 exam.js"
+  },
+  "passScore": {
+    "message": "คะแนนที่ผ่านเกณฑ์",
+    "description": "2.0 exam.js"
+  },
+  "examResult": {
+    "message": "ผลการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "immediateDisplay": {
+    "message": "แสดงทันที",
+    "description": "2.0 exam.js"
+  },
+  "afterDaysShow": {
+    "message": "แสดงหลังจาก {n} วัน",
+    "description": "教师账号 -> 考试 -> 添加考试"
+  },
+  "weekAfterShow": {
+    "message": "แสดงหลังจากสิ้นสุดการสอบ{count}สัปดาห์",
+    "description": "2.0 exam.js"
+  },
+  "noShow": {
+    "message": "ไม่แสดง",
+    "description": "2.0 exam.js"
+  },
+  "examDuration": {
+    "message": "ระยะเวลาการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "showScope": {
+    "message": "แสดงช่วง",
+    "description": "2.0 exam.js"
+  },
+  "participtionWay": {
+    "message": "รูปแบบการเข้าร่วม",
+    "description": "2.0 exam.js"
+  },
+  "onPCExam": {
+    "message": "สอบบนคอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "onMobileExam": {
+    "message": "สอบในโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips2": {
+    "message": "สามารถสอบได้ทั้งในคอมพิวเตอร์และโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips3": {
+    "message": "การสอบในโทรศัพท์มือถือไม่สนับสนุนการสอบสาธารณะชั่วคราว",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips4": {
+    "message": "ข้อสอบ {paperName} มีคําถามที่ไม่ได้รับการสนับสนุน โปรดเปลี่ยนวิธีการเข้าร่วมหรือปรับเนื้อหาของข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examTimes": {
+    "message": "จำนวนครั้งการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "most": {
+    "message": "มากที่สุด",
+    "description": "2.0 exam.js"
+  },
+  "mostExamCount": {
+    "message": "มากสุด {count} ครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "unlimitTimes": {
+    "message": "ไม่จำกัดจำนวนครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "lateTip": {
+    "message": "ไม่อนุญาตให้เข้าหลังจากเริ่มการสอบ {count} นาที",
+    "description": "2.0 exam.js"
+  },
+  "commitLimitTip": {
+    "message": "ไม่อนุญาตให้ส่งกระดาษคำตอบภายใน {count} นาทีหลังจากเริ่มการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "abnormalMonitor": {
+    "message": "มอนิเตอร์ความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips5": {
+    "message": "ตรวจสอบจํานวนครั้งที่นักเรียนออกจากการสอบในระหว่างการสอบ มากกว่า",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips6": {
+    "message": "ครั้ง ระบบจะบังคับให้ส่งข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips7": {
+    "message": "รองรับเฉพาะการสอบโทรศัพท์มือถือเท่านั้น ตามหลักการคุมสอบ: โทรศัพท์มือถือกลับไปที่เดสก์ท็อป ปิดหรือเรียกใช้แอปในพื้นหลัง",
+    "description": "2.0 exam.js"
+  },
+  "identityVerification": {
+    "message": "การยืนยันตัวตน ",
+    "description": "2.0 exam.js"
+  },
+  "openFaceVerification": {
+    "message": "เปิดการตรวจสอบการจดจําใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips8": {
+    "message": "อนุญาตให้นักเรียนที่กำลังรอการตรวจสอบรูปภาพยืนยันเข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "description": {
+    "message": "อธิบาย",
+    "description": "2.0 exam.js"
+  },
+  "fold": {
+    "message": "เก็บ",
+    "description": "2.0 exam.js"
+  },
+  "unfold": {
+    "message": "ขยาย",
+    "description": "2.0 exam.js"
+  },
+  "publishExam": {
+    "message": "ประกาศการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips9": {
+    "message": "(รายการนี้มีการเก็บค่าบริการ องค์กรของท่านยังไม่ได้เปิดให้บริการชั่วคราว；หากต้องการเปิดใช้งานกรุณาติดต่อลูกค้าสัมพันธ์：400-610-7808-7808)",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips10": {
+    "message": "บริการหมดอายุแล้ว หากท่านต้องการจะเปิดใช้งานต่อกรุณาติดต่อลูกค้าสัมพันธ์：400-610-7808",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchs": {
+    "message": "แก้ไขทั้งชุดงาน",
+    "description": "2.0 exam.js"
+  },
+  "batchs": {
+    "message": "ชุดงาน",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips11": {
+    "message": "ยืนยันที่จะลบชุดงานนี้?",
+    "description": "2.0 exam.js"
+  },
+  "publishSuccess": {
+    "message": "ประกาศสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamSuccess": {
+    "message": "แก้ไขการสอบสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchSuccess": {
+    "message": "แก้ไขชุดงานเสร็จเรียบร้อยแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips12": {
+    "message": "ได้ทำการลบข้อสอบที่ซ้ำแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips13": {
+    "message": "ไม่สามารถลบข้อสอบที่มีการบันทึกคำตอบได้",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips14": {
+    "message": "อย่างน้อยต้องเก็บข้อสอบไว้1ชุด",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips15": {
+    "message": "ชื่อข้อสอบควรมีอักขระอยู่ที่ระหว่าง2~100 อักขระ",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamTime": {
+    "message": "ระยะเวลาในการตอบคําถามควรมากกว่าหรือเท่ากับ 0",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips16": {
+    "message": "อย่างน้อยต้องเก็บข้อสอบที่ใช้งานไว้1ชุด",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips17": {
+    "message": "คะแนนผ่านเกณฑ์ควรอยู่ระหว่าง {range}",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips18": {
+    "message": "ระหว่าง",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips19": {
+    "message": "กรุณาเลือกเป้าหมายการสอบ (ชั้นเรียนหรือนักเรียน)",
+    "description": "2.0 exam.js"
+  },
+  "allBatch": {
+    "message": "ชุดงานทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "inputNameSearch": {
+    "message": "ใส่ชื่อสกุลเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "approve": {
+    "message": "ตรวจ",
+    "description": "2.0 exam.js"
+  },
+  "scoreAnalysis": {
+    "message": "วิเคราะห์คะะแนนผลการเรียน",
+    "description": "2.0 exam.js"
+  },
+  "averageFinishedTime": {
+    "message": "เวลาเฉลี่ยในการทําให้เสร็จสมบูรณ์",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips1": {
+    "message": "การรายงานข้อมูลทั้งหมดจะไม่รวมไปถึงนักเรียนที่ขาดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips2": {
+    "message": "หากนักเรียนมีการบันทึกคำตอบหลายครั้ง จะคิดจากครั้งที่ได้คะแนนมากที่สุด",
+    "description": "2.0 exam.js"
+  },
+  "userNumber": {
+    "message": "จำนวนผู้ใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "viewQue": {
+    "message": "ตรวจดูข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examInfo": {
+    "message": "ข้อมูลข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examinationManagement": {
+    "message": "การจัดการข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examMonitor": {
+    "message": "การคุมสอบ",
+    "description": "2.0 exam.js"
+  },
+  "analysisReport": {
+    "message": "รายงานการวิเคราะห์",
+    "description": "2.0 exam.js"
+  },
+  "class": {
+    "message": "ชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "roomTips14": {
+    "message": "ใส่รหัสนักเรียน/ชื่อสกุลเพื่อค้นหา",
+    "description": "2.0 exam.js"
+  },
+  "allStudent": {
+    "message": "นักเรียนทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "auditFailed2": {
+    "message": "การตรวจสอบไม่ผ่าน",
+    "description": "2.0 exam.js"
+  },
+  "remainSeatOf": {
+    "message": "เหลือ{n}ที่นั่ง",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "remainSeatOf2": {
+    "message": "{roomName}(เหลือ{n}ที่นั่ง)",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "modifyRoomTip": {
+    "message": "ย้าย{n}คนจาก{className} (จำนวนนักเรียนทั้งหมด: {total} คน) ไปยังห้องทดสอบต่อไปนี้:",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "objectivesQ": {
+    "message": "คำถามแบบปรนัย",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQ": {
+    "message": "คําถามอัตนัย",
+    "description": "2.0 exam.js"
+  },
+  "commitTime": {
+    "message": "เวลาส่ง",
+    "description": "2.0 exam.js"
+  },
+  "view": {
+    "message": "ตรวจดู",
+    "description": "2.0 exam.js"
+  },
+  "classRange": {
+    "message": "ขอบเขตชั้นเรียน: {className}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "exportDate": {
+    "message": "วันที่ส่งออก: {date}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "conceptDesc": {
+    "message": "คําอธิบายแนวคิด:",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "mark": {
+    "message": "คำอธิบายประกอบ",
+    "description": "2.0 exam.js"
+  },
+  "securitySetting": {
+    "message": "ตั้งค่าความปลอดภัย",
+    "description": "2.0 exam.js"
+  },
+  "answerSetting": {
+    "message": "ตั้งค่าคําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "attachAccess": {
+    "message": "คำถามคำตอบสั้นอนุญาตให้อัปโหลดไฟล์แนบ",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor": {
+    "message": "การตรวจสอบอุปกรณ์",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor1": {
+    "message": "เปิดการตรวจสอบอุปกรณ์ ไม่อนุญาตให้เปลี่ยนอุปกรณ์หรือเบราว์เซอร์เพื่อตอบคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor2": {
+    "message": "ในกรณีพิเศษสามารถขอเปลี่ยนรหัสยืนยันจากครูได้",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor": {
+    "message": "การตรวจสอบ IP",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor1": {
+    "message": "เปิดการตรวจสอบ IP  ไม่อนุญาตให้เปลี่ยน IP กลางคันระหว่างตอบ",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor2": {
+    "message": "การสลับเครือข่ายอาจทําให้เกิดการเปลี่ยนแปลง IP โปรดใช้ด้วยความระมัดระวัง",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor": {
+    "message": "คุมสอบโดยการจับภาพสแนปชอต",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor1": {
+    "message": "เปิดการตรวจสอบการจับภาพทุก 3 ถึง 5 นาทีเพื่อจับภาพผู้สมัครแสดงในหน้าตรวจสอบการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor2": {
+    "message": "ตรวจสอบให้แน่ใจว่าอุปกรณ์ที่นักเรียนใช้มีกล้อง",
+    "description": "2.0 exam.js"
+  },
+  "showAfterBatchEnd": {
+    "message": "การสอบของสนามสอบทั้งหมดจะได้รับการเผยแพร่พร้อมกันหลังสิ้นสุดการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitor": {
+    "message": "คุมสอบโดยการจับภาพหน้าจอ",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips1": {
+    "message": "(รองรับการสอบบนโทรศัพท์มือถือเท่านั้น)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips2": {
+    "message": "เปิดการตรวจสอบจับภาพหน้าจอ หากออกจากการสอบมากกว่า {count} ครั้งจะบังคับให้ส่งกระดาษคำตอบ {tip} ",
+    "description": "tip处的插值是 “（仅支持手机考试）”，因为tip需要独立的设置样式。"
+  },
+  "faceAuth": {
+    "message": "การจดจําใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips15": {
+    "message": "เปิดการจดจําใบหน้า ต้องผ่านการตรวจสอบใบหน้าจึงจะสามารถเข้าสู่การสอบได้",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips16": {
+    "message": "ก่อนสอบต้องอัปโหลดรูปถ่ายที่ผ่านการรับรองของผู้เข้าสอบ",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime": {
+    "message": "เวลาที่ส่งกระดาษคำตอบของข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime2": {
+    "message": "เวลาส่งกระดาษคำตอบข้อสอบ: {time}",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTimeTips1": {
+    "message": "ไม่อนุญาตให้ส่งกระดษาคำตอบภายใน {count}{minuteTip} หลังจากเริ่มการสอบ",
+    "description": "minuteTip 的插值是分钟，就是下面的minuteTip"
+  },
+  "minuteTip": {
+    "message": "นาที",
+    "description": "2.0 exam.js"
+  },
+  "batchTips": {
+    "message": "นักเรียนสามารถเข้าร่วมการสอบได้โดยการเพิ่มชั้นเรียนหรือนักเรียนในเซสชั่นเท่านั้น เวลาเซสชั่นหมายถึงช่วงเวลาที่นักเรียนได้รับอนุญาตให้เข้าสอบ ซึ่งคุณสามารถเพิ่มเซสชันได้หลังจากประกาศการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "edit": {
+    "message": "แก้ไข",
+    "description": "2.0 exam.js"
+  },
+  "examTips": {
+    "message": "ข้อควรทราบเกี่ยวกับการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips": {
+    "message": "ป้อนอักขระได้สูงสุด 2,000 ตัว",
+    "description": "2.0 exam.js"
+  },
+  "defaultExamTips": {
+    "message": "บันทึกเป็นแม่แบบเริ่มต้น ใช้ในการสอบครั้งต่อไป",
+    "description": "2.0 exam.js"
+  },
+  "detailTips3": {
+    "message": "1. เปิดการตรวจสอบอุปกรณ์ การตรวจสอบ IP ในกรณีพิเศษ นักเรียนสามารถป้อนรหัสยืนยันนี้หลังจากเปลี่ยนอุปกรณ์/IP",
+    "description": "2.0 exam.js"
+  },
+  "detailTips4": {
+    "message": "2.  การสอบโดยใช้วิธียืนยันผ่านการจดจําใบหน้าเริ่มขึ้นแล้ว นักเรียนสามารถใช้รหัสยืนยันนี้เพื่อเข้าสอบหากการสแกนใบหน้าไม่ผ่าน",
+    "description": "2.0 exam.js"
+  },
+  "detailTips5": {
+    "message": "3. รหัสยืนยันมีผลภายใน 15 นาที โปรดรีเฟรชและรับอีกครั้งหลังจากหมดอายุ",
+    "description": "2.0 exam.js"
+  },
+  "leave": {
+    "message": "ออกจาก",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips4": {
+    "message": "ก่อนการสอบ โปรด {detectEnv} เพื่อยืนยันเครือข่าย อุปกรณ์ เบราว์เซอร์เป็นต้นว่าทํางานปกติ",
+    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
+  },
+  "detectEnv": {
+    "message": "ตรวจสอบสภาพแวดล้อมการทดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto": {
+    "message": "ลบรูปภาพ",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto2": {
+    "message": "ลบภาพที่ถ่าย",
+    "description": "2.0 exam.js"
+  },
+  "replaceDevice": {
+    "message": "เปลี่ยนอุปกรณ์",
+    "description": "2.0 exam.js"
+  },
+  "replaceIp": {
+    "message": "เปลี่ยน IP",
+    "description": "2.0 exam.js"
+  },
+  "systemPhoto": {
+    "message": "ระบบจับภาพ",
+    "description": "2.0 exam.js"
+  },
+  "inCorrectPhoto": {
+    "message": "ภาพไม่ตรงกับตัวเอง",
+    "description": "2.0 exam.js"
+  },
+  "photoRemoved": {
+    "message": "รูปภาพถูกลบแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "deviceID": {
+    "message": "รหัสอุปกรณ์: {id}",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto": {
+    "message": "แน่ใจหรือไม่ว่าจะลบภาพถ่ายสแนปชอตของนักเรียนทุกคนในชั้นเรียนปัจจุบัน?",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto2": {
+    "message": "แน่ใจไหมว่าต้องการลบภาพที่ถ่ายของนักเรียนคนนี้?",
+    "description": "2.0 exam.js"
+  },
+  "recordShowAfterSubmit": {
+    "message": "แสดงทันทีหลังจากส่งกระดาษคำตอบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaper": {
+    "message": "ส่งออกตัวอย่างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaperSuccess": {
+    "message": "ตัวอย่างข้อสอบถูกบันทึกลงในคลังข้อสอบแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips1": {
+    "message": "แสดงหลังการสอบเสร็จสิ้น",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips2": {
+    "message": "หลังการสอบสิ้นสุดไปแล้ว{n}วันจึงค่อยแสดง",
+    "description": "2.0 {filename}"
+  },
+  "weekPublish": {
+    "message": "ประกาศหลัง {n} สัปดาห์",
+    "description": "2.0 exam.js"
+  },
+  "noPublish": {
+    "message": "ไม่ประกาศ",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch2": {
+    "message": "ลบเซสชัน",
+    "description": "2.0 exam.js"
+  },
+  "examDaysPublish": {
+    "message": "ประกาศหลังจากสิ้นสุดการสอบ{n}วัน",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "auditTipsClassroom": {
+    "message": "การตรวจสอบการจดจําใบหน้าเปิดอยู่ จําเป็นต้องอัปโหลดรูปภาพที่ได้รับการรับรองจากผู้เข้าสอบล่วงหน้า รูปภาพสามารถนําเข้าเป็นกลุ่มโดยครู หรืออัปโหลดโดยนักเรียนเอง รูปภาพที่นักเรียนอัปโหลดเอง ครูสามารถดำเนินการตรวจสอบได้",
+    "description": "2.0 exam.js"
+  },
+  "faceServiceTips": {
+    "message": "การจดจําใบหน้าและการตรวจสอบการจับภาพเป็นบริการที่มีค่าธรรมเนียม สถาบันของคุณยังไม่ได้เปิดใช้บริการ หากต้องการเปิดใช้งานโปรดติดต่อฝ่ายบริการลูกค้า",
+    "description": "2.0 exam.js"
+  },
+  "borwserTip": {
+    "message": "ตอนนี้เบราว์เซอร์คือ: {browser}, โปรดใช้ Internet Explorer เพื่อทำการสอบ!",
+    "description": "2.0 {filename}"
+  },
+  "offlineTip": {
+    "message": "โปรดกำหนดค่าที่อยู่การสอบออฟไลน์ก่อนทำการสอบ",
+    "description": "2.0 {filename}"
+  },
+  "restoreLocalRecord": {
+    "message": "กู้คืนบันทึกคำตอบในเครื่อง",
+    "description": "2.0 {filename}"
+  },
+  "findExamTip": {
+    "message": "หากคุณไม่พบการสอบในรายการทดสอบด้านล่าง ให้ตรวจสอบว่าบัญชีที่คุณลงชื่อเข้าใช้ถูกต้องหรือเข้าร่วมชั้นเรียนที่ถูกต้อง",
+    "description": "2.0 {filename}"
+  },
+  "faceServiceTipsNew": {
+    "message": "การจดจําใบหน้าและการตรวจสอบกล้องเป็นบริการมีค่าธรรมเนียม บริษัทของคุณยังไม่ได้เปิดใช้บริการ หากต้องการเปิดใช้บริการโปรดติดต่อฝ่ายบริการลูกค้า",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWeb": {
+    "message": "เว็บเพจคอมพิวเตอร์เท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "onlyMobile": {
+    "message": "แอปมือถือเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExe": {
+    "message": "ไคลเอ็นต์หน้าจอเมื่อล็อกพีซีเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "unlimit": {
+    "message": "ไม่จํากัด",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips": {
+    "message": "ใช้ {PCExee} เพื่อเข้าสอบ หลังจากเข้าสู่การสอบ  ผู้สมัครสอบไม่สามารถออกจากหน้าจอการสอบได้กลางคัน เหมาะสําหรับการสอบที่ค่อนข้างเข้มงวด หรือการสอบแบบรวมศูนย์ในห้องคอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "PCExe": {
+    "message": "ไคลเอ็นต์หน้าจอเมื่อล็อกพีซีเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips1": {
+    "message": "เลือกตัวเลือกนี้ ก่อนการสอบต้องติดตั้งไคลเอ็นต์การสอบULearningบนคอมพิวเตอร์ ปัจจุบันสนับสนุนเฉพาะระบบ Win7 ขึ้นไป ไม่สนับสนุน Mac เพื่อหลีกเลี่ยงความผิดปกติในการสอบอย่างเป็นทางการ แนะนําให้กําหนดเวลาการสอบจําลองล่วงหน้าเพื่อทดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration": {
+    "message": "ระยะเวลาในการตอบคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "resultPublic": {
+    "message": "ขอบเขตของการเผยแพร่",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorItem": {
+    "message": "เปิดการตรวจสอบกล้อง รวมถึงการจับภาพ กระบวนการการตรวจจับท่าทางAI การบันทึกภาพสถานการณ์ที่ผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorTips": {
+    "message": "ผู้สมัครจะต้องเปิดกล้องตลอดกระบวนการและรักษาเสถียรภาพของภาพ, สนับสนุนการสอบคอมพิวเตอร์เท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent": {
+    "message": "การเฝ้าระวังกล้องรวมถึง:",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent1": {
+    "message": "1.ขั้นตอนการจับภาพ: จับภาพของผู้สอบทุก1นาที",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent2": {
+    "message": "2. การตรวจจับท่าทางของ AI: ระบบจะตรวจสอบท่าทางร่างกายของผู้สอบแบบเรียลไทม์ผ่านกล้อง, สามารถตรวจจับและบันทึกสถานการณ์ที่ผิดปกติเช่นผู้สอบออกจากที่นั่ง, การเบี่ยงเบนของสายตาเป็นเวลานานละการกระซิบกับผู้คน",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent3": {
+    "message": "3. การบันทึกสถานการณ์ความผิดปกติ: เมื่อระบบตรวจพบท่าทางที่ผิดปกติ ระบบจะบันทึกและอัปโหลดคลิปวิดีโอที่ผิดปกติโดยอัตโนมัติ เพื่อตรวจสอบในภายหลัง",
+    "description": "2.0 exam.js"
+  },
+  "cameraMonitor": {
+    "message": "การเฝ้าระวังกล้อง",
+    "description": "2.0 exam.js"
+  },
+  "PCExe1": {
+    "message": "ไคลเอ็นต์พีซี",
+    "description": "2.0 exam.js"
+  },
+  "PCweb": {
+    "message": "เว็บเพจคอมพิวเตอร์",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips5": {
+    "message": "นี่คือข้อสอบทั้งหมดที่อาจารย์ออก ก่อนเข้าสอบ โปรดตรวจสอบรายละเอียดของข้อสอบแต่ละข้ออย่างละเอียด",
+    "description": "2.0 exam.js"
+  },
+  "downloadPCExe": {
+    "message": "ดาวน์โหลดไคลเอ็นต์การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "webEnvTest": {
+    "message": "การตรวจสอบสภาพแวดล้อมการสอบบนเว็บ",
+    "description": "2.0 exam.js"
+  },
+  "examFaceVerification": {
+    "message": "การตรวจสอบการรับรองใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeBtnTips": {
+    "message": "โปรดใช้ไคลเอ็นต์การสอบของ ULearning เพื่อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWebBtnTips": {
+    "message": "โปรดใช้เบราว์เซอร์เพื่อสอบบนเว็บ",
+    "description": "2.0 exam.js"
+  },
+  "monitorRecords": {
+    "message": "ตรวจสอบบันทึก",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminder": {
+    "message": "แจ้งเตือนความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderFilter": {
+    "message": "กรองข้อมูลความผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle1": {
+    "message": "เส้นทางคําตอบที่ผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "mobileExam": {
+    "message": "การสอบบนโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "exception1": {
+    "message": "ออกจากหน้า>5 วินาที",
+    "description": "2.0 exam.js"
+  },
+  "exception2": {
+    "message": "ระบบบังคับให้ส่งกระดาษคำตอบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle2": {
+    "message": "ท่าทางผิดปกติ",
+    "description": "2.0 exam.js"
+  },
+  "leaveSeat": {
+    "message": "ออกจากที่นั่ง",
+    "description": "2.0 exam.js"
+  },
+  "deviation": {
+    "message": "การเบี่ยงเบนของสายตา>2วินาที",
+    "description": "2.0 exam.js"
+  },
+  "deviation1": {
+    "message": "การเบี่ยงเบนของสายตา",
+    "description": "2.0 exam.js"
+  },
+  "talk": {
+    "message": "กระซิบกับผู้คน",
+    "description": "2.0 exam.js"
+  },
+  "examMonitorRecords": {
+    "message": "บันทึกการตรวจสอบการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "answerTrack": {
+    "message": "วิถีของคําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "clearfixMonitorRecords": {
+    "message": "ล้างบันทึกการตรวจสอบ",
+    "description": "2.0 exam.js"
+  },
+  "normalState": {
+    "message": "สถานะปกติ",
+    "description": "2.0 exam.js"
+  },
+  "confirmClearMonitorRecords": {
+    "message": "ยืนยันล้างบันทึกการตรวจสอบ?",
+    "description": "2.0 exam.js"
+  },
+  "timeDay": {
+    "message": "{days}วัน",
+    "description": "2.0 exam.js"
+  },
+  "timeHour": {
+    "message": "{hours} ชั่วโมง",
+    "description": "2.0 exam.js"
+  },
+  "timeSecond": {
+    "message": "{seconds} วินาที",
+    "description": "2.0 exam.js"
+  },
+  "UTestName": {
+    "message": "ระบบการสอบ U-Test",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputName": {
+    "message": "โปรดป้อนหมายเลขบัญชี",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputPsd": {
+    "message": "กรุณาใส่รหัสผ่าน",
+    "description": "2.0 exam.js"
+  },
+  "UTestLoginErr": {
+    "message": "ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogin": {
+    "message": "ลงชื่อเข้าใช้",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogout": {
+    "message": "ออก",
+    "description": "2.0 exam.js"
+  },
+  "UTestDesc": {
+    "message": "คําอธิบาย: คอมพิวเตอร์ฝั่งไคลเอนต์นี้สนับสนุนเฉพาะนักเรียนเพื่อดำเนินการเข้าร่วมการสอบ ลงทะเบียนบัญชี เข้าร่วมชั้นเรียนเป็นต้น กรุณาล็อกอินเข้าสู่เว็บไซต์ ULearning หรือ APP ล่วงหน้าเพื่อดำเนินการให้เสร็จสมบูรณ์",
+    "description": "2.0 exam.js"
+  },
+  "recoverLocalExamRecord": {
+    "message": "กู้คืนบันทึกคำตอบในเครื่อง",
+    "description": "2.0 exam.js"
+  },
+  "ISee": {
+    "message": "ฉันเข้าใจแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips1": {
+    "message": "ในเครื่องไม่มีบันทึกคำตอบ",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips2": {
+    "message": "หมายเหตุ: บันทึกคำตอบในเครื่องมีไว้เพื่อป้องกันการสูญหายของบันทึกคำตอบเนื่องจากสภาวะที่รุนแรงเช่นการขาดการเชื่อมต่อเครือข่าย ในกรณีส่วนใหญ่ไม่จำเป็นต้องกู้คืนด้วยตนเอง การกู้คืนบันทึกคำตอบในเครื่อง จะเขียนทับบันทึกคำตอบที่อัปโหลดไปยังแพลตฟอร์ม ดังนั้นหากต้องการกู้คืนโปรดเปรียบเทียบเวลาเก็บรักษาของบันทึกคำตอบด้วยความระมัดระวังในการใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips3": {
+    "message": "บันทึกคําตอบสําหรับการสอบครั้งนี้ถูกส่งแล้ว ไม่สามารถกู้คืนบันทึกคําตอบภายในเครื่องได้",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips4": {
+    "message": "บันทึกคำตอบที่บันทึกบนแพลตฟอร์มค่อนข้างใหม่กว่าบันทึกคำตอบที่อยู่ในเครื่อง เพื่อหลีกเลี่ยงการเขียนทับผลคะแนนการเรียน จึงไม่สามารถเรียกคืนบันทึกคำตอบได้",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips5": {
+    "message": "การกู้คืนบันทึกคำตอบในเครื่องจะเขียนทับบันทึกคำตอบที่อัปโหลดบนแพลตฟอร์ม แน่ใจว่าต้องการกู้คืนใช่หรือไม่?",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime": {
+    "message": "เวลาที่บันทึกของบันทึกคําตอบภายในเครื่อง",
+    "description": "2.0 exam.js"
+  },
+  "remoteRecordTime": {
+    "message": "เวลาที่บันทึกของบันทึกคำตอบบนแพลตฟอร์ม",
+    "description": "2.0 exam.js"
+  },
+  "confirmRecover": {
+    "message": "ยืนยันกู้คืน",
+    "description": "2.0 exam.js"
+  },
+  "comfirmDelete": {
+    "message": "ยืนยันที่จะลบไหม",
+    "description": "2.0 exam.js"
+  },
+  "recover": {
+    "message": "กู้คืน",
+    "description": "2.0 exam.js"
+  },
+  "recoverErrorTips": {
+    "message": "การกู้คืนล้มเหลว โปรดลองอีกครั้งในภายหลัง!",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips1": {
+    "message": "เวลาในการส่งออกอาจใช้เวลานาน โปรดอดทนรอ",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips2": {
+    "message": "หากเบราว์เซอร์บล็อกหน้าต่างป๊อปอัป โปรดเลือกที่จะอนุญาตหน้าต่างป๊อปอัปของเว็บไซต์เสมอ",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips3": {
+    "message": "กำลังสร้างบันทึกคำตอบ เสร็จสมบูรณ์แล้ว",
+    "description": "2.0 exam.js"
+  },
+  "cancelExport": {
+    "message": "ยกเลิกการส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "randomTips13": {
+    "message": "จำนวนคำถามที่เลือกแบบสุ่มสำหรับคำถามแต่ละประเภทควรเป็นจำนวนเต็มตั้งแต่ 1 ถึง 100",
+    "description": "2.0 exam.js"
+  },
+  "randomTips14": {
+    "message": "สัดส่วนคะแนนของแต่ละคำถามควรอยู่ระหว่าง 0-100",
+    "description": "2.0 exam.js"
+  },
+  "randomTips15": {
+    "message": "สามารถเพิ่มได้สูงสุด 10 ส่วนเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "randomTips16": {
+    "message": "ประเภทคำถามในกระดาษทดสอบที่เลือกไม่รองรับการคัดลอก",
+    "description": "2.0 exam.js"
+  },
+  "startCreatPaper": {
+    "message": "เริ่มสร้างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "autoPaperSettings": {
+    "message": "ตั้งค่าสร้างข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "paperNum": {
+    "message": "ปริมาณข้อสอบที่สร้าง",
+    "description": "2.0 exam.js"
+  },
+  "paperTip": {
+    "message": "กำลังสร้างข้อสอบ กรุณารอสักครู่...",
+    "description": "2.0 exam.js"
+  },
+  "paperTip1": {
+    "message": "ข้อสอบถูกสร้างเรียบร้อยแล้ว บันทึกลงในไดเร็กทอรีปัจจุบันของคลังข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "goView": {
+    "message": "ไปดู",
+    "description": "2.0 exam.js"
+  },
+  "continueCreate": {
+    "message": "สร้างข้อสอบต่อ",
+    "description": "2.0 exam.js"
+  },
+  "oralSubject": {
+    "message": "คำถามปากเปล่าอัตนัย",
+    "description": "2.0 exam.js"
+  },
+  "oralReading": {
+    "message": "คำถามการอ่านปากเปล่า",
+    "description": "2.0 exam.js"
+  },
+  "blankChoice": {
+    "message": "คำถามประเภทเลือกคำเติมคำลงในช่องว่าง",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips3": {
+    "message": "เปิดการตรวจสอบการคัตซีนหน้าจอ",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips4": {
+    "message": "หากยอดสะสมการออกถึง{n}ครั้งจะบังคับให้ส่งกระดาษคำตอบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips5": {
+    "message": "บังคับส่งกระดาษคำตอบข้อสอบหลังจากออกครั้งเดียวนานกว่า {s} วินาที",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips6": {
+    "message": "(สามารถตั้งค่าเป็น 5-300 วินาที)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips7": {
+    "message": "เลือกวิธีการตรวจสอบอย่างน้อยหนึ่งในสองวิธี",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips8": {
+    "message": "วิธีการคัตซีนหน้าจอ เลือกอย่งน้อยหนึ่งวิธี",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips9": {
+    "message": "หากจำนวนการออกกลางคันถึงจำนวนครั้งที่กำหนด ระบบจะบังคับให้ส่งกระดาษคำตอบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips10": {
+    "message": "หากออกกลางคันเกินเวลาที่กำหนด ระบบจะบังคับให้ส่งกระดาษคำตอบข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "remark": {
+    "message": "ให้คะแนนใหม่",
+    "description": "2.0 exam.js"
+  },
+  "remarkingTip": {
+    "message": "งานการให้คะแนนล่าสุดยังอยู่ระหว่างดําเนินการ โปรดตรวจสอบในภายหลัง",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip1": {
+    "message": "เมื่อการสอบเริ่มขึ้น คุณสามารถใช้คุณลักษณะนี้เพื่อให้คะแนนกระดาษที่ให้คะแนนโดยอัตโนมัติอีกครั้ง",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip2": {
+    "message": "การให้คะแนนใหม่จะกําหนดเป้าหมายเฉพาะหัวข้อที่ระบบให้คะแนนเท่านั้น และจะไม่มีผลต่อคะแนนของหัวข้อที่มีคะแนนด้วยตนเอง",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip3": {
+    "message": "คุณแน่ใจหรือไม่ว่าให้คะแนนใหม่?",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip4": {
+    "message": "การให้คะแนนอาจใช้เวลานานและระบบจะได้รับการประมวลผลในพื้นหลังโปรดตรวจสอบคะแนนหลังจากการให้คะแนนใหม่ในภายหลัง",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersion": {
+    "message": "Windows 版",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersionDesc": {
+    "message": "รองรับ Windows 7 และเวอร์ชันระบบข้างต้น",
+    "description": "2.0 exam.js"
+  },
+  "macVersion": {
+    "message": "Mac 版",
+    "description": "2.0 exam.js"
+  },
+  "macVersionDesc": {
+    "message": "รองรับรุ่นระบบ macOS 10.11 ขึ้นไป",
+    "description": "2.0 exam.js"
+  },
+  "shareExamUrl": {
+    "message": "แชร์ที่อยู่สอบ",
+    "description": "2.0 exam.js"
+  },
+  "shareExamDesc": {
+    "message": "แชร์ที่อยู่สอบกับผู้สมัครและผู้สมัครสามารถเข้าสู่ระบบและป้อนคําตอบได้โดยตรง",
+    "description": "2.0 exam.js"
+  },
+  "examUrl": {
+    "message": "ที่อยู่สอบ",
+    "description": "2.0 exam.js"
+  },
+  "copy": {
+    "message": "คัดลอก",
+    "description": "2.0 exam.js"
+  },
+  "noBatchDesc": {
+    "message": "ไม่มีรอบที่ไม่ได้เริ่มต้น",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip": {
+    "message": "การจัดกําหนดการการสอบใหม่สามารถเพิ่มนักเรียนไปยังสนามที่ยังไม่ได้เริ่มต้นเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip1": {
+    "message": "คุณต้องการสร้างรอบใหม่หรือไม่?",
+    "description": "2.0 exam.js"
+  },
+  "toAddBatch": {
+    "message": "สร้างสนามใหม่",
+    "description": "2.0 exam.js"
+  },
+  "startTimeErrorTip": {
+    "message": "เวลาเริ่มต้นต้องไม่เร็วกว่าเวลาปัจจุบัน",
+    "description": "2.0 exam.js"
+  },
+  "editBatchTimeTip": {
+    "message": "หมายเหตุ: ขณะนี้การแสดงกําลังดําเนินอยู่ ไม่สามารถปรับเปลี่ยนเวลาเริ่มต้นได้ เวลาสิ้นสุดสามารถล่าช้าได้ และไม่สามารถล่วงหน้าได้",
+    "description": "2.0 exam.js"
+  },
+  "addAnswerTime": {
+    "message": "ขยายเวลาคําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "batchExpandNew": {
+    "message": "{count} คะแนน ",
+    "description": "2.0 exam.js"
+  },
+  "addTimeTip": {
+    "message": "(กรุณาใส่จํานวนเต็มของ 1-100)",
+    "description": "2.0 exam.js"
+  },
+  "addBatchLabel": {
+    "message": "ขยายเวลาสิ้นสุดของการแสดงปัจจุบันในเวลาเดียวกัน",
+    "description": "2.0 exam.js"
+  },
+  "addTimeDesc": {
+    "message": "คุณลักษณะนี้ช่วยให้คุณสามารถเพิ่มเวลาตอบคําถามจํานวนมากให้กับนักเรียนทุกคนที่กําลังสอบอยู่ในสนามปัจจุบัน หมายเหตุ: {br1}1. ใช้ได้กับนักเรียนที่กําลังตอบคําถามเท่านั้น นักเรียนที่ไม่ได้เข้าสอบและนักเรียนที่ส่งเอกสารแล้วจะไม่ได้รับผลกระทบ {br2} 2.หลังจากขยาย, การนับถอยหลังของนักเรียนจะได้รับการปรับปรุงในไม่กี่วินาทีของ {br3} 3. หากเวลาที่เหลือของรอบปัจจุบันน้อยกว่าเวลาคําตอบที่จําเป็นต้องเพิ่ม ให้ขยายเวลาสิ้นสุดของรอบพร้อมกัน",
+    "description": "2.0 exam.js"
+  },
+  "cannotAddTip": {
+    "message": "เวลาที่เหลือของสนามปัจจุบันน้อยกว่า 1 นาทีเพื่อหลีกเลี่ยงความสับสนไม่สามารถขยายเวลาคําตอบได้อีกต่อไป",
+    "description": "2.0 exam.js"
+  },
+  "roomTips15": {
+    "message": "ระยะเวลาการขยายต้องอยู่ระหว่าง 1-100",
+    "description": "2.0 exam.js"
+  },
+  "roomTips16": {
+    "message": "การแสดงปัจจุบันได้สิ้นสุดลงแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "exportAnalysisExcelreport": {
+    "message": "ส่งออกรายงานการวิเคราะห์",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysisExcel": {
+    "message": "ส่งออก Excel เวอร์ชัน",
+    "description": "2.0 exam.js"
+  },
+  "waitExeclDownload": {
+    "message": "โปรดรอสักครู่และกําลังส่งออก...",
+    "description": "2.0 exam.js"
+  },
+  "donwloadFalse": {
+    "message": "การส่งออกล้มเหลว",
+    "description": "2.0 exam.js"
+  },
+  "excelMsg": {
+    "message": "คุณลักษณะนี้ช่วยให้คุณสามารถส่งออกข้อมูลหลักในรายงานการวิเคราะห์ไปยังตาราง Excel ได้ โปรดเลือกช่วงชั้นเรียนที่ต้องการสถิติก่อน",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysis": {
+    "message": "ส่งออกการวิเคราะห์การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "activeExam": {
+    "message": "เปิดใช้งานการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "randomQuestion": {
+    "message": "สุ่มคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "randomItem": {
+    "message": "สุ่มคำตอบ",
+    "description": "2.0 exam.js"
+  },
+  "randomItemTip": {
+    "message": "รวมคําถามแบบปรนัยคําถามแบบปรนัย",
+    "description": "2.0 exam.js"
+  },
+  "waterMark": {
+    "message": "เปิดการสอบลายน้ำ",
+    "description": "2.0 exam.js"
+  },
+  "waterMarkTip": {
+    "message": "สามารถใช้เพื่อป้องกันไม่ให้ภาพหน้าจอรั่วไหล",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips1": {
+    "message": "ป้อนอักขระได้สูงสุด {n} อักขระ",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswer": {
+    "message": "การข้ามคําถามเป็นสิ่งต้องห้าม",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswerTip": {
+    "message": "หลังจากเปิดแล้วผู้สมัครจะแสดงคําถามหนึ่งข้อต่อหน้าเมื่อตอบคําถามเท่านั้นและสามารถตอบตามลําดับเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip6": {
+    "message": "โปรดเลือกช่วงของประเภทคําถามที่ต้องให้คะแนนใหม่:",
+    "description": "2.0 exam.js"
+  },
+  "radio1": {
+    "message": "คําถามวัตถุประสงค์เท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "radio2": {
+    "message": "คําถามทุกประเภทที่สนับสนุนการให้คะแนนอย่างเป็นระบบ (รวมถึงวัตถุประสงค์ การเติมข้อมูลในช่องว่าง การคํานวณสูตร และการอ่านคําพูด)",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip7": {
+    "message": "หมายเหตุ: การจัดระดับซ้ําจะไม่ส่งผลต่อคะแนนของคําถามที่ให้คะแนนด้วยตนเอง เช่น คําถามคําตอบสั้นๆ คําถามเติมในช่องว่างและคําถามประเภทอื่น ๆ ที่สนับสนุนการให้คะแนนระบบหากคุณได้ตรวจสอบด้วยตนเองแล้วการให้คะแนนใหม่ระบบจะเขียนทับบันทึกการตรวจสอบด้วยตนเองโปรดใช้ด้วยความระมัดระวัง",
+    "description": "2.0 exam.js"
+  },
+  "gradingAgain": {
+    "message": "เริ่มให้คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "radio1Msg": {
+    "message": "คําถามวัตถุประสงค์เท่านั้น (รวมถึงตัวเลือกเดียว, ปรนัย, การตัดสิน, การเรียงลําดับ, การเลือกแบบหล่นลง, การเติมตัวเลือกคําในช่องว่าง, การเติม gestalt ในช่องว่าง)",
+    "description": "2.0 exam.js"
+  },
+  "radio2Msg": {
+    "message": "คําถามทุกประเภทที่สนับสนุนการจัดลําดับคะแนนใหม่ (รวมถึงประเภทคําถามวัตถุประสงค์ข้างต้น ตลอดจนคําถามเติมในช่องว่างและคําถามการอ่านด้วยคําพูด)",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltag": {
+    "message": "เพียงแค่ดูจํานวนครั้งที่ชั้นเรียนของฉันตั้งอยู่",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltagMsg": {
+    "message": "มีเพียงผู้สร้างข้อสอบเท่านั้นที่ดําเนินการได้",
+    "description": "2.0 exam.js"
+  },
+  "teacherexamListNone": {
+    "message": "ไม่มีกําหนดการประชุมสําหรับการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "PCExeOrAppTips": {
+    "message": "กรุณาใช้ ULearning ใบสมัครสำหรับการสอบลูกค้า",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips12": {
+    "message": "ระบบจะทําโดยอัตโนมัติ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip5": {
+    "message": "หลังจากเริ่มการสอบหากคุณแก้ไขคําตอบหรือคะแนนของคําถามในเอกสารแบบทดสอบคุณสามารถใช้คุณสมบัตินี้เพื่อจัดระดับเอกสารแบบทดสอบที่ได้รับการให้คะแนนแล้วโดยอัตโนมัติ",
+    "description": "2.0 exam.js"
+  },
+  "textCount": {
+    "message": "{n} คํา",
+    "description": "2.0 exam.js"
+  },
+  "newOpenMonitorTips": {
+    "message": "ผู้สมัครจะต้องเปิดกล้องและรักษาหน้าจอให้คงที่ตลอดเวลาและไม่แนะนําให้ทําการทดสอบโทรศัพท์มือถือ",
+    "description": "2.0 exam.js"
+  },
+  "choiceExamTypeTips": {
+    "message": "โปรดเลือกวิธีการสอบอย่างน้อยหนึ่งวิธี",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl1": {
+    "message": "การสอบสนับสนุนวิธีการเข้าร่วมที่หลากหลายข้อกําหนดของวิธีการมีส่วนร่วมในอุปกรณ์ที่แตกต่างกันและความแตกต่างระหว่างระดับการต่อต้านการโกงมีดังนี้โปรดเลือกวิธีการเข้าร่วมที่เหมาะสมตามสถานการณ์การทดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "systemRequire": {
+    "message": "ความต้องการของระบบ",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequire": {
+    "message": "ข้อกําหนดของอุปกรณ์",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevel": {
+    "message": "ระดับป้องกันการโกง",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc1": {
+    "message": "- Windows 7 ขึ้นไป {br}- macOS 14 ขึ้นไป",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc2": {
+    "message": "- เบราว์เซอร์: กูเกิลโครม / เอดจ์ / ซาฟารี",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc3": {
+    "message": "- iOS 9.0 ขึ้นไป {br}- Android 6.0 ขึ้นไป",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequireDesc": {
+    "message": "- หากรวมเสียงและวิดีโอไว้ในคําถามข้อสอบจําเป็นต้องใช้หูฟังภายใน / ภายนอก {br}- หากคําถามในการสอบรวมถึงคําถามในการบันทึกพวกเขาจําเป็นต้องมีไมโครโฟนในตัว / ภายนอก {br1}- หากเปิดการจดจําใบหน้า/การตรวจสอบกล้องไว้ การทดสอบจะต้องใช้กล้องในตัว/ภายนอก",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc1": {
+    "message": "ค่อนข้างหลวม {br} สนับสนุนวิธีการตรวจสอบพื้นฐานทั้งหมด แต่ไม่สามารถจํากัดผู้สมัครไม่ให้ออกไปครึ่งทางได้อย่างสมบูรณ์",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc2": {
+    "message": "เข้มงวดมากขึ้น {br} นอกเหนือจากวิธีการตรวจสอบขั้นพื้นฐานทั้งหมดแล้ว APP ยังมีมาตรการป้องกันการโกงในตัวเช่นการห้ามแยกหน้าจอและหน้าจอบันทึก ในขณะเดียวกันการตรวจจับหน้าจอตัดก็เข้มงวดมากขึ้นเช่นกัน",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc3": {
+    "message": "เข้มงวดที่สุด {br} ผู้สมัครต้องติดตั้งไคลเอ็นต์การสอบแบบสแตนด์อโลนหลังจากเข้าสู่การสอบแล้วจะไม่สามารถออกจากอินเทอร์เฟซการสอบไว้กลางการสอบได้และสามารถออกได้หลังจากส่งเอกสารแล้วเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "PCExe2": {
+    "message": "ไคลเอ็นต์หน้าจอล็อก",
+    "description": "2.0 exam.js"
+  },
+  "questionLevel": {
+    "message": "ความยากของคําถาม:",
+    "description": "2.0 exam.js"
+  },
+  "subQuestionLevel": {
+    "message": "ความยากของคําถามย่อยแต่ละข้อ:",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[0]": {
+    "message": "มันง่าย",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[1]": {
+    "message": "ทั่วไป",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[2]": {
+    "message": "ทั่วไป",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[3]": {
+    "message": "มันยากกว่า",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[4]": {
+    "message": "ความยากลําบาก",
+    "description": "2.0 exam.js"
+  },
+  "selectLevelip": {
+    "message": "ความยากเลือกอย่างน้อยหนึ่งอย่าง",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime1": {
+    "message": "เวลาเก็บรักษาบันทึกภายในเครื่อง",
+    "description": "2.0 exam.js"
+  },
+  "PCexeType": {
+    "message": "ลูกค้าสอบ ULearning",
+    "description": "2.0 exam.js"
+  },
+  "appType": {
+    "message": "รองรับแอป ULearning",
+    "description": "2.0 exam.js"
+  },
+  "PCType": {
+    "message": "เว็บไซต์ ULearning",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCType": {
+    "message": "รองรับแอป / เว็บไซต์ ULearning",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCexeType": {
+    "message": "รองรับแอป /ลูกค้าสอบ ULearning",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips": {
+    "message": "โปรดใช้ {type} เพื่อทําข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "examSignIn": {
+    "message": "เช็คอินสอบ",
+    "description": "2.0 exam.js"
+  },
+  "enableSignIn": {
+    "message": "เปิดรหัสการลงชื่อเข้าใช้ข้อสอบ",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInTip": {
+    "message": "ใช้ได้กับการสอบโทรศัพท์มือถือเท่านั้นเปิดรายการนี้ผู้สมัครสามารถป้อนคําตอบการสอบหลังจากสแกนรหัสเพื่อลงชื่อเข้าใช้",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInIntro": {
+    "message": "การเช็คอินข้อสอบเหมาะสําหรับสถานการณ์การสอบแบบรวมศูนย์ในห้องเรียนและสามารถใช้เพื่อป้องกันการทดแทนนอกสถานที่ได้ {br} จะเปิดการทดสอบการเช็คอิน และผู้สมัครสามารถเข้าสู่การสอบได้หลังจากสแกนรหัสเพื่อลงชื่อเข้าใช้ ก่อนเริ่มการสอบครูสามารถใช้โทรศัพท์มือถือเพื่อดูและแสดงรหัสเช็คอินในหน้าการตรวจสอบการสอบของ UCoS APP",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInNote": {
+    "message": "โน้ต:",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInDesc": {
+    "message": "1. เวลาเริ่มต้นการเช็คอินขึ้นอยู่กับเวลาที่ครูแสดงรหัสลงชื่อเข้าใช้และไม่จํากัดด้วยเวลาเริ่มการทดสอบ หลังจากการสอบทั้งหมดเสร็จสิ้นแล้วจะไม่อนุญาตให้เช็คอินอีกต่อไป {br} 2. เปิดการสอบเช็คอินแล้ว และขอแนะนําให้จองเวลาที่จําเป็นสําหรับการเช็คอินนอกสถานที่เมื่อจัดช่วงการสอบเพื่อหลีกเลี่ยงความสับสน {br1} 3. หากมีโอกาสหลายครั้งที่จะตอบคําถามในการทดสอบคุณจะต้องเช็คอินเพียงครั้งเดียว {br2} 4. ผู้สมัครสามารถใช้อุปกรณ์ที่เช็คอินเพื่อตอบคําถามข้อสอบหลังจากเช็คอินเท่านั้น หากคุณพบสถานการณ์พิเศษที่กําหนดให้คุณต้องเปลี่ยนอุปกรณ์ของคุณคุณสามารถขอรหัสยืนยันจากผู้คุมสอบเพื่อป้อนได้",
+    "description": "2.0 exam.js"
+  },
+  "signInCode": {
+    "message": "รหัสลงชื่อเข้าใช้การสอบ",
+    "description": "2.0 exam.js"
+  },
+  "facePhotoVerify": {
+    "message": "รีวิวรูปภาพใบหน้า",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTitle": {
+    "message": "สถานีตรวจสอบมือถือ",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeIntro": {
+    "message": "รหัสลงทะเบียนทดสอบเป็นรหัส QR แบบไดนามิกโปรดใช้แอป [ULearning] เพื่อเข้าสู่มุมมองการทดสอบหรือใช้โทรศัพท์มือถือของคุณเพื่อสแกนรหัส QR ด้านล่างและเข้าสู่สถานีตรวจสอบมือถือเพื่อดู",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTip": {
+    "message": "เคล็ดลับ: ครูที่ไม่ได้เป็นส่วนหนึ่งของทีมหลักสูตรสามารถใช้เบราว์เซอร์มือถือเพื่อสแกนรหัส QR นี้เพื่อเข้าสู่สถานีตรวจสอบมือถือได้หากต้องการเข้าร่วมในผู้คุมสอบ เมื่อเข้าสู่การใช้เบราว์เซอร์มือถือของคุณคุณจะต้องป้อนรหัสยืนยันสํารอง",
+    "description": "2.0 exam.js"
+  },
+  "refresh": {
+    "message": "รีเฟรช",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "ผู้สมัครที่ไม่สามารถเข้าร่วมการทดสอบได้เนื่องจากสถานการณ์พิเศษสามารถใช้รหัสยืนยันนี้เพื่อป้อนรวมถึง: {br}- Exam ที่เปิดใช้งานการตรวจสอบอุปกรณ์ / IP ผู้สมัครจําเป็นต้องเปลี่ยนอุปกรณ์หรือ IP ของพวกเขาครึ่งทาง {br1}- เปิดการสอบเพื่อจดจําใบหน้าและผู้สมัครไม่สามารถผ่านการตรวจสอบใบหน้าได้",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "รหัสยืนยันใช้ได้ภายใน {นาที} โปรดรีเฟรชและรับรหัสอีกครั้งหลังจากยกเลิกการใช้งาน",
+    "description": "2.0 exam.js"
+  },
+  "signedIn": {
+    "message": "เช็คอินแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "notSignIn": {
+    "message": "ไม่ได้เช็คอิน",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes1": {
+    "message": "{n} คําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration1": {
+    "message": "ผ่านไป: {count}",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcel": {
+    "message": "ส่งออกตารางเช็คอิน",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcelDesc": {
+    "message": "เมื่อใช้คุณสมบัตินี้ คุณจะส่งออกบันทึกการเช็คอินสําหรับชั้นเรียนและชั้นเรียนที่เลือกในปัจจุบันได้",
+    "description": "2.0 exam.js"
+  },
+  "exportInfo": {
+    "message": "ส่งออกข้อมูล:",
+    "description": "2.0 exam.js"
+  },
+  "courseClass": {
+    "message": "ชั้นเรียนของหลักสูตร",
+    "description": "2.0 exam.js"
+  },
+  "college": {
+    "message": "วิทยาลัย",
+    "description": "2.0 exam.js"
+  },
+  "naturalClass": {
+    "message": "คลาสเอ็กเซ็กคูทีฟ/คลาสธรรมชาติ",
+    "description": "2.0 exam.js"
+  },
+  "exportType": {
+    "message": "ส่งออกโดย:",
+    "description": "2.0 exam.js"
+  },
+  "exportType1": {
+    "message": "ส่งออกไฟล์ Excel ด้วยคลาสทั้งหมดในเวิร์กชีตเดียว",
+    "description": "2.0 exam.js"
+  },
+  "exportType2": {
+    "message": "ส่งออกไฟล์ Excel ด้วยแผ่นงานหนึ่งแผ่นต่อชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "exportType3": {
+    "message": "ส่งออกไฟล์ Excel หนึ่งไฟล์ต่อคลาส",
+    "description": "2.0 exam.js"
+  },
+  "startExport": {
+    "message": "เริ่มการส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmit": {
+    "message": "สรุปล่วงหน้า",
+    "description": "2.0 exam.js"
+  },
+  "answerNums": {
+    "message": "จํานวนคนที่ตอบ: {num}",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip1": {
+    "message": "การใช้คุณสมบัตินี้เซสชันปัจจุบันจะสิ้นสุดก่อนกําหนดและนักเรียนทุกคนที่ตอบคําถามจะถูกบังคับให้รวบรวมเอกสาร อาจมีความล่าช้าประมาณ 10 วินาทีถึง 1 นาทีสําหรับการคดเคี้ยว การดําเนินการนี้ไม่สามารถถอนออกได้ และควรใช้ด้วยความระมัดระวัง",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip3": {
+    "message": "คุณแน่ใจหรือว่าคุณปิดล่วงหน้า?",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip4": {
+    "message": "ผู้สมัครกําลังตอบคําถามและการใช้คุณสมบัตินี้เอกสารการสอบของผู้สมัครจะถูกบังคับนํากลับมาใช้ใหม่ อาจมีความล่าช้าประมาณ 10 วินาทีถึง 1 นาทีสําหรับการคดเคี้ยว การดําเนินการนี้ไม่สามารถถอนออกได้ และควรใช้ด้วยความระมัดระวัง",
+    "description": "2.0 exam.js"
+  },
+  "answerUsedTime": {
+    "message": "ระยะเวลาที่ใช้ในการตอบคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips11": {
+    "message": "ครูรวบรวมเอกสารล่วงหน้า",
+    "description": "2.0 exam.js"
+  },
+  "submitSuccess": {
+    "message": "คําขอถูกส่งเรียบร้อยแล้ว",
+    "description": "2.0 exam.js"
+  },
+  "submitFail": {
+    "message": "การกรอกลับล้มเหลว",
+    "description": "2.0 exam.js"
+  },
+  "student": {
+    "message": "ผู้สอบ:",
+    "description": "2.0 exam.js"
+  },
+  "submitStatus": {
+    "message": "กรอกลับ",
+    "description": "2.0 exam.js"
+  },
+  "remarkSetting": {
+    "message": "การตั้งค่าการให้คะแนน",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingDesc": {
+    "message": "ครึ่งหนึ่งของคำตอบที่ถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingTip": {
+    "message": "จะไม่มีการทําคะแนนสําหรับการเลือกที่ไม่ถูกต้อง",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitor": {
+    "message": "เปิดการตรวจสอบภาพหน้าจอ",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorDesc": {
+    "message": "สำหรับการสอบมือถือเท่านั้นเมื่อหน้าจอถูกตรวจพบครั้งแรกจะถูกเตือนและครั้งที่สองจะถูกบังคับให้ส่ง",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorTip": {
+    "message": "คุณลักษณะนี้ใช้เฉพาะกับ iOS และ Android ได้ปิดการใช้งานหน้าจอในการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "screenshot": {
+    "message": "ภาพหน้าจอ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips13": {
+    "message": "หน้าจอการละเมิดระบบบังคับส่ง",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom": {
+    "message": "ห้องสอบ: {n}",
+    "description": "2.0 exam.js"
+  },
+  "questionTrain": {
+    "message": "คําถามการฝึกอบรมธนาคาร",
+    "description": "2.0 exam.js"
+  },
+  "questionBankManage": {
+    "message": "การจัดการคลังคำถาม >>",
+    "description": "2.0 exam.js"
+  },
+  "openQuestion": {
+    "message": "เปิดการฝึกอบรมธนาคารคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestion": {
+    "message": "ปิดคําถามการฝึกอบรมธนาคาร",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg1": {
+    "message": "คุณลักษณะนี้จะต้องเปิด / ปิดโดยผู้ดูแลระบบหลักสูตร",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg2": {
+    "message": "หลังจากเปิดแล้วนักเรียนสามารถป้อนธนาคารคําถามเพื่อฝึกฝนคุณแน่ใจหรือไม่ว่าจะเปิดมัน?",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestionMsg": {
+    "message": "หลังจากปิดแล้วนักเรียนไม่สามารถป้อนธนาคารคําถามเพื่อฝึกฝนพวกเขาจะปิดได้หรือไม่?",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg1": {
+    "message": "เมื่อใช้ฟังก์ชัน [Question Bank Training] คุณสามารถเปิดธนาคารคําถามที่กําหนดเพื่อให้นักเรียนฝึกฝนก่อนการสอบได้ ผู้ดูแลระบบหลักสูตรต้องเปิดใช้งานคุณลักษณะนี้ ก่อนการสอบอย่างเป็นทางการขอแนะนําให้ปิดทางเข้าการฝึกอบรมธนาคารคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg2": {
+    "message": "คําถามโมดูลการฝึกอบรมธนาคาร:",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg3": {
+    "message": "1. นักเรียนทุกคนในหลักสูตรสามารถป้อนธนาคารคําถามเพื่อฝึกฝนและรองรับการเข้าถึงคอมพิวเตอร์เท่านั้นในขณะนี้",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg4": {
+    "message": "2. ธนาคารคําถามการฝึกอบรมรองรับการนําเข้าคําถามวัตถุประสงค์และคําถามที่กรอกข้อมูลในช่องว่างเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg5": {
+    "message": "3. หลังจากส่งคําถามแต่ละข้อคุณสามารถดูคําตอบและการวิเคราะห์ที่ถูกต้องและไม่มีการ จํากัด จํานวนคําตอบ",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg6": {
+    "message": "หมายเหตุพิเศษ: การฝึกอบรมธนาคารคําถามในปัจจุบันเป็นฟังก์ชันการทดลองและรายการและฟังก์ชันที่ตามมาอาจมีการเปลี่ยนแปลง",
+    "description": "2.0 exam.js"
+  },
+  "getInToqueBank": {
+    "message": "ไปที่ธนาคารคําถาม>>",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesNew": {
+    "message": "จํานวนผลงานที่ส่งเข้าประกวด",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimesNew": {
+    "message": "จํานวนผู้กระทํา/อนุญาต",
+    "description": "2.0 exam.js"
+  },
+  "studentBatch": {
+    "message": "เวลาเซสชัน: {startTime} - {endTime}",
+    "description": "2.0 exam.js"
+  },
+  "studentSeatNumber": {
+    "message": "จํานวนที่นั่ง: {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentExamStudentOf": {
+    "message": "ผู้สมัคร: {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentRemainSeat": {
+    "message": "ที่นั่งที่เหลือ: {n}",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboard": {
+    "message": "เปิดใช้งานคีย์บอร์ดที่ปลอดภัย",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip": {
+    "message": "เฉพาะสําหรับโทรศัพท์มือถือสนับสนุนภาษาจีนและภาษาอังกฤษตัวเลขและการป้อนข้อมูลเครื่องหมายวรรคตอนทั่วไป",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip1": {
+    "message": "แป้นพิมพ์ที่ปลอดภัยสามารถใช้เพื่อป้องกันการโกงด้วยฟังก์ชั่นพิเศษของวิธีการป้อนข้อมูลโทรศัพท์มือถือ แต่ประสบการณ์การป้อนข้อมูลไม่ราบรื่นเท่ากับแป้นพิมพ์ที่มาพร้อมกับโทรศัพท์มือถือและไม่แนะนําให้เปิดใช้งานหากมีคําถามในกระดาษทดสอบที่ต้องใช้ข้อความจํานวนมาก",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips14": {
+    "message": "เมื่อหมดเวลาระบบจะส่งเอกสารโดยอัตโนมัติ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOfNew": {
+    "message": "จํานวนคอมมิท: {count}",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDesc": {
+    "message": "สิ่งที่แนบมารองรับรูปแบบทั่วไป เช่น รูปภาพ เอกสาร วิดีโอ เสียง และอื่นๆ {ลิงก์} {br} อัปโหลดไฟล์แนบได้สูงสุด 10 รายการต่อคําถามหนึ่งข้อ {br1} การอัปโหลดฝั่งคอมพิวเตอร์ ไฟล์เดียวไม่เกิน 500 ล้านไฟล์ สําหรับการอัปโหลดบนมือถือไฟล์เดียวไม่เกิน 200M สามารถเลือกคําตอบฝั่งพีซี {br2} ในเครื่องหรืออัปโหลดได้โดยการสแกนรหัสบนโทรศัพท์มือถือของคุณ",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpLink": {
+    "message": "คลิกดูรูปแบบไฟล์ที่อนุญาต",
+    "description": "2.0 exam.js"
+  },
+  "deleteExam": {
+    "message": "ลบการสอบ",
+    "description": "2.0 exam.js"
+  },
+  "exportLayout": {
+    "message": "วิธีการส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "standardType": {
+    "message": "รุ่นมาตรฐาน",
+    "description": "2.0 exam.js"
+  },
+  "compactType": {
+    "message": "รุ่นกะทัดรัด (บันทึกกระดาษพิมพ์)",
+    "description": "2.0 exam.js"
+  },
+  "attachments": {
+    "message": "ส่งออกไฟล์แนบ",
+    "description": "2.0 exam.js"
+  },
+  "yes": {
+    "message": "คือ",
+    "description": "2.0 exam.js"
+  },
+  "no": {
+    "message": "ไม่",
+    "description": "2.0 exam.js"
+  },
+  "moreOperation": {
+    "message": "การดําเนินการ",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc4": {
+    "message": "- iOS 11.0 ขึ้นไป {br} - Android 6.0 ขึ้นไป",
+    "description": "2.0 exam.js"
+  },
+  "refreshed": {
+    "message": "ฟื้นฟู",
+    "description": "2.0 exam.js"
+  },
+  "refreshInterval": {
+    "message": "ช่วงเวลารีเฟรช: {seconds} วินาที",
+    "description": "2.0 exam.js"
+  },
+  "signInTip": {
+    "message": "1. โปรดเข้าสู่ระบบแอป [ULearning] เพื่อสแกนรหัสเพื่อลงชื่อเข้าใช้ {br} 2. หลังจากลงชื่อเข้าใช้โปรดใช้อุปกรณ์เพื่อป้อนคําตอบการทดสอบคุณไม่สามารถเปลี่ยนอุปกรณ์ที่อยู่ตรงกลางสถานการณ์พิเศษโปรดขอให้ผู้คุมสอบเปลี่ยนรหัสยืนยัน",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew": {
+    "message": "สิ่งที่แนบมารองรับรูปแบบทั่วไป เช่น รูปภาพ เอกสาร วิดีโอ เสียง และอื่นๆ {ลิงก์} {br} อัปโหลดไฟล์แนบได้สูงสุด 10 รายการต่อคําถามหนึ่งข้อ {br1} การอัปโหลดฝั่งคอมพิวเตอร์ ไฟล์เดียวไม่เกิน 500 ล้านไฟล์ สําหรับการอัปโหลดบนมือถือไฟล์เดียวไม่เกิน 200M สามารถเลือกคําตอบฝั่งพีซี {br2} ในเครื่องหรืออัปโหลดได้โดยการสแกนรหัสบนโทรศัพท์มือถือของคุณ",
+    "description": "2.0 exam.js"
+  },
+  "shareBank": {
+    "message": "แชร์คลังข้อทดสอบ",
+    "description": "2.0 exam.js"
+  },
+  "onlyShowMyCollect": {
+    "message": "แสดงเฉพาะรายการโปรดของฉันเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "isOver": {
+    "message": "หมด อายุ",
+    "description": "2.0 exam.js"
+  },
+  "shareFolder": {
+    "message": "โฟลเดอร์ที่ใช้ร่วมกัน",
+    "description": "2.0 exam.js"
+  },
+  "hideQuestionType": {
+    "message": "ซ่อนชื่อประเภทคําถาม",
+    "description": "2.0 exam.js"
+  },
+  "classesTips1": {
+    "message": "เลือกชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "saveDraft": {
+    "message": "บันทึกแบบร่าง",
+    "description": "2.0 exam.js"
+  },
+  "confirmTip1": {
+    "message": "คุณแน่ใจหรือว่าต้องการยกเลิก?",
+    "description": "2.0 exam.js"
+  },
+  "exportTip1": {
+    "message": "หากนักเรียนมีหลายคําตอบ ระบบจะส่งออกเฉพาะคะแนนสูงสุดตามค่าเริ่มต้นเท่านั้น",
+    "description": "2.0 exam.js"
+  },
+  "studentInfo": {
+    "message": "ข้อมูลนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "username": {
+    "message": "ชื่อผู้ใช้",
+    "description": "2.0 exam.js"
+  },
+  "classTeacher": {
+    "message": "อาจารย์ชั้นเรียน",
+    "description": "2.0 exam.js"
+  },
+  "natureClass": {
+    "message": "ชั้นเรียนธรรมชาติ",
+    "description": "2.0 exam.js"
+  },
+  "sex": {
+    "message": "เพศ",
+    "description": "2.0 exam.js"
+  },
+  "affiliatedCollege": {
+    "message": "คณะที่สังกัด",
+    "description": "2.0 exam.js"
+  },
+  "email": {
+    "message": "ตู้จดหมาย",
+    "description": "2.0 exam.js"
+  },
+  "phoneNumber": {
+    "message": "หมายเลขโทรศัพท์",
+    "description": "2.0 exam.js"
+  },
+  "exportTip2": {
+    "message": "จํานวนการออกจากการสอบที่ผิดปกติ (ต้องตั้งค่าการตรวจสอบข้อยกเว้นเมื่อมีการโพสต์การสอบ)",
+    "description": "2.0 exam.js"
+  },
+  "exportTip3": {
+    "message": "คะแนนสําหรับแต่ละส่วนของกระดาษทดสอบ (โปรดตรวจสอบให้แน่ใจว่าโครงสร้างของเอกสารแต่ละชุดที่ใช้ในการสอบสอดคล้องกัน)",
+    "description": "2.0 exam.js"
+  },
+  "everyQuestionScore": {
+    "message": "คะแนนของแต่ละคำถาม",
+    "description": "2.0 exam.js"
+  },
+  "exportTip4": {
+    "message": "ส่งออกไฟล์ excel หนึ่งไฟล์ต่อคลาส",
+    "description": "2.0 exam.js"
+  },
+  "exportTip5": {
+    "message": "ชั้นเรียนทั้งหมดจะแสดงในหลายแผ่นงานในไฟล์ excel ไฟล์เดียว",
+    "description": "2.0 exam.js"
+  },
+  "orderRule": {
+    "message": "อาหารว่าง",
+    "description": "2.0 exam.js"
+  },
+  "ascendingOrderByScore": {
+    "message": "เรียงจากน้อยไปมากตามจํานวนนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "descendingOrderByScore": {
+    "message": "เรียงจากมากไปน้อยตามจํานวนนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "ascendingOrderByTotalScore": {
+    "message": "เรียงจากน้อยไปมากของคะแนนรวม",
+    "description": "2.0 exam.js"
+  },
+  "descendingOrderByTotalScore": {
+    "message": "เรียงจากมากไปน้อยของคะแนนรวม",
+    "description": "2.0 exam.js"
+  },
+  "exportSetting": {
+    "message": "การตั้งค่าการส่งออก",
+    "description": "2.0 exam.js"
+  },
+  "exportTip6": {
+    "message": "ส่งออกบันทึกคะแนนสูงสุดของนักเรียน",
+    "description": "2.0 exam.js"
+  },
+  "exportTip7": {
+    "message": "ส่งออกบันทึกคําตอบของนักเรียนทั้งหมด",
+    "description": "2.0 exam.js"
+  },
+  "saveSuccess": {
+    "message": "บันทึกสำเร็จ",
+    "description": "2.0 exam.js"
+  },
+  "exportTip8": {
+    "message": "โปรดเลือกรายการส่งออก",
+    "description": "2.0 exam.js"
+  }
+}

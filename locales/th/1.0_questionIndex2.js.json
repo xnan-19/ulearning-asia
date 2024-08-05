@@ -1,0 +1,270 @@
+{
+  "checkCount": {
+    "message": "มีข้อผิดพลาดเกิดขึ้นขณะสอบถามจํานวน",
+    "description": "1.0 questionIndex2.js"
+  },
+  "currentFolder": {
+    "message": "โฟลเดอร์ปัจจุบันประกอบด้วย",
+    "description": "1.0 questionIndex2.js"
+  },
+  "fileStats": {
+    "message": "โฟลเดอร์: {count} รายการ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "quesStats": {
+    "message": "คําถาม: {count} ข้อ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderMore": {
+    "message": "โฟลเดอร์ต้องไม่เกิน 5 ระดับ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameEmpty": {
+    "message": "ชื่อโฟลเดอร์ห้ามเว้นว่าง!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "createFolder": {
+    "message": "การสร้างโฟลเดอร์ล้มเหลว โปรดลองอีกครั้งในภายหลัง",
+    "description": "1.0 questionIndex2.js"
+  },
+  "editFolderName": {
+    "message": "การปรับเปลี่ยนชื่อโฟลเดอร์เสร็จเรียบร้อยแล้ว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameIllegal": {
+    "message": "ชื่อโฟลเดอร์ไม่ถูกต้องตามกฎ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError": {
+    "message": "พารามิเตอร์ไม่ถูกต้อง",
+    "description": "1.0 questionIndex2.js"
+  },
+  "rootDirectory": {
+    "message": "ไดเร็กทอรีราก",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectAddFolder": {
+    "message": "โปรดเลือกโฟลเดอร์ที่คุณต้องการเข้าร่วม",
+    "description": "1.0 questionIndex2.js"
+  },
+  "moveSuccess": {
+    "message": "ย้ายสําเร็จแล้ว!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteSuccess": {
+    "message": "การลบคําถามสําเร็จแล้ว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail": {
+    "message": "การลบคําถามล้มเหลว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "No": {
+    "message": "หมายเลข: {id}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noTest": {
+    "message": "ไม่มีคําถามอยู่",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notCreator": {
+    "message": "ไม่ใช่ผู้สร้างคําถามไม่สามารถแก้ไขได้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cannotEdit": {
+    "message": "คําถามนี้ถูกใช้แล้ว ไม่สามารถลบได้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notGet": {
+    "message": "ถูกใช้อ้างอิง ไม่สามารถลบได้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail1": {
+    "message": "การลบล้มเหลว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "allDelete": {
+    "message": "ลบทั้งหมด",
+    "description": "1.0 questionIndex2.js"
+  },
+  "keepOnly": {
+    "message": "เก็บคําถาม ลบเฉพาะโฟลเดอร์เท่านั้น",
+    "description": "1.0 questionIndex2.js"
+  },
+  "confirmDeleteFolder": {
+    "message": "แน่ใจว่าต้องการลบ? หลังจากลบเสร็จ คำถามทดสอบในโฟลเดอร์จะถูกลบทั้งหมด หากคำถามทดสอบที่ถูกลบถูกนำไปใช้กับเอกสารทดสอบอื่นๆ เอกสารทดสอบจะไม่สามารถใช้งานได้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteAfter": {
+    "message": "หลังจากลบข้อมูลจะไม่สามารถกู้คืน คุณแน่ใจหรือไม่ว่าต้องการลบ?",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTopic": {
+    "message": "แบ่งปันหัวข้อนี้กับ:",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFolder": {
+    "message": "แชร์โฟลเดอร์ย่อยและคําถามในทุกระดับภายใต้โฟลเดอร์นี้กับ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "onlyMe": {
+    "message": "ตัวฉันเองเท่านั้น",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAppointTeacher": {
+    "message": "แบ่งปันกับครูผู้สอนของโรงเรียนเราที่ถูกระบุ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAllTeacher": {
+    "message": "แบ่งปันกับครูทุกคนในโรงเรียนของเรา",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTeacher": {
+    "message": "แบ่งปันกับครูทุกคน",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTips": {
+    "message": "แชร์เคล็ดลับ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "share2": {
+    "message": "แบ่งปัน",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noSelectTeacher": {
+    "message": "ไม่มีการเลือกครู",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareSuccess": {
+    "message": "แบ่งปันความสําเร็จ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFail": {
+    "message": "การแชร์ล้มเหลว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectTeacher": {
+    "message": "เลือกครู",
+    "description": "1.0 questionIndex2.js"
+  },
+  "enterTeacher": {
+    "message": "ป้อนคําค้นหาชื่อครู",
+    "description": "1.0 questionIndex2.js"
+  },
+  "continueSelect": {
+    "message": "ทําการเลือกต่อไป",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selected": {
+    "message": "เลือกแล้ว",
+    "description": "1.0 questionIndex2.js"
+  },
+  "action": {
+    "message": "โปรดทำตามขั้นตอนด้านล่างนี้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "downloadModel": {
+    "message": "ดาวน์โหลดแม่แบบ จัดระเบียบข้อมูลในรูปแบบแม่แบบ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "model": {
+    "message": "ดาวน์โหลดแม่แบบ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "uploadFile2": {
+    "message": "อัปโหลดไฟล์ที่จัดระเบียบไว้",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cellError": {
+    "message": "แถวที่{r}, ข้อผิดพลาดของข้อมูลคอลัมน์ {c}: {msg}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importNormal": {
+    "message": "นำเข้าปกติ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importSuccess": {
+    "message": "นําเข้าสําเร็จแล้ว!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyQuestion": {
+    "message": "กําลังคัดลอกคําถามทดสอบที่มีหมายเลข {id} โปรดรอสักครู่!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copySuccess": {
+    "message": "คัดลอกสําเร็จ คำถามทดสอบถูกย้ายไปที่ไดเรกทอรีรากของคุณแล้ว!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "systemBusy": {
+    "message": "ระบบไม่ว่าง โปรดลองอีกครั้งในภายหลัง!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportNote": {
+    "message": "ส่งออกเคล็ดลับ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyRightRequire": {
+    "message": "เนื่องจากลิขสิทธิ์ความเป็นเจ้าของ จึงส่งออกได้เฉพาะคำถามที่สร้างโดยครูในโรงเรียนของเราเท่านั้น",
+    "description": "1.0 questionIndex2.js"
+  },
+  "leaveEmail": {
+    "message": "เนื่องจากข้อมูลในคลังคําถามมีปริมาณมาก การส่งออกต้องใช้เวลานาน โปรดฝากที่อยู่อีเมลของคุณ หลังจากการส่งออกเสร็จสมบูรณ์เราจะส่งคำถามไปยังที่อยู่อีเมลของคุณ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "ipuntEmail": {
+    "message": "กรุณากรอกที่อยู่อีเมล",
+    "description": "1.0 questionIndex2.js"
+  },
+  "pleaseInputEmail": {
+    "message": "กรุณากรอกที่อยู่อีเมลที่ถูกต้อง",
+    "description": "1.0 questionIndex2.js"
+  },
+  "inputEmailAd": {
+    "message": "โปรดป้อนที่อยู่อีเมลของคุณ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "queueBusy": {
+    "message": "คิวไม่ว่าง",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError2": {
+    "message": "พารามิเตอร์การร้องขอไม่ถูกต้อง",
+    "description": "1.0 questionIndex2.js"
+  },
+  "checkEmail": {
+    "message": "ส่งออกเสร็จเรียบร้อยแล้ว โปรดตรวจสอบกล่องจดหมาย",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportFail2": {
+    "message": "การส่งออกล้มเหลว ติดต่อฝ่ายบริการลูกค้า!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "downloadMoodleTitle": {
+    "message": "วิธีใช้",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc1": {
+    "message": "1. ดาวน์โหลดและติดตั้งเครื่องมือแปลงรูปแบบ (รองรับระบบ Windows เท่านั้น)",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc2": {
+    "message": "2. ส่งออกคลังคําถามเป็นไฟล์รูปแบบ xml จากแพลตฟอร์ม Moodle (สนับสนุนเฉพาะคําถามทางเลือกคําถามตัดสินคําถามที่ว่างเปล่าและคําตอบสั้น ๆ )",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc3": {
+    "message": "3. ใช้เครื่องมือแปลงรูปแบบเพื่อแปลงไฟล์ XML ที่ส่งออกโดย Moodle เป็นรูปแบบ Excel",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc4": {
+    "message": "4. ใช้ฟังก์ชันการนําเข้าจํานวนมากของ ULearning อัปโหลดไฟล์ Excel และเสร็จสิ้นการนําเข้าไลบรารีคําถาม",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "copySuccessfully": {
+    "message": "การจําลองแบบเสร็จเรียบร้อยแล้ว",
+    "description": "1.0 questionIndex2.json.js"
+  }
+}

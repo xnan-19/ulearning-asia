@@ -1,0 +1,130 @@
+{
+  "submittingText": {
+    "message": "Submitting...",
+    "description": "1.0 autoexam.js"
+  },
+  "unitContentText": {
+    "message": "{0} sections",
+    "description": "1.0 autoexam.js"
+  },
+  "allUnitContentText": {
+    "message": "All sections",
+    "description": "1.0 autoexam.js"
+  },
+  "selectQBankRange": {
+    "message": "Select Question Bank Section",
+    "description": "1.0 autoexam.js"
+  },
+  "myTemplateText": {
+    "message": "My Template",
+    "description": "1.0 autoexam.js"
+  },
+  "retainPartText": {
+    "message": "Include at least 1one section",
+    "description": "1.0 autoexam.js"
+  },
+  "paperNameText": {
+    "message": "Exam name cannot be empty",
+    "description": "1.0 autoexam.js"
+  },
+  "answerTimeText": {
+    "message": "Exam Duration cannot be empty",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText1": {
+    "message": "Total {count} sections, ",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText2": {
+    "message": "{count} questions, ",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText3": {
+    "message": "total possible {count} points. ",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText": {
+    "message": "{parts} {questions} {marks}",
+    "description": "{parts} 插值对应上面的 collectText1，{questions}插值对应上面的 collectText2，{marks}插值对应上面的collectText3，也就是说这三个分句组成一句话，翻译可根据需要调整三个分句的顺序，或者添加标点符号。"
+  },
+  "surePaperNameLess": {
+    "message": "Exam name should be within 50 characters",
+    "description": "1.0 autoexam.js"
+  },
+  "keyIntegerText": {
+    "message": "Enter an integral between 1-300",
+    "description": "1.0 autoexam.js"
+  },
+  "makePaperText": {
+    "message": "The exam was generated successfully!",
+    "description": "1.0 autoexam.js"
+  },
+  "QnumberText": {
+    "message": "There are not enough questions in the question bank!",
+    "description": "1.0 autoexam.js"
+  },
+  "addPaperQText": {
+    "message": "You can add questions manually after the exam has been generated",
+    "description": "1.0 autoexam.js"
+  },
+  "adjustmentPaperText": {
+    "message": "Edit Exam",
+    "description": "1.0 autoexam.js"
+  },
+  "makePaperingText": {
+    "message": "Generating...",
+    "description": "1.0 autoexam.js"
+  },
+  "returnModifyText": {
+    "message": "No questions in the selected question bank section - Go back to make modifications",
+    "description": "1.0 autoexam.js"
+  },
+  "confirmText": {
+    "message": "Confirm",
+    "description": "1.0 autoexam.js"
+  },
+  "continueMakeText": {
+    "message": "Continue",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseEnterName": {
+    "message": "Enter the section names (up to {0} characters)",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseEnterTemplateName": {
+    "message": "Enter the template names (up to 20 characters)",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseAddQtype": {
+    "message": "Add Question Type",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseSelectQrange": {
+    "message": "Select Question Range",
+    "description": "1.0 autoexam.js"
+  },
+  "correctRatioText": {
+    "message": "Enter a correct ratio",
+    "description": "1.0 autoexam.js"
+  },
+  "getDateErrorText": {
+    "message": "Data retrieving error!",
+    "description": "1.0 autoexam.js"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Are you sure you want to delete this template?",
+    "description": "1.0 autoexam.js"
+  },
+  "deleteTemplateError": {
+    "message": "Template deleting error!",
+    "description": "1.0 autoexam.js"
+  },
+  "partNum": {
+    "message": "Section {0}",
+    "description": "1.0 autoexam.js"
+  },
+  "totalScoreLabel": {
+    "message": "Total Points: {0}",
+    "description": "1.0 autoexam.js"
+  }
+}

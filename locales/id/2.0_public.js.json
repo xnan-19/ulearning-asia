@@ -1,0 +1,2490 @@
+{
+  "homePage": {
+    "message": "Halaman pertama",
+    "description": "2.0 public.js"
+  },
+  "lastPage": {
+    "message": "Halaman terakhir",
+    "description": "2.0 public.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 public.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 public.js"
+  },
+  "jumpPage": {
+    "message": "Lewati",
+    "description": "2.0 public.js"
+  },
+  "search": {
+    "message": "Cari",
+    "description": "2.0 public.js"
+  },
+  "friendshipLink": {
+    "message": "Tautan",
+    "description": "2.0 public.js"
+  },
+  "ulearning": {
+    "message": "ULearn",
+    "description": "2.0 public.js"
+  },
+  "peopleMooc": {
+    "message": "Mata kuliah gratis",
+    "description": "2.0 public.js"
+  },
+  "leiClass": {
+    "message": "Leiketang",
+    "description": "2.0 public.js"
+  },
+  "helpCenter": {
+    "message": "Pusat bantuan",
+    "description": "2.0 public.js"
+  },
+  "signin": {
+    "message": "Masuk",
+    "description": "2.0 public.js"
+  },
+  "signup": {
+    "message": "Registrasi",
+    "description": "2.0 public.js"
+  },
+  "signout": {
+    "message": "Keluar",
+    "description": "2.0 public.js"
+  },
+  "myHomePage": {
+    "message": "Beranda saya",
+    "description": "2.0 public.js"
+  },
+  "backToHomePage": {
+    "message": "Kembali",
+    "description": "2.0 public.js"
+  },
+  "personalPage": {
+    "message": "Data pribadi",
+    "description": "2.0 public.js"
+  },
+  "signupNow": {
+    "message": "Segera daftar",
+    "description": "2.0 public.js"
+  },
+  "username": {
+    "message": "Nama pengguna/No. ponsel",
+    "description": "2.0 public.js"
+  },
+  "password": {
+    "message": "Kata sandi",
+    "description": "2.0 public.js"
+  },
+  "forgetPassword": {
+    "message": "Lupa kata sandi?",
+    "description": "2.0 public.js"
+  },
+  "usernameNotExist": {
+    "message": "Nama pengguna tidak ada",
+    "description": "2.0 public.js"
+  },
+  "wrongPassword": {
+    "message": "Nama pengguna/kata sandi salah",
+    "description": "2.0 public.js"
+  },
+  "wrongCode": {
+    "message": "Nomor keamanan dinamik salah",
+    "description": "2.0 public.js"
+  },
+  "verificationCodePlaceholder": {
+    "message": "Silahkan masukkan nomor verifikasi dinamik 6 angka",
+    "description": "2.0 public.js"
+  },
+  "sendVerificationCode": {
+    "message": "Kirim nomor verifikasi",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterUsername": {
+    "message": "Silahkan masukkan nama pengguna/nomor ponsel",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterPassword": {
+    "message": "Silahkan masukkan kata sandi",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterVerificationCode": {
+    "message": "Silahkan masukkan nomor verifikasi dinamik",
+    "description": "2.0 public.js"
+  },
+  "wrongToManyTimes": {
+    "message": "Anda telah salah input 5 kali berturut-turut, coba kembali setelah 3 menit",
+    "description": "2.0 public.js"
+  },
+  "searchCourse": {
+    "message": "Cari semua mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "Classification": {
+    "message": "Kategori",
+    "description": "2.0 public.js"
+  },
+  "defaultOrder": {
+    "message": "Pengurutan",
+    "description": "2.0 public.js"
+  },
+  "mostRecent": {
+    "message": "Terbaru",
+    "description": "2.0 public.js"
+  },
+  "mostPopular": {
+    "message": "Terfavorit",
+    "description": "2.0 public.js"
+  },
+  "all": {
+    "message": "Semua",
+    "description": "2.0 public.js"
+  },
+  "other": {
+    "message": "Lainnya",
+    "description": "2.0 public.js"
+  },
+  "department": {
+    "message": "Fakultas",
+    "description": "2.0 public.js"
+  },
+  "allDepartment": {
+    "message": "Semua universitas",
+    "description": "2.0 public.js"
+  },
+  "totalCourse": {
+    "message": "Total kursus {n}",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "departments": {
+    "message": "Fakultas",
+    "description": "2.0 public.js"
+  },
+  "moreDepartments": {
+    "message": "Lebih banyak fakultas",
+    "description": "2.0 public.js"
+  },
+  "allDepartments": {
+    "message": "Semua fakultas",
+    "description": "2.0 public.js"
+  },
+  "announcement": {
+    "message": "Pengumuman",
+    "description": "2.0 public.js"
+  },
+  "moreAnnouncement": {
+    "message": "Lebih banyak pengumuman",
+    "description": "2.0 public.js"
+  },
+  "otherAnnouncement": {
+    "message": "Pengumuman lain",
+    "description": "2.0 public.js"
+  },
+  "moreCourse": {
+    "message": "Lebih banyak mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "joinCourseCount": {
+    "message": "Jumlah peserta: {n}",
+    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "Navigasi kustom",
+    "description": "2.0 public.js"
+  },
+  "courseManager": {
+    "message": "Penanggung jawab mata kuliah:",
+    "description": "2.0 public.js"
+  },
+  "affiliatedCollege": {
+    "message": "Universitas:",
+    "description": "2.0 public.js"
+  },
+  "classNum": {
+    "message": "Jumlah kelas:",
+    "description": "2.0 public.js"
+  },
+  "courseStartTime": {
+    "message": "Waktu buka mata kuliah:",
+    "description": "2.0 public.js"
+  },
+  "usingTextbook": {
+    "message": "Bahan mata kuliah yang dipakai",
+    "description": "2.0 public.js"
+  },
+  "noTextbook": {
+    "message": "Belum ada materi yang digunakan",
+    "description": "2.0 public.js"
+  },
+  "courseAnnouncement": {
+    "message": "Pengumuman mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "publisher": {
+    "message": "Perilis:",
+    "description": "2.0 public.js"
+  },
+  "publishTime": {
+    "message": "Waktu rilis:",
+    "description": "2.0 public.js"
+  },
+  "noCourseAnnouncement": {
+    "message": "Belum ada pengumuman mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "teachingActivity": {
+    "message": "Kegiatan pengajaran",
+    "description": "2.0 public.js"
+  },
+  "homework": {
+    "message": "Tugas",
+    "description": "2.0 public.js"
+  },
+  "noHomework": {
+    "message": "Belum ada tugas",
+    "description": "2.0 public.js"
+  },
+  "no": {
+    "message": "Belum ada",
+    "description": "2.0 public.js"
+  },
+  "discussion": {
+    "message": "Diskusi",
+    "description": "2.0 public.js"
+  },
+  "noDiscussion": {
+    "message": "Belum ada diskusi",
+    "description": "2.0 public.js"
+  },
+  "exam": {
+    "message": "Ujian",
+    "description": "2.0 public.js"
+  },
+  "noExam": {
+    "message": "Belum ada ujian",
+    "description": "2.0 public.js"
+  },
+  "teachingTeam": {
+    "message": "Tim pengajaran",
+    "description": "2.0 public.js"
+  },
+  "noTeachingTeam": {
+    "message": "Belum ada tim pengajaran",
+    "description": "2.0 public.js"
+  },
+  "joinCourse": {
+    "message": "Ikut bergabung",
+    "description": "2.0 public.js"
+  },
+  "searchNoCourse": {
+    "message": "Tidak menemukan mata kuliah terkait",
+    "description": "2.0 public.js"
+  },
+  "noCourse": {
+    "message": "Tidak ada mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "netError": {
+    "message": "Kesalahan jaringan, klik pada {reloadButton}",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "reload": {
+    "message": "Memuat ulang",
+    "description": "2.0 public.js"
+  },
+  "viewDetail": {
+    "message": "Lihat rincian",
+    "description": "2.0 public.js"
+  },
+  "contentSummary": {
+    "message": "Ringkasan konten:",
+    "description": "2.0 public.js"
+  },
+  "studyTimesOf": {
+    "message": "{n} kali untuk belajar",
+    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+  },
+  "totalSearchResult": {
+    "message": "Total {n} hasil yang terkait dengan \"{keyword}\" telah ditelusuri",
+    "description": "自定义门户网站 -> 上方搜索框搜索"
+  },
+  "schoolCourse": {
+    "message": "Mata kuliah di dalam universitas",
+    "description": "2.0 public.js"
+  },
+  "openCourse": {
+    "message": "Mata kuliah umum",
+    "description": "2.0 public.js"
+  },
+  "moreSearchResult": {
+    "message": "Lebih banyak hasil pencarian",
+    "description": "2.0 public.js"
+  },
+  "annex": {
+    "message": "Lampiran",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "Saluran mata kuliah gratis",
+    "description": "2.0 public.js"
+  },
+  "personalResource": {
+    "message": "Sumber individu",
+    "description": "2.0 public.js"
+  },
+  "resourceTips1": {
+    "message": "Dokumen tidak lebih dari 1G",
+    "description": "2.0 public.js"
+  },
+  "addResource": {
+    "message": "Tambah sumber",
+    "description": "2.0 public.js"
+  },
+  "modifyResource": {
+    "message": "Ubah sumber",
+    "description": "2.0 public.js"
+  },
+  "modifyResourceName": {
+    "message": "Ubah nama sumber",
+    "description": "2.0 public.js"
+  },
+  "myResource": {
+    "message": "Sumber saya",
+    "description": "2.0 public.js"
+  },
+  "courseResource": {
+    "message": "Sumber mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "subjectResourceLibrary": {
+    "message": "Kumpulan sumber mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "inputKeywordSearch": {
+    "message": "Masukkan kata kunci untuk melakukan pencarian",
+    "description": "2.0 public.js"
+  },
+  "resourceTips2": {
+    "message": "1 dokumen maks. 1G",
+    "description": "2.0 public.js"
+  },
+  "localUpload": {
+    "message": "Unggah lokal",
+    "description": "2.0 public.js"
+  },
+  "back": {
+    "message": "Kembali",
+    "description": "2.0 public.js"
+  },
+  "currentPosition": {
+    "message": "Posisi saat ini: ",
+    "description": "2.0 public.js"
+  },
+  "allResource": {
+    "message": "Semua sumber",
+    "description": "2.0 public.js"
+  },
+  "resourceName": {
+    "message": "Nama sumber",
+    "description": "2.0 public.js"
+  },
+  "noResource": {
+    "message": "Tidak ada sumber",
+    "description": "2.0 public.js"
+  },
+  "publisher2": {
+    "message": "Perilis",
+    "description": "2.0 public.js"
+  },
+  "confirm": {
+    "message": "OK",
+    "description": "2.0 public.js"
+  },
+  "cancel": {
+    "message": "Batalkan",
+    "description": "2.0 public.js"
+  },
+  "pleaseAddContent": {
+    "message": "Silahkan tambah konten",
+    "description": "2.0 public.js"
+  },
+  "resourceTips3": {
+    "message": "Teks gambar tidak lebih dari 20ribu karakter",
+    "description": "2.0 public.js"
+  },
+  "saveSuccess": {
+    "message": "Berhasil disimpan",
+    "description": "2.0 public.js"
+  },
+  "saveFailed": {
+    "message": "Gagal menyimpan",
+    "description": "2.0 public.js"
+  },
+  "modify": {
+    "message": "Ubah",
+    "description": "2.0 public.js"
+  },
+  "add": {
+    "message": "Tambah",
+    "description": "2.0 public.js"
+  },
+  "resource": {
+    "message": "Sumber",
+    "description": "2.0 public.js"
+  },
+  "resourceTips4": {
+    "message": "Silahkan masukkan Nama sumber",
+    "description": "2.0 public.js"
+  },
+  "delete": {
+    "message": "Hapus",
+    "description": "2.0 public.js"
+  },
+  "size": {
+    "message": "Ukuran",
+    "description": "2.0 public.js"
+  },
+  "duration": {
+    "message": "Durasi",
+    "description": "2.0 public.js"
+  },
+  "cover": {
+    "message": "Halaman depan",
+    "description": "2.0 public.js"
+  },
+  "reUpload": {
+    "message": "Unggah ulang",
+    "description": "2.0 public.js"
+  },
+  "upload": {
+    "message": "Unggah",
+    "description": "2.0 public.js"
+  },
+  "subtitle": {
+    "message": "Subtitle",
+    "description": "2.0 public.js"
+  },
+  "contentValidateTips5": {
+    "message": "Hanya mendukung format srt",
+    "description": "2.0 public.js"
+  },
+  "linkAddress": {
+    "message": "Alamat tautan",
+    "description": "2.0 public.js"
+  },
+  "resourceTips5": {
+    "message": "Masukkan alamat tautan",
+    "description": "2.0 public.js"
+  },
+  "content": {
+    "message": "Konten",
+    "description": "2.0 public.js"
+  },
+  "resourceDescription": {
+    "message": "Ringkasan sumber",
+    "description": "2.0 public.js"
+  },
+  "resourceTips6": {
+    "message": "Bukan bagian yang harus diisi",
+    "description": "2.0 public.js"
+  },
+  "downloadSettings": {
+    "message": "Unduh pengaturan",
+    "description": "2.0 public.js"
+  },
+  "allowDownload": {
+    "message": "Boleh unduh",
+    "description": "2.0 public.js"
+  },
+  "disallowDownload": {
+    "message": "Tidak boleh unduh",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "Cakupan perilisan",
+    "description": "2.0 public.js"
+  },
+  "myClassess": {
+    "message": "Kelas saya",
+    "description": "2.0 public.js"
+  },
+  "courseAllClass": {
+    "message": "Semua kelas mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "resourceTips7": {
+    "message": "Silakan masukkan sumber daya yang akan ditambahkan",
+    "description": "2.0 public.js"
+  },
+  "changePassword": {
+    "message": "Ubah kata sandi",
+    "description": "2.0 public.js"
+  },
+  "safeguard": {
+    "message": "Perlindungan keamanan",
+    "description": "2.0 public.js"
+  },
+  "securitySetting": {
+    "message": "Pengaturan keamanan",
+    "description": "2.0 public.js"
+  },
+  "welcomeUlearn": {
+    "message": "Selamat datang di ULearn",
+    "description": "2.0 public.js"
+  },
+  "wrongUsernamePassword": {
+    "message": "Nama pengguna atau kata sandi salah",
+    "description": "2.0 public.js"
+  },
+  "wrongDynamicCode": {
+    "message": "No. dinamik salah",
+    "description": "2.0 public.js"
+  },
+  "loginTips1": {
+    "message": "Situs ini untuk sementara hanya dibuka untuk mahasiswa dengan tujuan pembelajaran, silahkan masuk melalui akun mahasiswa, anda juga dapat scan Wechat dan login untuk belajar",
+    "description": "2.0 public.js"
+  },
+  "wxLogin": {
+    "message": "Login melalui Wechat",
+    "description": "2.0 public.js"
+  },
+  "registeredAccount": {
+    "message": "Registrasi akun",
+    "description": "2.0 public.js"
+  },
+  "forgotPassword": {
+    "message": "Lupa kata sandi",
+    "description": "2.0 public.js"
+  },
+  "userWXLogin": {
+    "message": "Login melalui Wechat",
+    "description": "2.0 public.js"
+  },
+  "bindUlearnAccount": {
+    "message": "Ikat akun ULearn",
+    "description": "2.0 public.js"
+  },
+  "loginTips2": {
+    "message": "Dapat melakukan sinkronisasi akun setelah diikat",
+    "description": "2.0 public.js"
+  },
+  "loginTips3": {
+    "message": "Situs ini untuk sementara hanya dibuka untuk mahasiswa dengan tujuan pembelajaran, silahkan ikat akun mahasiswa, tidak perlu ikat apabila tidak memiliki akun mahasiswa~",
+    "description": "2.0 public.js"
+  },
+  "unbound": {
+    "message": "Tidak ikat",
+    "description": "2.0 public.js"
+  },
+  "unboundSkip": {
+    "message": "Tidak ikat, lewati",
+    "description": "2.0 public.js"
+  },
+  "reSend": {
+    "message": "Kirim ulang",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips1": {
+    "message": "Atur ukuran dan posisi gambar",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips2": {
+    "message": "Geser kotak garis putus-putus untuk mengatur ukuran dan posisi",
+    "description": "2.0 public.js"
+  },
+  "save": {
+    "message": "Simpan",
+    "description": "2.0 public.js"
+  },
+  "baseInfo": {
+    "message": "Informasi dasar",
+    "description": "2.0 public.js"
+  },
+  "userName": {
+    "message": "Nama pengguna",
+    "description": "2.0 public.js"
+  },
+  "headImg": {
+    "message": "Foto",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImg": {
+    "message": "Unggah foto",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImgTips": {
+    "message": "Gambar format jpg/jpeg/png，tidak lebih dari 2M disarankan berukuran 80px*80px",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber": {
+    "message": "Nomor ponsel",
+    "description": "2.0 public.js"
+  },
+  "modifyRelatedPhone": {
+    "message": "Ubah no. ponsel",
+    "description": "2.0 public.js"
+  },
+  "relatePhone": {
+    "message": "No. ponsel",
+    "description": "2.0 public.js"
+  },
+  "fullName": {
+    "message": "Nama lengkap",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips1": {
+    "message": "Nama sangat penting, disarankan untuk menggunakan nama lengkap asli",
+    "description": "2.0 public.js"
+  },
+  "gender": {
+    "message": "Jenis kelamin",
+    "description": "2.0 public.js"
+  },
+  "male": {
+    "message": "Pria",
+    "description": "2.0 public.js"
+  },
+  "female": {
+    "message": "Wanita",
+    "description": "2.0 public.js"
+  },
+  "email": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips2": {
+    "message": "Digunakan untuk mencari kata sandi",
+    "description": "2.0 public.js"
+  },
+  "birthday": {
+    "message": "Tanggal lahir",
+    "description": "2.0 public.js"
+  },
+  "telphoneNum": {
+    "message": "No. telepon",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips3": {
+    "message": "Silahkan pilih tanggal lahir",
+    "description": "2.0 public.js"
+  },
+  "schoolInfo": {
+    "message": "Informasi universitas",
+    "description": "2.0 public.js"
+  },
+  "college": {
+    "message": "Universitas",
+    "description": "2.0 public.js"
+  },
+  "department2": {
+    "message": "Fakultas",
+    "description": "2.0 public.js"
+  },
+  "department3": {
+    "message": "Universitas",
+    "description": "2.0 public.js"
+  },
+  "grade": {
+    "message": "Angkatan",
+    "description": "2.0 public.js"
+  },
+  "pleaseChoose": {
+    "message": "Silahkan pilih",
+    "description": "2.0 public.js"
+  },
+  "normalClass": {
+    "message": "Kelas natural",
+    "description": "2.0 public.js"
+  },
+  "studentNo": {
+    "message": "NIM",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips4": {
+    "message": "Silahkan isi dengan benar, karena akan berpengaruh pada nilai",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "Akun pihak ketiga",
+    "description": "2.0 public.js"
+  },
+  "unbind": {
+    "message": "Hapus pengikatan",
+    "description": "2.0 public.js"
+  },
+  "bindWX": {
+    "message": "Ikat Wechat",
+    "description": "2.0 public.js"
+  },
+  "phoneNum": {
+    "message": "No. ponsel",
+    "description": "2.0 public.js"
+  },
+  "inputPhoneNum": {
+    "message": "Silahkan masukkan no. ponsel",
+    "description": "2.0 public.js"
+  },
+  "inputCorrectPhoneNum": {
+    "message": "Silahkan masukkan no. ponsel yang benar",
+    "description": "2.0 public.js"
+  },
+  "verificationCode": {
+    "message": "No. verifikasi",
+    "description": "2.0 public.js"
+  },
+  "inputVerificationCode": {
+    "message": "Silahkan masukkan no. verifikasi",
+    "description": "2.0 public.js"
+  },
+  "hanNationality": {
+    "message": "Suku Han",
+    "description": "2.0 public.js"
+  },
+  "city": {
+    "message": "Kota",
+    "description": "2.0 public.js"
+  },
+  "town": {
+    "message": "Kabupaten",
+    "description": "2.0 public.js"
+  },
+  "countryside": {
+    "message": "Kecamatan",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips5": {
+    "message": "Email ini telah digunakan, silahkan input ulang",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips6": {
+    "message": "NIM ini telah digunakan, silahkan input ulang",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips7": {
+    "message": "No. ponsel ini telah digunakan, silahkan input ulang",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips8": {
+    "message": "Tidak boleh kosong",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips9": {
+    "message": "Format Email tidak benar",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips10": {
+    "message": "Panjang karakter tidak boleh lebih dari",
+    "description": "2.0 public.js"
+  },
+  "modifyFailed": {
+    "message": "Gagal diubah",
+    "description": "2.0 public.js"
+  },
+  "unbindSuccess": {
+    "message": "Pengikatan berhasil dilepas",
+    "description": "2.0 public.js"
+  },
+  "getVerificationCode": {
+    "message": "Dapatkan kode verifikasi",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips11": {
+    "message": "Silahkan masukkan no. telepon",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips12": {
+    "message": "Silahkan masukkan no. telepon yang benar",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips13": {
+    "message": "No. ponsel ini telah digunakan",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips14": {
+    "message": "Berhasil menyimpan no. ponsel",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCode": {
+    "message": "No. verifikasi salah",
+    "description": "2.0 public.js"
+  },
+  "bindSuccess": {
+    "message": "Berhasil ikat",
+    "description": "2.0 public.js"
+  },
+  "bindFailed": {
+    "message": "Gagal mengikat",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips15": {
+    "message": "Wechat ini telah diikat ke akun ULearn lainnya, silahkan ganti akun Wechat dan lakukan pengikatan ulang",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips16": {
+    "message": "Saat ini telah memulai perlindungan login, boleh ditutup apabila tidak memerlukannya",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips17": {
+    "message": "Setelah dibuka, pada saat login, harus melakukan verifikasi identitas terlebih dahulu, untuk menjamin keamanan akun anda",
+    "description": "2.0 public.js"
+  },
+  "loginProtection": {
+    "message": "Perlindungan login",
+    "description": "2.0 public.js"
+  },
+  "close": {
+    "message": "Tutup",
+    "description": "2.0 public.js"
+  },
+  "open": {
+    "message": "Buka",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips18": {
+    "message": "Login untuk melindungi verifikasi ponsel",
+    "description": "2.0 public.js"
+  },
+  "phone": {
+    "message": "Ponsel",
+    "description": "2.0 public.js"
+  },
+  "thisAccount": {
+    "message": "Akun ini",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips19": {
+    "message": "Belum menghubungkan nomor ponsel,",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips20": {
+    "message": "Silahkan lengkapi nomor ponsel di data pribadi sebelum membukanya",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "Pengaturan berhasil!",
+    "description": "2.0 public.js"
+  },
+  "oldPassword": {
+    "message": "Kata sandi lama",
+    "description": "2.0 public.js"
+  },
+  "newpassword": {
+    "message": "Kata sandi baru",
+    "description": "2.0 public.js"
+  },
+  "confirmPassword": {
+    "message": "Konfirmasi kata sandi",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips21": {
+    "message": "Nama pengguna dan kata sandi tidak boleh sama",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips22": {
+    "message": "Silahkan masukkan kata sandi lama",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips23": {
+    "message": "Silahkan masukkan kata sandi lama yang benar",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips24": {
+    "message": "Silahkan masukkan kata sandi baru",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips25": {
+    "message": "8-16 karakter，harus terdiri dari huruf dan angka (huruf besar dan kecil dibedakan)",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips26": {
+    "message": "Silahkan masukkan kata sandi yang dikonfirmasi",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips27": {
+    "message": "2 kali kata sandi tidak sama",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips28": {
+    "message": "Berhasil mengubah kata sandi!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips29": {
+    "message": "Kata sandi lama salah!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips30": {
+    "message": "Gagal mengubah kata sandi!",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText1": {
+    "message": "Unduh aplikasi",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText2": {
+    "message": "Scan untuk unduh aplikasi \"ULearn 2.0\"",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText3": {
+    "message": "Layanan pelanggan",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText4": {
+    "message": "Pusat bantuan",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText5": {
+    "message": "Kembali ke atas",
+    "description": "2.0 public.js"
+  },
+  "myOrder": {
+    "message": "Pesanan saya",
+    "description": "2.0 public.js"
+  },
+  "improveCourse": {
+    "message": "Lengkapi mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "teachingProcess": {
+    "message": "Gambar alur pengajaran",
+    "description": "2.0 public.js"
+  },
+  "studyPlan": {
+    "message": "Rencana pembelajaran",
+    "description": "2.0 public.js"
+  },
+  "studyProgress": {
+    "message": "Progres belajar",
+    "description": "2.0 public.js"
+  },
+  "myTextbook": {
+    "message": "Materi saya",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "Atur ruang ujian",
+    "description": "2.0 public.js"
+  },
+  "studyStatistics": {
+    "message": "Statistik nilai",
+    "description": "2.0 public.js"
+  },
+  "randomGroupPaper": {
+    "message": "Pengelompokan kertas ujian secara acak",
+    "description": "2.0 public.js"
+  },
+  "faceAuthentication": {
+    "message": "Verifikasi wajah",
+    "description": "2.0 public.js"
+  },
+  "questionAnalysis": {
+    "message": "Analisa soal",
+    "description": "2.0 public.js"
+  },
+  "batchRemarkQue": {
+    "message": "Koreksi soal secara batch",
+    "description": "2.0 public.js"
+  },
+  "examPaperLibrary": {
+    "message": "Kumpulan kertas ujian",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "Platform pengawasan",
+    "description": "2.0 public.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "Pemeriksaan foto verifikasi wajah",
+    "description": "2.0 public.js"
+  },
+  "joinCourseClass": {
+    "message": "Ikut bergabung dalam mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "classDivideGroup": {
+    "message": "Pembagian kelompok kelas",
+    "description": "2.0 public.js"
+  },
+  "resourceStatistic": {
+    "message": "Statistik sumber",
+    "description": "2.0 public.js"
+  },
+  "resourcePreview": {
+    "message": "Pra-tinjau sumber",
+    "description": "2.0 public.js"
+  },
+  "resourceImport": {
+    "message": "Impor sumber",
+    "description": "2.0 public.js"
+  },
+  "publishToCourse": {
+    "message": "Rilis ke mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "resourceLibrary": {
+    "message": "Kumpulan sumber",
+    "description": "2.0 public.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "Tes lingkungan ujian",
+    "description": "2.0 public.js"
+  },
+  "createAssessment": {
+    "message": "Buat strategi penilaian",
+    "description": "2.0 public.js"
+  },
+  "modifyAssessment": {
+    "message": "Ubah strategi penilaian",
+    "description": "2.0 public.js"
+  },
+  "viewScore": {
+    "message": "Lihat nilai",
+    "description": "2.0 public.js"
+  },
+  "courseAnalysis": {
+    "message": "Analisa mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "coursewareContent": {
+    "message": "Konten bahan mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "livePlayback": {
+    "message": "Putar ulang live",
+    "description": "2.0 public.js"
+  },
+  "liveAnalysis": {
+    "message": "Analisa live",
+    "description": "2.0 public.js"
+  },
+  "live": {
+    "message": "Live",
+    "description": "2.0 public.js"
+  },
+  "semesterManagement": {
+    "message": "Pengelolaan semester",
+    "description": "2.0 public.js"
+  },
+  "foreignMember": {
+    "message": "Anggota luar universitas",
+    "description": "2.0 public.js"
+  },
+  "copyRight": {
+    "message": "Copyright©2020 Hak Cipta ULearning",
+    "description": "2.0 public.js"
+  },
+  "certificateManagement": {
+    "message": "Pengelolaan sertifikat",
+    "description": "2.0 public.js"
+  },
+  "certificateSettings": {
+    "message": "Pengaturan sertifikat",
+    "description": "2.0 public.js"
+  },
+  "certificateTemplate": {
+    "message": "Templat sertifikat saya",
+    "description": "2.0 public.js"
+  },
+  "createCertificate": {
+    "message": "Membuat templat baru",
+    "description": "2.0 public.js"
+  },
+  "selectTemplate": {
+    "message": "Pilih templat",
+    "description": "2.0 public.js"
+  },
+  "electronicSignature": {
+    "message": "Tanda tangan elektronik",
+    "description": "2.0 public.js"
+  },
+  "liveManagement": {
+    "message": "Pengelolaan live",
+    "description": "2.0 public.js"
+  },
+  "setAssesmentRules": {
+    "message": "Atur peraturan evaluasi",
+    "description": "2.0 public.js"
+  },
+  "basicInfo": {
+    "message": "Informasi dasar",
+    "description": "2.0 public.js"
+  },
+  "activityCalendar": {
+    "message": "Kalender",
+    "description": "2.0 public.js"
+  },
+  "studyEportfolio": {
+    "message": "Arsip akademik",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": "Arsip akademik ",
+    "description": "2.0 public.js"
+  },
+  "ofEportfolio": {
+    "message": "Arsip pembelajaran",
+    "description": "2.0 public.js"
+  },
+  "myHomePage2": {
+    "message": "Beranda saya",
+    "description": "2.0 public.js"
+  },
+  "eportfolio": {
+    "message": "Arsip",
+    "description": "2.0 public.js"
+  },
+  "folder": {
+    "message": "Folder",
+    "description": "2.0 public.js"
+  },
+  "fileSize": {
+    "message": "Ukuran dokumen",
+    "description": "2.0 public.js"
+  },
+  "eportfolioTips": {
+    "message": "Maaf, ini adalah arsip pribadi, anda tidak memiliki akses untuk melihatnya~",
+    "description": "2.0 public.js"
+  },
+  "addFolder2": {
+    "message": "Folder baru",
+    "description": "2.0 public.js"
+  },
+  "inputFolderName": {
+    "message": "Silahkan masukkan nama folder",
+    "description": "2.0 public.js"
+  },
+  "addEportfolio": {
+    "message": "Buat arsip",
+    "description": "2.0 public.js"
+  },
+  "editEportfolio": {
+    "message": "Edit arsip",
+    "description": "2.0 public.js"
+  },
+  "inputEportfolioName": {
+    "message": "Masukkan nama arsip",
+    "description": "2.0 public.js"
+  },
+  "permission": {
+    "message": "Akses",
+    "description": "2.0 public.js"
+  },
+  "private": {
+    "message": "Pribadi",
+    "description": "2.0 public.js"
+  },
+  "notPrivate": {
+    "message": "Publik",
+    "description": "2.0 public.js"
+  },
+  "tag": {
+    "message": "Label",
+    "description": "2.0 public.js"
+  },
+  "add2": {
+    "message": "Tambah",
+    "description": "2.0 public.js"
+  },
+  "tagName": {
+    "message": "Nama label",
+    "description": "2.0 public.js"
+  },
+  "inputAddTagName": {
+    "message": "Klik untuk tambah label",
+    "description": "2.0 public.js"
+  },
+  "homePageTemplate": {
+    "message": "Templat beranda pribadi",
+    "description": "2.0 public.js"
+  },
+  "template1": {
+    "message": "Templat 1",
+    "description": "2.0 public.js"
+  },
+  "template2": {
+    "message": "Templat 2",
+    "description": "2.0 public.js"
+  },
+  "copyLinkTips": {
+    "message": "Salin tautan dan berbagi dengan orang lain",
+    "description": "2.0 public.js"
+  },
+  "copySuccess": {
+    "message": "Berhasil disalin",
+    "description": "2.0 public.js"
+  },
+  "copyLink": {
+    "message": "Salin tautan",
+    "description": "2.0 public.js"
+  },
+  "importHw": {
+    "message": "Impor tugas",
+    "description": "2.0 public.js"
+  },
+  "importHwTips": {
+    "message": "Di bawah ini adalah tugas terbaru yang pernah anda kumpul dalam, anda bisa memilih tugas yang ingin disimpan atau dibagi, lalu impor ke dalam arsip akademik. Tugas yang diimpor akan disimpan sebagai arsip teks gambar, termasuk lampiran tugas (hanya gambar dan dokumen), lalu impor ke daftar isi saat ini.",
+    "description": "2.0 public.js"
+  },
+  "allCourses": {
+    "message": "Semua mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "uploaded": {
+    "message": "Telah diunggah",
+    "description": "2.0 public.js"
+  },
+  "allEportfolio": {
+    "message": "Semua arsip",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips1": {
+    "message": "Yakin untuk hapus arsip ini?",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips2": {
+    "message": "Dengan menghapus folder, maka arsip-arsip yang ada di dalamnya juga akan terhapus. Yakin untuk hapus?",
+    "description": "2.0 public.js"
+  },
+  "searchByNameAndTag": {
+    "message": "Cari sesuai nama dan label",
+    "description": "2.0 public.js"
+  },
+  "noDesc": {
+    "message": "Belum ada pengantar",
+    "description": "2.0 public.js"
+  },
+  "previewEportfolio": {
+    "message": "Pratinjau arsip",
+    "description": "2.0 public.js"
+  },
+  "personalHomepage": {
+    "message": "Beranda pribadi",
+    "description": "2.0 public.js"
+  },
+  "accountManage": {
+    "message": "Pengelolaan akun",
+    "description": "2.0 public.js"
+  },
+  "afterImportPerssion": {
+    "message": "Akses arsip setelah impor:",
+    "description": "2.0 public.js"
+  },
+  "importHwTips2": {
+    "message": "Silahkan pilih tugas",
+    "description": "2.0 public.js"
+  },
+  "moveFolder": {
+    "message": "Pindahkan Folder",
+    "description": "2.0 public.js"
+  },
+  "deleteFolder": {
+    "message": "Hapus Folder",
+    "description": "2.0 public.js"
+  },
+  "editPhone": {
+    "message": "Ubah no. ponsel",
+    "description": "2.0 public.js"
+  },
+  "editMail": {
+    "message": "Ubah Email",
+    "description": "2.0 public.js"
+  },
+  "editPhone1": {
+    "message": "Ubah no. ponsel",
+    "description": "2.0 public.js"
+  },
+  "inpitMail": {
+    "message": "Silahkan masukkan Email",
+    "description": "2.0 public.js"
+  },
+  "getFail": {
+    "message": "Gagal mendapatkan",
+    "description": "2.0 public.js"
+  },
+  "paramError": {
+    "message": "Parameter salah",
+    "description": "2.0 public.js"
+  },
+  "mailTip": {
+    "message": "Format Email tidak benar",
+    "description": "2.0 public.js"
+  },
+  "phoneTip": {
+    "message": "Format no. ponsel tidak benar",
+    "description": "2.0 public.js"
+  },
+  "mailTip1": {
+    "message": "Email sudah diikat",
+    "description": "2.0 public.js"
+  },
+  "phoneTip1": {
+    "message": "No. ponsel sudah diikat",
+    "description": "2.0 public.js"
+  },
+  "mailTip2": {
+    "message": "No. ponsel telah digunakan",
+    "description": "2.0 public.js"
+  },
+  "phoneTip2": {
+    "message": "Email telah digunakan",
+    "description": "2.0 public.js"
+  },
+  "codeTip1": {
+    "message": "Terlalu sering mendapatkan no. verifikasi, silahkan tunggu 60 detik lalu coba kembali",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "Terlalu sering mendapatkan no. verifikasi",
+    "description": "2.0 public.js"
+  },
+  "codeTip3": {
+    "message": "No. verifikasi telah kadaluarsa",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin": {
+    "message": "Login lewat akun dan kata sandi",
+    "description": "2.0 public.js"
+  },
+  "account": {
+    "message": "Nama pengguna/No. ponsel/Email",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip": {
+    "message": "Login SMS hanya mendukung nomor ponsel di China Mainland",
+    "description": "2.0 public.js"
+  },
+  "goRegister": {
+    "message": "Registrasi",
+    "description": "2.0 public.js"
+  },
+  "phoneLogin": {
+    "message": "Login lewat SMS",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin1": {
+    "message": "Login lewat akun dan kata sandi",
+    "description": "2.0 public.js"
+  },
+  "accountTip": {
+    "message": "Silahkan masukkan nama pengguna/no. ponsel/Email",
+    "description": "2.0 public.js"
+  },
+  "userNotExit": {
+    "message": "Pengguna tidak ada",
+    "description": "2.0 public.js"
+  },
+  "loginFail": {
+    "message": "Login gagal",
+    "description": "2.0 public.js"
+  },
+  "getAgain": {
+    "message": "Dapatkan lagi",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip1": {
+    "message": "No. ponsel belum teregistrasi",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber1": {
+    "message": "No. ponsel",
+    "description": "2.0 public.js"
+  },
+  "mail": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "otherTypeLogin": {
+    "message": "Cara login lainnya",
+    "description": "2.0 public.js"
+  },
+  "success": {
+    "message": "Berhasil",
+    "description": "2.0 public.js"
+  },
+  "video": {
+    "message": "Video",
+    "description": "2.0 public.js"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "2.0 public.js"
+  },
+  "picture": {
+    "message": "Gambar",
+    "description": "2.0 public.js"
+  },
+  "document": {
+    "message": "Dokumen",
+    "description": "2.0 public.js"
+  },
+  "archive": {
+    "message": "Paket zip",
+    "description": "2.0 public.js"
+  },
+  "link": {
+    "message": "Tautan",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "Teks gambar",
+    "description": "2.0 public.js"
+  },
+  "microCourse": {
+    "message": "Kelas mikro",
+    "description": "2.0 public.js"
+  },
+  "otherResource": {
+    "message": "Lainnya",
+    "description": "2.0 public.js"
+  },
+  "allType": {
+    "message": "Semua jenis",
+    "description": "2.0 public.js"
+  },
+  "saved": {
+    "message": "Telah disimpan",
+    "description": "2.0 public.js"
+  },
+  "modifySuccess": {
+    "message": "Perbaikan berhasil",
+    "description": "2.0 course.js"
+  },
+  "jqueryValidatorRequired": {
+    "message": "Bagian ini harus diisi",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRemote": {
+    "message": "Silahkan revisi bagian ini",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEmail": {
+    "message": "Silahkan masukkan alamat Email yang valid",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorUrl": {
+    "message": "Silahkan masukkan URL yang valid",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDate": {
+    "message": "Silahkan masukkan tanggal yang valid",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDateISO": {
+    "message": "Silahkan masukkan tanggal yang valid (YYYY-MM-DD)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorNumber": {
+    "message": "Silahkan masukkan nomor yang valid.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDigits": {
+    "message": "Hanya bisa input angka",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorCreditcard": {
+    "message": "Silahkan masukkan no. kartu kredit yang valid",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEqualTo": {
+    "message": "Input anda tidak sama",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorExtension": {
+    "message": "Silahkan masukkan akhiran yang valid",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMaxlength": {
+    "message": "Bisa input maks. {0} karakter",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMinlength": {
+    "message": "Input min. {0} karakter",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRangelength": {
+    "message": "Silahkan input string antara {0} sampai {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRange": {
+    "message": "Silahkan masukkan nilai antara {0} sampai {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMax": {
+    "message": "Silahkan masukkan nilai kurang dari {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMin": {
+    "message": "Silahkan masukkan nilai lebih dari {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorLoginName": {
+    "message": "Nama pengguna tidak boleh terdiri dari spasi dan karakter khusus",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorPassWord": {
+    "message": "8-16 karakter, harus berupa huruf dan angka (huruf besar dan kecil dibedakan)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorStudentID": {
+    "message": "Silahkan masukkan huruf atau angka sebanyak 4-20 karakter, huruf besar dan kecil dibedakan",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRealName": {
+    "message": "Tidak boleh terdiri dari karakter ilegal dan spasi",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsMobile": {
+    "message": "Silahkan isi no. ponsel anda",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsZipCode": {
+    "message": "Silahkan isi kode pos anda",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsEmail": {
+    "message": "Silahkan isi Email anda",
+    "description": "2.0 public.js"
+  },
+  "identityVerification": {
+    "message": "Verifikasi identitas",
+    "description": "2.0 public.js"
+  },
+  "selectDomain": {
+    "message": "Nama domain institusional",
+    "description": "2.0 public.js"
+  },
+  "inputDomainTip": {
+    "message": "Silakan masukkan nama domain institusi Anda",
+    "description": "2.0 public.js"
+  },
+  "networkError": {
+    "message": "Ada kesalahan",
+    "description": "2.0 public.js"
+  },
+  "unopenedError": {
+    "message": "Maaf, agensi ini tidak mengaktifkan login SSO",
+    "description": "2.0 public.js"
+  },
+  "invalidDomainError": {
+    "message": "Domain tidak ditemukan, silakan masukkan kembali",
+    "description": "2.0 public.js"
+  },
+  "blankError": {
+    "message": "Nama domain kosong",
+    "description": "2.0 public.js"
+  },
+  "selectClassification": {
+    "message": "Pilih kategori",
+    "description": "2.0 public.js"
+  },
+  "secondClassification": {
+    "message": "Kategori level 2 (bisa pilih banyak)",
+    "description": "2.0 public.js"
+  },
+  "alphabeta": {
+    "message": "Mengurutkan menurut abjad",
+    "description": "2.0 public.js"
+  },
+  "revevance": {
+    "message": "Urutkan berdasarkan relevansi",
+    "description": "2.0 public.js"
+  },
+  "timeSort": {
+    "message": "Mengurutkan menurut waktu pembaruan",
+    "description": "2.0 public.js"
+  },
+  "application": {
+    "message": "Terbuka untuk aplikasi",
+    "description": "2.0 public.js"
+  },
+  "notApplication": {
+    "message": "Aplikasi tidak terbuka",
+    "description": "2.0 public.js"
+  },
+  "applicationTime": {
+    "message": "Waktu Aplikasi:",
+    "description": "2.0 public.js"
+  },
+  "enrolment": {
+    "message": "Pendaftaran:",
+    "description": "2.0 public.js"
+  },
+  "tuition": {
+    "message": "Kuliah",
+    "description": "2.0 public.js"
+  },
+  "credits": {
+    "message": "Kredit",
+    "description": "2.0 public.js"
+  },
+  "learningStyles": {
+    "message": "Gaya belajar",
+    "description": "2.0 public.js"
+  },
+  "studyTime": {
+    "message": "Durasi belajar",
+    "description": "2.0 public.js"
+  },
+  "certificate": {
+    "message": "Sertifikat",
+    "description": "2.0 public.js"
+  },
+  "contactUs": {
+    "message": "Hubungi kami",
+    "description": "2.0 public.js"
+  },
+  "noProgram": {
+    "message": "Tidak ada program yang ditemukan.\n",
+    "description": "2.0 public.js"
+  },
+  "enroll": {
+    "message": "Aplikasi",
+    "description": "2.0 public.js"
+  },
+  "majorName": {
+    "message": "Nama program\n",
+    "description": "2.0 public.js"
+  },
+  "majorName2": {
+    "message": "Program",
+    "description": "2.0 public.js"
+  },
+  "enrollEmail": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "enrollPhone": {
+    "message": "Nomor kontak",
+    "description": "2.0 public.js"
+  },
+  "enrollOther": {
+    "message": "Informasi Tambahan",
+    "description": "2.0 public.js"
+  },
+  "inputFullName": {
+    "message": "Masukkan nama lengkap Anda",
+    "description": "2.0 public.js"
+  },
+  "inputEmail": {
+    "message": "Masukkan alamat email Anda",
+    "description": "2.0 public.js"
+  },
+  "inputOther": {
+    "message": "Informasi tambahan tentang Anda (opsional)",
+    "description": "2.0 public.js"
+  },
+  "submitApply": {
+    "message": "Kirimkan aplikasi Anda",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg1": {
+    "message": "Silakan isi nama Anda",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg2": {
+    "message": "Nama tidak boleh melebihi 50 karakter",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg1": {
+    "message": "Silakan isi alamat email Anda",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg2": {
+    "message": "Alamat email tidak benar",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg3": {
+    "message": "Alamat email telah dikirimkan, dibatalkan, atau alamat email lain telah digunakan",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg4": {
+    "message": "Pesan tidak boleh lebih dari 254 karakter",
+    "description": "2.0 public.js"
+  },
+  "errorPhoneMsg": {
+    "message": "Nomor kontak salah",
+    "description": "2.0 public.js"
+  },
+  "errorOtherMsg": {
+    "message": "Maksimal 300 karakter",
+    "description": "2.0 public.js"
+  },
+  "selectMajor": {
+    "message": "Pilih Mayor",
+    "description": "2.0 public.js"
+  },
+  "securityCodeExpired": {
+    "message": "Kode keamanan dinamis telah kedaluwarsa",
+    "description": "2.0 public.js"
+  },
+  "securityCodeError": {
+    "message": "Kesalahan kode keamanan dinamis",
+    "description": "2.0 public.js"
+  },
+  "enterCourse": {
+    "message": "Masuk ke mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "Diterapkan, menunggu persetujuan",
+    "description": "2.0 public.js"
+  },
+  "newVersion": {
+    "message": "Sisi admin baru",
+    "description": "2.0 public.js"
+  },
+  "loginTip": {
+    "message": "Silakan masukkan nama pengguna atau kata sandi",
+    "description": "2.0 public.js"
+  },
+  "schoolBadge": {
+    "message": "Lambang universitas",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadge": {
+    "message": "Unggah lambang universitas",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip1": {
+    "message": "Format: png, bmp, jpg, gif; Ukuran: tidak lebih dari 2M; Ukuran yang disarankan: 120*120px",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip2": {
+    "message": "Hanya file yang dapat diunggah dalam PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip3": {
+    "message": "Dokumen yang diunggah harus lebih kecil dari 1MB",
+    "description": "2.0 public.js"
+  },
+  "uploadLogo": {
+    "message": "Unggah logo",
+    "description": "2.0 public.js"
+  },
+  "background": {
+    "message": "Gambar latar belakang",
+    "description": "2.0 public.js"
+  },
+  "setBackground": {
+    "message": "Mengatur latar belakang situs web (pilih hingga 5)",
+    "description": "2.0 public.js"
+  },
+  "customImage": {
+    "message": "Gambar kustom",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip1": {
+    "message": "Spesifikasi gambar: PNG, BMP, JPG, JPEG, GIF; Tingginya:<=5M；尺寸：不小于1920*1080px（当您上传的图片未达到建议尺寸时,我们将按照上传图片的原始大小在页面居中显示）。",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip2": {
+    "message": "Saat anda unggah banyak gambar, maka akan ditampilkan sesuai urutan unggahan",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip3": {
+    "message": "Hanya file yang dapat diunggah dalam PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip4": {
+    "message": "Dokumen yang diunggah harus lebih kecil dari 1MB",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip5": {
+    "message": "Tidak lebih dari 5",
+    "description": "2.0 public.js"
+  },
+  "editFriendLinks": {
+    "message": "Edit tautan",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder1": {
+    "message": "Silahkan masukkan nama tautan",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder2": {
+    "message": "Silahkan input sesuai format http://www.ulearning.cn",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip1": {
+    "message": "Penjelasan: Dapat tambah maks. 10 tautan, nama tautan maks. 20 kata, geser untuk urutkan ulang.",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip2": {
+    "message": "Tambah maks. 10 buah",
+    "description": "2.0 public.js"
+  },
+  "addFriendLinks": {
+    "message": "Tambah tautan",
+    "description": "2.0 public.js"
+  },
+  "resource1": {
+    "message": "Jenis",
+    "description": "2.0 public.js"
+  },
+  "resource2": {
+    "message": "Kategori",
+    "description": "2.0 public.js"
+  },
+  "resource3": {
+    "message": "Video",
+    "description": "2.0 public.js"
+  },
+  "resource4": {
+    "message": "Audio",
+    "description": "2.0 public.js"
+  },
+  "resource5": {
+    "message": "Gambar",
+    "description": "2.0 public.js"
+  },
+  "resource6": {
+    "message": "Dokumen",
+    "description": "2.0 public.js"
+  },
+  "resource7": {
+    "message": "Tautan",
+    "description": "2.0 public.js"
+  },
+  "searchResource": {
+    "message": "Cari sumber",
+    "description": "2.0 public.js"
+  },
+  "resourceDetail": {
+    "message": "Rincian sumber",
+    "description": "2.0 public.js"
+  },
+  "hotResource": {
+    "message": "Sumber terkini",
+    "description": "2.0 public.js"
+  },
+  "uploadTime": {
+    "message": "Waktu unggah",
+    "description": "2.0 public.js"
+  },
+  "viewCount": {
+    "message": "Jumlah dilihat",
+    "description": "2.0 public.js"
+  },
+  "downloadCount": {
+    "message": "Jumlah unduh",
+    "description": "2.0 public.js"
+  },
+  "name": {
+    "message": "Nama",
+    "description": "2.0 public.js"
+  },
+  "searchNoResource": {
+    "message": "Belum ada sumber yang dirilis",
+    "description": "2.0 public.js"
+  },
+  "uploadFile": {
+    "message": "Unggah dokumen",
+    "description": "2.0 public.js"
+  },
+  "addLink": {
+    "message": "Tambah tautan",
+    "description": "2.0 public.js"
+  },
+  "addRichtext": {
+    "message": "Tambah teks gambar",
+    "description": "2.0 public.js"
+  },
+  "passwordRegTips": {
+    "message": "8-16 karakter, berisi setidaknya 3 karakter (angka, huruf besar, huruf kecil atau simbol khusus)",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip3": {
+    "message": "Tidak boleh lebih dari 20 kata",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus1": {
+    "message": "Kursus telah berakhir",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus2": {
+    "message": "Kursus tidak dimulai",
+    "description": "2.0 public.js"
+  },
+  "joinNum": {
+    "message": "orang berpartisipasi",
+    "description": "2.0 public.js"
+  },
+  "courseinfo1": {
+    "message": "Universitas",
+    "description": "2.0 public.js"
+  },
+  "courseinfo2": {
+    "message": "Saran durasi belajar",
+    "description": "2.0 public.js"
+  },
+  "courseinfo3": {
+    "message": "Kategori mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "courseinfo4": {
+    "message": "Jurusan",
+    "description": "2.0 public.js"
+  },
+  "coursebtn1": {
+    "message": "Segera coba",
+    "description": "2.0 public.js"
+  },
+  "coursebtn2": {
+    "message": "Mulai belajar",
+    "description": "2.0 public.js"
+  },
+  "coursebtn3": {
+    "message": "Ikut bergabung dalam kelas",
+    "description": "2.0 public.js"
+  },
+  "coursebtn4": {
+    "message": "Segera beli",
+    "description": "2.0 public.js"
+  },
+  "coursebtn5": {
+    "message": "Coba",
+    "description": "2.0 public.js"
+  },
+  "coursetime": {
+    "message": "jam mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "courseTitle1": {
+    "message": "Daftar isi bab",
+    "description": "2.0 public.js"
+  },
+  "courseTitle2": {
+    "message": "Perkenalan mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "courseTitle3": {
+    "message": "Garis besar mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "courseTitle4": {
+    "message": "Tim pelajaran",
+    "description": "2.0 public.js"
+  },
+  "courseTitle5": {
+    "message": "Bahan pengajaran rekomendasi",
+    "description": "2.0 public.js"
+  },
+  "courseTitle6": {
+    "message": "Rekomendasi mata kuliah",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook1": {
+    "message": "Harga",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook2": {
+    "message": "Penulis",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook3": {
+    "message": "Penerjemah",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook4": {
+    "message": "Domestik",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook5": {
+    "message": "luar negeri",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook6": {
+    "message": "Penerbit",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook7": {
+    "message": "Ringkasan penulis",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook8": {
+    "message": "Ringkasan penerjemah",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook9": {
+    "message": "Karakteristik bahan pengajaran",
+    "description": "2.0 public.js"
+  },
+  "send": {
+    "message": "Kirim",
+    "description": "2.0 public.js"
+  },
+  "login1": {
+    "message": "Judul",
+    "description": "2.0 public.js"
+  },
+  "login2": {
+    "message": "Tata letak halaman",
+    "description": "2.0 public.js"
+  },
+  "login3": {
+    "message": "Gambar background ",
+    "description": "2.0 public.js"
+  },
+  "login4": {
+    "message": "Pengaturan penyimpanan",
+    "description": "2.0 public.js"
+  },
+  "login5": {
+    "message": "Email Anda",
+    "description": "2.0 public.js"
+  },
+  "login6": {
+    "message": "Masukkan alamat email Anda",
+    "description": "2.0 public.js"
+  },
+  "login7": {
+    "message": "Ingat saya",
+    "description": "2.0 public.js"
+  },
+  "login8": {
+    "message": "Memverifikasi pesan",
+    "description": "2.0 public.js"
+  },
+  "login9": {
+    "message": "Kami telah mengirimkan email konfirmasi ke {email}, silakan masukkan kode verifikasi di bawah ini untuk memverifikasi email Anda.",
+    "description": "2.0 public.js"
+  },
+  "login10": {
+    "message": "Email konfirmasi telah dikirim, silakan masukkan kode verifikasi di bawah ini untuk memverifikasi email Anda.",
+    "description": "2.0 public.js"
+  },
+  "login11": {
+    "message": "Email tidak diterima?",
+    "description": "2.0 public.js"
+  },
+  "login12": {
+    "message": "Akun dinonaktifkan",
+    "description": "2.0 public.js"
+  },
+  "login13": {
+    "message": "Akun Anda telah dinonaktifkan dan Anda tidak akan dapat masuk ke sistem. Hubungi administrator organisasi Anda untuk mengaktifkan kembali akun Anda.",
+    "description": "2.0 public.js"
+  },
+  "login14": {
+    "message": "Silakan masukkan alamat email Anda",
+    "description": "2.0 public.js"
+  },
+  "login15": {
+    "message": "Format email salah, masukkan alamat email yang benar",
+    "description": "2.0 public.js"
+  },
+  "login16": {
+    "message": "Silakan masukkan kata sandi Anda",
+    "description": "2.0 public.js"
+  },
+  "login17": {
+    "message": "Kata sandi terdiri dari 8-20 karakter dan harus berisi huruf dan angka",
+    "description": "2.0 public.js"
+  },
+  "login18": {
+    "message": "Informasi yang masuk tidak lengkap",
+    "description": "2.0 public.js"
+  },
+  "login19": {
+    "message": "Akun tidak ada",
+    "description": "2.0 public.js"
+  },
+  "login20": {
+    "message": "Akun sedang menunggu aktivasi",
+    "description": "2.0 public.js"
+  },
+  "login21": {
+    "message": "Akun dinonaktifkan",
+    "description": "2.0 public.js"
+  },
+  "login22": {
+    "message": "Jumlah kesalahan mencapai lima",
+    "description": "2.0 public.js"
+  },
+  "login23": {
+    "message": "Akun telah dihapus",
+    "description": "2.0 public.js"
+  },
+  "login24": {
+    "message": "Sandi salah.",
+    "description": "2.0 public.js"
+  },
+  "login25": {
+    "message": "Mengirim pesan terlalu sering",
+    "description": "2.0 public.js"
+  },
+  "login26": {
+    "message": "Gagal mengirim pesan",
+    "description": "2.0 public.js"
+  },
+  "login27": {
+    "message": "Informasi tidak valid",
+    "description": "2.0 public.js"
+  },
+  "firstLogin1": {
+    "message": "Apa kabar",
+    "description": "2.0 public.js"
+  },
+  "firstLogin2": {
+    "message": "Persetujuan Pengguna",
+    "description": "2.0 public.js"
+  },
+  "firstLogin3": {
+    "message": "Lengkapi informasi pribadi Anda",
+    "description": "2.0 public.js"
+  },
+  "firstLogin4": {
+    "message": "Preferensi",
+    "description": "2.0 public.js"
+  },
+  "firstLogin5": {
+    "message": "Selesai!",
+    "description": "2.0 public.js"
+  },
+  "firstLogin6": {
+    "message": "Harap baca perjanjian dan kebijakan privasi berikut, dan tanda tangani persetujuan pengguna untuk menggunakan",
+    "description": "2.0 public.js"
+  },
+  "firstLogin7": {
+    "message": "Penggunaan Protokol",
+    "description": "2.0 public.js"
+  },
+  "firstLogin8": {
+    "message": "Perjanjian Pengguna ini mengatur bagaimana pengguna menggunakan situs web ini. Jika Anda ingin melihat Perjanjian Pengguna lengkap, lihat Perjanjian Pengguna Lengkap.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin9": {
+    "message": "Saya setuju",
+    "description": "2.0 public.js"
+  },
+  "firstLogin10": {
+    "message": "Perjanjian Pengguna",
+    "description": "2.0 public.js"
+  },
+  "firstLogin11": {
+    "message": "Kebijakan Privasi",
+    "description": "2.0 public.js"
+  },
+  "firstLogin12": {
+    "message": "Pernyataan privasi ini berkaitan dengan akun pengguna yang dibuat di situs web ini. Jika Anda ingin melihat teks lengkapnya, silakan lihat pernyataan privasi lengkap.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin13": {
+    "message": "Kebijakan Cookie",
+    "description": "2.0 public.js"
+  },
+  "firstLogin14": {
+    "message": "Kebijakan Cookie kami menjelaskan apa itu cookie, bagaimana kami menggunakan cookie, bagaimana pihak ketiga yang bekerja sama dengan kami dapat menggunakan cookie di situs web ini dan pilihan Anda mengenai cookie. Jika Anda ingin melihat teks lengkap, silakan lihat Kebijakan Cookie lengkap.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin15": {
+    "message": "Nama lengkap Anda",
+    "description": "2.0 public.js"
+  },
+  "firstLogin16": {
+    "message": "Nama tampilan",
+    "description": "2.0 public.js"
+  },
+  "firstLogin17": {
+    "message": "Ubah kata sandi",
+    "description": "2.0 public.js"
+  },
+  "firstLogin18": {
+    "message": "Bahasa",
+    "description": "2.0 public.js"
+  },
+  "firstLogin19": {
+    "message": "Selamat datang di Ulearning dan berharap yang terbaik dalam perjalanan belajar Anda",
+    "description": "2.0 public.js"
+  },
+  "firstLogin20": {
+    "message": "Selesaikan penyiapan",
+    "description": "2.0 public.js"
+  },
+  "firstLogin21": {
+    "message": "Kata sandi 8-20 digit, termasuk angka dan huruf",
+    "description": "2.0 public.js"
+  },
+  "firstLogin22": {
+    "message": "Silakan isi nama lengkap Anda",
+    "description": "2.0 public.js"
+  },
+  "firstLogin23": {
+    "message": "Nama lengkap tidak boleh lebih dari 128 karakter",
+    "description": "2.0 public.js"
+  },
+  "firstLogin24": {
+    "message": "Silakan isi nama tampilan",
+    "description": "2.0 public.js"
+  },
+  "firstLogin25": {
+    "message": "Nama tampilan tidak boleh lebih dari 64 karakter",
+    "description": "2.0 public.js"
+  },
+  "firstLogin26": {
+    "message": "Format kata sandi salah, silakan masukkan kembali",
+    "description": "2.0 public.js"
+  },
+  "firstLogin27": {
+    "message": "Kata sandi tidak cocok, silakan masukkan kembali",
+    "description": "2.0 public.js"
+  },
+  "firstLogin28": {
+    "message": "Kata sandi asli tidak dapat digunakan",
+    "description": "2.0 public.js"
+  },
+  "cookieSettings": {
+    "message": "Pengaturan Cookie",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle1": {
+    "message": "Preferensi cookie",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip1": {
+    "message": "Ada tiga jenis cookie yang digunakan di situs web kami: wajib, fungsional, dan pihak ketiga. Anda dapat memilih apakah akan menerapkan fungsionalitas dan mengaktifkan cookie pihak ketiga. Klik pada kategori cookie yang berbeda untuk mempelajari lebih lanjut tentang setiap kategori dan mengubah pengaturan default.",
+    "description": "2.0 public.js"
+  },
+  "cookiesAll": {
+    "message": "Selalu aktif",
+    "description": "2.0 public.js"
+  },
+  "cookiesMore": {
+    "message": "Informasi teknis",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle2": {
+    "message": "Cookie yang Diperlukan",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip2": {
+    "message": "Cookie yang diperlukan diperlukan untuk fungsionalitas situs web dasar. Beberapa contoh termasuk: cookie sesi, cookie otentikasi, dan cookie keamanan yang diperlukan untuk mengirimkan situs web.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle3": {
+    "message": "Cookie Fungsional",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip3": {
+    "message": "Cookie fungsional meningkatkan fungsionalitas, kinerja, dan layanan di situs web. Beberapa contoh termasuk: cookie yang digunakan untuk menganalisis lalu lintas situs web, cookie yang digunakan untuk riset pengguna, dan cookie yang digunakan untuk menampilkan iklan yang tidak ditargetkan untuk individu tertentu.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle4": {
+    "message": "Cookie pihak ketiga",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip4": {
+    "message": "Selain cookie kami sendiri, kami dapat menggunakan berbagai cookie pihak ketiga untuk melaporkan statistik penggunaan situs web dan mengoptimalkan upaya pemasaran.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle5": {
+    "message": "Cookie pelacakan: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip5": {
+    "message": "Lacak perilaku situs web dan tautkan dengan metrik lain untuk lebih memahami kebiasaan penggunaan.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle6": {
+    "message": "Optimalkan cookie: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip6": {
+    "message": "Memungkinkan pelacakan konversi pengguna secara real-time dari berbagai saluran pemasaran untuk mengevaluasi efektivitasnya.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle7": {
+    "message": "Cookie mitra: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip7": {
+    "message": "Berikan metrik konversi pemasaran kepada mitra kami sehingga mereka dapat mengoptimalkan upaya pemasaran berbayar mereka.",
+    "description": "2.0 public.js"
+  },
+  "policies": {
+    "message": "sepakat",
+    "description": "2.0 public.js"
+  },
+  "usePolicy": {
+    "message": "Perjanjian Penggunaan Pengguna",
+    "description": "2.0 public.js"
+  },
+  "privacyPolicy": {
+    "message": "Perjanjian Privasi",
+    "description": "2.0 public.js"
+  },
+  "cookiesPolicy": {
+    "message": "Kebijakan Cookie",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting1": {
+    "message": "Kami menggunakan cookie untuk mengingat detail login Anda, memberikan pengalaman login yang aman, dan mengumpulkan statistik untuk mengoptimalkan fungsionalitas situs web.",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting2": {
+    "message": "Anda dapat menemukan deskripsi terperinci tentang jenis cookie yang kami gunakan di Kebijakan Cookie kami. Klik \"Setuju\" untuk menerima semua cookie atau \"Tolak\" untuk mengizinkan hanya cookie yang diperlukan. Klik Pengaturan Cookie untuk mengonfigurasi cookie secara detail.",
+    "description": "2.0 public.js"
+  },
+  "refuse": {
+    "message": "Tolak",
+    "description": "2.0 public.js"
+  },
+  "agree": {
+    "message": "Setuju",
+    "description": "2.0 public.js"
+  },
+  "userPolicy": {
+    "message": "Perjanjian Pengguna",
+    "description": "2.0 public.js"
+  },
+  "switchRole": {
+    "message": "Beralih peran",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "Pilih peran",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "Pilih peran yang ingin Anda gunakan",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "OK",
+    "description": "2.0 public.js"
+  },
+  "register01": {
+    "message": "Undangan untuk mendaftar",
+    "description": "2.0 public.js"
+  },
+  "register02": {
+    "message": "Sudah punya akun?",
+    "description": "2.0 public.js"
+  },
+  "register03": {
+    "message": "Login",
+    "description": "2.0 public.js"
+  },
+  "register04": {
+    "message": "Dengan mencentang kotak ini, Anda setuju",
+    "description": "2.0 public.js"
+  },
+  "register05": {
+    "message": "dan",
+    "description": "2.0 public.js"
+  },
+  "register06": {
+    "message": "Undangan telah kedaluwarsa",
+    "description": "2.0 public.js"
+  },
+  "register07": {
+    "message": "Undangan email telah kedaluwarsa. Jika Anda belum menyelesaikan pendaftaran, hubungi administrator untuk mengirim ulang undangan.",
+    "description": "2.0 public.js"
+  },
+  "register08": {
+    "message": "Pendaftaran selesai",
+    "description": "2.0 public.js"
+  },
+  "register09": {
+    "message": "Undangan selesai dan Anda dapat masuk dengan email dan kata sandi Anda.",
+    "description": "2.0 public.js"
+  },
+  "register10": {
+    "message": "No. verifikasi tidak valid",
+    "description": "2.0 public.js"
+  },
+  "register11": {
+    "message": "Captcha telah digunakan",
+    "description": "2.0 public.js"
+  },
+  "register12": {
+    "message": "Kotak pesan tidak ada",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "Kami telah mengirimkan email undangan pendaftaran ke {registeremail}.",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "Informasi situs sekunder salah",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "Tidak ada akun yang sesuai dengan alamat email",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "Akun login bukan akun situs atau sub-institusi",
+    "description": "2.0 public.js"
+  },
+  "register13": {
+    "message": "Kode verifikasi telah dikirim, silakan periksa email Anda",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "Sistem telah mendeteksi bahwa akun ini telah menyontek dan perilaku tidak pantas lainnya dalam pembelajaran kursus {textbooks}, dan sistem telah secara otomatis membekukan akun ini, silakan hubungi guru kelas atau platform untuk penanganan",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "Kode verifikasi salah, masukkan kode verifikasi yang benar",
+    "description": "2.0 public.js"
+  },
+  "sso": {
+    "message": "Akun belum dibuka",
+    "description": "2.0 public.js"
+  },
+  "sso1": {
+    "message": "Jika layanan belum diaktifkan untuk akun ini, silakan hubungi administrator Anda untuk mengaktifkan layanan dan masuk melalui SSO.",
+    "description": "2.0 public.js"
+  },
+  "sso2": {
+    "message": "Akun sudah terdaftar di institusi lain",
+    "description": "2.0 public.js"
+  },
+  "sso3": {
+    "message": "Akun sudah terdaftar di organisasi lain, silakan masuk ke institusi yang terdaftar. Jika Anda perlu masuk di institusi ini, hubungi administrator Anda untuk mendaftarkan peran di institusi ini.",
+    "description": "2.0 public.js"
+  },
+  "sso4": {
+    "message": "Login SSO",
+    "description": "2.0 public.js"
+  },
+  "sso5": {
+    "message": "atau",
+    "description": "2.0 public.js"
+  },
+  "firstLogin29": {
+    "message": "Nama lengkap akan digunakan untuk transkrip dan laporan resmi",
+    "description": "2.0 public.js"
+  },
+  "firstLogin30": {
+    "message": "Nama yang Anda tampilkan di sistem",
+    "description": "2.0 public.js"
+  },
+  "centralCertificationSystem": {
+    "message": "Login autentikasi terpadu",
+    "description": "2.0 public.js"
+  },
+  "confirmUnbind": {
+    "message": "Apakah Anda yakin untuk melepaskan ikatan?",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": "Pengingat",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "Mengikat Welink",
+    "description": "2.0 public.js"
+  },
+  "userNameReadOnlyTips": {
+    "message": "Sekolah melarang siswa mengubah nama mereka, jadi silakan hubungi administrator sekolah atau layanan pelanggan Anda",
+    "description": "2.0 public.js"
+  },
+  "moreOperation": {
+    "message": "Tindakan",
+    "description": "2.0 public.js"
+  }
+}

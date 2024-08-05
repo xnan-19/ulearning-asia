@@ -1,0 +1,3870 @@
+{
+  "manageCenter": {
+    "message": "Centre d’administration",
+    "description": "2.0 admin.js"
+  },
+  "teachingManagement": {
+    "message": "Administration de l’enseignement",
+    "description": "2.0 admin.js"
+  },
+  "dataAnalysis": {
+    "message": "Analyse des données",
+    "description": "2.0 admin.js"
+  },
+  "subsystemText": {
+    "message": "Sous-système",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamicText": {
+    "message": "Données d’écran",
+    "description": "2.0 admin.js"
+  },
+  "dataCenterText": {
+    "message": "Données et rapports",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdminText": {
+    "message": "Gestion des déclarations de cours",
+    "description": "2.0 admin.js"
+  },
+  "liveManagement": {
+    "message": "Classe virtuelle",
+    "description": "2.0 admin.js"
+  },
+  "systemAdminText": {
+    "message": "Paramètres système",
+    "description": "2.0 admin.js"
+  },
+  "close": {
+    "message": "Fermer",
+    "description": "2.0 admin.js"
+  },
+  "totalOfItems": {
+    "message": "Total: {n} ",
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/notDeclared 同上 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/pending 同上 \n 管理员账号 -> 系统管理 -> 管理员设置 https://courseweb.tongshike.cn/admin/#/main/system/administrator \n https://courseweb.tongshike.cn/admin/#/check \n 管理员账号 -> 课程管理 -> 本校自建MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/local \n 管理员账号 -> 课程管理 -> 外部引用MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/foreign \n 管理员账号 -> 课程管理 -> 本校课程 https://courseweb.tongshike.cn/admin/#/main/teaching/course/school \n 管理员账号 -> 课程管理 -> 本校自建MOOC -> 选课名单 \n 管理员账号 -> 考试管理 https://courseweb.tongshike.cn/admin/#/main/teaching/exam \n 管理员账号 -> 教师管理 https://courseweb.tongshike.cn/admin/#/main/teaching/teacher \n 管理员账号 -> 学生管理 https://courseweb.tongshike.cn/admin/#/main/teaching/student \n 管理员账号 -> 自然班级 https://courseweb.tongshike.cn/admin/#/main/teaching/naturalClass \n 管理员账号 -> 通知公告 https://courseweb.tongshike.cn/admin/#/main/teaching/notice"
+  },
+  "totalOfVideo": {
+    "message": "Total {n} vidéos",
+    "description": "https://courseweb.tongshike.cn/admin/#/main/dataCenter/interactionTextbook \n https://courseweb.tongshike.cn/admin/#/main/uaDataAnalysis"
+  },
+  "numberOf": {
+    "message": "{n} ",
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了"
+  },
+  "search": {
+    "message": "Rechercher",
+    "description": "2.0 admin.js"
+  },
+  "clickUnfold": {
+    "message": "Déroulez",
+    "description": "2.0 admin.js"
+  },
+  "clickFold": {
+    "message": "Réduire",
+    "description": "2.0 admin.js"
+  },
+  "ranking": {
+    "message": "Classement",
+    "description": "2.0 admin.js"
+  },
+  "fullName": {
+    "message": "Nom complet",
+    "description": "2.0 admin.js"
+  },
+  "userName": {
+    "message": "Nom d’utilisateur",
+    "description": "2.0 admin.js"
+  },
+  "college": {
+    "message": "Collège",
+    "description": "2.0 admin.js"
+  },
+  "organization": {
+    "message": "Institut",
+    "description": "2.0 admin.js"
+  },
+  "teacher": {
+    "message": "Enseignant",
+    "description": "2.0 admin.js"
+  },
+  "student": {
+    "message": "Étudiant",
+    "description": "2.0 admin.js"
+  },
+  "orderNumber": {
+    "message": "N° de série",
+    "description": "2.0 admin.js"
+  },
+  "operation": {
+    "message": "Actions",
+    "description": "2.0 admin.js"
+  },
+  "confirm": {
+    "message": "Confirmer",
+    "description": "2.0 admin.js"
+  },
+  "confirm2": {
+    "message": "Confirmer",
+    "description": "2.0 admin.js"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "2.0 admin.js"
+  },
+  "modify": {
+    "message": "Modifier",
+    "description": "2.0 admin.js"
+  },
+  "delete": {
+    "message": "Supprimer",
+    "description": "2.0 admin.js"
+  },
+  "add": {
+    "message": "Ajouter",
+    "description": "2.0 admin.js"
+  },
+  "login": {
+    "message": "Connexion",
+    "description": "2.0 admin.js"
+  },
+  "openedStudentNum": {
+    "message": "Nombre total d’inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "videoAllDuration": {
+    "message": "Longueur totale de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "averageWatchVideoDuration": {
+    "message": "Avg. Temps de visionnage de la vidéo par les étudiants",
+    "description": "2.0 admin.js"
+  },
+  "exerciseCompletionRate": {
+    "message": "Taux d’achèvement de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "exerciseAverageAccuracyRate": {
+    "message": "Taux de précision de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "exerciseTotalNum": {
+    "message": "Nombre total d’exercices",
+    "description": "2.0 admin.js"
+  },
+  "totalAnswerTimes": {
+    "message": "Nombre total de tentatives d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "interExerAverCompletionRate": {
+    "message": "Taux d’achèvement de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "interExerAccuracyRate": {
+    "message": "Taux de précision de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "exerciseStatisticAnalysis": {
+    "message": "Détails des données d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "videoStatisticAnalysis": {
+    "message": "Détails des données vidéo",
+    "description": "2.0 admin.js"
+  },
+  "chapterName": {
+    "message": "Nom du module",
+    "description": "2.0 admin.js"
+  },
+  "exerciseNum": {
+    "message": "Nombre d’exercices",
+    "description": "2.0 admin.js"
+  },
+  "exerciseTotalTimes": {
+    "message": "Nombre total de tentatives d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "averageAnswerTime": {
+    "message": "Avg. Temps d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "videoName": {
+    "message": "Nom de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "videoDuration": {
+    "message": "Longueur de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "averageWatchDuration": {
+    "message": "Temps moyenne de visionnage de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "watchVideoAverCompletionRate": {
+    "message": "Avg. Taux d’achèvement de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "nearly15days": {
+    "message": "15 derniers jours",
+    "description": "2.0 admin.js"
+  },
+  "nearly30days": {
+    "message": "30 derniers jours",
+    "description": "2.0 admin.js"
+  },
+  "lastMonth": {
+    "message": "Mois dernier",
+    "description": "2.0 admin.js"
+  },
+  "mobileTerminal": {
+    "message": "Application mobile",
+    "description": "2.0 admin.js"
+  },
+  "computerTerminal": {
+    "message": "Version PC",
+    "description": "2.0 admin.js"
+  },
+  "teacherNum": {
+    "message": "Enseignants",
+    "description": "2.0 admin.js"
+  },
+  "studentNum": {
+    "message": "Étudiants",
+    "description": "2.0 admin.js"
+  },
+  "publishTime": {
+    "message": "Heure de publication",
+    "description": "2.0 admin.js"
+  },
+  "course": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "view": {
+    "message": "Aperçu",
+    "description": "2.0 admin.js"
+  },
+  "all": {
+    "message": "Tout",
+    "description": "2.0 admin.js"
+  },
+  "allTeacher": {
+    "message": "Tous les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "allStudent": {
+    "message": "Tous les étudiants",
+    "description": "2.0 admin.js"
+  },
+  "role": {
+    "message": "Rôles",
+    "description": "2.0 admin.js"
+  },
+  "responsibleCollege": {
+    "message": "Collège en charge",
+    "description": "2.0 admin.js"
+  },
+  "checkAll": {
+    "message": "Sélectionner tout",
+    "description": "2.0 admin.js"
+  },
+  "addRole": {
+    "message": "Ajouter un rôle",
+    "description": "2.0 admin.js"
+  },
+  "editRole": {
+    "message": "Modifier le rôle",
+    "description": "2.0 admin.js"
+  },
+  "module": {
+    "message": "Modules",
+    "description": "2.0 admin.js"
+  },
+  "permission": {
+    "message": "Privilèges",
+    "description": "2.0 admin.js"
+  },
+  "rolePermissionSetting": {
+    "message": "Paramètres de privilèges",
+    "description": "2.0 admin.js"
+  },
+  "changePermissionTips": {
+    "message": "Après avoir modifié les privilèges de rôle, cliquez sur Enregistrer les modifications pour prendre effet.",
+    "description": "2.0 admin.js"
+  },
+  "inputRoleName": {
+    "message": "Entrez le nom du rôle",
+    "description": "2.0 admin.js"
+  },
+  "systemAdministrator": {
+    "message": "Administrateur système",
+    "description": "2.0 admin.js"
+  },
+  "deleteRoleTips": {
+    "message": "Voulez-vous vraiment supprimer le rôle ? La suppression du rôle ne supprime pas le compte d’utilisateur. Vous pouvez attribuer un autre rôle à l’utilisateur.",
+    "description": "2.0 admin.js"
+  },
+  "onlySystemTips": {
+    "message": "Pour les administrateurs système uniquement",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips1": {
+    "message": "Gestion des cours: Gestion des cours scolaires (fusionner les cours / cours de transfert, cours ouvert, afficher l’analyse des cours)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips2": {
+    "message": "Gestion des cours: Gestion interne des MOOC (Révision de publication, Catégorie d’édition, Paramètres d’affichage Web)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips3": {
+    "message": "Gestion des cours: Gestion externe des MOOC",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips4": {
+    "message": "Gestion des enseignants (Ajouter/Modifier/Supprimer un enseignant, Agir en tant qu’enseignant)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips5": {
+    "message": "Gestion des étudiants (Ajouter/Modifier/Supprimer un étudiant, Agir en tant qu’étudiant)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips6": {
+    "message": "Gestion administrative des classes (Ajouter/Modifier/Supprimer une classe)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips7": {
+    "message": "Annonces (Publier/Modifier/Supprimer l’annonce)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips8": {
+    "message": "Paramètres de privilège de rôle (Ajouter/Modifier/Supprimer un rôle, Définir des privilèges de rôle)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips9": {
+    "message": "Paramètres d’administration (Ajouter/Modifier/Supprimer un administrateur, Attribuer un rôle)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips10": {
+    "message": "Afficher et gérer le sous-système",
+    "description": "2.0 admin.js"
+  },
+  "addAdminTips1": {
+    "message": "Sélectionner un rôle",
+    "description": "2.0 admin.js"
+  },
+  "addAdminTips2": {
+    "message": "Sélectionnez au moins un collège",
+    "description": "2.0 admin.js"
+  },
+  "saveSuccess": {
+    "message": "Sauvegarder avec succès!",
+    "description": "2.0 admin.js"
+  },
+  "saveFailed": {
+    "message": "Échec de l’enregistrement",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.mobileEvaluation": {
+    "message": "Évaluation de l’enseignement mobile",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.wordSpelling": {
+    "message": "Orthographe des mots anglais",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.oralTest": {
+    "message": "Test d’anglais parlé",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.excellentCourses": {
+    "message": "Site portail de cours sélectionné",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.DigitalMarx": {
+    "message": "Collège Marx numérique",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.mobileTest": {
+    "message": "Examen mobile",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.live": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.competitionActivities": {
+    "message": "Activités de compétition",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.practiceTeaching": {
+    "message": "Enseignement pratique",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.semesterActiveUsers": {
+    "message": "Utilisateurs actifs au cours de ce semestre",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.weekLoginUsers": {
+    "message": "Connectez-vous aux utilisateurs cette semaine",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.todayLoginUsers": {
+    "message": "Connectez-vous aux utilisateurs dès aujourd'",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.thisSemester": {
+    "message": "Semestre en cours",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activityRanking": {
+    "message": "Top 10 des plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.thisWeek": {
+    "message": "Cette semaine",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeOrganizationTop": {
+    "message": "Top 10 des instituts les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeTeacherTop": {
+    "message": "Top 10 des enseignants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeCourseClassTop": {
+    "message": "Top 10 des cours les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceTotalNum": {
+    "message": "Appels: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteTotalNum": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerTotalNum": {
+    "message": "Rivalisez pour répondre: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceAnalysis": {
+    "message": "Analyse des appels en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteAnalysis": {
+    "message": "Analyse des sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerAnalysis": {
+    "message": "Analyse rivaliser pour répondre",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsTeacherNum": {
+    "message": "Les enseignants ont participé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsTeacherRate": {
+    "message": "% d’enseignants ayant participé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsstudentNum": {
+    "message": "Les étudiants ont participé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsstudentRate": {
+    "message": "% d’étudiants ayant participé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendancePublishRankingTop": {
+    "message": "Top 10 des appels monaux",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.votePublishRankingTop": {
+    "message": "Top 10 des sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerPublishRankingTop": {
+    "message": "Top 10 rivaliser pour obtenir des réponses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishNum": {
+    "message": "N° de publication",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPeopleNum": {
+    "message": "N° de personne publiée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceNum": {
+    "message": "Appels: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteNum": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerNum": {
+    "message": "Rivalisez pour répondre: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTotalNum": {
+    "message": "Nombre total d’enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTotalNum": {
+    "message": "Nombre total d’étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseTotalNum": {
+    "message": "Nombre total de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareTotalNum": {
+    "message": "Nombre total de didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.classTotalNum": {
+    "message": "Nombre total de classes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.platformActivityAnalysis": {
+    "message": "Analyse active de la plateforme",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachContentAnalysis": {
+    "message": "Analyse du contenu du cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachActivitiesAnalysis": {
+    "message": "Analyse de l’activité du cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.classroomInteractionAnalysis": {
+    "message": "Analyse des interactions en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareStudyAnalysis": {
+    "message": "Analyse de l’apprentissage des didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "Connectez-vous avec un compte administrateur",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.selectCourseware": {
+    "message": "Sélectionnez Didacticiel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.currentOverallLearningProgress": {
+    "message": "Progrès d’apprentissage globaux actuels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chapterDetailedStatistics": {
+    "message": "Détails des statistiques du module",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.progress": {
+    "message": "Progrès",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoStudyTime": {
+    "message": "Temps d’apprentissage vidéo",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAccuracyRate": {
+    "message": "Taux de précision de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAverAnswerTime": {
+    "message": "Temps de réponse moyen par question d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAverCompletionRate": {
+    "message": "Taux moyen d’achèvement des exercices",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewarevideoDuration": {
+    "message": "Durée totale de la vidéo du didacticiel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoNum": {
+    "message": "Nombre de vidéos",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoAverageDuration": {
+    "message": "Longueur moyenne de la vidéo",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.longestVideoDuration": {
+    "message": "Durée vidéo la plus longue",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.shortestVideoDuration": {
+    "message": "Durée de vidéo la plus courte",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalLoginTimes": {
+    "message": "Nombre total de connexions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginNumTips": {
+    "message": "Nombre total de connexions depuis 2018-6-8",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherLoginTrend": {
+    "message": "Tendances de connexion des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalTeacherNum": {
+    "message": "Nombre total d’enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalTeacherTimes": {
+    "message": "Nombre total de connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "Tendances de connexion des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalStudentNum": {
+    "message": "Nombre total d’étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalStudentTimes": {
+    "message": "Nombre total de connexions d’étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayLogin": {
+    "message": "Connexions aujourd’hui",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.refreshTip": {
+    "message": "Les données sont mises à jour toutes les 5 minutes de 0 à 24 heures.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityRankingTop": {
+    "message": "TOP 30 des cours les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherActivityRankingTop": {
+    "message": "TOP 30 des enseignants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentActivityRankingTop": {
+    "message": "TOP 30 des étudiants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.comeInCourseAsViewed": {
+    "message": "L’ouverture de la page de cours est comptée comme une vue de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseName": {
+    "message": "Nom du cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chargeTeacher": {
+    "message": "Enseignant responsable",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentViewTimes": {
+    "message": "Points de vue des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chargeCourse": {
+    "message": "Responsable du cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginTimes": {
+    "message": "Connexions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginPeople": {
+    "message": "Nombre total de connexions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "Connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "Connexions des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementNum": {
+    "message": "Total des annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "Nombre total d’affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTopic": {
+    "message": "Total Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exam": {
+    "message": "Examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementPublishAnalysis": {
+    "message": "Analyse des annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTotalNum": {
+    "message": "Total des annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.deleteAnnouncementTotalNum": {
+    "message": "Nombre total d’annonces supprimées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTeacherNum": {
+    "message": "Nombre d’enseignants qui ont publié des annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTeacherRate": {
+    "message": "% d’enseignants ayant publié des annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementPublishRankingTop": {
+    "message": "Top 10 des enseignants publiant l’annonce",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.currentAnnouncementNum": {
+    "message": "Nombre d’annonces actuelles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkPublishAnalysis": {
+    "message": "Analyse des affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTotalNum": {
+    "message": "Nombre total de missions publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeacherNum": {
+    "message": "Nombre d’enseignants qui ont publié des devoirs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeacherRate": {
+    "message": "% d’enseignants ayant publié des devoirs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageTestNum": {
+    "message": "Nombre moyen de questions du quiz",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkType": {
+    "message": "Type d’affectation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.personalHomework": {
+    "message": "Affectations individuelles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.groupHomework": {
+    "message": "Affectations de groupe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTest": {
+    "message": "Quiz",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkRankingTop": {
+    "message": "Top 10 des enseignants qui publient des devoirs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTopicAnalysis": {
+    "message": "Analyse des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTotalNum": {
+    "message": "Total Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussTeacherNum": {
+    "message": "Nombre d’enseignants participants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherParticipantionRate": {
+    "message": "% d’enseignants participants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherRaplyDiscussNum": {
+    "message": "Nombre de réponses de l’enseignant",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussStudentNum": {
+    "message": "Nombre d’étudiants participants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussStudentRate": {
+    "message": "% d’étudiants participants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentRaplyDiscussNum": {
+    "message": "Nombre de réponses des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussAnalysis": {
+    "message": "Analyse des sujets de discussion",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussNum": {
+    "message": "Nombre de sujets de discussion",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussPublishRankingTop": {
+    "message": "Top 10 des enseignants publiant des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeReplyTeacherRankingTop": {
+    "message": "Top 10 des réponses des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeReplyStudentRankingTop": {
+    "message": "Top 10 des réponses des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.replyNum": {
+    "message": "Nombre total de réponses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examAnalysis": {
+    "message": "Analyse des examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalExamPeople": {
+    "message": "Nombre total de candidats",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalPublishPeople": {
+    "message": "Nombre total d’enseignants de l’examen de publication",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageBatchPeople": {
+    "message": "Nombre moyen de candidats par session d’examen",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averagePassRate": {
+    "message": "Taux moyen de réussite aux examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageExerNum": {
+    "message": "Nombre moyen de questions par examen",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPublishRankingTop": {
+    "message": "Top 10 des enseignants publiant l’examen",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementNumber": {
+    "message": "Nombre d’annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkNum": {
+    "message": "Nombre d’affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.topic": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.topicNum": {
+    "message": "Nombre de discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examNum": {
+    "message": "Nombre d’examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadResource": {
+    "message": "Télécharger la ressource",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPractice": {
+    "message": "Créer un exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessment": {
+    "message": "Règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSetAnalysis": {
+    "message": "Analyse du plan d’apprentissage des didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips1": {
+    "message": "La définition/mise à jour du plan d’apprentissage est considérée comme une mise à jour du didacticiel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips2": {
+    "message": "% d’enseignants établissant un plan d’apprentissage ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips3": {
+    "message": "Nombre d’enseignants établissant un plan d’apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.updateCoursewareNum": {
+    "message": "N° de didacticiel mis à jour",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.updateCoursewareTimes": {
+    "message": "Nombre de mises à jour de didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareOperationTop": {
+    "message": "Top 10 des didacticiels avec la plupart des mises à jour",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips4": {
+    "message": "Meilleurs didacticiels avec la plupart des temps combinés de configurations de plan d’apprentissage et de vérifications de progression",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.setStudyPlan": {
+    "message": "Configurations du plan d’apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.viewScoreProgress": {
+    "message": "Contrôles de progression",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceUploadAnalysis": {
+    "message": "Analyse des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadResourceTotalNum": {
+    "message": "Nombre total de ressources téléchargées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadTeacherTotalNum": {
+    "message": "Nombre total d’enseignants qui ont téléchargé des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "Distribution des types de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.file": {
+    "message": "Fichiers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.richtext": {
+    "message": "Contenu riche",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.link": {
+    "message": "Liens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceContributionTop": {
+    "message": "Top 10 des enseignants ayant le plus de contributions aux ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadNum": {
+    "message": "Nombre de téléchargements",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceCreateAnalysis": {
+    "message": "Analyse de l’exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPracticeTotalNum": {
+    "message": "Nombre total de questions d’exercice créées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPracticeTeacherNum": {
+    "message": "Nombre total d’enseignants qui ont créé des exercices",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceTypeDistribution": {
+    "message": "Distribution du type de question d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceContributionTop": {
+    "message": "Top 10 enseigne avec la plupart des contributions aux questions d’exercice",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createNum": {
+    "message": "Nombre d’exercices créés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentAnalysis": {
+    "message": "Analyse des règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAssessmentTotalNum": {
+    "message": "Nombre total de règles de notation créées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAssessmentTeacherNum": {
+    "message": "Nombre d’enseignants qui ont publié des règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentPublishRankingTop": {
+    "message": "Top 10 des enseignants avec la plupart des configurations de règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceType": {
+    "message": "Types de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceNum": {
+    "message": "Nombre de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadPeopleNum": {
+    "message": "Nombre d’enseignants qui téléchargent des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceNum": {
+    "message": "Nombre d’exercices",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPeopleNum": {
+    "message": "Nombre d’enseignants qui ont créé des exercices",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentNum": {
+    "message": "Nombre de règles de classement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingDynamic": {
+    "message": "Instantanés de données",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseWorking": {
+    "message": "Analyse des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "Analyse d’activité",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.collegeCompare": {
+    "message": "Comparaison des collèges",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.semester": {
+    "message": "Dates de",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "L’instantané d’aujourd’hui",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "Se rafraîchit toutes les 5 minutes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "Enseignants connectés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "Connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "Étudiants connectés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "Connexions des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": "Affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "Examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": "Appels: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "Choix aléatoires: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "Rivalisez pour répondre: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "Examens par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "Aperçu des 2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "Exporter des rapports pour obtenir des données plus détaillées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "Rapport quotidien des 2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport2": {
+    "message": "Rapport hebdomadaire semestriel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "Rapport mensuel semestriel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.date": {
+    "message": "Date",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[0]": {
+    "message": "Dimanche",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[1]": {
+    "message": "Lundi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[2]": {
+    "message": "Mardi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[3]": {
+    "message": "Mercredi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[4]": {
+    "message": "Jeudi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[5]": {
+    "message": "Vendredi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[6]": {
+    "message": "Samedi",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeCourseNum": {
+    "message": "Cours actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.visitCourseTips": {
+    "message": "Cours visités au moins 1 fois",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveCourseNum": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageClassRate": {
+    "message": "Avg. Taux de fréquentation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips1": {
+    "message": "Moyenne combinée. taux de participation aux sessions en direct et aux appels rôles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "Meilleures activités",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "Top 5 des cours les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "Top 5 des enseignants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": "Top 5 des étudiants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.generalStatistics": {
+    "message": "Aperçu",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runCourseNum": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.useCoursewareTotalNum": {
+    "message": "Didacticiel utilisé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaAverageTeachCourseNum": {
+    "message": "Cours enseignés par enseignant",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseNum": {
+    "message": "Cours inscrits par étudiant",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseCount": {
+    "message": "Nombre total d’inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseSizeDistribution": {
+    "message": "Taille et distribution des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips2": {
+    "message": "Données basées sur les cours créés à des dates sélectionnées, à l’exclusion des cours avec 10 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips3": {
+    "message": "Cours avec plus de 1000 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips4": {
+    "message": "Cours avec 201-1000 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips5": {
+    "message": "Cours avec 51-200 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips6": {
+    "message": "Cours avec 50- Inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingModeAnalysis": {
+    "message": "Analyse du mode d’enseignement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips7": {
+    "message": "Cours d’auto-apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips8": {
+    "message": "Les activités (autres que les annonces, les didacticiels et les ressources) sont inférieures à 5",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips9": {
+    "message": "Cours dirigés par des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips10": {
+    "message": "Les activités (devoirs, discussions, sessions en direct et activités en classe) sont plus de 20 et 80% d’entre elles sont des sessions en direct et des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips11": {
+    "message": "Cours hybrides",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips12": {
+    "message": "Les activités (au moins 3 types différents de devoirs, de discussions, de sessions en direct et d’activités en classe) sont supérieures à 20, tandis que les sessions en direct et les activités en classe sont inférieures à 50%.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips13": {
+    "message": "Autres types de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips14": {
+    "message": "Cours non inclus dans les trois premières catégories",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseEvaluationAnalysis": {
+    "message": "Analyse de la notation des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips15": {
+    "message": "Données basées sur les cours créés à des dates sélectionnées, à l’exclusion des cours avec 10 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips16": {
+    "message": "% de cours avec examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips17": {
+    "message": "% de cours avec des règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips18": {
+    "message": "Parmi eux :",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips19": {
+    "message": "compte uniquement l’apprentissage des didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips20": {
+    "message": "y compris les appels téléphoniques et la participation (Random Pick and Compete to Answer)",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips21": {
+    "message": "y compris les examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityTotalNum": {
+    "message": "Total des activités",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips22": {
+    "message": "Compte uniquement les activités publiées à des dates sélectionnées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityAnalysis": {
+    "message": "Analyse des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pickTotalNum": {
+    "message": "Nombre de choix aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.responderTotalNum": {
+    "message": "Nombre de réponses concurrentes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.scoreTotalNum": {
+    "message": "Nombre d’évaluations par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendanceTeaNum": {
+    "message": "Enseignants qui ont lancé l’appel nominal",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVoteTeaNum": {
+    "message": "Enseignants qui ont lancé un sondage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPickTeaNum": {
+    "message": "Enseignants qui ont lancé random pick",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswerTeaNum": {
+    "message": "Les enseignants qui se sont lancés rivalisent pour répondre",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScoreTeaNum": {
+    "message": "Enseignants qui ont lancé l’examen par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuSignStatusDistribution": {
+    "message": "Répartition de la fréquentation étudiante",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips23": {
+    "message": "Compte les appels nominaux avec un taux de présence de plus de 80 % seulement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips24": {
+    "message": "Top 5 des enseignants - La plupart des activités publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips25": {
+    "message": "Top 5 des cours - Lancement de la plupart des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceAnalysis": {
+    "message": "Analyse des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips26": {
+    "message": "Ressources téléchargées dans la bibliothèque de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips27": {
+    "message": "Ressources publiées dans les cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips28": {
+    "message": "Enseignants qui ont publié des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips29": {
+    "message": "Vues de ressources par les étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips30": {
+    "message": "Ne compte que les ressources téléchargées par les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips31": {
+    "message": "Top 5 des enseignants - La plupart des ressources publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips32": {
+    "message": "Top 5 des cours - La plupart des ressources publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkAnalysis": {
+    "message": "Analyse des affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeaNum": {
+    "message": "Enseignants qui ont publié un devoir",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuCommitHomeworkNum": {
+    "message": "Soumissions d’affectation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaMarkHomeworkNum": {
+    "message": "Devoirs notés par les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTypeDistribution": {
+    "message": "Distribution du type d’affectation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips33": {
+    "message": "Top 5 des enseignants - La plupart des devoirs publiés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips34": {
+    "message": "Top 5 des cours - La plupart des devoirs publiés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionAnalysis": {
+    "message": "Analyse des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTotalNum": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTeaNum": {
+    "message": "Enseignants qui ont publié des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuReplyTotalNum": {
+    "message": "Réponses des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaReplyTotalNum": {
+    "message": "Réponses des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTypeDistribution": {
+    "message": "Distribution des types de discussion",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips35": {
+    "message": "Top 5 des enseignants - La plupart des discussions publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips36": {
+    "message": "Top 5 des cours - La plupart des discussions publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveAnalysis": {
+    "message": "Analyse de session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTotalNum": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTeaNum": {
+    "message": "Enseignants qui ont donné une session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleLiveViewNum": {
+    "message": "Participants simultanés à la session la plus fréquentée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveViewNum": {
+    "message": "Nombre total de participants à toutes les sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.hour": {
+    "message": "Heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveDuration": {
+    "message": "Durée totale de toutes les sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveDuration": {
+    "message": "Durée de la session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips37": {
+    "message": "Top 5 des enseignants - La plupart des sessions en direct livrées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips38": {
+    "message": "Top 5 des cours - La plupart des sessions en direct livrées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips39": {
+    "message": "Compte uniquement les examens de cours publiés aux dates sélectionnées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTotalNum": {
+    "message": "Examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examBatch": {
+    "message": "Sessions d’examen de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleExamPeopleNum": {
+    "message": "Candidats de la session la plus fréquentée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeExamPeopleNum": {
+    "message": "Nombre total de candidats de toutes les sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExamTeaNum": {
+    "message": "Examen des enseignants ayant publié un cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.questionTotalNum": {
+    "message": "Questions d’examen dans la banque de questions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips40": {
+    "message": "Nombre total de questions d’examen créées par les enseignants dans la banque de questions - non limité par les dates que vous avez sélectionnées.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPaperTotalNum": {
+    "message": "Examens utilisés dans l’examen de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips41": {
+    "message": "Nombre total d’examens créés par les enseignants dans la Banque d’examens - non limité par les dates que vous avez sélectionnées.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeDistribution": {
+    "message": "Distribution des types d’examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceDistribution": {
+    "message": "Distribution des périphériques d’accès aux examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips42": {
+    "message": "Top 5 des sessions d’examen les plus fréquentées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData0": {
+    "message": "Annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData1": {
+    "message": "Affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData2": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData3": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData4": {
+    "message": "Examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData5": {
+    "message": "Appels: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData6": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData7": {
+    "message": "Rivalisez pour répondre: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData8": {
+    "message": "Choix aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData9": {
+    "message": "Examens par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData0": {
+    "message": "Absent",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData1": {
+    "message": "En retard",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData2": {
+    "message": "Congé anticipé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData3": {
+    "message": "Congé excusé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData4": {
+    "message": "Congé de maladie",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData5": {
+    "message": "Présent",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData0": {
+    "message": "Liens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData1": {
+    "message": "Micro Cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData2": {
+    "message": "Images",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData3": {
+    "message": "Contenu riche",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData4": {
+    "message": "Autre",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData5": {
+    "message": "Documents",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData6": {
+    "message": "Audios",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData7": {
+    "message": "Vidéos",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData0": {
+    "message": "Discussion - Limite de temps",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData1": {
+    "message": "Discussion - Pas de limite de temps",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData0": {
+    "message": "Dans l’heure 1",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData1": {
+    "message": "1-2 heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData2": {
+    "message": "Plus de 2 heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData0": {
+    "message": "Examens prédéfinis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData1": {
+    "message": "Examens aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData0": {
+    "message": "Pc",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData1": {
+    "message": "Appareils mobiles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.collegeCumulativeLoginNum": {
+    "message": "Nombre total de connexions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips43": {
+    "message": "Compte les connexions dans les dates sélectionnées uniquement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips44": {
+    "message": "Nombre total de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips45": {
+    "message": "Compte le cours créé dans les dates sélectionnées uniquement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runningCourseNum": {
+    "message": "Cours collégiaux",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runningCoursewareNum": {
+    "message": "Didacticiel collégial",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.schoolCreatedCourse": {
+    "message": "Cours scolaires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.externalIntroduction": {
+    "message": "Cours externes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCExe": {
+    "message": "Navigateur de verouillage ULearning",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCweb": {
+    "message": "Web",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.ulearningCourseDeclarationInfoAdmin": {
+    "message": "Gestion des informations de déclaration de cours Ulearning",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.selectDeclaredCourse": {
+    "message": "Sélectionner la déclaration de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undeclaredCourses": {
+    "message": "Cours non déclaré",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undeterminedCourse": {
+    "message": "Cours indéterminé",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseDeclarationInfoAdmin": {
+    "message": "Gestion des informations de déclaration de cours ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo1": {
+    "message": "Exporter les données dans [table01] (Veuillez exporter et afficher les données complètes)",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo2": {
+    "message": "Exporter des données dans [table04]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo3": {
+    "message": "Exporter les données dans[ table05]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo4": {
+    "message": "Exporter des données dans [table06]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseID": {
+    "message": "ID de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseName": {
+    "message": "Nom du cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCourseSchool": {
+    "message": "Institut d’ouverture de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseManager": {
+    "message": "Gestionnaire de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCoursePlatform": {
+    "message": "Plateforme d’ouverture de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.subordinateProfessionalCode": {
+    "message": "Code principal",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.onlineYear": {
+    "message": "Année en ligne",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.provincialProjectNotes": {
+    "message": "Notes sur les projets provinciaux (facultatif)",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseLevel": {
+    "message": "Niveau du cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseType": {
+    "message": "Catégorie",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseCategory": {
+    "message": "Catégorie de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCoursePeriod": {
+    "message": "Non. Bien sûr Horaires d’ouverture",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.selectedCourseTotalNum": {
+    "message": "Nombre d’étudiants inscrits au cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relevantSubcourses": {
+    "message": "Lien vers le sous-cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.yes": {
+    "message": "Oui",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.vocationalSchool": {
+    "message": "Collège professionnel",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undergraduate": {
+    "message": "Étudiant",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.modifyInfo": {
+    "message": "Modifier les informations",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToNondeclaration": {
+    "message": "Modifié non déclaré",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.homePage": {
+    "message": "Première page",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.lastPage": {
+    "message": "Dernière page",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.frontPage": {
+    "message": "Page précédente",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.backPage": {
+    "message": "Page suivante",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.skip": {
+    "message": "Sauter",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.noSearchCourse": {
+    "message": "Aucun cours trouvé",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.modifyCourseDeclarationInfo": {
+    "message": "Modifier les informations de déclaration de cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.subcourseAdmin": {
+    "message": "Gestion des sous-cours",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.currentDeclaredCourse": {
+    "message": "Cours principal actuellement déclaré:",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedSubcourses": {
+    "message": "Sous-cours connexes",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.editAccount": {
+    "message": "Co-éditeurs",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relieveAssociation": {
+    "message": "Dissocier",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips1": {
+    "message": "Les informations sur les sous-cours seront fusionnées dans le cours principal déclaré actuel",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips2": {
+    "message": "Êtes-vous sûr de dissocier ?",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relieveSuccess": {
+    "message": "Dissocié avec succès",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips3": {
+    "message": "Êtes-vous sûr de ne pas être déclaré?",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.convToNondeclSuccess": {
+    "message": "Conversion en non déclarée réussie",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.convToNondeclFailed": {
+    "message": "Conversion en déclarée avec succès",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.coreCurriculum": {
+    "message": "Cours généraux",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publicBasicCourses": {
+    "message": "Cours de base",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.professionalCourse": {
+    "message": "Cours professionnels",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips4": {
+    "message": "Le nombre saisi ne peut pas être supérieur à",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips5": {
+    "message": "Entrez un entier positif",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips6": {
+    "message": "Recherche de données, veuillez réessayer plus tard",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchRelatedMainCourse": {
+    "message": "Plat principal de liaison par lots",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publishOrg": {
+    "message": "Institut d’édition",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publishWebsite": {
+    "message": "Publier le site Web",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.ulearningSubjectClassification": {
+    "message": "Classification des matières dans Ulearning",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedMainCourseId": {
+    "message": "ID du plat principal lié",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedMainCourseName": {
+    "message": "Nom du plat principal lié",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelRelateMainCourse": {
+    "message": "Annuler le lien vers le plat principal",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relateMainCourse": {
+    "message": "Lien plat principal",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToDeclaration": {
+    "message": "Convertir en déclaré",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToDeclarationCourse": {
+    "message": "Convertir en cours déclaré",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.currentCourse": {
+    "message": "Cours actuel:",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.willRelateMainCourse": {
+    "message": "Plat principal à lier:",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips7": {
+    "message": "Veuillez entrer le nom du cours ou l’ID pour la requête",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.confirmRelate": {
+    "message": "Confirmer le lien",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.allOrganization": {
+    "message": "Tous les instituts",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips8": {
+    "message": "Êtes-vous sûr d’annuler le lien du plat principal?",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelSuccess": {
+    "message": "Annulé avec succès",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips9": {
+    "message": "Le plat principal lié ne peut pas être vide",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relateSuccess": {
+    "message": "Lié avec succès",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelRelateMainCourseSuccess": {
+    "message": "Annuler le lien du plat principal avec succès",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips10": {
+    "message": "Cours vérifié a déjà eu un plat principal lié",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips11": {
+    "message": "Veuillez sélectionner le cours à lier au plat principal",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchConvToNondecl": {
+    "message": "Conversion par lots en non déclaré",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchConvToNondeclSuccess": {
+    "message": "Conversion par lots en non déclarée réussie",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips12": {
+    "message": "Veuillez sélectionner le cours à convertir en cours non déclaré",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.addAdministrator": {
+    "message": "Ajouter un administrateur",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.accountOpendTime": {
+    "message": "Créé",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.superAdministrator": {
+    "message": "Super Administrateur",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.modifyAdministrator": {
+    "message": "Modifier l’administrateur",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips1": {
+    "message": "Cliquez pour entrer le nom complet",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.password": {
+    "message": "Mot de passe",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips2": {
+    "message": "Cliquez pour entrer le mot de passe",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.confirmPassword": {
+    "message": "Confirmer le mot de passe",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips3": {
+    "message": "L’utilisateur sera supprimé. Voulez-vous vraiment supprimer cet utilisateur ?",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips4": {
+    "message": "Deux mots de passe saisis ne correspondent pas.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips5": {
+    "message": "Veuillez entrer le nom du département",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips6": {
+    "message": "Êtes-vous sûr de vouloir supprimer ce collège / département?",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.classificationName": {
+    "message": "Nom de la catégorie",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.addClassification": {
+    "message": "Ajouter une catégorie",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.deleteClassification": {
+    "message": "Supprimer la classification",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips7": {
+    "message": "Êtes-vous sûr de supprimer cette classification ?",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips8": {
+    "message": "Veuillez entrer le nom de la classification.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.courseClassification": {
+    "message": "Classification des cours",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.departmentsSetting": {
+    "message": "Collèges",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.wensiteManage": {
+    "message": "Paramètres du site",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.administratorManage": {
+    "message": "Administrateurs",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.courseClassificationSetting": {
+    "message": "Catégories de cours",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteName": {
+    "message": "Nom du site",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips9": {
+    "message": "Veuillez entrer le nom du site Web.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips10": {
+    "message": "Le nom du site Web ne peut pas être vide.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteDomain": {
+    "message": "Site URL",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips11": {
+    "message": "Le nom de domaine du site Web ne peut pas être vide.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteLanguage": {
+    "message": "Langue du site",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteLanguageTip": {
+    "message": "La langue du site Web ne peut pas être vide",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.default": {
+    "message": "Faire défaut",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.supportOtherLanguages": {
+    "message": "Autres langues à prendre en charge",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteTemplate": {
+    "message": "Modèle de site Web",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteTemplateTip": {
+    "message": "Sélectionnez le style de modèle de site Web",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.menuTypeTemplate": {
+    "message": "Menu Style",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips12": {
+    "message": "Recommandé si vous souhaitez personnaliser le menu et le contenu de la page d’accueil",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.loginTypeTemplate": {
+    "message": "Style de connexion",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips13": {
+    "message": "Le préfixe du nom de domaine a été utilisé.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips14": {
+    "message": "Êtes-vous sûr de vouloir le supprimer?",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips15": {
+    "message": "Le nom de la classe est trop long",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips16": {
+    "message": "Veuillez choisir la note",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips17": {
+    "message": "Le nom de la classe existe déjà",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips18": {
+    "message": "Le compte existe déjà",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips19": {
+    "message": "Ce modèle est recommandé si vous souhaitez uniquement que les étudiants aient une entrée de connexion distincte",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips20": {
+    "message": "Recommandé si vous souhaitez garder la page d’accueil propre avec une boîte de connexion",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.passwordLengthTips": {
+    "message": "Veuillez entrer un mot de passe de six caractères ou plus",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inSchoolCourse": {
+    "message": "Cours scolaires",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openCourse": {
+    "message": "Cours ouverts",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCourse": {
+    "message": "Tous les cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolCourse": {
+    "message": "Cours scolaires",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.nonschoolCourse": {
+    "message": "Cours externes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allState": {
+    "message": "Tous les statuts",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.showInWebsite": {
+    "message": "Ouvert au public",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noShowInWebsite": {
+    "message": "Interne uniquement",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips1": {
+    "message": "Entrez le nom du cours ou le nom de l’enseignant à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.classification": {
+    "message": "Catégorie",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.source": {
+    "message": "Source",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseCreator": {
+    "message": "Propriétaire",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.createTime": {
+    "message": "Créé",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishDate": {
+    "message": "Date de publication",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.websiteShow": {
+    "message": "Accès",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.thisSchool": {
+    "message": "Notre école",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.show": {
+    "message": "Ouvert au public",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noShow": {
+    "message": "Interne uniquement",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyClassification": {
+    "message": "Modifier la catégorie",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.displayOnWebsite": {
+    "message": "Affichage sur le site Web",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notDisplayOnWebsite": {
+    "message": "Ne pas afficher sur le site Web",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips2": {
+    "message": "Sélectionnez jusqu’à trois",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips3": {
+    "message": "Classification secondaire (vous pouvez choisir plusieurs options)",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyCourseShow": {
+    "message": "Modifier l’accès",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips4": {
+    "message": "Êtes-vous sûr de vouloir afficher ce cours sur votre site Web?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips5": {
+    "message": "Êtes-vous sûr de vouloir masquer ce cours sur votre site Web?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allYears": {
+    "message": "Toutes les années",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notStart": {
+    "message": "Non démarré",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.onGoing": {
+    "message": "En cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.hasEnded": {
+    "message": "Terminé",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.mergeCourse": {
+    "message": "Fusionner des cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.state": {
+    "message": "Statut",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.classNum": {
+    "message": "Classes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inToCourse": {
+    "message": "Cours ouverts",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.transferCourse": {
+    "message": "Cours de transfert",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips6": {
+    "message": "Suivez le processus ci-dessous pour ajouter plusieurs comptes d’enseignants en une seule fois :",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.downloadTemplate": {
+    "message": "Télécharger le modèle d’importation",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadFile": {
+    "message": "Télécharger le fichier d’importation",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips7": {
+    "message": "Importer, ne pas fermer la fenêtre...",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips8": {
+    "message": "Remplacez [{courseName}] course creator par [{creator}] en :",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips10": {
+    "message": "Entrez le nom/nom d’utilisateur de l’enseignant à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "Tous les collèges",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips11": {
+    "message": "Veuillez sélectionner le cours à importer en premier.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips12": {
+    "message": "Un seul cours peut être sélectionné",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips13": {
+    "message": "Sélectionnez au moins deux cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.confirmMerge": {
+    "message": "Confirmer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips14": {
+    "message": "La fusion de cours combine les cours et tous les objets associés à ces cours dans un cours nouvellement créé.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips15": {
+    "message": "Après la fusion, le propriétaire du cours peut être réaffecté via « Transférer le cours ».",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips16": {
+    "message": "Soyez prudent : vous ne pouvez pas annuler la fusion de cours.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips17": {
+    "message": "Fusionner des cours, veuillez patienter...",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allExam": {
+    "message": "Tous les examens",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputExanNameTeaNameSearch": {
+    "message": "Entrez le nom de l’examen ou le nom de l’enseignant à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.examName": {
+    "message": "Nom de l’examen",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publisher": {
+    "message": "Créateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateCourse": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.expiryDate": {
+    "message": "Disponibilité",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.participantsNumber": {
+    "message": "Candidats",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "{startTime} à {endTime} ",
+    "description": "管理员账号 -> 数据中心 -> 教学动态 \n 管理员账号 -> 考试管理"
+  },
+  "teachingAdmin.viewScore": {
+    "message": "Afficher les résultats",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputKeywordSearch": {
+    "message": "Entrez le mot-clé à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishAnnouncement": {
+    "message": "Nouvelles annonces",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishAnnouncement2": {
+    "message": "Annonces",
+    "description": "在教学活动页面，不要与上面的publishAnnouncement共享"
+  },
+  "teachingAdmin.announcementName": {
+    "message": "Titre de l’annonce",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputAnnouncementName": {
+    "message": "Cliquez pour entrer le titre de l’annonce",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.announcementContent": {
+    "message": "Contenu de l’annonce",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadAttachments": {
+    "message": "Télécharger la pièce jointe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.receiver": {
+    "message": "Publier sur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips18": {
+    "message": "Voulez-vous vraiment supprimer cette annonce ?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips19": {
+    "message": "La taille du fichier ne peut pas être supérieure à 1 Go",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.announcementPublisher": {
+    "message": "Créé par :",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.attachments": {
+    "message": "Pièces jointes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips20": {
+    "message": "Entrez le nom, l’ID étudiant ou le nom d’utilisateur à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenStuAccount": {
+    "message": "Étudiants d’importation par lots",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addStudent": {
+    "message": "Ajoutez un étudiant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inToAccount": {
+    "message": "Agir en tant qu’utilisateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyStudent": {
+    "message": "Modifier l’étudiant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentNO": {
+    "message": "Carte d’étudiant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips21": {
+    "message": "Cliquez pour entrer l’ID étudiant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips22": {
+    "message": "Cliquez pour entrer le nom d’utilisateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.email": {
+    "message": "Messagerie électronique",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips23": {
+    "message": "Cliquez pour entrer l’e-mail",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips24": {
+    "message": "E-mail non valide",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.gender": {
+    "message": "Sexe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.male": {
+    "message": "Mâle",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.female": {
+    "message": "Femelle",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.phoneNumber": {
+    "message": "Téléphone",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips25": {
+    "message": "Cliquez pour entrer le numéro de téléphone",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips26": {
+    "message": "Numéro de téléphone non valide",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateDepartment": {
+    "message": "Collège",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips27": {
+    "message": "Entrez le nom de l’enseignant ou le nom d’utilisateur à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenTeaAccount": {
+    "message": "Importation par lots",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addTeacher": {
+    "message": "Ajoutez un enseignant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teacherName": {
+    "message": "Nom de l’enseignant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.phoneNum": {
+    "message": "Téléphone",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateCollege": {
+    "message": "Collège",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyTeahcer": {
+    "message": "Modifier l’enseignant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.examManage": {
+    "message": "Examens",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teacherManage": {
+    "message": "Enseignants",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentManage": {
+    "message": "Étudiants",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noticeAnnouncement": {
+    "message": "Annonces",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.check": {
+    "message": "Revue de publication",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.agree": {
+    "message": "Approuver",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.refuse": {
+    "message": "Rejeter",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.agreed": {
+    "message": "Approuvé",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.refused": {
+    "message": "Rejeté",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.reCheck": {
+    "message": "Réexamen",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.setTypeTip": {
+    "message": "Cliquez sur « Catégories de cours » pour configurer/modifier le schéma de classification des cours de votre école. Pour ajouter rapidement une catégorie, cliquez sur « Ajouter une catégorie ».",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.toSet": {
+    "message": "Ajouter une catégorie",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.setType": {
+    "message": "Ajouter/Modifier des catégories de cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.add": {
+    "message": "Ajouter une catégorie",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeEg": {
+    "message": "Exemple : Cours de base",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolMooc": {
+    "message": "MOOC internes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.otherMooc": {
+    "message": "MOOC externes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.confirmDelete": {
+    "message": "Êtes-vous sûr de vouloir le supprimer?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip1": {
+    "message": "Le champ Nom de la catégorie ne peut pas être vide",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip2": {
+    "message": "Le nom de la catégorie ne doit pas dépasser 50 caractères",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip3": {
+    "message": "Une catégorie portant ce nom existe déjà",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip4": {
+    "message": "Le nom de la catégorie en double n’est pas autorisé",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuNum": {
+    "message": "Inscriptions internes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuList": {
+    "message": "Liste des membres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.moocPageTip": {
+    "message": "Mooc internes (Massive Open Online Courses) publiés par les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.checkTip1": {
+    "message": "Actuellement ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.checkTip2": {
+    "message": " cours(s) doivent être revus",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.otherMoocPageTip": {
+    "message": "MOOC externes (Massive Open Online Courses)",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterName": {
+    "message": "Entrez le nom du cours à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allSchools": {
+    "message": "Tous les collèges",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.excellenceCertificate": {
+    "message": "Certificat d’excellence",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.passCertificate": {
+    "message": "Certificat de réussite",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notGet": {
+    "message": "Non attribué",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.joinNum": {
+    "message": "Inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noStuJoin": {
+    "message": "Aucune inscription interne",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuDistribution": {
+    "message": "Répartition des étudiants entre les collèges et les départements",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noStu": {
+    "message": "Aucune inscription",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentSource": {
+    "message": "Statistiques des sources étudiantes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.certificateRate": {
+    "message": "Pourcentage de certificats délivrés",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuRate": {
+    "message": "Pourcentage d’étudiants internes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuJoinNum": {
+    "message": "Inscriptions internes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuJoinStatistics": {
+    "message": "Statistiques des inscriptions internes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseStatistics": {
+    "message": "Statistiques de cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noData": {
+    "message": "Aucune donnée trouvée",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.loading": {
+    "message": "Chargement",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuJoinList": {
+    "message": "Liste des membres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportList": {
+    "message": "Exportez la liste des membres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.staticTable": {
+    "message": "Graphique statistique",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.school": {
+    "message": "École",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.joinDate": {
+    "message": "Date d’inscription",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.certificate": {
+    "message": "Certificat",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.grade": {
+    "message": "Grade",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByName": {
+    "message": "Entrez le nom à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportData": {
+    "message": "Exportation",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportDataDesc": {
+    "message": "Pour voir les données détaillées du cours, cliquez sur « Exporter »",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseAnalysis": {
+    "message": "Analyse des cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.naturalClass": {
+    "message": "Classe administrative",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.relateTextbook": {
+    "message": "Didacticiel",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByClass": {
+    "message": "Entrez le nom de la classe à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importClass": {
+    "message": "Importez la classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addClass": {
+    "message": "Ajouter une classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.className": {
+    "message": "Nom de la classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuNameList": {
+    "message": "Liste des membres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.editClass": {
+    "message": "Modifier la classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addClass2": {
+    "message": "Ajouter une classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.plzInputClassName": {
+    "message": "Cliquez pour entrer le nom de la classe",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.grade2": {
+    "message": "Année",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allGrade": {
+    "message": "Toutes les années",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allClass": {
+    "message": "Toutes les classes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importSuccess": {
+    "message": "Importé avec succès!",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.downloadImportResult": {
+    "message": " Télécharger les résultats de l’importation",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip1": {
+    "message": "  Certains comptes étudiants existent déjà. Sélectionnez l’option de procédure.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip2": {
+    "message": " Ignorer les étudiants avec des comptes existants et continuer à importer ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip3": {
+    "message": " Mettez à jour certaines informations de base (telles que l’année, l’université, etc.) pour les étudiants ayant des comptes existants sans changer le nom d’utilisateur et le mot de passe.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip4": {
+    "message": "Annuler cette importation",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip5": {
+    "message": " Cliquez pour télécharger la liste des étudiants avec des comptes existants ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip6": {
+    "message": " Fait! Importé ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip7": {
+    "message": " comptes étudiants et ignorés ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip8": {
+    "message": " étudiants ayant des comptes existants.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.updateStudents": {
+    "message": "Mise à jour par lots des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "inputCourseName": {
+    "message": "Cliquez pour entrer le nom du cours",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenSchool": {
+    "message": "Entrez dans l’école qui a offert le cours",
+    "description": "2.0 admin.js"
+  },
+  "editInfoTips": {
+    "message": "Notes: Soyez prudent! La mise à jour de ces deux éléments mettra simultanément à jour les informations de cours dans le système.",
+    "description": "2.0 admin.js"
+  },
+  "inputCourseManager": {
+    "message": "Entrez dans le gestionnaire de cours",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePlatform": {
+    "message": "Entrez dans la plate-forme de cours qui offre ce cours",
+    "description": "2.0 admin.js"
+  },
+  "onlineTime": {
+    "message": "Date disponible",
+    "description": "2.0 admin.js"
+  },
+  "inputOnlineTime": {
+    "message": "Entrez la date/l’heure disponible",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePeriod": {
+    "message": "Entrez le nombre d’offres de cours",
+    "description": "2.0 admin.js"
+  },
+  "professionalCode": {
+    "message": "Code principal",
+    "description": "2.0 admin.js"
+  },
+  "inputProfessionalCode": {
+    "message": "Entrez le code principal",
+    "description": "2.0 admin.js"
+  },
+  "saveModify": {
+    "message": "Enregistrer les modifications",
+    "description": "2.0 admin.js"
+  },
+  "exit": {
+    "message": "Sortir",
+    "description": "2.0 admin.js"
+  },
+  "teachingTeacher": {
+    "message": "Enseignant de cours",
+    "description": "2.0 admin.js"
+  },
+  "department": {
+    "message": "Collège/Département",
+    "description": "2.0 admin.js"
+  },
+  "classes": {
+    "message": "Classe",
+    "description": "2.0 admin.js"
+  },
+  "courseCode": {
+    "message": "Code du cours",
+    "description": "2.0 admin.js"
+  },
+  "courseManage": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "backToCustomerService": {
+    "message": "Retour au service à la clientèle",
+    "description": "2.0 admin.js"
+  },
+  "courseUnit": {
+    "message": "{courseCount}",
+    "description": "2.0 admin.js"
+  },
+  "appCenter": {
+    "message": "Apps",
+    "description": "2.0 admin.js"
+  },
+  "internalApp": {
+    "message": "Applications internes",
+    "description": "2.0 admin.js"
+  },
+  "ltiApp": {
+    "message": "Applications LTI",
+    "description": "2.0 admin.js"
+  },
+  "installed": {
+    "message": "Activé",
+    "description": "2.0 admin.js"
+  },
+  "unInstalled": {
+    "message": "Non activé",
+    "description": "2.0 admin.js"
+  },
+  "viewMore": {
+    "message": "Détails >>",
+    "description": "2.0 admin.js"
+  },
+  "appManage": {
+    "message": "Gestion des applications",
+    "description": "2.0 admin.js"
+  },
+  "installed2": {
+    "message": "Installé",
+    "description": "2.0 admin.js"
+  },
+  "addApp": {
+    "message": "Ajouter une application",
+    "description": "2.0 admin.js"
+  },
+  "name": {
+    "message": "Nom",
+    "description": "2.0 admin.js"
+  },
+  "consumerKey": {
+    "message": "Clé de consommation",
+    "description": "2.0 admin.js"
+  },
+  "sharedSecret": {
+    "message": "Secret partagé",
+    "description": "2.0 admin.js"
+  },
+  "configURL": {
+    "message": "URL de configuration",
+    "description": "2.0 admin.js"
+  },
+  "deleteApp": {
+    "message": "Supprimer l’application",
+    "description": "2.0 admin.js"
+  },
+  "confirmDelete": {
+    "message": "Êtes-vous sûr de vouloir supprimer cette application?",
+    "description": "2.0 admin.js"
+  },
+  "deleteSuccess": {
+    "message": "Supprimé avec succès !",
+    "description": "2.0 admin.js"
+  },
+  "description": {
+    "message": "Description",
+    "description": "2.0 admin.js"
+  },
+  "seats": {
+    "message": "Sièges",
+    "description": "2.0 admin.js"
+  },
+  "expireTime": {
+    "message": "Date d'expiration",
+    "description": "2.0 admin.js"
+  },
+  "assignTeacher": {
+    "message": "Affecter à",
+    "description": "2.0 admin.js"
+  },
+  "modifyMeeting": {
+    "message": "Modifiez",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameTip": {
+    "message": "Cliquez pour entrer le nom de la salle de réunion virtuelle",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameInvalid": {
+    "message": "Longueur de 1 à 30 caractères",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescTip": {
+    "message": "Cliquez pour entrer la description de la salle de réunion virtuelle",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescInvalid": {
+    "message": "Pas plus de 100 caractères",
+    "description": "2.0 admin.js"
+  },
+  "assignTo": {
+    "message": "Affecté à : ",
+    "description": "2.0 admin.js"
+  },
+  "addTeacher": {
+    "message": "Ajoutez un enseignant",
+    "description": "2.0 admin.js"
+  },
+  "searchTeacherTip": {
+    "message": "Entrez le nom d’utilisateur/nom à rechercher",
+    "description": "2.0 admin.js"
+  },
+  "teacherStats": {
+    "message": "Total {n} enseignant(s) ",
+    "description": "2.0 admin.js"
+  },
+  "selectedTeacher": {
+    "message": "Enseignants sélectionnés : ",
+    "description": "2.0 admin.js"
+  },
+  "settings": {
+    "message": "Paramètres",
+    "description": "2.0 admin.js"
+  },
+  "meetingNormal": {
+    "message": "Actif",
+    "description": "2.0 admin.js"
+  },
+  "meetingExpire": {
+    "message": "Expire bientôt",
+    "description": "2.0 admin.js"
+  },
+  "meetingDisable": {
+    "message": "Périmé",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoom": {
+    "message": "Salle de réunion virtuelle",
+    "description": "2.0 admin.js"
+  },
+  "modifySuccess": {
+    "message": "Modifié avec succès!",
+    "description": "2.0 admin.js"
+  },
+  "modifyFailed": {
+    "message": "Echec de la modification",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.memo": {
+    "message": "Remarques",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.memoPlaceholder": {
+    "message": " S’il vous plaît entrer une note ",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoomManagement": {
+    "message": "Gestion des salles cloud",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingCalendar": {
+    "message": "Calendrier d’enseignement",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.listView": {
+    "message": "Vue en liste",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.chartView": {
+    "message": "Affichage Calendrier",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.clearFilter": {
+    "message": "Clair",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityName": {
+    "message": "Nom de l’activité",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityType": {
+    "message": "Type",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.startTime": {
+    "message": "Heure de début",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.endTime": {
+    "message": "Heure de fin",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterTeacher": {
+    "message": "Entrez un enseignant",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterCourse": {
+    "message": "Participer à un cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.withoutCourse": {
+    "message": "Il n’y a pas de cours optionnels",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeType": {
+    "message": "Heure de début",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityDetail": {
+    "message": "Détails de l’événement",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityAuthor": {
+    "message": "Créateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType1": {
+    "message": "Didacticiel",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType2": {
+    "message": "Affectations",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType3": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType4": {
+    "message": "Vivre",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType5": {
+    "message": "Examens",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByClassification": {
+    "message": "Par type",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterTitle": {
+    "message": "Filtrage des tâches",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.missionBegin": {
+    "message": "Commencer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.missionEnd": {
+    "message": "Fin",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterByStart": {
+    "message": "Heure de début",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterByEnd": {
+    "message": "Heure de fin",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.startTimeTOendTime": {
+    "message": "atteindre",
+    "description": "2.0 admin.js"
+  },
+  "necessary": {
+    "message": "Les champs obligatoires ne peuvent pas être vides",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programAdmin": {
+    "message": "Gestion de programmes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programList": {
+    "message": "Liste des programmes\n",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programClass": {
+    "message": "Catégories",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.applyInfo": {
+    "message": "Applications",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgram": {
+    "message": "Nouveau programme",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.editProgram": {
+    "message": "Éditer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.language": {
+    "message": "Langue",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programName": {
+    "message": "Nom programme",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programCompany": {
+    "message": "Organisateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programStatus": {
+    "message": "État de publication",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allowApply": {
+    "message": "Ouvert aux candidatures",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatTime": {
+    "message": "Date de création",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programAction": {
+    "message": "Actions",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.updatedProgram": {
+    "message": "Publié",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.newProgram": {
+    "message": "Inédit",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.ableApply": {
+    "message": "Ouvert aux candidatures",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.disableAlliy": {
+    "message": "Les applications ne sont pas ouvertes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.readingLanguage": {
+    "message": "Vous affichez maintenant le contenu {language}",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.whritingLanguage": {
+    "message": "Vous êtes en train de modifier le contenu {langue} ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.baseInfo": {
+    "message": "Informations de base",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programLogo": {
+    "message": "Vignette",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.detailInfo": {
+    "message": "Détails",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder1": {
+    "message": "Veuillez saisir un nom programme",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder2": {
+    "message": "Clé dans le contenu",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection1": {
+    "message": "Nom programme",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection2": {
+    "message": "Description",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection3": {
+    "message": "Organisateur",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection4": {
+    "message": "Temps d’apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection5": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection6": {
+    "message": "Crédits",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection7": {
+    "message": "Certificat",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection8": {
+    "message": "Style d’apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection9": {
+    "message": "Catégories",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadmsg": {
+    "message": "Prise en charge des images au format jpg / jpeg / png, pas plus de 2M, taille recommandée 1280px * 720px (16: 9) ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadTip": {
+    "message": "Cliquez sur Télécharger",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programSave": {
+    "message": "Sauvegarder",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noSave": {
+    "message": "Ne pas enregistrer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programPreview": {
+    "message": "Aperçu",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.formErrTitle": {
+    "message": "Alerte",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.formErrTip1": {
+    "message": "Les données ont été modifiées, sont-elles sauvegardées ?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg1": {
+    "message": "Modifier",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg2": {
+    "message": "Ensemble",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg3": {
+    "message": "Supprimer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.ProgramDelTip": {
+    "message": "Êtes-vous sûr de vouloir supprimer ce programme?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.fonfirm": {
+    "message": "Confirmer",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.cancel": {
+    "message": "Annuler",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle": {
+    "message": "Paramètres professionnels",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.sendSetting": {
+    "message": "Paramètres de publication",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip1": {
+    "message": "Publier sur le site portail",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.applySetting": {
+    "message": "Paramètres de demande",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip2": {
+    "message": "Ouvert aux candidatures",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle2": {
+    "message": "Périodes de candidature ouvertes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip3": {
+    "message": "De l’heure de début 0:00 à la date de fin 24:00",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle3": {
+    "message": "Étudiants: ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.deltoast": {
+    "message": "Supprimé avec succès !",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.detailInfoTitle1": {
+    "message": "Introduction ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programNameErr": {
+    "message": "Dupliquer le nom programme",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openStatus1": {
+    "message": "Ouvert",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openStatus2": {
+    "message": "Non ouvert",
+    "description": "2.0 admin.js"
+  },
+  "settingErr1": {
+    "message": "Veuillez renseigner l'heure de début et l'heure de fin",
+    "description": "2.0 admin.js"
+  },
+  "settingErr2": {
+    "message": "Veuillez renseigner l'heure de début et l'heure de fin",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadFileTips1": {
+    "message": "Les fichiers ne peuvent pas dépasser 2M",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.maxlengthTip1": {
+    "message": "Les détails ne peuvent pas dépasser 5000 caractères",
+    "description": "2.0 admin.js"
+  },
+  "settingErr3": {
+    "message": "Veuillez renseigner le numéro d'inscription",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder3": {
+    "message": "Veuillez sélectionner une catégorie\n",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteicon": {
+    "message": "Favico",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImage": {
+    "message": "Choisir une image",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageLoading": {
+    "message": "Téléchargement",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageTips1": {
+    "message": "Le fichier ico doit être inférieur à 500kb",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.uploadTip": {
+    "message": "Utiliser le fichier ico 48*48U",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSetting": {
+    "message": "Fuseau horaire",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSettingTip": {
+    "message": "Veuillez définir le fuseau horaire",
+    "description": "2.0 admin.js"
+  },
+  "majorType": {
+    "message": "Catégorie programme",
+    "description": "2.0 admin.js"
+  },
+  "applicationName": {
+    "message": "Demandeur",
+    "description": "2.0 admin.js"
+  },
+  "email": {
+    "message": "Email",
+    "description": "2.0 admin.js"
+  },
+  "phone": {
+    "message": "Téléphone",
+    "description": "2.0 admin.js"
+  },
+  "applyTime": {
+    "message": "Temps d’application",
+    "description": "2.0 admin.js"
+  },
+  "applyOther": {
+    "message": "Informations sur les remarques",
+    "description": "2.0 admin.js"
+  },
+  "isreply": {
+    "message": "Répondu",
+    "description": "2.0 admin.js"
+  },
+  "isreply2": {
+    "message": "Pas de réponse",
+    "description": "2.0 admin.js"
+  },
+  "copy": {
+    "message": "Copie",
+    "description": "2.0 admin.js"
+  },
+  "allMajor": {
+    "message": "Toutes les programmes",
+    "description": "2.0 admin.js"
+  },
+  "copySuccess": {
+    "message": "Copié avec succès!",
+    "description": "2.0 admin.js"
+  },
+  "deleteApplyMsg": {
+    "message": "Voulez-vous vraiment supprimer cette demande ?",
+    "description": "2.0 admin.js"
+  },
+  "deleteFail": {
+    "message": "Échec de la suppression",
+    "description": "2.0 admin.js"
+  },
+  "inputNameEmail": {
+    "message": "Entrez le nom ou l’adresse électronique du demandeur pour les demandes de renseignements",
+    "description": "2.0 admin.js"
+  },
+  "changeMajor": {
+    "message": "S’associer  programmes",
+    "description": "2.0 admin.js"
+  },
+  "majorName": {
+    "message": "Programmes",
+    "description": "2.0 admin.js"
+  },
+  "deleteCategoryTip": {
+    "message": "Après avoir supprimé une catégorie, les cours et les programme associés à cette catégorie seront définis sur unsorted, êtes-vous sûr de vouloir la supprimer ?",
+    "description": "2.0 admin.js"
+  },
+  "multilingual": {
+    "message": "Édition multilingue",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeNumberOfEntrants": {
+    "message": "Nombre cumulé de participants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataDisplay": {
+    "message": "Données de visite",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips21": {
+    "message": "Le compte a été annulé, êtes-vous sûr de le restaurer?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.cancelled": {
+    "message": "Déconnecté",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.restoreAccount": {
+    "message": "Récupérer votre compte",
+    "description": "2.0 admin.js"
+  },
+  "teachersWorkNumber": {
+    "message": "Numéro d’emploi de l’enseignant",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips22": {
+    "message": "Le compte a été gelé, êtes-vous sûr de le dégeler?",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips28": {
+    "message": "Si le format d’encodage de fichier ne peut pas être analysé, essayez de transcoder en MP4 avant de télécharger.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.freeze": {
+    "message": "La Reine des neiges",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.thawAccount": {
+    "message": "Débloquer votre compte",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips29": {
+    "message": "Veuillez saisir le numéro de l’enseignant",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.fileUploadingTip": {
+    "message": "Téléchargement de pièces jointes",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.choose": {
+    "message": "Sélectionnez",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis1": {
+    "message": "Type SIS",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2": {
+    "message": "SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2Tip": {
+    "message": "Veuillez saisir SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3": {
+    "message": "SISUsername",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3Tip": {
+    "message": "Veuillez saisir SISUsername",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4": {
+    "message": "SISPassword",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4Tip": {
+    "message": "Veuillez entrer SISPassword",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5": {
+    "message": "SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5Tip": {
+    "message": "Veuillez saisir SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSync": {
+    "message": "Synchronisation SIS",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSyncLoading": {
+    "message": "Synchronisation SIS...",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisErrorTip": {
+    "message": "La synchronisation SIS a échoué, accédez à la gestion du site Web pour configurer les informations SIS?",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI1": {
+    "message": "Ajouter une application personnalisée",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI2": {
+    "message": "Paramètres de base",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI3": {
+    "message": "Nom",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI4": {
+    "message": "Icône",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI5": {
+    "message": "Lien d’aide",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI6": {
+    "message": "Paramètres d’intégration",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI7": {
+    "message": "Champ d’application",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI8": {
+    "message": "Montrez-le aux étudiants dans l’application mobile",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI9": {
+    "message": "Montrez-le aux enseignants dans l’application mobile",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI10": {
+    "message": "Présenter l’application web aux étudiants",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI11": {
+    "message": "Présenter l’application web aux étudiants",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI12": {
+    "message": "Appliquer la configuration",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI13": {
+    "message": "Version LTI",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI14": {
+    "message": "Modifier l’application personnalisée",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI15": {
+    "message": "Veuillez saisir {label}",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI16": {
+    "message": "Veuillez télécharger l’icône",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI17": {
+    "message": "Veuillez saisir une adresse URL valide",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI18": {
+    "message": "Ne peut pas dépasser {num} caractères",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.orgResource": {
+    "message": "Ressources institutionnelles",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetbutton": {
+    "message": "Réinitialiser",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettiptitle": {
+    "message": "Réinitialiser le jeton",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettipbody": {
+    "message": "Cette opération réinitialise le jeton de synchronisation SIS, dois-je continuer ?",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resourcestatus": {
+    "message": "État de la ressource",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.site": {
+    "message": "Site",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.instnum": {
+    "message": "Nombre d’établissements",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota1": {
+    "message": "Contingent total",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.usernum": {
+    "message": "Nombre d’utilisateurs",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota2": {
+    "message": "Contingent total",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.effecttime": {
+    "message": "Période de validité",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.over": {
+    "message": "Fin",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetsuccess": {
+    "message": "Réinitialiser avec succès",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.LVCMax": {
+    "message": "Concurrence LVC",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.forever": {
+    "message": "Valable pour toujours",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.concurrencyNum": {
+    "message": "Concurrence",
+    "description": "2.0 admin.js"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "title": {
+    "message": "Discussion Forum Rules And Terms of Use",
+    "description": "1.0 discussConvention.json"
+  },
+  "page-title": {
+    "message": "ULearning Discussion Forum Rules And Terms of Use",
+    "description": "1.0 discussConvention.json"
+  },
+  "preface": {
+    "message": "We request that every new and renewing member read, agree to and abide by our forum rules and terms of service before using the platform. Your use of this platform signifies your agreement with all of our rules and terms of service.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule0": {
+    "message": "This forum adopts a real-name system. The user's comments in the forum (including but not limited to text, pictures, audio, and video) may not violate the laws and regulations of the country. According to the Regulations on the Administration of Internet News Information Services, the user's comments shall not contain the following:",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule1": {
+    "message": "1. Violating the basic principles established in the Constitution",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule2": {
+    "message": "2. Endangering national security, disclosing state secrets, subverting state power, and undermining national unity",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule3": {
+    "message": "3. Harming the honor and interests of the State",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule4": {
+    "message": "4. Inciting racial hatred, racial discrimination, and undermining national unity",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule5": {
+    "message": "5. Undermining the state's religious policies and promoting cults and feudal superstitions",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule6": {
+    "message": "6. Spreading rumors, disturbing social order, and undermining social stability",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule7": {
+    "message": "7. Spreading pornography, gambling, violence, terrorism, and soliciting crime",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule8": {
+    "message": "8. Insulting or slandering others and infringing on the legitimate rights and interests of others",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule9": {
+    "message": "9. Inciting illegal assemblies, protests, and gatherings to disturb social order",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule10": {
+    "message": "10. Activities in the name of illegal civil society organizations",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule11": {
+    "message": "11. Containing other contents prohibited by laws and administrative regulations",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule12": {
+    "message": "The users' comments should also conform to the rules of a specific discussion forum they are participating in. Users should know about the discussion topic and relevant regulations before they comment. They should not post comments that do not conform to the rules or comments irrelevant to the discussion topic",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule13": {
+    "message": "Users shall abide by the community rules and network ethics, shall not use obscene language, and shall not carry out spamming, malicious refreshing top posts, malicious commenting, and other behaviors which may affect others' participation in discussion.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule14": {
+    "message": "Users shall respect the privacy of others, and shall not publish personal data such as name, address, phone number or other private information of others unless it is with the consent of the person concerned.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule15": {
+    "message": "Advertising or other content for commercial gain is prohibited without the permission of the Forum.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule16": {
+    "message": " If a user makes illegal remarks in the forum, the forum administrator shall have the right to delete all or part of the comments, and conduct appropriate punishment to the user according to the circumstances and the harmful results.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule17": {
+    "message": "Users should respect the intellectual property rights of others, not plagiarize others' works, and reprint and quote others' works in compliance with copyright permission.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule18": {
+    "message": "Reprinting or quoting the content of this forum must be well-intended for the purpose of providing free news or public information,  must not distort or modify the original intent of the content of this forum, and bear legal responsibilities such as copyright.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule19": {
+    "message": "Reprinting or quoting the content of this forum shall not carry out the following activities:",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule20": {
+    "message": "Harm the interests of this forum or others.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule21": {
+    "message": "Any violation of the law.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule22": {
+    "message": "Any behavior that may undermine public order and morals.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule23": {
+    "message": " Unauthorized consent to others to reprint and quote the content of this forum.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule24": {
+    "message": "Reprint or quote the copyrighted content of this forum with the words \"Reprinted from (or quoted from) ULearning Discussion Forum\" and indicate the source URL: ",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule25": {
+    "message": "If you reprint or quote signed articles in this forum for commercial purposes, please pay the author's remuneration as required.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule26": {
+    "message": "ULearning/this forum shall not be liable for civil disputes, administrative processing or other losses arising from improper reprinting or citation of the contents of this forum.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule27": {
+    "message": "We do not guarantee that the web/forum page will not be interrupted. We reserve the right to modify or withdraw access to this site/forum at any time. We shall not be liable for any loss caused by the use or inability to use the services provided on this site/forum.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule28": {
+    "message": "For those who do not abide by this convention or conduct other illegal or malicious use of the content of this forum, we will pursue their legal liabilities in accordance with the law.",
+    "description": "1.0 discussConvention.json"
+  },
+  "rule29": {
+    "message": "This Convention shall come into force on the date of issuance. If it conflicts with national laws and regulations, it shall be deemed invalid.",
+    "description": "1.0 discussConvention.json"
+  }
+}

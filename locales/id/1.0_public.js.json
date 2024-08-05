@@ -1,0 +1,250 @@
+{
+  "qLibrary": {
+    "message": "Kumpulan soal",
+    "description": "1.0 public.js"
+  },
+  "singleQ": {
+    "message": "Pilihan ganda",
+    "description": "1.0 public.js"
+  },
+  "moreQ": {
+    "message": "Pilih lebih dari 1",
+    "description": "1.0 public.js"
+  },
+  "yesNoQ": {
+    "message": "Benar atau salah",
+    "description": "1.0 public.js"
+  },
+  "fillQ": {
+    "message": "Isian",
+    "description": "1.0 public.js"
+  },
+  "JQuiz": {
+    "message": "Uraian",
+    "description": "1.0 public.js"
+  },
+  "SequenceQ": {
+    "message": "Urutan",
+    "description": "1.0 public.js"
+  },
+  "vocabularyTest": {
+    "message": "Pilih kata dan isi",
+    "description": "1.0 public.js"
+  },
+  "writeEnglish": {
+    "message": "Esai Bahasa Inggris",
+    "description": "1.0 public.js"
+  },
+  "drop": {
+    "message": "Dropdown",
+    "description": "1.0 public.js"
+  },
+  "clozeTest": {
+    "message": "Lengkapi paragraf",
+    "description": "1.0 public.js"
+  },
+  "spokenReadQ": {
+    "message": "Membaca",
+    "description": "1.0 public.js"
+  },
+  "subOral": {
+    "message": "Percakapan",
+    "description": "1.0 public.js"
+  },
+  "formulaCalc": {
+    "message": "Rumus",
+    "description": "1.0 public.js"
+  },
+  "synthesis": {
+    "message": "Komprehensif",
+    "description": "1.0 public.js"
+  },
+  "single": {
+    "message": "Pilih 1",
+    "description": "1.0 public.js"
+  },
+  "multiple": {
+    "message": "Pilih lebih dari 1",
+    "description": "1.0 public.js"
+  },
+  "judge": {
+    "message": "Benar atau salah",
+    "description": "1.0 public.js"
+  },
+  "fill": {
+    "message": "Isian",
+    "description": "1.0 public.js"
+  },
+  "shortAnswer": {
+    "message": "Uraian",
+    "description": "1.0 public.js"
+  },
+  "sort": {
+    "message": "Urutan",
+    "description": "1.0 public.js"
+  },
+  "fillBlank": {
+    "message": " Pilih kata dan isi",
+    "description": "1.0 public.js"
+  },
+  "dropDown": {
+    "message": "Drop-down",
+    "description": "1.0 public.js"
+  },
+  "cloze": {
+    "message": "Lengkapi paragraf",
+    "description": "1.0 public.js"
+  },
+  "spokenRead": {
+    "message": "Membaca",
+    "description": "1.0 public.js"
+  },
+  "subSpoken": {
+    "message": "Percakapan",
+    "description": "1.0 public.js"
+  },
+  "saveText": {
+    "message": "Simpan",
+    "description": "1.0 public.js"
+  },
+  "deleteText": {
+    "message": "Hapus",
+    "description": "1.0 public.js"
+  },
+  "edit": {
+    "message": "Ubah",
+    "description": "1.0 public.js"
+  },
+  "cancelText": {
+    "message": "Batalkan",
+    "description": "1.0 public.js"
+  },
+  "OK": {
+    "message": "OK",
+    "description": "1.0 public.js"
+  },
+  "submitText": {
+    "message": "Kumpul",
+    "description": "1.0 public.js"
+  },
+  "tag": {
+    "message": "Label",
+    "description": "1.0 public.js"
+  },
+  "upload": {
+    "message": "unggah",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "Jawaban",
+    "description": "1.0 public.js"
+  },
+  "analysis": {
+    "message": "Analisa",
+    "description": "1.0 public.js"
+  },
+  "appointedTeacher": {
+    "message": "Dosen tertentu",
+    "description": "1.0 public.js"
+  },
+  "schoolTeacher": {
+    "message": "Dosen universitas ini",
+    "description": "1.0 public.js"
+  },
+  "allTeacher": {
+    "message": "Semua dosen",
+    "description": "1.0 public.js"
+  },
+  "scoreUnit": {
+    "message": "{count} poin",
+    "description": "1.0 public.js"
+  },
+  "selectAll": {
+    "message": "Pilih semua",
+    "description": "1.0 public.js"
+  },
+  "all": {
+    "message": "Semua",
+    "description": "1.0 public.js"
+  },
+  "uploadFile": {
+    "message": "Unggah dokumen",
+    "description": "1.0 public.js"
+  },
+  "addAttachment": {
+    "message": "Tambah lampiran",
+    "description": "1.0 public.js"
+  },
+  "uploading": {
+    "message": "Sedang mengunggah...",
+    "description": "1.0 public.js"
+  },
+  "size": {
+    "message": "ukuran",
+    "description": "1.0 public.js"
+  },
+  "selectClass": {
+    "message": "Pilih kelas",
+    "description": "1.0 public.js"
+  },
+  "point": {
+    "message": "Tips",
+    "description": "1.0 public.js"
+  },
+  "know": {
+    "message": "Saya sudah tahu",
+    "description": "1.0 public.js"
+  },
+  "checkNoResult": {
+    "message": "Tidak ada hasil, silahkan periksa persyaratan pencarian!",
+    "description": "1.0 public.js"
+  },
+  "pleaseInput": {
+    "message": "Silahkan masukkan",
+    "description": "1.0 public.js"
+  },
+  "gotoTop": {
+    "message": "Kembali ke atas",
+    "description": "1.0 public.js"
+  },
+  "preview": {
+    "message": "Pratinjau",
+    "description": "1.0 public.js"
+  },
+  "dialogDefaultContent": {
+    "message": " Data berhasil diubah ",
+    "description": "1.0 public.js"
+  },
+  "close": {
+    "message": "Tutup",
+    "description": "1.0 public.js"
+  },
+  "download": {
+    "message": "Unduh",
+    "description": "1.0 public.js"
+  },
+  "paste": {
+    "message": "Tempel",
+    "description": "1.0 public.js"
+  },
+  "flashVersionTip": {
+    "message": " Silahkan pastikan versi FLASH browser anda lebih dari atau sama dengan 11.1.0 ",
+    "description": "1.0 public.js"
+  },
+  "getFlash": {
+    "message": " Dapatkan Adobe Flash player",
+    "description": "1.0 public.js"
+  },
+  "recordTime": {
+    "message": "Waktu perekaman: {duration} Kedua",
+    "description": "record.js"
+  },
+  "initializing": {
+    "message": "Memulai, harap tunggu ...",
+    "description": "record.js"
+  },
+  "recordError": {
+    "message": "Rekaman gagal",
+    "description": "record.js"
+  }
+}

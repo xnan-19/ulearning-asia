@@ -1,0 +1,90 @@
+{
+    "learningTips3": {
+        "message": "Вы не можете открыть эту ссылку напрямую. Попробуйте скопировать и вставить следующий URL-адрес в свой браузер:",
+        "description": ""
+    },
+    "nextUnit": {
+        "message": "Следующий модуль",
+        "description": ""
+    },
+    "learningTips4": {
+        "message": "Процент выполнения модуля",
+        "description": ""
+    },
+    "lastPage": {
+        "message": "Предыдущая страница",
+        "description": ""
+    },
+    "learningTips5": {
+        "message": "Поздравляем с завершением изучения раздела!",
+        "description": ""
+    },
+    "exit": {
+        "message": "Выход",
+        "description": ""
+    },
+    "menu": {
+        "message": "каталог",
+        "description": ""
+    },
+    "noNore": {
+        "message": "Не осталось",
+        "description": ""
+    },
+    "learningTips2": {
+        "message": "Страница считается изученной только в том случае, если продолжительность просмотра видео составляет не менее 80% от общей продолжительности видео.",
+        "description": ""
+    },
+    "learningTips6": {
+        "message": "В этом разделе есть страницы, которые еще не изучались",
+        "description": ""
+    },
+    "LoginImmediately": {
+        "message": "Войдите немедленно",
+        "description": ""
+    },
+    "collectDirectories": {
+        "message": "Свернуть каталог",
+        "description": ""
+    },
+    "finished": {
+        "message": "выполненный",
+        "description": ""
+    },
+    "studyTime": {
+        "message": "время обучения",
+        "description": ""
+    },
+    "learningTips1": {
+        "message": "Вы не авторизованы. История обучения не будет сохранена.",
+        "description": ""
+    },
+    "chapterStatistics": {
+        "message": "статистика главы",
+        "description": ""
+    },
+    "nextPage": {
+        "message": "Следующая страница",
+        "description": ""
+    },
+    "watched": {
+        "message": "Просмотрено",
+        "description": ""
+    },
+    "description": {
+        "message": "Краткое описание",
+        "description": ""
+    },
+    "expandDirectories": {
+        "message": "развернуть каталог",
+        "description": ""
+    },
+    "fullScreen": {
+        "message": "на весь экран",
+        "description": ""
+    },
+    "studyProgress": {
+        "message": "Прогресс обучения",
+        "description": ""
+    }
+}

@@ -1,0 +1,130 @@
+{
+  "submittingText": {
+    "message": "อยู่ระหว่างการส่ง",
+    "description": "1.0 autoexam.js"
+  },
+  "unitContentText": {
+    "message": "เนื้อหาของหน่วย{0}รายการ",
+    "description": "1.0 autoexam.js"
+  },
+  "allUnitContentText": {
+    "message": "เนื้อหาของหน่วยทั้งหมด",
+    "description": "1.0 autoexam.js"
+  },
+  "selectQBankRange": {
+    "message": "เลือกช่วงของคลังคำถาม",
+    "description": "1.0 autoexam.js"
+  },
+  "myTemplateText": {
+    "message": "แม่แบบของฉัน",
+    "description": "1.0 autoexam.js"
+  },
+  "retainPartText": {
+    "message": "เก็บอย่างน้อยบางส่วน",
+    "description": "1.0 autoexam.js"
+  },
+  "paperNameText": {
+    "message": "ชื่อกระดาษข้อสอบห้ามเว้นว่าง",
+    "description": "1.0 autoexam.js"
+  },
+  "answerTimeText": {
+    "message": "ระยะเวลาในการตอบคําถามห้ามเว้นว่าง",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText1": {
+    "message": "รวม {count}ส่วน",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText2": {
+    "message": "{count} คําถามใหญ่,",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText3": {
+    "message": "รวมคะแนน {count} คะแนน",
+    "description": "1.0 autoexam.js"
+  },
+  "collectText": {
+    "message": "{parts}{questions}{marks}",
+    "description": "{parts} 插值对应上面的 collectText1，{questions}插值对应上面的 collectText2，{marks}插值对应上面的collectText3，也就是说这三个分句组成一句话，翻译可根据需要调整三个分句的顺序，或者添加标点符号。"
+  },
+  "surePaperNameLess": {
+    "message": "โปรดตรวจสอบให้แน่ใจว่าชื่อกระดาษทดสอบอยู่ไม่เกิน 50 ตัวอักษร",
+    "description": "1.0 autoexam.js"
+  },
+  "keyIntegerText": {
+    "message": "กรุณาใส่จํานวนเต็มระหว่าง 1-300",
+    "description": "1.0 autoexam.js"
+  },
+  "makePaperText": {
+    "message": "สร้างกระดาษข้อสอบเสร็จเรียบร้อยแล้ว!",
+    "description": "1.0 autoexam.js"
+  },
+  "QnumberText": {
+    "message": "จํานวนคําถามในคลังคําถามไม่เพียงพอ!",
+    "description": "1.0 autoexam.js"
+  },
+  "addPaperQText": {
+    "message": "หลังจากสร้างข้อสอบต่อไปแล้ว คุณสามารถเพิ่มคําถามด้วยตนเองได้",
+    "description": "1.0 autoexam.js"
+  },
+  "adjustmentPaperText": {
+    "message": "ปรับแต่งข้อสอบ",
+    "description": "1.0 autoexam.js"
+  },
+  "makePaperingText": {
+    "message": "กำลังสร้างข้อสอบ",
+    "description": "1.0 autoexam.js"
+  },
+  "returnModifyText": {
+    "message": "ไม่มีข้อสอบเพิ่มเติมในช่วงของคลังคำถามที่เลือกในการสร้างข้อสอบ โปรดกลับไปแก้ไข!",
+    "description": "1.0 autoexam.js"
+  },
+  "confirmText": {
+    "message": "ตกลง",
+    "description": "1.0 autoexam.js"
+  },
+  "continueMakeText": {
+    "message": "ดําเนินการสร้างต่อไป",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseEnterName": {
+    "message": "กรุณาใส่{0}ชื่อบางส่วนภายในอักขระสองตัว",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseEnterTemplateName": {
+    "message": "กรุณาใส่ชื่อแม่แบบไม่เกิน 20 อักขระตัวอักษร",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseAddQtype": {
+    "message": "กรุณาเพิ่มประเภทคําถาม",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseSelectQrange": {
+    "message": "โปรดเลือกช่วงคําถาม",
+    "description": "1.0 autoexam.js"
+  },
+  "correctRatioText": {
+    "message": "กรุณาใส่อัตราส่วนที่ถูกต้อง",
+    "description": "1.0 autoexam.js"
+  },
+  "getDateErrorText": {
+    "message": "ข้อผิดพลาดในการรับข้อมูล",
+    "description": "1.0 autoexam.js"
+  },
+  "confirmDeleteTemplate": {
+    "message": "แน่ใจว่าต้องการเอาแม่แบบออก?",
+    "description": "1.0 autoexam.js"
+  },
+  "deleteTemplateError": {
+    "message": "มีข้อผิดพลาดในการลบแม่แบบ",
+    "description": "1.0 autoexam.js"
+  },
+  "partNum": {
+    "message": "ส่วนที่{0}",
+    "description": "1.0 autoexam.js"
+  },
+  "totalScoreLabel": {
+    "message": "คะแนนรวม: {0}",
+    "description": "1.0 autoexam.js"
+  }
+}

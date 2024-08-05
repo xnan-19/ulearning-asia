@@ -1,0 +1,1418 @@
+{
+  "1月": {
+    "message": "มกราคม",
+    "description": "个人作业zh_part.json"
+  },
+  "2月": {
+    "message": "กุมภาพันธ์",
+    "description": "个人作业zh_part.json"
+  },
+  "3月": {
+    "message": "มีนาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "4月": {
+    "message": "เมษายน",
+    "description": "个人作业zh_part.json"
+  },
+  "5月": {
+    "message": "พฤษภาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "6月": {
+    "message": "มิถุนายน",
+    "description": "个人作业zh_part.json"
+  },
+  "7月": {
+    "message": "กรกฎาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "8月": {
+    "message": "สิงหาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "9月": {
+    "message": "กันยายน",
+    "description": "个人作业zh_part.json"
+  },
+  "10月": {
+    "message": "ตุลาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "11月": {
+    "message": "พฤศจิกายน",
+    "description": "个人作业zh_part.json"
+  },
+  "12月": {
+    "message": "ธันวาคม",
+    "description": "个人作业zh_part.json"
+  },
+  "日": {
+    "message": "วัน",
+    "description": "星期日"
+  },
+  "一": {
+    "message": "หนึ่ง",
+    "description": "星期一"
+  },
+  "二": {
+    "message": "สอง",
+    "description": "星期二"
+  },
+  "三": {
+    "message": "สาม",
+    "description": "星期三"
+  },
+  "四": {
+    "message": "สี่",
+    "description": "星期四"
+  },
+  "五": {
+    "message": "ห้า",
+    "description": "星期五"
+  },
+  "六": {
+    "message": "หก",
+    "description": "星期六"
+  },
+  "points": {
+    "message": "{n}คะแนน",
+    "description": "PC -> 教师端 -> 学生提交作业列表 \n 移动端 -> 教师端 -> 学生提交作业列表 \n PC -> 教师端 -> 学生提交作业列表 -> 批阅 -> 批阅完成后显示"
+  },
+  "inputPoints": {
+    "message": "{input} คะแนน",
+    "description": "PC -> 教师端 -> 发布个人作业 -> 学生互评 -> 添加评分规则"
+  },
+  "inputPoints2": {
+    "message": "{input} คะแนน คะแนนเต็ม{full}",
+    "description": "教师端 -> 学生提交作业列表 -> 右侧的批阅面板 (需要作业成绩设置为显示等级)"
+  },
+  "允许复制粘贴": {
+    "message": "อนุญาตให้คัดลอกและวาง",
+    "description": "个人作业zh_part.json"
+  },
+  "允许学生上传附件": {
+    "message": "อนุญาตให้นักเรียนอัปโหลดไฟล์แนบได้",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业要求": {
+    "message": "กรุณากรอกข้อกำหนดของการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "点击开始录音": {
+    "message": "คลิกเริ่มการบันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "发布": {
+    "message": "เผยแพร่",
+    "description": "个人作业zh_part.json"
+  },
+  "提交截止": {
+    "message": "ส่งเป็นกําหนดเวลา",
+    "description": "个人作业zh_part.json"
+  },
+  "endTime": {
+    "message": "กำหนดส่งเวลา: {time}",
+    "description": "PC -> 教师端 -> 学生提交作业列表"
+  },
+  "优优正在努力加载中": {
+    "message": "โยวโยวกําลังพยายามโหลด",
+    "description": "个人作业zh_part.json"
+  },
+  "保存": {
+    "message": "บันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择日期": {
+    "message": "โปรดเลือกวันที่",
+    "description": "个人作业zh_part.json"
+  },
+  "选择日期": {
+    "message": "เลือกวันที่",
+    "description": "个人作业zh_part.json"
+  },
+  "取消": {
+    "message": "ยกเลิก",
+    "description": "个人作业zh_part.json"
+  },
+  "保存中": {
+    "message": "กำลังบันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "拍照": {
+    "message": "ถ่ายภาพ",
+    "description": "个人作业zh_part.json"
+  },
+  "loading": {
+    "message": "กําลังโหลด...",
+    "description": "个人作业zh_part.json"
+  },
+  "确定": {
+    "message": "ตกลง",
+    "description": "个人作业zh_part.json"
+  },
+  "标题:": {
+    "message": "ชื่อเรื่อง:",
+    "description": "个人作业zh_part.json"
+  },
+  "小时": {
+    "message": "ชั่วโมง",
+    "description": "个人作业zh_part.json"
+  },
+  "评价方式": {
+    "message": "วิธีการประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "教师评分": {
+    "message": "คะแนนของครู",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择班级": {
+    "message": "โปรดเลือกชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "选择班级": {
+    "message": "เลือกชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "保存草稿": {
+    "message": "บันทึกแบบร่าง",
+    "description": "个人作业zh_part.json"
+  },
+  "成长值": {
+    "message": "มูลค่าการเติบโต",
+    "description": "个人作业zh_part.json"
+  },
+  "作业开始时间": {
+    "message": "เวลาเริ่มทำการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "提交截止时间": {
+    "message": "กําหนดเวลาส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "写作业": {
+    "message": "เขียนการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择参与班级": {
+    "message": "โปรดเลือกชั้นเรียนที่ร่วมรายการ",
+    "description": "个人作业zh_part.json"
+  },
+  "参与班级": {
+    "message": "เข้าร่วมชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "作业详情": {
+    "message": "รายละเอียดการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "已提交": {
+    "message": "ส่งแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "提交": {
+    "message": "ส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "未提交": {
+    "message": "ไม่ได้ส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "wordsLength": {
+    "message": "{n}ตัวอักษร",
+    "description": "学生 -> 写作业(需要系统评分的作业) -> 提交 \n 教师 -> 批阅作业 -> 相似度检测"
+  },
+  "相似度检测": {
+    "message": "การตรวจจับความคล้ายคลึงกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "提醒成功": {
+    "message": "แจ้งเตือนสําเร็จ",
+    "description": "个人作业zh_part.json"
+  },
+  "全部班级": {
+    "message": "ทั้งชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "填写作业名称": {
+    "message": "กรอกชื่อการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "下拉加载更多": {
+    "message": "เลื่อนลงเพื่อโหลดเพิ่มเติม",
+    "description": "个人作业zh_part.json"
+  },
+  "没有更多数据": {
+    "message": "ไม่มีข้อมูลเพิ่มเติม",
+    "description": "个人作业zh_part.json"
+  },
+  "录音中，点击波纹停止": {
+    "message": "กำลังบันทึกเสียงอยู่ คลิกรูประลอกเพื่อหยุดบันทึกเสียง",
+    "description": "个人作业zh_part.json"
+  },
+  "重录": {
+    "message": "บันทึกใหม่",
+    "description": "个人作业zh_part.json"
+  },
+  "重新上传": {
+    "message": "อัปโหลดอีกครั้ง",
+    "description": "个人作业zh_part.json"
+  },
+  "备注，非必填，不超过200字": {
+    "message": "หมายเหตุ, ไม่บังคับ, ไม่เกิน 200 ตัวอักษร",
+    "description": "个人作业zh_part.json"
+  },
+  "选择": {
+    "message": "เลือก",
+    "description": "个人作业zh_part.json"
+  },
+  "相册权限未打开": {
+    "message": "สิทธิ์ของอัลบั้มไม่ได้เปิดอยู่",
+    "description": "个人作业zh_part.json"
+  },
+  "请打开手机权限": {
+    "message": "กรุณาเปิดสิทธิ์ของโทรศัพท์",
+    "description": "个人作业zh_part.json"
+  },
+  "正在录音请稍后重试": {
+    "message": "โปรดลองอีกครั้งในภายหลัง",
+    "description": "个人作业zh_part.json"
+  },
+  "音频转码中": {
+    "message": "อยู่ในระหว่างแปลงรหัสเสียง",
+    "description": "个人作业zh_part.json"
+  },
+  "当前浏览器不支持录音": {
+    "message": "เบราว์เซอร์ปัจจุบันไม่รองรับการบันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "发布后不能更改评价方式": {
+    "message": "ไม่สามารถเปลี่ยนวิธีการให้คะแนนได้หลังจากเผยแพร่แล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "学生互评": {
+    "message": "ประเมินร่วมกันระหว่างนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "英文写作系统评分": {
+    "message": "คะแนนการเขียนเรียงความภาษาอังกฤษประเมินโดยระบบ",
+    "description": "个人作业zh_part.json"
+  },
+  "英文口语系统评分": {
+    "message": "คะแนนการพูดภาษาอังกฤษประเมินโดยระบบ",
+    "description": "个人作业zh_part.json"
+  },
+  "reviewedOfperStudent": {
+    "message": "นักเรียนแต่ละคนประเมินการบ้านคนละ{n}ชุด",
+    "description": "PC/移动端 -> 教师 -> 布置作业 -> 学生互评"
+  },
+  "reviewedOfperStudent2": {
+    "message": "นักเรียนแต่ละคนประเมินคนละ{n}ชุด",
+    "description": " PC/移动端 -> 学生 -> 互评作业详情"
+  },
+  "互评规则": {
+    "message": "กฎการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "总分": {
+    "message": "คะแนนรวม",
+    "description": "个人作业zh_part.json"
+  },
+  "totalPointsOf": {
+    "message": "คะแนนรวม{total}",
+    "description": "PC -> 学生 -> 互评作业 -> 评价任务(要求作业设置评分点)"
+  },
+  "注：学生录音超过3分钟系统将无法评分": {
+    "message": "หมายเหตุ: นักเรียนที่บันทึกเสียงเกิน 3 นาทีระบบจะไม่ให้คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "注：学生作业只能输入英文，不支持上传附件": {
+    "message": "หมายเหตุ: การบ้านของนักเรียนสามารถป้อนด้วยภาษาอังกฤษเท่านั้น ไม่รองรับการอัปโหลดไฟล์แนบ",
+    "description": "个人作业zh_part.json"
+  },
+  "取消后学生只能手动打字输入请谨慎使用": {
+    "message": "หลังจากยกเลิกนักเรียนสามารถพิมพ์ป้อนด้วยตนเองเท่านั้นโปรดใช้ด้วยความระมัดระวัง",
+    "description": "个人作业zh_part.json"
+  },
+  "支持录音、文档、音频、视频、图片、压缩包": {
+    "message": "รองรับการบันทึกเสียง, เอกสาร, เสียง, วิดีโอ, รูปภาพ, แพคเกจการบีบอัดไฟล์",
+    "description": "个人作业zh_part.json"
+  },
+  "作业附件中的内容无法被查重": {
+    "message": "ไม่สามารถตรวจสอบเนื้อหาในเอกสารแนบของการบ้านได้",
+    "description": "个人作业zh_part.json"
+  },
+  "语法检测可以检测作业里英语语法错误": {
+    "message": "การตรวจไวยากรณ์สามารถตรวจจับข้อผิดพลาดทางไวยากรณ์ภาษาอังกฤษในการบ้านได้",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止时间": {
+    "message": "เวลาสิ้นสุดการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "传附件": {
+    "message": "โหลดเอกสารแนบ",
+    "description": "个人作业zh_part.json"
+  },
+  "粘贴": {
+    "message": "วาง",
+    "description": "个人作业zh_part.json"
+  },
+  "查重": {
+    "message": "ตรวจสอบอีกครั้ง",
+    "description": "个人作业zh_part.json"
+  },
+  "语法检查": {
+    "message": "การตรวจสอบไวยากรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "对作业内容进行查重": {
+    "message": "ตรวจสอบเนื้อหาของการบ้านอีกครั้ง",
+    "description": "个人作业zh_part.json"
+  },
+  "允许学生使用语法检查": {
+    "message": "อนุญาตให้นักเรียนใช้การตรวจสอบไวยากรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "附件上传中，请等待上传完成再提交": {
+    "message": "อยู่ในระหว่างอัปโหลดไฟล์แนบ โปรดรอจนกว่าการอัปโหลดจะเสร็จสมบูรณ์ก่อนที่จะส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "作业已开始，不能修改成长值": {
+    "message": "การบ้านได้เริ่มต้นแล้ว ไม่สามารถปรับเปลี่ยนค่าการเติบโตได้",
+    "description": "个人作业zh_part.json"
+  },
+  "重传": {
+    "message": "อัปโหลดอีกครั้ง",
+    "description": "个人作业zh_part.json"
+  },
+  "其他类型附件请使用电脑登录网站提交": {
+    "message": "สำหรับไฟล์แนบประเภทอื่นๆโปรดใช้คอมพิวเตอร์เพื่อเข้าสู่ระบบเว็บไซต์แล้วทำการส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "最多添加20个附件": {
+    "message": "เพิ่มสิ่งที่แนบมาได้สูงสุด 20 รายการ",
+    "description": "个人作业zh_part.json"
+  },
+  "没有符合条件的学生": {
+    "message": "ไม่มีนักเรียนที่ตรงตามเงื่อนไข",
+    "description": "个人作业zh_part.json"
+  },
+  "录音上传失败": {
+    "message": "อัปโหลดบันทึกเสียงล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "开始录音": {
+    "message": "เริ่มการบันทึกเสียง",
+    "description": "个人作业zh_part.json"
+  },
+  "点击": {
+    "message": "คลิก",
+    "description": "个人作业zh_part.json"
+  },
+  "并朗读以下内容。请在": {
+    "message": "และอ่านออกเสียงข้อความต่อไปนี้ กรุณา",
+    "description": "个人作业zh_part.json"
+  },
+  "3分钟内": {
+    "message": "ภายใน 3 นาที",
+    "description": "个人作业zh_part.json"
+  },
+  "完成跟读，3分钟后会自动停止录音。": {
+    "message": "เสร็จสิ้นการอ่าน การบันทึกจะหยุดโดยอัตโนมัติหลังจาก 3 นาที",
+    "description": "个人作业zh_part.json"
+  },
+  "最多输入5000字": {
+    "message": "ป้อนคําได้สูงสุด 5,000 ตัวอักษร",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业要求。作业最多支持5000字;手机app仅支持上传图片和录音,其它类型附件需要学生使用电脑网页版提交。": {
+    "message": "กรุณากรอกข้อกำหนดของการบ้าน การบ้านรองรับคำศัพท์ได้มากถึง 5,000 คำ แอปมือถือรองรับการอัปโหลดรูปภาพและไฟล์เสียงเท่านั้น สำหรับไฟล์แนบประเภทอื่นนักเรียนต้องส่งโดยใช้เวอร์ชั่นเว็บของคอมพิวเตอร์",
+    "description": "个人作业zh_part.json"
+  },
+  "writtenWords": {
+    "message": "เขียนไปแล้ว{n}ตัวอักษร",
+    "description": "PC/移动端 -> 学生 -> 写作业"
+  },
+  "您的文章不错，没有发现语法问题，请继续保持哦！": {
+    "message": "บทความของคุณไม่เลว ไม่พบปัญหาทางไวยากรณ์ พยายามคงสิ่งนี้ต่อไปน๊า!",
+    "description": "个人作业zh_part.json"
+  },
+  "语法错误": {
+    "message": "ข้อผิดพลาดทางไวยากรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "词汇错误": {
+    "message": "ข้อผิดพลาดของคำศัพท์",
+    "description": "个人作业zh_part.json"
+  },
+  "加载附件": {
+    "message": "โหลดไฟล์แนบ",
+    "description": "个人作业zh_part.json"
+  },
+  "打开附件": {
+    "message": "เปิดสิ่งที่แนบมา",
+    "description": "个人作业zh_part.json"
+  },
+  "下载出错了": {
+    "message": "เกิดข้อผิดพลาดในการดาวน์โหลด",
+    "description": "个人作业zh_part.json"
+  },
+  "未知网络": {
+    "message": "เครือข่ายที่ไม่รู้จัก",
+    "description": "个人作业zh_part.json"
+  },
+  "继续操作会产生流量费用，确定打开吗？": {
+    "message": "หากดำเนินการต่อจะมีการคิดค่ารับส่งข้อมูลจากผู้ให้บริการเครือข่าย ยืนยันที่จะเปิด?",
+    "description": "个人作业zh_part.json"
+  },
+  "选择时间": {
+    "message": "เลือกเวลา",
+    "description": "个人作业zh_part.json"
+  },
+  "提交开始": {
+    "message": "เริ่มส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止": {
+    "message": "สิ้นสุดการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "peerEndTime": {
+    "message": "กําหนดเวลาสิ้นสุดการประเมินร่วมกัน: {time}",
+    "description": "PC -> 教师端 -> 学生提交作业列表"
+  },
+  "请选择互评截止日期": {
+    "message": "โปรดเลือกวันสิ้นสุดประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择提交截止时间": {
+    "message": "โปรดเลือกเวลาครบกําหนดส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择开始时间": {
+    "message": "โปรดเลือกเวลาเริ่มต้น",
+    "description": "个人作业zh_part.json"
+  },
+  "发布时间不能大于截止时间": {
+    "message": "เวลาเผยแพร่ต้องไม่เกินกําหนดเวลาสิ้นสุด",
+    "description": "个人作业zh_part.json"
+  },
+  "设置作业时间": {
+    "message": "ตั้งค่าเวลาการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止时间不能小于提交截止时间": {
+    "message": "กําหนดเวลาสิ้นสุดสําหรับการประเมินร่วมกันต้องไม่น้อยกว่ากําหนดเวลาส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止时间不能小于发布时间": {
+    "message": "กําหนดเวลาสิ้นสุดสําหรับการประเมินร่วมกันต้องไม่น้อยกว่าเวลาเผยแพร่",
+    "description": "个人作业zh_part.json"
+  },
+  "截止日期不能小于发布日期": {
+    "message": "วันครบกําหนดต้องไม่น้อยกว่าวันที่เผยแพร่",
+    "description": "个人作业zh_part.json"
+  },
+  "提交作业": {
+    "message": "ส่งการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "语法检测": {
+    "message": "ตรวจไวยากรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "reviewedOf": {
+    "message": "ประเมินไปแล้ว{n}ชุด",
+    "description": "PC -> 教师端 -> 学生提交作业列表 \n 移动端 -> 教师端 -> 学生提交作业列表"
+  },
+  "相似": {
+    "message": "คล้ายกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "补交": {
+    "message": "ส่งแก้",
+    "description": "个人作业zh_part.json"
+  },
+  "共享": {
+    "message": "แชร์",
+    "description": "个人作业zh_part.json"
+  },
+  "重写": {
+    "message": "เขียนใหม่",
+    "description": "个人作业zh_part.json"
+  },
+  "申诉": {
+    "message": "ยื่นคำร้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "待批阅": {
+    "message": "รอตรวจ",
+    "description": "个人作业zh_part.json"
+  },
+  "待互评": {
+    "message": "รอการประเมินผลร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "无学生评价": {
+    "message": "ไม่มีความคิดเห็นของนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "作业列表": {
+    "message": "รายการการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "包括学生的提交记录和附件（注：附件可能较大会消耗大量时间）": {
+    "message": "รวมบันทึกการส่งและไฟล์แนบของนักเรียน (หมายเหตุ: ไฟล์แนบอาจมีขนาดใหญ่และใช้เวลานาน)",
+    "description": "个人作业zh_part.json"
+  },
+  "导出详情": {
+    "message": "ส่งออกรายละเอียด",
+    "description": "个人作业zh_part.json"
+  },
+  "excel表格，包含各个班级学生成绩": {
+    "message": "ตาราง excel รวมทั้งคะแนนผลการเรียนของนักเรียนแต่ละชั้น",
+    "description": "个人作业zh_part.json"
+  },
+  "导出成绩": {
+    "message": "ส่งออกคะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "导出": {
+    "message": "ส่งออก",
+    "description": "个人作业zh_part.json"
+  },
+  "共享作业": {
+    "message": "แชร์การบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "没有学生交作业": {
+    "message": "ไม่มีนักเรียนส่งการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "学生们都已经交作业了": {
+    "message": "นักเรียนส่งการบ้านเรียบร้อยแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "天内提交": {
+    "message": "ส่งภายในวัน",
+    "description": "个人作业zh_part.json"
+  },
+  "更改出错了": {
+    "message": "มีข้อผิดพลาดเกิดขึ้นกับการเปลี่ยนแปลง",
+    "description": "个人作业zh_part.json"
+  },
+  "提交已截止，让学生补交作业": {
+    "message": "ปิดรับการส่ง ให้นักเรียนส่งชดเชยการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "前补交": {
+    "message": "ก่อนส่งชดเชย",
+    "description": "个人作业zh_part.json"
+  },
+  "提醒学生交作业": {
+    "message": "เตือนนักเรียนให้ส่งการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "默认排序": {
+    "message": "การเรียงลําดับเริ่มต้น",
+    "description": "个人作业zh_part.json"
+  },
+  "按学号排": {
+    "message": "เรียงตามรหัสนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "按成绩排": {
+    "message": "เรียงตามคะแนนผลการเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "按学号排序": {
+    "message": "เรียงลําดับตามรหัสนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "按成绩排序": {
+    "message": "เรียงลําดับตามคะแนนผลการเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "布置作业": {
+    "message": "มอบหมายการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "作业": {
+    "message": "การบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择": {
+    "message": "โปรดเลือก",
+    "description": "个人作业zh_part.json"
+  },
+  "高级设置": {
+    "message": "การตั้งค่าขั้นสูง",
+    "description": "个人作业zh_part.json"
+  },
+  "删除": {
+    "message": "ลบ",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入跟读内容，200个单词以内，不得输入汉字，否则会造成评分失败": {
+    "message": "โปรดป้อนเนื้อหาการอ่านตาม คำศัพท์ไม่เกิน 200คำ ไม่สามารถป้อนตัวอักษรจีน มิฉะนั้นจะทำให้การให้คะแนนล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业题目": {
+    "message": "กรุณาใส่ชื่อการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "标题不能超过50个字": {
+    "message": "ชื่อเรื่องต้องไม่เกิน 50 ตัวอักษร",
+    "description": "个人作业zh_part.json"
+  },
+  "作业内容不能超过5000字": {
+    "message": "เนื้อหาการบ้านต้องไม่เกิน 5000 อักษร",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入跟读内容": {
+    "message": "กรุณาใส่เนื้อหาอ่านตาม",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入正确的满分": {
+    "message": "กรุณาใส่คะแนนเต็มที่ถูกต้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业开始时间": {
+    "message": "โปรดป้อนเวลาเริ่มต้นการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业截止时间": {
+    "message": "โปรดป้อนกําหนดเวลาสิ้นสุดการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入互评截止时间": {
+    "message": "โปรดป้อนกําหนดเวลาสิ้นสุดสําหรับการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读内容不能超过200个单词": {
+    "message": "เนื้อหาการอ่านตามคำศัพท์ห้ามเกิน 200 คำ",
+    "description": "个人作业zh_part.json"
+  },
+  "至少选择一个班级": {
+    "message": "เลือกอย่างน้อยหนึ่งชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "删除失败": {
+    "message": "การลบล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "删除中": {
+    "message": "อยู่ในระหว่างการลบ",
+    "description": "个人作业zh_part.json"
+  },
+  "确定删除作业吗？": {
+    "message": "ยืนยันลบการบ้านหรือไม่?",
+    "description": "个人作业zh_part.json"
+  },
+  "删除作业": {
+    "message": "ลบการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "修改作业": {
+    "message": "แก้ไขการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "studentsOfReviewed": {
+    "message": "ประเมินโดย {n} คน",
+    "description": "PC -> 教师端 -> 学生提交作业列表 \n 移动端 -> 教师端 -> 学生提交作业列表"
+  },
+  "你未提交作业，返回记录会丢失，确定返回吗？": {
+    "message": "ถ้าคุณไม่ส่งการบ้าน บันทึกการส่งคืนจะสูญหาย ยืนยันที่จะย้อนกลับ?",
+    "description": "个人作业zh_part.json"
+  },
+  "至少输入10个单词": {
+    "message": "ป้อนคําศัพท์อย่างน้อย 10 คํา",
+    "description": "个人作业zh_part.json"
+  },
+  "语法检测中": {
+    "message": "อยู่ในระหว่างตรวจสอบไวยากรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "很棒，你的文章没有检测出问题": {
+    "message": "เยี่ยมมาก ไม่พบปัญหากับบทความของคุณ",
+    "description": "个人作业zh_part.json"
+  },
+  "查重中": {
+    "message": "อยู่ในระหว่างการเช็คซ้ำ",
+    "description": "个人作业zh_part.json"
+  },
+  "duplicateTip2": {
+    "message": "หลังจากตรวจสอบ การบ้านของคุณคล้ายกับการบ้านของเพื่อนร่วมชั้นคนอื่นๆ {n}% โปรดแก้ไขและส่งอีกครั้ง",
+    "description": "学生 -> 写作业 -> 查重 (要求教师布置作业时，设置查重)"
+  },
+  "还不错，放心提交吧": {
+    "message": "ไม่เลว, มั่นใจส่งเถอะ",
+    "description": "个人作业zh_part.json"
+  },
+  "最好稍作修改后再提交": {
+    "message": "ทางที่ดีควรแก้ไขเล็กน้อยก่อนส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "上传附件失败": {
+    "message": "การอัปโหลดสิ่งที่แนบมาล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "作业内容不能为空": {
+    "message": "เนื้อหาของการบ้านห้ามเว้นว่าง",
+    "description": "个人作业zh_part.json"
+  },
+  "提交成功": {
+    "message": "ส่งสําเร็จ",
+    "description": "个人作业zh_part.json"
+  },
+  "保存出错了": {
+    "message": "มีข้อผิดพลาดในการบันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "获取作业出错了": {
+    "message": "มีข้อผิดพลาดในการรับการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "建议使用": {
+    "message": "แนะนำใช้",
+    "description": "个人作业zh_part.json"
+  },
+  "搜索姓名、学号": {
+    "message": "ค้นหาชื่อ รหัสนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读文本录入指南": {
+    "message": "คู่มือการป้อนข้อมูลการอ่านตาม",
+    "description": "个人作业zh_part.json"
+  },
+  "评分规则": {
+    "message": "เกณฑ์การให้คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "添加规则": {
+    "message": "เพิ่มกฎ",
+    "description": "个人作业zh_part.json"
+  },
+  "修改": {
+    "message": "แก้ไข",
+    "description": "个人作业zh_part.json"
+  },
+  "查看规则": {
+    "message": "ดูกฎ",
+    "description": "个人作业zh_part.json"
+  },
+  "帮助学生更客观地评分（非必要）": {
+    "message": "ช่วยให้นักเรียนให้คะแนนอย่างเป็นกลางมากขึ้น (ไม่จําเป็น)",
+    "description": "个人作业zh_part.json"
+  },
+  "成绩显示": {
+    "message": "การแสดงคะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "显示具体分值": {
+    "message": "แสดงคะแนนเฉพาะ",
+    "description": "个人作业zh_part.json"
+  },
+  "显示等级A+~F": {
+    "message": "แสดงระดับ A+~F",
+    "description": "个人作业zh_part.json"
+  },
+  "等级和分值对应关系": {
+    "message": "ความสอดคล้องสัมพันธ์กันของเกรดและคะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "作业时间": {
+    "message": "เวลาทำการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkTime": {
+    "message": "เวลาการบ้าน: {startTime} ถึง {endTime}",
+    "description": "PC -> 教师端 -> 学生提交作业列表 分班级设置的作业才会显示"
+  },
+  "各班分开设置": {
+    "message": "แต่ละชั้นเรียนจะถูกตั้งค่าแยกต่างหาก",
+    "description": "个人作业zh_part.json"
+  },
+  "统一设置": {
+    "message": "การตั้งค่าแบบรวม",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择班级后设置作业时间": {
+    "message": "กรุณาเลือกชั้นเรียนและตั้งเวลาทำการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "等n个班级": {
+    "message": "เท่ากับชั้นเรียน {num} คลาส",
+    "description": "个人作业zh_part.json"
+  },
+  "最多上传20个附件": {
+    "message": "อัปโหลดไฟล์แนบได้สูงสุด 20 รายการ",
+    "description": "个人作业zh_part.json"
+  },
+  "录音初始化失败": {
+    "message": "การเริ่มต้นบันทึกเสียงล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "仅加载已提交的作业，点击刷新": {
+    "message": "โหลดเฉพาะการบ้านที่ส่งแล้ว คลิกรีเฟรช",
+    "description": "个人作业zh_part.json"
+  },
+  "作业等级": {
+    "message": "ระดับการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "各项累计不能超过总分": {
+    "message": "คะแนนสะสมของแต่ละรายการต้องไม่เกินคะแนนรวม",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择作业等级": {
+    "message": "โปรดเลือกระดับของการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "确定删除评分规则": {
+    "message": "ยืนยันที่จะลบเกณฑ์การให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "fullPoints": {
+    "message": "คะแนนเต็ม: {n}คะแนน",
+    "description": "移动端 -> 教师端 -> 发布个人作业 -> 学生互评 -> 评分规则 \n PC -> 学生 -> 互评作业 -> 评价任务(要求作业设置评分点) \n PC -> 学生 -> 作业详情"
+  },
+  "remainPoints": {
+    "message": "ที่เหลือ: {n} คะแนน",
+    "description": "移动端 -> 教师端 -> 发布个人作业 -> 学生互评 -> 评分规则"
+  },
+  "scoringTip": {
+    "message": "คะแนนเต็ม{m}, เหลือ{n}",
+    "description": "PC -> 教师端 -> 发布个人作业 -> 学生互评 -> 添加评分规则"
+  },
+  "fullPointsOf": {
+    "message": "คะแนนเต็ม {score} คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "添加评分点": {
+    "message": "เพิ่มรายการการให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "提示": {
+    "message": "เคล็ดลับ",
+    "description": "个人作业zh_part.json"
+  },
+  "请创建评分点和分值，各评分点分值之和等于总分": {
+    "message": "โปรดสร้างรายการการให้คะแนนประเมินและสัดส่วนคะแนน ผลรวมสัดส่วนคะแนนประเมินแต่ละจุดเท่ากับคะแนนรวม",
+    "description": "个人作业zh_part.json"
+  },
+  "互评开始后不能修改": {
+    "message": "หลังเริ่มการประเมินร่วมกันแล้วไม่สามารถปรับเปลี่ยนได้",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入评分点": {
+    "message": "กรุณาใส่รายการการให้คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入分值": {
+    "message": "กรุณาใส่สัดส่วนคะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "评分点名称不能为空": {
+    "message": "ชื่อรายการการให้คะแนนห้ามว่างเว้น",
+    "description": "个人作业zh_part.json"
+  },
+  "各项分值相加必须等于满分": {
+    "message": "ผลรวมของสัดส่วนคะแนนแต่ละรายการต้องเท่ากับคะแนนเต็ม",
+    "description": "个人作业zh_part.json"
+  },
+  "确定放弃保存": {
+    "message": "ยืนยันละทิ้งการบันทึก",
+    "description": "个人作业zh_part.json"
+  },
+  "添加评分规则": {
+    "message": "เพิ่มเกณฑ์การให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "修改评分规则": {
+    "message": "แก้ไขเกณฑ์การให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "删除评分规则": {
+    "message": "ลบเกณฑ์การให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "查看评分规则": {
+    "message": "ดูเกณฑ์การให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "设置评分规则可以帮助学生更客观地评分": {
+    "message": "การตั้งค่าเกณฑ์การให้คะแนนประเมินจะช่วยให้นักเรียนให้คะแนนประเมินอย่างเป็นกลางมากขึ้น",
+    "description": "个人作业zh_part.json"
+  },
+  "显示实际分值": {
+    "message": "แสดงสัดส่วนคะแนนจริง",
+    "description": "个人作业zh_part.json"
+  },
+  "分数区间和等级的对应关系": {
+    "message": "ความสอดคล้องระหว่างช่วงคะแนนและเกรด",
+    "description": "个人作业zh_part.json"
+  },
+  "说明": {
+    "message": "คําอธิบาย",
+    "description": "个人作业zh_part.json"
+  },
+  "分数": {
+    "message": "คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "教师给学生打等级时，系统会按照该等级对应的分数区间的最小值给分（例如得A的作业默认是90分），教师可以修改该分数，修改后作业的等级不跟着改变。": {
+    "message": "เมื่ออาจารย์ให้คะแนนนักเรียน ระบบจะให้คะแนนตามค่าต่ำสุดของช่วงคะแนนที่ตรงกับเกรด (เช่น ค่าเริ่มต้นของการบ้านสำหรับ A คือ 90 คะแนน) ครูสามารถแก้ไขคะแนนดังกล่าว เกรดของการบ้านจะไม่เปลี่ยนแปลงหลังจากแก้ไข",
+    "description": "个人作业zh_part.json"
+  },
+  "系统批阅的作业，会将分数转化为等级（例如系统批阅作业得84分，那么学生的等级是B）。": {
+    "message": "การบ้านที่ระบบตรวจ จะแปลงคะแนนเป็นเกรด (เช่นหากระบบตรวจการบ้านได้ 84 คะแนน เกรดของนักเรียนจะเป็น B)",
+    "description": "个人作业zh_part.json"
+  },
+  "已选班级": {
+    "message": "เลือกชั้นเรียนแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "开始时间": {
+    "message": "เวลาเริ่มต้น",
+    "description": "个人作业zh_part.json"
+  },
+  "startTime": {
+    "message": "เวลาเริ่มต้น: {time}",
+    "description": "PC -> 教师端 -> 学生提交作业列表"
+  },
+  "每个班级分开设置": {
+    "message": "แต่ละชั้นเรียนจะถูกตั้งค่าแยกต่างหาก",
+    "description": "个人作业zh_part.json"
+  },
+  "暂不设置": {
+    "message": "ไม่ได้ตั้งค่าไว้ชั่วคราว",
+    "description": "个人作业zh_part.json"
+  },
+  "教师已批阅": {
+    "message": "ครูตรวจแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "已共享": {
+    "message": "แชร์แล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "需重写": {
+    "message": "ต้องเขียนใหม่",
+    "description": "个人作业zh_part.json"
+  },
+  "系统已批阅": {
+    "message": "ระบบได้ตรวจแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "教师评语": {
+    "message": "ความคิดเห็นของครู",
+    "description": "个人作业zh_part.json"
+  },
+  "该学生的作业没有得到任何同学的评价，需要您去批阅。": {
+    "message": "การบ้านของนักเรียนคนดังกล่าวไม่ได้รับการประเมินจากเพื่อนร่วมชั้นคนอื่น คุณต้องลงมือตรวจเอง",
+    "description": "个人作业zh_part.json"
+  },
+  "学生互评作业，学生互评结束后可以查看评价详情": {
+    "message": "นักเรียนจะประเมินงานร่วมกัน นักเรียนสามารถดูรายละเอียดการประเมินผลหลังจากการประเมินร่วมกันสิ้นสุดลง",
+    "description": "个人作业zh_part.json"
+  },
+  "学生互评中，学生互评结束后可以查看评价详情": {
+    "message": "อยู่ในระหว่างการประเมินร่วมกันของนักเรียน สามารถดูรายละเอียดการประเมินหลังจากที่การประเมินร่วมกันของนักเรียนสิ้นสุดลง",
+    "description": "个人作业zh_part.json"
+  },
+  "学生已互评": {
+    "message": "นักเรียนได้ประเมินซึ่งกันและกันแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "申述理由": {
+    "message": "เหตุผลในการยื่นคำร้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "gradeOfStu": {
+    "message": "คะแนนผลการเรียนของ {stuName}: {n}คะแนน คะแนนเฉลี่ยสําหรับการประเมินร่วมกัน: {peer}คะแนน  งานประเมินที่ไม่เสร็จสมบูรณ์: {m}คะแนน",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价"
+  },
+  "gradeOfStu2": {
+    "message": "คะแนนผลการเรียนของ {stuName}: {n} คะแนน คะแนนเฉลี่ยสําหรับการประเมินร่วมกัน: {peer}คะแนน",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价"
+  },
+  "deductScore": {
+    "message": "หักคะแนน: {content}",
+    "description": "移动端 -> 教师 -> 批阅互评作业"
+  },
+  "contentOfDeductScore": {
+    "message": "งานการประเมินที่ทำไม่เสร็จ {n} คะแนน",
+    "description": "移动端 -> 教师 -> 批阅互评作业"
+  },
+  "noEvaluate": {
+    "message": "ไม่ได้ทำการประเมิน {deduct}",
+    "description": "移动端 -> 教师 -> 批阅互评作业 -> 评价任务"
+  },
+  "所在班级": {
+    "message": "ชั้นเรียนที่อยู่",
+    "description": "个人作业zh_part.json"
+  },
+  "每个班级作业时间不一样，切换班级查看": {
+    "message": "เวลาทำการบ้านของแต่ละชั้นไม่เหมือนกัน สลับชั้นเรียนเพื่อดู",
+    "description": "个人作业zh_part.json"
+  },
+  "全部": {
+    "message": "ทั้งหมด",
+    "description": "个人作业zh_part.json"
+  },
+  "已批阅": {
+    "message": "ตรวจแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "未批阅": {
+    "message": "ยังไม่ตรวจ",
+    "description": "个人作业zh_part.json"
+  },
+  "班级": {
+    "message": "ชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "姓名": {
+    "message": "ชื่อ",
+    "description": "个人作业zh_part.json"
+  },
+  "学号": {
+    "message": "รหัสนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "提交时间": {
+    "message": "เวลาที่ส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "评价进度": {
+    "message": "ประเมินความคืบหน้า",
+    "description": "个人作业zh_part.json"
+  },
+  "得分": {
+    "message": "คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "操作": {
+    "message": "การดําเนินการ",
+    "description": "个人作业zh_part.json"
+  },
+  "查看": {
+    "message": "ดู",
+    "description": "个人作业zh_part.json"
+  },
+  "批阅": {
+    "message": "ตรวจ",
+    "description": "个人作业zh_part.json"
+  },
+  "搜索": {
+    "message": "ค้นหา",
+    "description": "个人作业zh_part.json"
+  },
+  "输入班级名称搜索": {
+    "message": "ป้อนการค้นหาชื่อชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "全选": {
+    "message": "เลือกทั้งหมด",
+    "description": "个人作业zh_part.json"
+  },
+  "没有符合条件的班级": {
+    "message": "ไม่มีชั้นเรียนที่ตรงตามเงื่อนไข",
+    "description": "个人作业zh_part.json"
+  },
+  "已选择": {
+    "message": "เลือกแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "全部教师": {
+    "message": "อาจารย์ทั้งหมด",
+    "description": "个人作业zh_part.json"
+  },
+  "的作业详情": {
+    "message": "รายละเอียดการบ้านของ",
+    "description": "个人作业zh_part.json"
+  },
+  "scoringOf": {
+    "message": "คะแนนประเมิน: {score}",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价 \n PC -> 教师 -> 学生提交作业列表 -> 别人给TA的评价"
+  },
+  "评语": {
+    "message": "ความคิดเห็น",
+    "description": "个人作业zh_part.json"
+  },
+  "无": {
+    "message": "ไม่มี",
+    "description": "个人作业zh_part.json"
+  },
+  "未对该同学的作业做出任何评价": {
+    "message": "ไม่ได้ทำการประเมินการบ้านของเพื่อนร่วมชั้นคนดังกล่าว คะแนน-{score} คะแนน",
+    "description": "个人作业zh_part.json"
+  },
+  "未对该同学的作业做出任何评价不扣分": {
+    "message": "ได้ทำการประเมินการบ้านของเพื่อนร่วมชั้นคนดังกล่าว",
+    "description": "个人作业zh_part.json"
+  },
+  "未评": {
+    "message": "ยังไม่ได้ประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "预览": {
+    "message": "แสดงตัวอย่าง",
+    "description": "个人作业zh_part.json"
+  },
+  "路径有误": {
+    "message": "เส้นทางไม่ถูกต้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "图片加载中": {
+    "message": "รูปภาพกําลังโหลด",
+    "description": "个人作业zh_part.json"
+  },
+  "1:1显示": {
+    "message": "จอแสดงผล 1:1",
+    "description": "个人作业zh_part.json"
+  },
+  "添加批注": {
+    "message": "เพิ่มการตรวจแก้ใส่คำอธิบายประกอบ",
+    "description": "个人作业zh_part.json"
+  },
+  "删除批注": {
+    "message": "ลบการตรวจแก้ใส่คำอธิบายประกอบ",
+    "description": "个人作业zh_part.json"
+  },
+  "旋转中": {
+    "message": "อยู่ในระหว่งการหมุน",
+    "description": "个人作业zh_part.json"
+  },
+  "旋转": {
+    "message": "หมุน",
+    "description": "个人作业zh_part.json"
+  },
+  "附件": {
+    "message": "สิ่งที่แนบมา",
+    "description": "个人作业zh_part.json"
+  },
+  "下载": {
+    "message": "ดาวน์โหลด",
+    "description": "个人作业zh_part.json"
+  },
+  "批注": {
+    "message": "ตรวจแก้ใส่คําอธิบายประกอบ",
+    "description": "个人作业zh_part.json"
+  },
+  "提互评截止交截止": {
+    "message": "กำหนดส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "添加班级": {
+    "message": "เพิ่มชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "修改作业时间": {
+    "message": "ปรับเปลี่ยนเวลาของการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "删除班级": {
+    "message": "ลบชั้นเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "评分点": {
+    "message": "รายการการให้คะแนนประเมิน",
+    "description": "个人作业zh_part.json"
+  },
+  "学生名单": {
+    "message": "รายชื่อนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "submittedOn": {
+    "message": "ส่งเมื่อ{time}",
+    "description": "PC -> 教师 -> 批阅作业"
+  },
+  "注：提交截止后开始互评。在提交截止后补交的学生将无法参与互评，需要教师来批阅该学生的作业。": {
+    "message": "หมายเหตุ: การประเมินร่วมกันจะเริ่มหลังจากกำหนดส่ง นักเรียนที่ทำขึ้นหลังพ้นกำหนดส่งการบ้านไปแล้วจะไม่สามารถมีส่วนร่วมในการประเมินร่วมกัน จำเป็นต้องให้ครูเป็นผู้ตรวจการบ้านของนักเรียนคนดังกล่าว",
+    "description": "个人作业zh_part.json"
+  },
+  "注：互评已开始！修改截止时间后补交的学生将无法参与互评，需要教师来批阅该学生的作业。": {
+    "message": "หมายเหตุ: การประเมินร่วมกันได้เริ่มขึ้นแล้ว! นักเรียนที่ทำขึ้นหลังพ้นกำหนดหมดเขตจะไม่สามารถมีส่วนร่วมในการประเมินร่วมกัน  จำเป็นต้องให้ครูเป็นผู้ตรวจการบ้านของนักเรียนคนดังกล่าว",
+    "description": "个人作业zh_part.json"
+  },
+  "评分规则和满分不相等请修改": {
+    "message": "เกณฑ์การให้คะแนนและคะแนนเต็มไม่เท่ากันโปรดแก้ไข",
+    "description": "个人作业zh_part.json"
+  },
+  "设置若干评分点，细化评分规则，可以帮助学生更客观地进行互评": {
+    "message": "การตั้งค่ารายการการให้คะแนนประเมินหลายรายการ ปรับกฎเกณฑ์การให้คะแนนประเมิน จะช่วยให้นักเรียนทำการประเมินร่วมกันอย่างเป็นกลางมากขึ้น",
+    "description": "个人作业zh_part.json"
+  },
+  "rateOfPoint": {
+    "message": "คิดเป็นสัดส่วน {n}% ของคะแนนที่เกี่ยวข้อง",
+    "description": "PC -> 教师端 -> 发布个人作业 -> 学生互评 -> 添加评分规则"
+  },
+  "注意：进入互评阶段后不允许修改": {
+    "message": "หมายเหตุ: ไม่อนุญาตให้แก้ไขหลังจากเข้าสู่ขั้นตอนการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读文本含有不支持的字符": {
+    "message": "ข้อความที่อ่านตามมีอักขระที่ไม่รองรับ",
+    "description": "个人作业zh_part.json"
+  },
+  "按相似度排序": {
+    "message": "เรียงลําดับตามความคล้ายคลึงกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "申诉作业": {
+    "message": "ยื่นคำร้องเรื่องการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "作业成绩列表": {
+    "message": "รายการคะแนนการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "批阅作业": {
+    "message": "ตรวจการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "历史作业": {
+    "message": "ประวัติการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "互评作业详情": {
+    "message": "รายละเอียดการบ้านการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "duplicateTip1": {
+    "message": "หลังจากตรวจสอบ การบ้านของคุณมีมีระดับความคล้ายคลึงกันกับการบ้านของนักเรียนคนอื่นในเกณฑ์ที่ต่ำ",
+    "description": "学生 -> 写作业 -> 查重 (要求教师布置作业时，设置查重)"
+  },
+  "作业被批阅前你可以撤回重交，批阅后将无法撤回。确定提交作业？": {
+    "message": "ก่อนที่การบ้านจะถูกตรวจคุณสามารถถอนแล้วส่งใหม่ได้ ไม่สามารถเรียกคืนได้หลังจากตรวจแล้ว ยืนยันส่งการบ้านหรือไม่?",
+    "description": "个人作业zh_part.json"
+  },
+  "输入关键字搜索": {
+    "message": "ป้อนคีย์เวิร์ดเพื่อค้นหา",
+    "description": "个人作业zh_part.json"
+  },
+  "按申诉排序": {
+    "message": "เรียงลําดับตามการยื่นคำร้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "没有找到相关作业": {
+    "message": "ไม่พบการบ้านที่เกี่ยวข้อง",
+    "description": "个人作业zh_part.json"
+  },
+  "已通知学生补交，截止时间": {
+    "message": "ได้แจ้งให้นักเรียนส่งชดเชยแล้ว กำหนดหมดเขตเวลา",
+    "description": "个人作业zh_part.json"
+  },
+  "学生全部提交了作业": {
+    "message": "นักเรียนทุกคนได้ส่งการบ้านแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "没有学生提交作业": {
+    "message": "ไม่มีนักเรียนคนใดส่งการบ้าน",
+    "description": "个人作业zh_part.json"
+  },
+  "没有未批阅的作业": {
+    "message": "ไม่มีการบ้านที่ยังไม่ได้ตรวจ",
+    "description": "个人作业zh_part.json"
+  },
+  "没有批阅过的作业": {
+    "message": "ไม่มีการบ้านที่ตรวจไปแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "没有学生": {
+    "message": "ไม่มีนักเรียน",
+    "description": "个人作业zh_part.json"
+  },
+  "哎呦，出错了。": {
+    "message": "อ๊ะ มีบางอย่างผิดปกติ",
+    "description": "个人作业zh_part.json"
+  },
+  "本次作业禁止复制粘贴": {
+    "message": "การบ้านครั้งนี้ห้ามคัดลอกและวาง",
+    "description": "个人作业zh_part.json"
+  },
+  "完成": {
+    "message": "เสร็จสิ้นเรียบร้อย",
+    "description": "个人作业zh_part.json"
+  },
+  "别人给TA的评价": {
+    "message": "ความคิดเห็นของผู้อื่นเกี่ยวกับ TA",
+    "description": "个人作业zh_part.json"
+  },
+  "TA给别人的评价": {
+    "message": "TA ให้ความเห็นต่อผู้อื่น",
+    "description": "个人作业zh_part.json"
+  },
+  "后面没有了": {
+    "message": "ด้านหลังไม่มีแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "我知道了": {
+    "message": "ฉันเข้าใจแล้ว",
+    "description": "个人作业zh_part.json"
+  },
+  "作业还没开始哦~": {
+    "message": "การบ้านยังไม่เริ่มน๊า~",
+    "description": "个人作业zh_part.json"
+  },
+  "作业将于{time}开始": {
+    "message": "การบ้านจะเริ่มต้นใน {time}",
+    "description": "个人作业zh_part.json"
+  },
+  "请在作业开始后查看并完成作业。": {
+    "message": "หลังการบ้านเริ่มต้นขึ้นโปรดตรวจดูและทำการบ้านให้เสร็จสมบูรณ์",
+    "description": "个人作业zh_part.json"
+  },
+  "教师修改了作业时间，当前时间无法提交或修改作业": {
+    "message": "ครูได้ปรับเปลี่ยนเวลาการบ้าน ขณะนี้ไม่สามารถส่งหรือปรับเปลี่ยนการบ้านได้ ",
+    "description": "个人作业zh_part.json"
+  },
+  "作业已截止，无法提交作业": {
+    "message": "การบ้านหมดเขตแล้ว ไม่สามารถส่งการบ้านได้",
+    "description": "个人作业zh_part.json"
+  },
+  "设置开始时间": {
+    "message": "ตั้งค่าเวลาเริ่มต้น",
+    "description": "个人作业zh_part.json"
+  },
+  "设置提交截止时间": {
+    "message": "ตั้งค่ากําหนดเวลาสิ้นสุดการส่ง",
+    "description": "个人作业zh_part.json"
+  },
+  "设置互评截止时间": {
+    "message": "ตั้งค่ากําหนดเวลาสิ้นสุดสําหรับการประเมินร่วมกัน",
+    "description": "个人作业zh_part.json"
+  },
+  "当前已有学生提交作业，修改作业开始时间不影响已提交的作业，此部分作业仍是已提交状态，确定修改作业开始时间吗？": {
+    "message": "ขณะนี้นักเรียนได้ส่งการบ้านแล้ว การแก้ไขเวลาเริ่มการบ้านไม่ส่งผลต่อการบ้านที่ได้ส่งแล้ว การบ้านส่วนนี้ยังคงสถานะส่งแล้วอยู่ ยืนยันต้องการแก้ไขเวลาเริ่มการบ้าน?",
+    "description": "个人作业zh_part.json"
+  },
+  "保存失败": {
+    "message": "บันทึกล้มเหลว",
+    "description": "个人作业zh_part.json"
+  },
+  "选择相册": {
+    "message": "เลือกอัลบั้ม",
+    "description": "个人作业zh_part.json"
+  },
+  "选择文件": {
+    "message": "เลือกไฟล์",
+    "description": "个人作业zh_part.json"
+  },
+  "openBrowserContinue": {
+    "message": "การมอบหมายประเภทนี้ไม่สามารถเปิดได้ในแอพโปรดดำเนินการต่อกับเบราว์เซอร์",
+    "description": "个人作业zh_part.json"
+  },
+  "在浏览器打开": {
+    "message": "เปิดในเบราว์เซอร์",
+    "description": "个人作业zh_part.json"
+  },
+  "该类型作业无法在APP中打开，请在浏览器中打开继续使用": {
+    "message": "การมอบหมายประเภทนี้ไม่สามารถเปิดได้ในแอพโปรดดำเนินการต่อกับเบราว์เซอร์",
+    "description": "个人作业zh_part.json"
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "examPaperLibrary": {
+    "message": "Банк тестовых заданий",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaper": {
+    "message": "Выбрать экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirm": {
+    "message": "Подтвердите",
+    "description": "2.0 reponsitory.js"
+  },
+  "cancel": {
+    "message": "Отменить",
+    "description": "2.0 reponsitory.js"
+  },
+  "close": {
+    "message": "Закрывать",
+    "description": "2.0 reponsitory.js"
+  },
+  "insertExamPaper": {
+    "message": "Добавить экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedPaper": {
+    "message": "Выбранные {n} экзаменационных работ",
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
+  },
+  "myExamPaper": {
+    "message": "Моя экзаменационная работа",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolExamPaper": {
+    "message": "Экзаменационная работа нашего учебного заведения",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareExamPaper": {
+    "message": "Поделиться экзаменационной работой",
+    "description": "2.0 reponsitory.js"
+  },
+  "back": {
+    "message": "вернуться",
+    "description": "2.0 reponsitory.js"
+  },
+  "currentPosition": {
+    "message": "Текущая позиция:",
+    "description": "2.0 reponsitory.js"
+  },
+  "allExamPaper": {
+    "message": "все экзаменационные работы",
+    "description": "2.0 reponsitory.js"
+  },
+  "inpputExamPaperNameSearch": {
+    "message": "Введите название экзаменационной работы для поиска",
+    "description": "2.0 reponsitory.js"
+  },
+  "addFolder": {
+    "message": "Добавить папку",
+    "description": "2.0 reponsitory.js"
+  },
+  "addExamPaper": {
+    "message": "добавлять экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "aotoGroupExamPaper": {
+    "message": "Автоматическое составление теста",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperName": {
+    "message": "Название экзаменационной работы",
+    "description": "2.0 reponsitory.js"
+  },
+  "score": {
+    "message": "Балл",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharingScope": {
+    "message": "диапазон обмена",
+    "description": "2.0 reponsitory.js"
+  },
+  "lastModifyTime": {
+    "message": "Время последнего обновления",
+    "description": "2.0 reponsitory.js"
+  },
+  "operation": {
+    "message": "операция",
+    "description": "2.0 reponsitory.js"
+  },
+  "personal": {
+    "message": "Человек",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolTeacher": {
+    "message": "Школьный учитель",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolTeacher2": {
+    "message": "учителя нашего учебного заведения",
+    "description": "2.0 reponsitory.js"
+  },
+  "allTeacher": {
+    "message": "Все учителя",
+    "description": "2.0 reponsitory.js"
+  },
+  "allTeacher2": {
+    "message": "Все учителя",
+    "description": "2.0 reponsitory.js"
+  },
+  "appointTeacher": {
+    "message": "Назначить учителя",
+    "description": "2.0 reponsitory.js"
+  },
+  "modify": {
+    "message": "Изменить",
+    "description": "2.0 reponsitory.js"
+  },
+  "move": {
+    "message": "переместить",
+    "description": "2.0 reponsitory.js"
+  },
+  "delete": {
+    "message": "удалить",
+    "description": "2.0 reponsitory.js"
+  },
+  "preview": {
+    "message": "Предварительный просмотр",
+    "description": "2.0 reponsitory.js"
+  },
+  "download": {
+    "message": "Скачать",
+    "description": "2.0 reponsitory.js"
+  },
+  "rename": {
+    "message": "переименовать",
+    "description": "2.0 reponsitory.js"
+  },
+  "share": {
+    "message": "Делиться",
+    "description": "2.0 reponsitory.js"
+  },
+  "copy": {
+    "message": "Копировать",
+    "description": "2.0 reponsitory.js"
+  },
+  "copied": {
+    "message": "Скопировано",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips1": {
+    "message": "экзаменационная работа не найдена в ходе поиска",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips2": {
+    "message": "Нет работы, нажмите кнопку \"Добавить \"чтобы добавить работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips3": {
+    "message": "Экзаменационная работа отсутствует",
+    "description": "2.0 reponsitory.js"
+  },
+  "networkError": {
+    "message": "Исключение сети. Нажмите {reloadButton}",
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源 \n 课程列表 -> 上方试卷库"
+  },
+  "reload": {
+    "message": "Обновить",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips4": {
+    "message": "Введите название папки",
+    "description": "2.0 reponsitory.js"
+  },
+  "onlyOneSelf": {
+    "message": "только для себя",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToThisUnitAppointedTeacher": {
+    "message": "Поделиться с назначенным учителем в подразделении",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToThisUnitOtherTeacher": {
+    "message": "Поделиться с другими преподавателями в организации",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToAllTeacher": {
+    "message": "Поделиться со всеми учителями",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteTips": {
+    "message": "удалить подсказку",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips5": {
+    "message": "Подтвердите удаление? После окончательного удаления все работы в папке также будут удалены. Если удаленная работа используется в других экзаменах, эти экзамены станут недоступны",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips6": {
+    "message": "Сохранить экзаменационную работу, удалить только папку",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteAll": {
+    "message": "Удалить все",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectTeacher": {
+    "message": "выбрать учителя",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputTeacherNameSearch": {
+    "message": "Введите имя учителя для поиска",
+    "description": "2.0 reponsitory.js"
+  },
+  "checkAll": {
+    "message": "Выбрать все",
+    "description": "2.0 reponsitory.js"
+  },
+  "achievement": {
+    "message": "оценка",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClass": {
+    "message": "Все классы",
+    "description": "2.0 reponsitory.js"
+  },
+  "homePage": {
+    "message": "Главная страница",
+    "description": "2.0 reponsitory.js"
+  },
+  "lastPage": {
+    "message": "Последняя страница",
+    "description": "2.0 reponsitory.js"
+  },
+  "frontPage": {
+    "message": "предыдущая страница",
+    "description": "2.0 reponsitory.js"
+  },
+  "backPage": {
+    "message": "Следующая страница",
+    "description": "2.0 reponsitory.js"
+  },
+  "jumpPage": {
+    "message": "Перейти",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips7": {
+    "message": "Использованные экзаменационные работы невозможно изменить",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips8": {
+    "message": "После удаления данные восстановить невозможно, подтвердите действие?",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteExamPaper": {
+    "message": "удалить экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteSuccess": {
+    "message": "Удаление прошло успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteFailed": {
+    "message": "Не удалось удалить",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips9": {
+    "message": "Экзаменационная работа не существующая",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips10": {
+    "message": "Кто не создал экзаменационную работу, не может ее удалить",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips11": {
+    "message": "Невозможно удалить; есть записи ответов",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips12": {
+    "message": "Используется в экзаменационной работе, не может быть удалена",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips13": {
+    "message": "Вам нужен парсинг вопросов?",
+    "description": "2.0 reponsitory.js"
+  },
+  "copySuccess": {
+    "message": "Скопировано успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "copyFailed": {
+    "message": "Копировать неудача",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifySuccess": {
+    "message": "Изменено успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifyFailed": {
+    "message": "Изменение неудачно",
+    "description": "2.0 reponsitory.js"
+  },
+  "createSuccess": {
+    "message": "Успешно создано",
+    "description": "2.0 reponsitory.js"
+  },
+  "createFailed": {
+    "message": "Создание не удалось",
+    "description": "2.0 reponsitory.js"
+  },
+  "myResource": {
+    "message": "Мои ресурсы",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolResource": {
+    "message": "Ресурсы нашего учебного заведения",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareReource": {
+    "message": "Поделиться ресурсами",
+    "description": "2.0 reponsitory.js"
+  },
+  "allResource": {
+    "message": "Все ресурсы",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputKeywordSearch": {
+    "message": "введите ключевое слово поиск",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifyShareScope": {
+    "message": "Изменить диапазон общего доступа",
+    "description": "2.0 reponsitory.js"
+  },
+  "publishToCourse": {
+    "message": "опубликовать в Курс",
+    "description": "2.0 reponsitory.js"
+  },
+  "addResource": {
+    "message": "Добавить ресурс",
+    "description": "2.0 reponsitory.js"
+  },
+  "addLink": {
+    "message": "Добавить ссылку",
+    "description": "2.0 reponsitory.js"
+  },
+  "addRichtext": {
+    "message": "Добавить визуальный",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceName": {
+    "message": "Название ресурса",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadFile": {
+    "message": "Загрузить файл",
+    "description": "2.0 reponsitory.js"
+  },
+  "selected": {
+    "message": "Выбранный",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedItems": {
+    "message": "Выбрано {n} элементов",
+    "description": "课程列表 -> 上方资源库 \n 课程列表 -> 上方试卷库"
+  },
+  "cancelMultipleSelection": {
+    "message": "Отменить множественный выбор",
+    "description": "2.0 reponsitory.js"
+  },
+  "totalOf": {
+    "message": "Итого {n}",
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源"
+  },
+  "size": {
+    "message": "Размер",
+    "description": "2.0 reponsitory.js"
+  },
+  "createTime": {
+    "message": "Дата создания",
+    "description": "2.0 reponsitory.js"
+  },
+  "publish": {
+    "message": "опубликовать",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips1": {
+    "message": "Не удалось найти соответствующие ресурсы",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips2": {
+    "message": "Пока нет ресурсов, нажмите «Добавить ресурс», чтобы создать",
+    "description": "2.0 reponsitory.js"
+  },
+  "folderName": {
+    "message": "Имя папки",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploaded": {
+    "message": "Загрузил",
+    "description": "2.0 reponsitory.js"
+  },
+  "addTeacher2": {
+    "message": "Добавить преподавателя",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputNameSearch": {
+    "message": "Введите имя для поиска",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips16": {
+    "message": "Выберите курсы для публикации ресурсов:",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips17": {
+    "message": "Еще нет курсов, пожалуйста, сначала создайте курс",
+    "description": "2.0 reponsitory.js"
+  },
+  "save": {
+    "message": "сохранить",
+    "description": "2.0 reponsitory.js"
+  },
+  "create": {
+    "message": "Создать",
+    "description": "2.0 reponsitory.js"
+  },
+  "createMicroCourse": {
+    "message": "Создать микроурок",
+    "description": "2.0 reponsitory.js"
+  },
+  "microCourseName": {
+    "message": "Название микроурока",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips6": {
+    "message": "Введите название микроурока",
+    "description": "2.0 reponsitory.js"
+  },
+  "KnowledgePoints": {
+    "message": "Единица знаний",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips7": {
+    "message": "максимальный ввод 5 Единиц знаний, нажмите клавишу Ввод для завершения",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips8": {
+    "message": "Включите комментирование и отметку «Нравится» для получения дополнительных отзывов об обучении",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips9": {
+    "message": "（Подробнее о комментариях можно узнать в разделе «Анализ комментариев» в статистике данных Микроурока）",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips10": {
+    "message": "отображаются Ответ и парсинг после Подачи упражнения",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectTeacher": {
+    "message": "Выберите учителя",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareSuccess": {
+    "message": "Успешно поделиться",
+    "description": "2.0 reponsitory.js"
+  },
+  "moveSuccess": {
+    "message": "Перемещение успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "moveFailed": {
+    "message": "Не удалось переместить",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteResource": {
+    "message": "удалить ресурсы",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteResourceTips": {
+    "message": "Подтвердите удаление ресурсов?",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "Выберите Курс",
+    "description": "2.0 reponsitory.js"
+  },
+  "publishSuccess": {
+    "message": "Опубликовано успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips11": {
+    "message": "Название микроурока не может быть пустым",
+    "description": "2.0 reponsitory.js"
+  },
+  "newMicroCourse": {
+    "message": "Создать новый микроурок",
+    "description": "2.0 reponsitory.js"
+  },
+  "recordMicroCourse": {
+    "message": "Записывать микролекции",
+    "description": "2.0 reponsitory.js"
+  },
+  "peopleResource": {
+    "message": "Ресурсы Народных открытых курсов",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPageAllRes": {
+    "message": "Выбрать все ресурсы на этой странице",
+    "description": "2.0 reponsitory.js"
+  },
+  "select": {
+    "message": "выбрать",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClassify": {
+    "message": "классифицировать все",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedCount": {
+    "message": "Выбранное количество: {n}",
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
+  },
+  "selectRes": {
+    "message": "Выбрать ресурсы",
+    "description": "2.0 reponsitory.js"
+  },
+  "courseKeyword": {
+    "message": "Введите ключевые слова для поиска курса",
+    "description": "2.0 reponsitory.js"
+  },
+  "unitKeyword": {
+    "message": "Введите ключевые слова для поиска раздела",
+    "description": "2.0 reponsitory.js"
+  },
+  "resKeyword": {
+    "message": "Введите ключевое слово для поиска ресурсов",
+    "description": "2.0 reponsitory.js"
+  },
+  "archivePwdSet": {
+    "message": "Изменять настройки заархивированного пароля",
+    "description": "2.0 reponsitory.js"
+  },
+  "tips": {
+    "message": "подсказка",
+    "description": "2.0 reponsitory.js"
+  },
+  "unbindPhoneTips": {
+    "message": "Твой учетная запись еще не связана с номером мобильного телефона или адресом электронной почты, чтобы не забыть пароль, сначала свяжи номер мобильного телефона или адрес электронной почты в личных данных.",
+    "description": "2.0 reponsitory.js"
+  },
+  "toBind": {
+    "message": "отвязать",
+    "description": "2.0 reponsitory.js"
+  },
+  "setPaperPwd": {
+    "message": "Настройки пароля архива",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperPwdTips1": {
+    "message": "После задания пароля для архивирования вы можете заархивировать указанные экзаменационные работы или папку, чтобы просмотреть или разархивировать заархивированные экзаменационные работы или папку, необходимо ввести пароль.",
+    "description": "2.0 reponsitory.js"
+  },
+  "updatePaperPwd": {
+    "message": "Изменить архивный пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "oldPwd": {
+    "message": "Старый пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "newPwd": {
+    "message": "Новый пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "newPwdAgain": {
+    "message": "введите новый Пароль снова",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdNullTips": {
+    "message": "Введите пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdErrorTips": {
+    "message": "Неверный пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdRegTips": {
+    "message": "Пароль должен содержать от 6 до 16 букв или цифр",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdDifTips": {
+    "message": "Введенные дважды пароли не совпадают.",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPwd": {
+    "message": "ввод Пароля",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputAgain": {
+    "message": "введите снова",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperPwd": {
+    "message": "удалить архивный Пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperPwdTips": {
+    "message": "Если удалить пароль архива, все архивированные экзаменационные работы и папки будут разблокированы",
+    "description": "2.0 reponsitory.js"
+  },
+  "setPaperPwdTips": {
+    "message": "После установки пароля на архив, назначенные экзаменационные работы или папки можно заархивировать, ввод пароля необходим для просмотра или разархивирования заархивированных экзаменационных работ или папок.",
+    "description": "2.0 reponsitory.js"
+  },
+  "forgetPwd": {
+    "message": "Забыть пароль",
+    "description": "2.0 reponsitory.js"
+  },
+  "authentication": {
+    "message": "аутентификация",
+    "description": "2.0 reponsitory.js"
+  },
+  "mail": {
+    "message": "Адрес электронной почты",
+    "description": "2.0 reponsitory.js"
+  },
+  "sms": {
+    "message": "Мобильный телефон СМС",
+    "description": "2.0 reponsitory.js"
+  },
+  "phone": {
+    "message": "номер мобильного телефона",
+    "description": "2.0 reponsitory.js"
+  },
+  "picCode": {
+    "message": "Код подтверждения",
+    "description": "2.0 reponsitory.js"
+  },
+  "smsCode": {
+    "message": "Код подтверждения по смс",
+    "description": "2.0 reponsitory.js"
+  },
+  "mailCode": {
+    "message": "Код подтверждения для адреса электронной почты",
+    "description": "2.0 reponsitory.js"
+  },
+  "getCode": {
+    "message": "Получить код подтверждения",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPicCodeTips": {
+    "message": "Введите код подтверждения",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputCodeTips": {
+    "message": "Введите код подтверждения",
+    "description": "2.0 reponsitory.js"
+  },
+  "authType": {
+    "message": "Способ проверки",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperLock": {
+    "message": "Архивировать",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperUnLock": {
+    "message": "Разблокировать",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharedPaperLockTips": {
+    "message": "Общий экзаменационные работы и папки невозможно положить в архив. \n Пожалуйста, Измените пределы доступа и положите в архив.",
+    "description": "2.0 reponsitory.js"
+  },
+  "operateSuccess": {
+    "message": "Операция успешна",
+    "description": "2.0 reponsitory.js"
+  },
+  "sendSuccess": {
+    "message": "Операция выполнена успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPaperPwd": {
+    "message": "ввод пароля архива",
+    "description": "2.0 reponsitory.js"
+  },
+  "codeTimerTips": {
+    "message": "Получить снова через {n} секунда",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadPaper": {
+    "message": "Скачать экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "isContainAnaly": {
+    "message": "включает ли парсинг",
+    "description": "2.0 reponsitory.js"
+  },
+  "isContainAttach": {
+    "message": "Экспортировать вложение",
+    "description": "2.0 reponsitory.js"
+  },
+  "attachDownloadTips": {
+    "message": "Если вложение большое, время скачивания может быть большим",
+    "description": "2.0 reponsitory.js"
+  },
+  "yes": {
+    "message": "Да",
+    "description": "2.0 reponsitory.js"
+  },
+  "no": {
+    "message": "Нет",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirmImport": {
+    "message": "Подтвердите импортирование",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip": {
+    "message": "Выбрать максимальный {n} экзаменационных работ раз",
+    "description": "2.0 reponsitory.js"
+  },
+  "importFail": {
+    "message": "импорт неудачен",
+    "description": "2.0 reponsitory.js"
+  },
+  "importSuccess": {
+    "message": "Импорт выполнен успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperTip": {
+    "message": "Папка содержит использованные экзаменационные работы и не может быть удалена.",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip1": {
+    "message": "Выберите экзаменационную работу, чтобы импортировать вопросы из нее в текущий каталог банка вопросов. Каждый раз можно выбрать максимальный {n} набор(ов) экзаменационных работ. (Вопросы каждого набора экзаменационной работы будут сохранены на двух уровнях: экзаменационная работа, раздел)",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectPaper": {
+    "message": "Выберите экзаменационную работу",
+    "description": "2.0 reponsitory.js"
+  },
+  "pageSizes": {
+    "message": "{n} элементов на страницу",
+    "description": "2.0 reponsitory.js"
+  },
+  "myClass": {
+    "message": "Мой классный коллектив",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourcePublishingScope": {
+    "message": "Область публикации ресурсов:",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClass2": {
+    "message": "Все классы курса (доступно только для администраторов курса)",
+    "description": "2.0 reponsitory.js"
+  },
+  "attachDownload": {
+    "message": "Массовая загрузка",
+    "description": "2.0 reponsitory.js"
+  },
+  "notDownload": {
+    "message": "Следующие файлы не поддерживают скачивание",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirmDownload": {
+    "message": "Подтвердить скачивание?",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadProgress": {
+    "message": "Скачивается, не закрывайте текущую страницу",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadSuccess": {
+    "message": "Загрузка прошла успешно",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadError": {
+    "message": "Скачать не удалось",
+    "description": "2.0 reponsitory.js"
+  },
+  "subjectResource": {
+    "message": "Репозиторий ресурсов по предметам",
+    "description": "2.0 reponsitory.js"
+  },
+  "knowledgePoints": {
+    "message": "Единица знаний",
+    "description": "2.0 reponsitory.js"
+  },
+  "moreOperation": {
+    "message": "Больше операций",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadFolder": {
+    "message": "Загрузите папку",
+    "description": "2.0 reponsitory.js"
+  }
+}

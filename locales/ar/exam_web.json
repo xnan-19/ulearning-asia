@@ -1,0 +1,3838 @@
+{
+  "home": {
+    "message": "الصفحة الرئيسية",
+    "description": "考试快捷地址"
+  },
+  "note": {
+    "message": "النصائح",
+    "description": "考试快捷地址"
+  },
+  "getIt": {
+    "message": "أعرف",
+    "description": "考试快捷地址"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "考试快捷地址"
+  },
+  "cancel": {
+    "message": "إلغاء الأمر",
+    "description": "考试快捷地址"
+  },
+  "userNameLogin": {
+    "message": "تسجيل الدخول عن طريق اسم المستخدم / كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "login": {
+    "message": "تسجيل الدخول",
+    "description": "考试快捷地址"
+  },
+  "forgetPassword": {
+    "message": "نسيت كلمة المرور؟",
+    "description": "考试快捷地址"
+  },
+  "userName": {
+    "message": "اسم المستخدم / الهاتف / البريد الإلكتروني",
+    "description": "考试快捷地址"
+  },
+  "password": {
+    "message": "كلمه المرور",
+    "description": "考试快捷地址"
+  },
+  "inputUserName": {
+    "message": "انقر لإدخال اسم المستخدم / الهاتف / البريد الإلكتروني",
+    "description": "考试快捷地址"
+  },
+  "inputPas": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "freezeTip": {
+    "message": "اكتشف النظام أن هذا الحساب يحتوي على غش وسلوكيات غير لائقة أخرى في المقرر الدراسي {names} . قام النظام بتجميد هذا الحساب تلقائياً. يرجى الاتصال بالمدرس أو خدمة العملاء",
+    "description": "考试快捷地址"
+  },
+  "overErrorTimes": {
+    "message": "لقد حاولت الدخول ٥ مرات. حاول مرة أخرى بعد ثلاث دقائق.",
+    "description": "考试快捷地址"
+  },
+  "passwordErr": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "考试快捷地址"
+  },
+  "loginFail": {
+    "message": "لم نتمكن من تسجيل الدخول!",
+    "description": "考试快捷地址"
+  },
+  "personalInfo": {
+    "message": "المركز الشخصي",
+    "description": "考试快捷地址"
+  },
+  "quit": {
+    "message": "تسجيل خروج",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess": {
+    "message": "يتم التحقق من هوية وجهك وسيبدأ الامتحان في ٣ ثوان.",
+    "description": "考试快捷地址"
+  },
+  "faceFail": {
+    "message": "لم نتمكن من التحقق من الوجه",
+    "description": "考试快捷地址"
+  },
+  "retry": {
+    "message": "اعاده المحاوله",
+    "description": "考试快捷地址"
+  },
+  "leaveSeat": {
+    "message": "ترك مقعد",
+    "description": "考试快捷地址"
+  },
+  "exam": {
+    "message": "الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "joinType": {
+    "message": "طريقة المشاركة",
+    "description": "考试快捷地址"
+  },
+  "limitTime": {
+    "message": "فترة صلاحية الامتحان",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "اجتياز اختبار تطبيق ULearning",
+    "description": "考试快捷地址"
+  },
+  "downloadApp": {
+    "message": "تنزيل تطبيق ULearning",
+    "description": "考试快捷地址"
+  },
+  "pc": {
+    "message": "الموقع",
+    "description": "考试快捷地址"
+  },
+  "app": {
+    "message": "تطبيق الجوال",
+    "description": "考试快捷地址"
+  },
+  "exe": {
+    "message": "متصفح آمن",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip": {
+    "message": "إذا كانت الكاميرا مشغولة أو كان الإذن محظورا، يرجى السماح بإذن الكاميرا أو إغلاق تطبيقات الكاميرا الأخرى",
+    "description": "考试快捷地址"
+  },
+  "fileSizeLimitType": {
+    "message": "لا يمكن أن يتجاوز حجم المرفق {maxSize}",
+    "description": "考试快捷地址"
+  },
+  "notSupportTip": {
+    "message": "لا يدعم هذا الامتحان الإجابات المستندة إلى الويب ، يرجى اتباع طريقة المشاركة المحددة لدخول الامتحان",
+    "description": "考试快捷地址"
+  },
+  "noFaceTip": {
+    "message": "يفتح هذا الامتحان التعرف على الوجه ، ولا يمكنك إجراء الاختبار إلا بعد الانتهاء من شهادة الوجه.",
+    "description": "考试快捷地址"
+  },
+  "identification": {
+    "message": "اذهب للتحقق",
+    "description": "考试快捷地址"
+  },
+  "timeLimit": {
+    "message": "مدة الامتحان",
+    "description": "考试快捷地址"
+  },
+  "minute": {
+    "message": "{n} دقيقة",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "عدد الإجابات المسموح بها",
+    "description": "考试快捷地址"
+  },
+  "notLimit": {
+    "message": "بلا حدود",
+    "description": "考试快捷地址"
+  },
+  "myScore": {
+    "message": "تقديراتي",
+    "description": "考试快捷地址"
+  },
+  "score": {
+    "message": "{n} دقيقة",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "حاول استخدام",
+    "description": "考试快捷地址"
+  },
+  "examTime": {
+    "message": "مدة الامتحان",
+    "description": "考试快捷地址"
+  },
+  "lateLimit": {
+    "message": "بدأ متأخر",
+    "description": "考试快捷地址"
+  },
+  "lateLimitTip": {
+    "message": "لا يسمح بالدخول بعد {min} دقيقة من بداية الامتحان",
+    "description": "考试快捷地址"
+  },
+  "submitLimit": {
+    "message": "حد الإرسال",
+    "description": "考试快捷地址"
+  },
+  "submitLimitType": {
+    "message": "لا يمكن الإرسال في {min} دقيقة",
+    "description": "考试快捷地址"
+  },
+  "examMonitor": {
+    "message": "مراقبة الامتحان",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitorTip": {
+    "message": "{deviceMonitor} قيد التشغيل، لا تقم باستبدال الجهاز في الوسط",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitor": {
+    "message": "مراقبة الجهاز.",
+    "description": "考试快捷地址"
+  },
+  "ipMonitorTip": {
+    "message": "{ipMonitor} قيد التشغيل، لا تقم بتبديل الشبكات في الوسط",
+    "description": "考试快捷地址"
+  },
+  "ipMonitor": {
+    "message": "مراقبة الملكية الفكرية.",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip1": {
+    "message": "تم تشغيل {cutScreenMonitor}، وسيقوم النظام بفرض التمديد إذا تجاوز المغادرة المفردة {s} ثانية أو تجاوز المغادرة التراكمية {times}",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip2": {
+    "message": "فتح {cutScreenMonitor} ، ترك أكثر من {times} مرات ، فإن النظام سوف تضطر إلى تسليم ",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip3": {
+    "message": " فتح {cutScreenMonitor}، واحد ترك أكثر من {s} ثوان ، فإن النظام سوف تضطر إلى تسليم ",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitor": {
+    "message": "مراقبة الشاشة",
+    "description": "考试快捷地址"
+  },
+  "faceMonitorTip": {
+    "message": "{faceMonitor} قيد التشغيل وتحتاج إلى دخول الاختبار من خلال التحقق من الوجه",
+    "description": "考试快捷地址"
+  },
+  "faceMonitor": {
+    "message": "التعرف على الوجه.",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorTip": {
+    "message": "{cameraMonitor} قيد التشغيل، يرجى تشغيله ومواجهة الكاميرا",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitor": {
+    "message": "مراقبة الكاميرا",
+    "description": "考试快捷地址"
+  },
+  "debugCamera": {
+    "message": "تصحيح أخطاء الكاميرا",
+    "description": "考试快捷地址"
+  },
+  "stratExam": {
+    "message": "إبدأ",
+    "description": "考试快捷地址"
+  },
+  "noPermissionTip": {
+    "message": "أنت غير مخول بإجراء هذا الامتحان ، إذا كانت لديك أسئلة ، فيرجى الاتصال بمنظم الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "multipleSessions": {
+    "message": "يحتوي هذا الامتحان على جلسات متعددة مجزأة ، ويمكن للمرشحين المشاركة في عدد الجلسات والأوقات المحددة ، يرجى تسجيل الدخول للتحقق",
+    "description": "考试快捷地址"
+  },
+  "loginToExam": {
+    "message": "تسجيل الدخول للدخول للامتحان",
+    "description": "考试快捷地址"
+  },
+  "downloadAppBtn": {
+    "message": "تنزيل التطبيق",
+    "description": "考试快捷地址"
+  },
+  "downloadExe": {
+    "message": "تنزيل متصفح ULearning الآمن",
+    "description": "考试快捷地址"
+  },
+  "windows": {
+    "message": "إصدار ويندوز",
+    "description": "考试快捷地址"
+  },
+  "windowsTip": {
+    "message": "يدعم ويندوز 7 وإصدارات النظام أعلاه",
+    "description": "考试快捷地址"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "考试快捷地址"
+  },
+  "mac": {
+    "message": "إصدار ماك",
+    "description": "考试快捷地址"
+  },
+  "macTip": {
+    "message": "يدعم إصدارات النظام macOS10.11 وما فوق",
+    "description": "考试快捷地址"
+  },
+  "examEnvironmentTesting": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormality": {
+    "message": "الجهاز غير طبيعي.",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormality": {
+    "message": "استثناء عنوان IP.",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormalityTip": {
+    "message": "لقد شغّل هذا الامتحان مراقبة الجهاز ، ولا يُسمح أثناء الاختبار بتغيير المعدات ، يرجى استخدام المرة الأولى لإدخال جهاز الاختبار للإجابة على الأسئلة.",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormalityTip": {
+    "message": "يتم تشغيل مراقبة IP في هذا الامتحان ولا يُسمح بتغيير عنوان IP أثناء الاختبار. قد يؤدي تبديل الشبكات إلى تغييرات في عناوين IP.",
+    "description": "考试快捷地址"
+  },
+  "useCodeTip": {
+    "message": "إذا كنت بحاجة إلى تغيير الجهاز في ظروف خاصة، يرجى مطالبة المراقب برمز التحقق والدخول في الاختبار باستخدام {useCode}.",
+    "description": "考试快捷地址"
+  },
+  "useCode": {
+    "message": "استخدام رمز التحقق",
+    "description": "考试快捷地址"
+  },
+  "faceVerification": {
+    "message": "التحقق من الوجه",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip": {
+    "message": "لم تكمل شهادة الوجه بعد ولن تتمكن من اجتياز التعرف على الوجه للدخول في الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip1": {
+    "message": " الآن {goToCertification} أو{useCodeEnter}",
+    "description": "考试快捷地址"
+  },
+  "goToCertification": {
+    "message": "اذهب للتحقق",
+    "description": "考试快捷地址"
+  },
+  "useCodeEnter": {
+    "message": "دخول الامتحان من خلال رمز التحقق",
+    "description": "考试快捷地址"
+  },
+  "examNotes": {
+    "message": "إرشادات الامتحان",
+    "description": "考试快捷地址"
+  },
+  "agreenExamNotes": {
+    "message": "لقد قرأت وأوافق على التعليمات الواردة في تعليمات الامتحان",
+    "description": "考试快捷地址"
+  },
+  "checkFirst": {
+    "message": "يرجى وضع علامة أولا",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc": {
+    "message": "واجه الكاميرا للتأكد من وجود الكثير من الضوء. لا يمكنك التحقق من الوجه؟",
+    "description": "考试快捷地址"
+  },
+  "examCode": {
+    "message": "رمز التحقق من الامتحان",
+    "description": "考试快捷地址"
+  },
+  "examCodeTip": {
+    "message": "اسأل معلمك عن رمز التحقق وأدخل الرمز أدناه.",
+    "description": "考试快捷地址"
+  },
+  "examCodeError": {
+    "message": "رمز التحقق غير صحيح.",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorDesc": {
+    "message": "عند تشغيل مراقبة الكاميرا ، سيقوم النظام باكتشاف وتسجيل السلوكيات غير الطبيعية مثل مغادرة المرشحين لمقاعدهم ، والانحراف طويل الأجل لأعينهم ، والاتصال المباشر مع الناس. لذا يرجى ملاحظة: br}1}. يرجى ضبط زاوية الكاميرا قبل الاختبار ، بحيث يتم تصوير الوجه بالكامل ، ومحاولة مواجهة الكاميرا قدر الإمكان. br} 2}. حافظ على تركيز عينيك على الشاشة أثناء الامتحان، ولا تترك مقعدك، ولا تتحدث إلى الناس.",
+    "description": "考试快捷地址"
+  },
+  "notStart": {
+    "message": "لم يبدأ",
+    "description": "考试快捷地址"
+  },
+  "inProgress": {
+    "message": "قيد التنفيذ",
+    "description": "考试快捷地址"
+  },
+  "ended": {
+    "message": "تم الإنهاء",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "محطة ويب الكمبيوتر / APP المحمول / عميل شاشة قفل الكمبيوتر",
+    "description": "考试快捷地址"
+  },
+  "resultsNotAnnounce": {
+    "message": "لن يتم نشر نتائج الامتحان في الوقت الحالي.",
+    "description": "考试快捷地址"
+  },
+  "resultsNotYetAnnounce": {
+    "message": "لا يتم نشر النتائج في الوقت الحالي",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionsToBeReviewed": {
+    "message": "غير متدرج",
+    "description": "考试快捷地址"
+  },
+  "ipPermissionsTip": {
+    "message": "الملكية الفكرية الحالية {ip} لا يمكن الوصول إلى الامتحان - يرجى استخدام الجهاز المحدد للمشاركة في الامتحان !\n\n",
+    "description": "考试快捷地址"
+  },
+  "lateTip": {
+    "message": "لقد تجاوزت الوقت المتأخر المسموح به لهذا الامتحان ولا يمكنك الدخول في الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "noCamera": {
+    "message": "لم يتم اكتشاف الكاميرا.",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip1": {
+    "message": "تم تمكين التعرف على الوجه لهذا الامتحان، لذا يرجى إجراء الاختبار باستخدام جهاز مزود بكاميرا.",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip2": {
+    "message": "يتم تمكين المراقبة بالكاميرات لهذا الامتحان، لذا يرجى إجراء الاختبار باستخدام جهاز مزود بكاميرا.",
+    "description": "考试快捷地址"
+  },
+  "testCamera": {
+    "message": "كاميرا الكشف",
+    "description": "考试快捷地址"
+  },
+  "examNotStart": {
+    "message": "لم يبدأ الامتحان",
+    "description": "考试快捷地址"
+  },
+  "examEnded": {
+    "message": "انتهى الامتحان",
+    "description": "考试快捷地址"
+  },
+  "loadError": {
+    "message": "لم نتمكن من الطلب",
+    "description": "考试快捷地址"
+  },
+  "expireTip": {
+    "message": "انتهت مدة تسجيل الدخول، يرجى تسجيل الدخول مرة أخرى!",
+    "description": "考试快捷地址"
+  },
+  "ltiTip1": {
+    "message": "إذا كنت بحاجة إلى إجراء الامتحان من خلال عميل شاشة APP/lock الخاص بهاتفك، ف سجل الدخول باستخدام حساب U-Test. اسم المستخدم الخاص بك هو: {loginName}، كلمة المرور الأولية هي نفس اسم المستخدم.",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "لإجراء الامتحان مع عميل شاشة APP/lock على هاتفك، سجل الدخول باستخدام حساب U-Test. اسم المستخدم الخاص بك هو: {loginName}، كلمة المرور الأولية هي نفس اسم المستخدم. بعد تسجيل الدخول، يمكنك تغيير كلمة المرور أو تحسين معلوماتك الشخصية في إدارة الحساب.",
+    "description": "考试快捷地址"
+  },
+  "toUpdatePsd": {
+    "message": "لتغيير كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "accountTipHead": {
+    "message": "مرحبا، {name}",
+    "description": "考试快捷地址"
+  },
+  "accountTipContent": {
+    "message": "مرحبا بكم في استخدام نظام اختبار ULearning  . . . . . . . نحن قد سجلنا ULearning حساب لأنّ أنت . إذا كنت بحاجة إلى اجتياز الامتحان على الهاتف المحمول الخاص بك ، يرجى تحميل تطبيق ULearning وتسجيل الدخول باستخدام حساب ULearning . . . . . . .\n\n",
+    "description": "考试快捷地址"
+  },
+  "userInfo": {
+    "message": "هنا هو حساب Ulearning الخاص بك :",
+    "description": "考试快捷地址"
+  },
+  "userName1": {
+    "message": "اسم المستخدم",
+    "description": "考试快捷地址"
+  },
+  "passwordTip": {
+    "message": "تتطابق كلمة المرور الأولية مع اسم المستخدم ويمكن تغييرها بعد تسجيل الدخول.",
+    "description": "考试快捷地址"
+  },
+  "examInfo": {
+    "message": "معلومات الامتحان",
+    "description": "考试快捷地址"
+  },
+  "examName": {
+    "message": "اسم الامتحان",
+    "description": "考试快捷地址"
+  },
+  "openAppTip": {
+    "message": "إذا كنت لا تبدأ تطبيق ulearning بنجاح ، تحقق من أن كنت قد قمت بتثبيت . إذا لم يتم تثبيت ، تحميل وتثبيت .",
+    "description": "考试快捷地址"
+  },
+  "openAppBtn": {
+    "message": "عرض ULearning تطبيق",
+    "description": "考试快捷地址"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess1": {
+    "message": "تم تمرير الشهادة",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc1": {
+    "message": "غير قادر على إكمال التحقق من الوجه؟",
+    "description": "考试快捷地址"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "考试快捷地址"
+  },
+  "view": {
+    "message": "عرض",
+    "description": "考试快捷地址"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "考试快捷地址"
+  },
+  "confirmDelete": {
+    "message": "هل تريد بالتأكيد حذفه؟",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip": {
+    "message": "الملف هو تحويل الترميز ، يرجى تشغيله لاحقا.",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip1": {
+    "message": "يتم تحويل ترميز الملف ، يرجى المحاولة مرة أخرى لاحقا",
+    "description": "考试快捷地址"
+  },
+  "clickToTry": {
+    "message": "انقر إعادة المحاولة",
+    "description": "考试快捷地址"
+  },
+  "mute": {
+    "message": "أخرس",
+    "description": "考试快捷地址"
+  },
+  "unmute": {
+    "message": "إلغاء كتم الصوت",
+    "description": "考试快捷地址"
+  },
+  "play": {
+    "message": "تشغيل",
+    "description": "考试快捷地址"
+  },
+  "pause": {
+    "message": "إيقاف مؤقت",
+    "description": "考试快捷地址"
+  },
+  "fullscreen": {
+    "message": "ملء الشاشة",
+    "description": "考试快捷地址"
+  },
+  "exitFullscreen": {
+    "message": "الخروج من ملئ الشاشة",
+    "description": "考试快捷地址"
+  },
+  "clickToRecord": {
+    "message": " انقر لبدء التسجيل ",
+    "description": "考试快捷地址"
+  },
+  "saving": {
+    "message": "‏‏جار الحفظ",
+    "description": "考试快捷地址"
+  },
+  "saveFail": {
+    "message": "لم نتنكن من الحفظ",
+    "description": "考试快捷地址"
+  },
+  "saveSuccess": {
+    "message": "تم الحفظ بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "reRecord": {
+    "message": " سجل مرة أخرى ",
+    "description": "考试快捷地址"
+  },
+  "recordingTip": {
+    "message": "هناك بالفعل صوت يتم تسجيله ، يرجى إيقاف تشغيله أولا",
+    "description": "考试快捷地址"
+  },
+  "noRecordingTip": {
+    "message": "تم رفض إذن التسجيل، يرجى تشغيل إذن التسجيل في إعدادات المتصفح الخاص بك",
+    "description": "考试快捷地址"
+  },
+  "uploadAudioFail": {
+    "message": "فشل تحميل الصوت ، يرجى التحقق من اتصال الشبكة",
+    "description": "考试快捷地址"
+  },
+  "addFile": {
+    "message": "إضافة مرفق",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError1": {
+    "message": "تحميل ما يصل إلى {n} المرفقات",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError2": {
+    "message": "لا يمكن أن يتجاوز الملف {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError3": {
+    "message": "هذا النوع من الملفات غير مدعوم",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError4": {
+    "message": "حجم الملف يتجاوز الحد",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError5": {
+    "message": "فشل تحويل الترميز",
+    "description": "考试快捷地址"
+  },
+  "uploadImgError": {
+    "message": "لا يمكن أن يتجاوز حجم الصورة {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadMediaError": {
+    "message": "لا يمكن أن يتجاوز الصوت / الفيديو {size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFail": {
+    "message": "لم نتمكن من الرفع",
+    "description": "考试快捷地址"
+  },
+  "mark": {
+    "message": "مارك",
+    "description": "考试快捷地址"
+  },
+  "clear": {
+    "message": "مسح",
+    "description": "考试快捷地址"
+  },
+  "addMark": {
+    "message": "إضافة ملاحظة",
+    "description": "考试快捷地址"
+  },
+  "deleteMark": {
+    "message": "حذف التعليقات التوضيحية ",
+    "description": "考试快捷地址"
+  },
+  "playTimesError": {
+    "message": "معلمة رقم التشغيل غير صحيحة",
+    "description": "考试快捷地址"
+  },
+  "manualRefresh": {
+    "message": "التحميل اليدوي",
+    "description": "考试快捷地址"
+  },
+  "selectQuestionType": {
+    "message": "إضافة أسئلة فرعية",
+    "description": "考试快捷地址"
+  },
+  "questionNum": {
+    "message": "{n} ",
+    "description": "考试快捷地址"
+  },
+  "questionType": {
+    "message": "نوع السؤال",
+    "description": "考试快捷地址"
+  },
+  "singleQ": {
+    "message": "الاختيار من متعدد",
+    "description": "考试快捷地址"
+  },
+  "multipleQ": {
+    "message": "إجابات متعددة",
+    "description": "考试快捷地址"
+  },
+  "judgmentQ": {
+    "message": "صواب/خطأ",
+    "description": "考试快捷地址"
+  },
+  "completion": {
+    "message": "تعبئة الفراغ",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer": {
+    "message": "إجابة قصيرة",
+    "description": "考试快捷地址"
+  },
+  "sortingQ": {
+    "message": "التسلسل",
+    "description": "考试快捷地址"
+  },
+  "comprehensiveQ": {
+    "message": "تركيب",
+    "description": "考试快捷地址"
+  },
+  "formulaCalculationQ": {
+    "message": "معادلة محسوبة",
+    "description": "考试快捷地址"
+  },
+  "blankQ": {
+    "message": "بنك الكلمات",
+    "description": "考试快捷地址"
+  },
+  "clozeQ": {
+    "message": "إغلق الامتحان",
+    "description": "考试快捷地址"
+  },
+  "dropDownQ": {
+    "message": "قائمة منسدلة متعددة",
+    "description": "考试快捷地址"
+  },
+  "oralSubjectQ": {
+    "message": "اللغة - شفهي",
+    "description": "考试快捷地址"
+  },
+  "oralReadingQ": {
+    "message": "اللغة - قراءة بصوت مسموع",
+    "description": "考试快捷地址"
+  },
+  "single": {
+    "message": "اختيار واحد",
+    "description": "考试快捷地址"
+  },
+  "multiple": {
+    "message": "إجابات متعددة",
+    "description": "考试快捷地址"
+  },
+  "judgment": {
+    "message": "صواب/خطأ",
+    "description": "考试快捷地址"
+  },
+  "completion1": {
+    "message": "تعبئة الفراغ",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer1": {
+    "message": "إجابة قصيرة",
+    "description": "考试快捷地址"
+  },
+  "stuAnswer": {
+    "message": "إجابات المرشحين",
+    "description": "考试快捷地址"
+  },
+  "correctAnswer": {
+    "message": "الإجابة الصحيحة",
+    "description": "考试快捷地址"
+  },
+  "questionScore": {
+    "message": "({n} دقيقة)",
+    "description": "考试快捷地址"
+  },
+  "questionDesc": {
+    "message": "{n} سؤال فرعي، مجموع نقاط {score}",
+    "description": "考试快捷地址"
+  },
+  "answer": {
+    "message": "إجابة",
+    "description": "考试快捷地址"
+  },
+  "answerCanChangeTip": {
+    "message": "ترتيب كل إجابة فارغة قابل للتبديل",
+    "description": "考试快捷地址"
+  },
+  "range": {
+    "message": "هامش الخطأ",
+    "description": "考试快捷地址"
+  },
+  "examineeRecording": {
+    "message": "تسجيلات المرشحين",
+    "description": "考试快捷地址"
+  },
+  "notAnswer": {
+    "message": "لا توجد إجابة",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip": {
+    "message": "يرجى ملء الإجابة هنا",
+    "description": "考试快捷地址"
+  },
+  "enableUploadTip": {
+    "message": "عند نشر الامتحان ، يمكنك اختيار ما إذا كان السماح للمرشحين لتحميل المرفقات",
+    "description": "考试快捷地址"
+  },
+  "referenceAnswer": {
+    "message": "الإجابة المرجعية",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "عند اختيار ملف يقوم النظام بالخروج مؤقتا من حالة ملء الشاشة، يرجى إكمال عملية تحديد المرفقات والعودة إلى واجهة الامتحان خلال 30 ثانية، ثم النقر على أي مساحة فارغة على الصفحة للعودة إلى حالة ملء الشاشة، وإلا سيقوم النظام بتسجيل العملية على أنها مغادرة الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTip": {
+    "message": "فشل تحميل المرفق أو تحويل الترميز، يرجى حذفه وإعادة تحميله.",
+    "description": "考试快捷地址"
+  },
+  "sortTip": {
+    "message": "اسحب الخيارات للفرز",
+    "description": "考试快捷地址"
+  },
+  "yourAnswer": {
+    "message": "إجابتك",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip": {
+    "message": "انقر على أيقونة المعادلة على اليمين لإدخال الصيغة",
+    "description": "考试快捷地址"
+  },
+  "backSpace": {
+    "message": "مسافة للخلف",
+    "description": "考试快捷地址"
+  },
+  "answerRight": {
+    "message": "الجواب صحيح",
+    "description": "考试快捷地址"
+  },
+  "answerError": {
+    "message": "إجابة خاطئة",
+    "description": "考试快捷地址"
+  },
+  "scoreResult": {
+    "message": "الدرجة",
+    "description": "考试快捷地址"
+  },
+  "graded": {
+    "message": "تم تقييمه",
+    "description": "考试快捷地址"
+  },
+  "toBeRated": {
+    "message": "التقييم معلق",
+    "description": "考试快捷地址"
+  },
+  "comments": {
+    "message": "تعليق",
+    "description": "考试快捷地址"
+  },
+  "analy": {
+    "message": "شرح الإجابة",
+    "description": "考试快捷地址"
+  },
+  "rating": {
+    "message": "علامة",
+    "description": "考试快捷地址"
+  },
+  "inputScoreTip": {
+    "message": "الرجاء إدخال جزء من {num} لحجز خانة عشرية",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip": {
+    "message": "أدخل تعليقا، غير مطلوب",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip1": {
+    "message": "لا يمكن أن تتجاوز التعليقات أحرف {n}",
+    "description": "考试快捷地址"
+  },
+  "option": {
+    "message": "خيار",
+    "description": "考试快捷地址"
+  },
+  "optionContent": {
+    "message": "انقر لإدخال الاختيار",
+    "description": "考试快捷地址"
+  },
+  "addOption": {
+    "message": "إضافة خيارات",
+    "description": "考试快捷地址"
+  },
+  "inputAnaly": {
+    "message": "الرجاء إدخال التحليل",
+    "description": "考试快捷地址"
+  },
+  "inputAnalyTip": {
+    "message": "لا يمكن أن يتجاوز التحليل حرف {n}",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip1": {
+    "message": "إضافة سؤال فرعي واحد على الأقل",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip": {
+    "message": "لا يمكن أن يتجاوز محتوى الخيار الحرف {n}",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip1": {
+    "message": "لا يمكن أن يكون محتوى الخيار فارغا",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip2": {
+    "message": "إضافة ما يصل إلى خيارات {n}",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip1": {
+    "message": "يرجى تعيين الإجابة الصحيحة",
+    "description": "考试快捷地址"
+  },
+  "inputQuestionTitle": {
+    "message": "الرجاء إدخال محتوى السؤال",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip1": {
+    "message": "لا يمكن أن يكون محتوى السؤال فارغا",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip2": {
+    "message": "لا يمكن أن يتجاوز محتوى العنوان حرف {n}",
+    "description": "考试快捷地址"
+  },
+  "insertBlankTip": {
+    "message": "انقر على علامة التبويب إدراج بند فارغ",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip2": {
+    "message": "لمزيد من الإجابات الصحيحة ، استخدم / / فاصل",
+    "description": "考试快捷地址"
+  },
+  "inputAnswer": {
+    "message": "الرجاء إدخال الإجابة",
+    "description": "考试快捷地址"
+  },
+  "answerTip": {
+    "message": "الإجابات الفارغة في هذا السؤال قابلة للتبديل",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip1": {
+    "message": "إضافة عنصر واحد على الأقل فارغة",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip3": {
+    "message": "لا يمكن أن تتجاوز الإجابة حرف {n}",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip4": {
+    "message": "لا يمكن أن تكون الإجابة فارغة",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestion": {
+    "message": "إضافة سؤال فرعي",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestionTip": {
+    "message": "إضافة أسئلة فرعية {n} على الأكثر",
+    "description": "考试快捷地址"
+  },
+  "defineRange": {
+    "message": "عرف نطاق المتغيرات",
+    "description": "考试快捷地址"
+  },
+  "minimum": {
+    "message": "الحد الادني",
+    "description": "考试快捷地址"
+  },
+  "max": {
+    "message": "الحد الاقصي",
+    "description": "考试快捷地址"
+  },
+  "precision": {
+    "message": "الدقة",
+    "description": "考试快捷地址"
+  },
+  "answerPrecision": {
+    "message": "دقة الإجابة",
+    "description": "考试快捷地址"
+  },
+  "allowedDeviation": {
+    "message": "خطأ مسموح به",
+    "description": "考试快捷地址"
+  },
+  "detectionFormula": {
+    "message": "الكشف عن الصيغ",
+    "description": "考试快捷地址"
+  },
+  "inputFormula": {
+    "message": "الرجاء إدخال المعادلة",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip1": {
+    "message": "يجب أن يتراوح طول الصيغة بين 1 و {n} حرفا",
+    "description": "考试快捷地址"
+  },
+  "inputDeviationTip": {
+    "message": "يجب أن يكون حجم الخطأ بين 0-{n}",
+    "description": "考试快捷地址"
+  },
+  "unableToCalculateAnswer": {
+    "message": "لا يمكن حساب الإجابة - برجاء مراجعة المعادلة",
+    "description": "考试快捷地址"
+  },
+  "inputRangeTip": {
+    "message": "الرجاء إدخال النطاق الصحيح للقيم",
+    "description": "考试快捷地址"
+  },
+  "readText": {
+    "message": "قراءة النص بصوت عال",
+    "description": "考试快捷地址"
+  },
+  "readTextTip": {
+    "message": "يتم دعم اللغة الإنجليزية فقط ، وليس أكثر من كلمات {n}",
+    "description": "考试快捷地址"
+  },
+  "wordNum": {
+    "message": "عدد الكلمات",
+    "description": "考试快捷地址"
+  },
+  "readTextTip1": {
+    "message": "لا يمكن أن تكون قراءة النص فارغة",
+    "description": "考试快捷地址"
+  },
+  "readTextTip2": {
+    "message": "لا يمكن أن يتجاوز النص كلمات {n}",
+    "description": "考试快捷地址"
+  },
+  "inputReferenceAnswer": {
+    "message": "انقر لإدخال الإجابة المرجعية",
+    "description": "考试快捷地址"
+  },
+  "formula": {
+    "message": "صيغة الحساب",
+    "description": "考试快捷地址"
+  },
+  "remarked": {
+    "message": "تم تقييمه",
+    "description": "考试快捷地址"
+  },
+  "toBeGradedManually": {
+    "message": "تخضع بعض الأسئلة للتقدير اليدوي",
+    "description": "考试快捷地址"
+  },
+  "correctAnswerNotAnnounce": {
+    "message": "الإجابات الصحيحة لم تصدر بعد للامتحان",
+    "description": "考试快捷地址"
+  },
+  "select": {
+    "message": "الرجاء الاختيار",
+    "description": "考试快捷地址"
+  },
+  "paramErrorTip": {
+    "message": "معلمات الصفحة غير مكتملة",
+    "description": "考试快捷地址"
+  },
+  "getDataFail": {
+    "message": "تعذر الحصول على البيانات",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQToBeGraded": {
+    "message": "غير متدرج",
+    "description": "考试快捷地址"
+  },
+  "autoLoadNext": {
+    "message": "تحميل النسخة التالية تلقائيا",
+    "description": "考试快捷地址"
+  },
+  "completeRemark": {
+    "message": "حفظ التقدير",
+    "description": "考试快捷地址"
+  },
+  "exitRemark": {
+    "message": "خروج",
+    "description": "考试快捷地址"
+  },
+  "nextPaper": {
+    "message": "مقبل",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip": {
+    "message": "تهانينا ، أكمل جميع المرشحين في صفك موافقاتهم!",
+    "description": "考试快捷地址"
+  },
+  "remarkTip": {
+    "message": "لم يتم تسجيل السؤال {n} ، هل انتهى؟",
+    "description": "考试快捷地址"
+  },
+  "end": {
+    "message": "‏‏النهاية",
+    "description": "考试快捷地址"
+  },
+  "remarkSuccess": {
+    "message": "الموافقة ناجحة!",
+    "description": "考试快捷地址"
+  },
+  "remarkFail": {
+    "message": "فشل حفظ الموافقة",
+    "description": "考试快捷地址"
+  },
+  "answerHistoryTimes": {
+    "message": " الجلسة {n}",
+    "description": "考试快捷地址"
+  },
+  "showAnswer": {
+    "message": "عرض ",
+    "description": "考试快捷地址"
+  },
+  "hideAnswer": {
+    "message": "إخفاء الإجابات",
+    "description": "考试快捷地址"
+  },
+  "used": {
+    "message": "استخدام",
+    "description": "考试快捷地址"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "考试快捷地址"
+  },
+  "saveAndExit": {
+    "message": "الحفظ والخروج",
+    "description": "考试快捷地址"
+  },
+  "more": {
+    "message": "أكثر",
+    "description": "考试快捷地址"
+  },
+  "batchEntry": {
+    "message": "إدخال الدفعة",
+    "description": "考试快捷地址"
+  },
+  "importFromBank": {
+    "message": "الاستيراد من تجمع الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "batchEditScore": {
+    "message": "نقاط لكل سؤال",
+    "description": "考试快捷地址"
+  },
+  "inputScore": {
+    "message": "أدخل درجة",
+    "description": "考试快捷地址"
+  },
+  "batchEditTimes": {
+    "message": "عدد مرات اللعب لكل صوت",
+    "description": "考试快捷地址"
+  },
+  "batchSetting": {
+    "message": "الإعداد المجمع",
+    "description": "考试快捷地址"
+  },
+  "partName": {
+    "message": "الاسم (قابل للتخصيص)",
+    "description": "考试快捷地址"
+  },
+  "desc": {
+    "message": "الشرح",
+    "description": "考试快捷地址"
+  },
+  "savePaper": {
+    "message": "حفظ ورقة الاختبار",
+    "description": "考试快捷地址"
+  },
+  "editName": {
+    "message": "تعديل الاسم",
+    "description": "考试快捷地址"
+  },
+  "fullScore": {
+    "message": "الدرجة النهائية",
+    "description": "考试快捷地址"
+  },
+  "inputPartName": {
+    "message": "انقر فوق إدخال اسم القسم",
+    "description": "考试快捷地址"
+  },
+  "inputPartNameTip": {
+    "message": "اسم القسم لا يمكن أن يتجاوز {n} حرف",
+    "description": "考试快捷地址"
+  },
+  "inputPartDescTip": {
+    "message": "لا يمكن أن يكون أكثر من{n} حرف",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip": {
+    "message": "اسم ورقة الاختبار غير فارغ",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip1": {
+    "message": "اسم الاختبار لا يمكن أن يكون أكثر من {n} حرف",
+    "description": "考试快捷地址"
+  },
+  "newPaper": {
+    "message": "امتحان جديد",
+    "description": "考试快捷地址"
+  },
+  "firstPart": {
+    "message": "الفرع الأول",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip1": {
+    "message": "تم استخدام ورقة الاختبار هذه في الامتحان، وتسمح فقط بتعديل محتوى الأسئلة والإجابات والدرجات، ولا يمكن تعديل بنية ورقة الاختبار، أو يمكن إضافة الأسئلة أو حذفها. لا يسمح للأسئلة التي تحتوي على أسئلة فرعية بإضافة أسئلة فرعية أو حذفها. {br} إذا تم تعديل إجابة سؤال أو درجة، فيجب إعادة تقدير ورقة الاختبار المقدرة في الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "previewTip": {
+    "message": "إضافة سؤال واحد على الأقل إلى كل قسم لحفظه أو معاينته",
+    "description": "考试快捷地址"
+  },
+  "previewTip1": {
+    "message": "لم يتم حفظ السؤال {n}، يرجى حفظ السؤال أولا.",
+    "description": "考试快捷地址"
+  },
+  "savingTip": {
+    "message": "الادخار ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "addPartTip": {
+    "message": "أضف ما يصل إلى {n} قسما لكل مجموعة من أوراق الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "editPart": {
+    "message": "تعديل القسم",
+    "description": "考试快捷地址"
+  },
+  "deletePart": {
+    "message": "حذف",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip": {
+    "message": "سيؤدي حذف قسم إلى حذف جميع الأسئلة في هذا القسم في نفس الوقت. بشكل افتراضي، لن يتم حفظ الأسئلة الجديدة التي تم إنشاؤها في ورقة الاختبار في بنك الأسئلة، ولا يمكن استعادتها بعد الحذف، لذا يرجى توخي الحذر. هل أنت متأكد من أنك تريد حذفه؟",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip1": {
+    "message": "احتفظ بجزء واحد على الأقل.",
+    "description": "考试快捷地址"
+  },
+  "addPartQuestionTip": {
+    "message": "أضف ما يصل إلى {n} أسئلة إلى كل قسم.",
+    "description": "考试快捷地址"
+  },
+  "confirmCancelEdit": {
+    "message": "هل أنت متأكد من أنك تريد إلغاء التعديل؟",
+    "description": "考试快捷地址"
+  },
+  "deleteQuestion": {
+    "message": "حذف سؤال",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteQuestion": {
+    "message": "هل أنت متأكد من أنك تريد حذف هذا السؤال؟",
+    "description": "考试快捷地址"
+  },
+  "editSuccess": {
+    "message": "تم التعديل بنجاح",
+    "description": "考试快捷地址"
+  },
+  "editFail": {
+    "message": "لم نتمكن من التعديل",
+    "description": "考试快捷地址"
+  },
+  "importFail": {
+    "message": "لم نتمكن من الاستيراد!",
+    "description": "考试快捷地址"
+  },
+  "exitTip": {
+    "message": "لم يتم حفظ الورقة والأسئلة ، وإذا خرجت في هذا الوقت ، فلن يتم استرداد الأسئلة التي تم إنشاؤها حديثا. هل أنت متأكد من أنك تريد الخروج؟",
+    "description": "考试快捷地址"
+  },
+  "exitTip1": {
+    "message": "لم يتم حفظ السؤال {n} ، اتركه في هذا الوقت ، لن يتم حفظ التعديل. هل أنت متأكد من أنك تريد المغادرة؟",
+    "description": "考试快捷地址"
+  },
+  "confirmExit": {
+    "message": "هل أنت متأكد من أنك تريد الخروج؟",
+    "description": "考试快捷地址"
+  },
+  "answered": {
+    "message": "اجاب",
+    "description": "考试快捷地址"
+  },
+  "interruptAnswer": {
+    "message": "ترك المدرسة",
+    "description": "考试快捷地址"
+  },
+  "saveAnswerRecord": {
+    "message": "حفظ الإجابة",
+    "description": "考试快捷地址"
+  },
+  "submitPaper": {
+    "message": "تسليم الأوراق",
+    "description": "考试快捷地址"
+  },
+  "joinExamByCode": {
+    "message": "دخول الامتحان من خلال رمز التحقق",
+    "description": "考试快捷地址"
+  },
+  "examLimitTime": {
+    "message": "وقت محدود",
+    "description": "考试快捷地址"
+  },
+  "saved": {
+    "message": "تم الحفظ",
+    "description": "考试快捷地址"
+  },
+  "networkError": {
+    "message": "فشل شذوذ الشبكة، اختبار تقديم الورق!",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "قام النظام بتخزين سجل الإجابة مؤقتا محليا، ولا تترك الصفحة أو تغلقها، وحاول إرسالها يدويا مرة أخرى لاحقا.",
+    "description": "考试快捷地址"
+  },
+  "leftTimeTip": {
+    "message": "كان الوقت أقل من 1 دقيقة",
+    "description": "考试快捷地址"
+  },
+  "restoringAnswerRecords": {
+    "message": "تتم استعادة سجلات الإجابات ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip2": {
+    "message": "الشبكة الحالية غير طبيعية ، ولا يمكن تحميل ورقة الاختبار بشكل طبيعي ، يرجى التحقق من الشبكة المحلية ، ثم حاول إدخال الاختبار بعد استعادة الشبكة.",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip3": {
+    "message": "البيانات غير طبيعية ، ولا يمكن تحميل ورقة الاختبار بشكل طبيعي ، يرجى الاتصال بخدمة العملاء.",
+    "description": "考试快捷地址"
+  },
+  "notExitFullScreenTip": {
+    "message": "يرجى عدم الخروج من ملء الشاشة أثناء الامتحان، وإلا اعتباره خروجا من الامتحان وقد يتم الحكم عليه على أنه غش، مما يؤثر على درجة الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip": {
+    "message": "يرجى عدم إغلاق صفحة الويب ، يقوم النظام بتقديم ورقة الامتحان ...",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip1": {
+    "message": "الشبكة الحالية غير مستقرة ، يرجى التحقق مما إذا كان اتصال الشبكة طبيعيا.",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip2": {
+    "message": "لم نتمكن من تقديم الامتحان. الرجاء عدم إغلاق الشاشة - النظام يعمل على تقديم الامتحان الخاص بك!",
+    "description": "考试快捷地址"
+  },
+  "submitSuccess": {
+    "message": "تم إرسالها بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "submitFail": {
+    "message": " لم نتمكن من الإرسال ",
+    "description": "考试快捷地址"
+  },
+  "submiting": {
+    "message": "التقديم، يرجى الانتظار...",
+    "description": "考试快捷地址"
+  },
+  "notAllowedSubmitTip": {
+    "message": "لا يسمح بالأوراق خلال {time} دقائق من بدء الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip": {
+    "message": "هل أنت متأكد من تسليم الأوراق؟",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip1": {
+    "message": "لم تتم الإجابة على السؤال {n} ، هل أنت متأكد من أنك تريد تسليم الورقة؟",
+    "description": "考试快捷地址"
+  },
+  "confirmPaper": {
+    "message": "تأكيد التمديد",
+    "description": "考试快捷地址"
+  },
+  "timeOverTip": {
+    "message": "لقد نفد الوقت ، ويتم تشغيل اللفة تلقائيا بعد 3 ثوان.",
+    "description": "考试快捷地址"
+  },
+  "nextPart": {
+    "message": "القسم التالي",
+    "description": "考试快捷地址"
+  },
+  "isLast": {
+    "message": "إنها النهاية",
+    "description": "考试快捷地址"
+  },
+  "examinee": {
+    "message": "الممتحن",
+    "description": "考试快捷地址"
+  },
+  "result": {
+    "message": "الدرجة",
+    "description": "考试快捷地址"
+  },
+  "objectiveQuestionScore": {
+    "message": "التهديف التلقائي",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionScore": {
+    "message": "دليل الدرجات",
+    "description": "考试快捷地址"
+  },
+  "totalNumberOfQuestions": {
+    "message": "مجموع",
+    "description": "考试快捷地址"
+  },
+  "totalScore": {
+    "message": "نقاط",
+    "description": "考试快捷地址"
+  },
+  "numberOfQuestions": {
+    "message": "عدد الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "scoreNum": {
+    "message": "الدرجات",
+    "description": "考试快捷地址"
+  },
+  "addPart": {
+    "message": "إضافة قسم",
+    "description": "考试快捷地址"
+  },
+  "numberOfPlaysAllowed": {
+    "message": "عدد مرات السماح بالتشغيل",
+    "description": "考试快捷地址"
+  },
+  "notLimit1": {
+    "message": "مطلق",
+    "description": "考试快捷地址"
+  },
+  "playTimesAllowed": {
+    "message": "عدد المسرحيات المسموح بها: {n} مرات",
+    "description": "考试快捷地址"
+  },
+  "playedTimes": {
+    "message": " لعبت {n} مرات ",
+    "description": "考试快捷地址"
+  },
+  "playTimesOver": {
+    "message": "تم استهلاك عدد المسرحيات",
+    "description": "考试快捷地址"
+  },
+  "switchPartTipAboutRecording": {
+    "message": "هناك أيضا تسجيل قيد التقدم ، إذا قمت بالتبديل ، فسيتوقف التسجيل ، حسنا لتبديل الجزء؟",
+    "description": "考试快捷地址"
+  },
+  "submitTipAboutUpload": {
+    "message": "هناك ملفات يتم تحميلها ، يرجى إرسالها لاحقا",
+    "description": "考试快捷地址"
+  },
+  "saveTipAboutUpload": {
+    "message": "هناك ملفات يتم تحميلها ، يرجى حفظها بعد اكتمال التحميل",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip": {
+    "message": "إضافة ما يصل إلى {n} تعبئة الفراغات",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip": {
+    "message": "إضافة أسئلة فرعية {n} على الأكثر",
+    "description": "考试快捷地址"
+  },
+  "notExitTip": {
+    "message": "يحظر الخروج من ملء الشاشة أو مغادرة واجهة الامتحان أثناء الامتحان!",
+    "description": "考试快捷地址"
+  },
+  "leaveTimesTip": {
+    "message": "لقد غادرت الامتحان {n} مرات!",
+    "description": "考试快捷地址"
+  },
+  "continueAnswer": {
+    "message": "متابعة الإجابة",
+    "description": "考试快捷地址"
+  },
+  "finish": {
+    "message": "مكتمل",
+    "description": "考试快捷地址"
+  },
+  "nextStep": {
+    "message": "التالي",
+    "description": "考试快捷地址"
+  },
+  "skip": {
+    "message": "‏‏تخطي",
+    "description": "考试快捷地址"
+  },
+  "guide1": {
+    "message": "مرحبا بكم في الإصدار الجديد من ورقة الامتحان ، دعونا نرى ما هي التغييرات!",
+    "description": "考试快捷地址"
+  },
+  "guide2": {
+    "message": "على الجانب الأيمن ، يمكنك إضافة أقسام من ورقة الاختبار ونقلها وحذفها. انقر فوق عنوان القسم للتبديل إلى القسم المقابل.",
+    "description": "考试快捷地址"
+  },
+  "guide3": {
+    "message": "انقر هنا لتعديل بعض الأسماء والأوصاف.",
+    "description": "考试快捷地址"
+  },
+  "guide4": {
+    "message": "في الإصدار الجديد من ورقة الاختبار ، يمكنك إنشاء الأسئلة وتحريرها مباشرة! حدد نوع سؤال هنا لإضافة سؤال جديد. بالطبع ، يمكنك أيضا استيراد الأسئلة من بنك الأسئلة أو إدخالها على دفعات.",
+    "description": "考试快捷地址"
+  },
+  "guide5": {
+    "message": "تجدر الإشارة إلى أن الأسئلة الجديدة التي تم إنشاؤها في ورقة الاختبار لن يتم حفظها تلقائيا في بنك الأسئلة بشكل افتراضي. إذا لزم الأمر، يمكنك استخدام وظيفة استيراد من ورقة الاختبار في بنك الأسئلة لاستيراد الأسئلة من ورقة الاختبار إلى بنك الأسئلة.",
+    "description": "考试快捷地址"
+  },
+  "guide6": {
+    "message": "اضبط درجة السؤال وعدد أوقات تشغيل الصوت على دفعات، وانتقل إلى هنا.",
+    "description": "考试快捷地址"
+  },
+  "guide7": {
+    "message": "أثناء عملية التحرير، انقر هنا لمعاينة تأثير ورقة الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "guide8": {
+    "message": "بعد تحرير جميع أوراق الاختبار ، تذكر النقر فوق [حفظ] أوه.",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip": {
+    "message": "تم استخدام ورقة الاختبار هذه في الامتحان، وتسمح فقط بتعديل محتوى الأسئلة والإجابات والدرجات، ولا يمكن تعديل بنية ورقة الاختبار، أو يمكن إضافة الأسئلة أو حذفها. لا يسمح للأسئلة التي تحتوي على أسئلة فرعية بإضافة أسئلة فرعية أو حذفها.",
+    "description": "考试快捷地址"
+  },
+  "createPaper": {
+    "message": "إنشاء أوراق اختبار",
+    "description": "考试快捷地址"
+  },
+  "editPaper": {
+    "message": "تحرير ورقة الاختبار",
+    "description": "考试快捷地址"
+  },
+  "previewPaper": {
+    "message": "معاينة الامتحان",
+    "description": "考试快捷地址"
+  },
+  "teacherRemark": {
+    "message": "موافقة المعلم",
+    "description": "考试快捷地址"
+  },
+  "answerHistory": {
+    "message": "سجل الإجابة",
+    "description": "考试快捷地址"
+  },
+  "cameraErrorTip": {
+    "message": " كاميرا مراقبة غير طبيعية ، الكاميرا لم تبدأ ، يرجى التحقق من ما إذا كان هناك أي من الظروف التالية : \n 1 . لا تفتح الكاميرا إذن \n 2 . كاميرا ويب المحتلة من قبل برنامج آخر أو صفحة ويب \n 3 . شبكة الشذوذ \n إذا كان هناك أي من أعلاه ، الرجاء حل المشكلة ثم انقر فوق مواصلة الإجابة .",
+    "description": "考试快捷地址"
+  },
+  "cameraNoStartTip": {
+    "message": "يرجى تشغيل الكاميرا أولا",
+    "description": "考试快捷地址"
+  },
+  "choiceQue": {
+    "message": "اختر موضوعا",
+    "description": "考试快捷地址"
+  },
+  "queBank": {
+    "message": "بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "insert": {
+    "message": "إدراج",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoices": {
+    "message": "تم اختيار السؤال {n}",
+    "description": "考试快捷地址"
+  },
+  "mineQueBank": {
+    "message": "بنك أسئلتي",
+    "description": "考试快捷地址"
+  },
+  "schoolQueBank": {
+    "message": "بنك أسئلة الأكاديمية",
+    "description": "考试快捷地址"
+  },
+  "shareBank": {
+    "message": "تمت مشاركة بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "goBack": {
+    "message": "رجوع",
+    "description": "考试快捷地址"
+  },
+  "allQuestions": {
+    "message": "جميع المواضيع",
+    "description": "考试快捷地址"
+  },
+  "parsentArea": {
+    "message": "الوضع الحالي",
+    "description": "考试快捷地址"
+  },
+  "search": {
+    "message": "بحث",
+    "description": "考试快捷地址"
+  },
+  "addQuestions": {
+    "message": "إضافة سؤال",
+    "description": "考试快捷地址"
+  },
+  "editQuestions": {
+    "message": "تعديل العنوان",
+    "description": "考试快捷地址"
+  },
+  "importQuestions": {
+    "message": "استيراد الأسئلة بشكل مجمع",
+    "description": "考试快捷地址"
+  },
+  "addBank": {
+    "message": "إضافة مجلد",
+    "description": "考试快捷地址"
+  },
+  "editBank": {
+    "message": " تعديل المجلد ",
+    "description": "考试快捷地址"
+  },
+  "bankNameError1": {
+    "message": "لا يمكن أن يكون اسم المجلد فارغا",
+    "description": "考试快捷地址"
+  },
+  "bankNameError2": {
+    "message": "لا يمكن أن تتجاوز أسماء المجلدات 200 حرف",
+    "description": "考试快捷地址"
+  },
+  "bankNameError3": {
+    "message": "لا يمكن أن يحتوي اسم المجلد على الأحرف التالية: *؟:<>\" '|/\\~.'\"",
+    "description": "考试快捷地址"
+  },
+  "bankNameError4": {
+    "message": "يمكن إضافة المجلدات حتى 5 مستويات ، والدليل الحالي هو المستوى {l} ، ولا يمكن إضافة أي مجلدات فرعية",
+    "description": "考试快捷地址"
+  },
+  "writeBankName": {
+    "message": "الكلمة الرئيسية للبحث عن مجلد",
+    "description": "考试快捷地址"
+  },
+  "addSuccess": {
+    "message": "تمت الإضافة بنجاح",
+    "description": "考试快捷地址"
+  },
+  "addFail": {
+    "message": "لم نتمكن من الاضافة",
+    "description": "考试快捷地址"
+  },
+  "queBankStatistics": {
+    "message": "إحصاءات بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "importBank": {
+    "message": "تصدير بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "يتجاوز عدد الأسئلة المصدرة الحد الأعلى.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg": {
+    "message": "تصدير، يرجى الانتظار...",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg1": {
+    "message": "قد تكون أوقات التصدير طويلة، يرجى التحلي بالصبر.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg2": {
+    "message": "في حالة وجود نافذة منبثقة لحظر المتصفح، اختر السماح دائما بالنوافذ المنبثقة لموقع الويب.",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg3": {
+    "message": "التصدير، {n}/{m} مكتمل",
+    "description": "考试快捷地址"
+  },
+  "cancelExportRecord": {
+    "message": "إلغاء التصدير",
+    "description": "考试快捷地址"
+  },
+  "imporBanktNone": {
+    "message": "لا توجد عناوين في هذا الدليل للتصدير.",
+    "description": "考试快捷地址"
+  },
+  "importBankErrorMsg": {
+    "message": "فشل التصدير",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsType": {
+    "message": "الجميع",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsLevel": {
+    "message": "صعوبة كاملة",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTime": {
+    "message": "بترتيب عكسي لوقت الإنشاء",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTimePositive": {
+    "message": "في ترتيب وقت الخلق",
+    "description": "考试快捷地址"
+  },
+  "writeSearch": {
+    "message": "البحث عن موضوع/مجلد",
+    "description": "考试快捷地址"
+  },
+  "titleDetails": {
+    "message": "تفاصيل الموضوع",
+    "description": "考试快捷地址"
+  },
+  "choiceQueType": {
+    "message": "إختر",
+    "description": "考试快捷地址"
+  },
+  "textImport": {
+    "message": "استيراد النص",
+    "description": "考试快捷地址"
+  },
+  "paperImport": {
+    "message": "الاستيراد من أوراق الاختبار",
+    "description": "考试快捷地址"
+  },
+  "paperImportError": {
+    "message": "عند استيراد ورقة اختبار في الدليل الحالي، سيتجاوز مستوى المجلد الحد الأعلى. يدعم بنك الأسئلة ما يصل إلى 5 مستويات من الدلائل ، يرجى إعادة تحديد استيراد المجلد.",
+    "description": "考试快捷地址"
+  },
+  "excelImport": {
+    "message": "الاستيراد من Excel",
+    "description": "考试快捷地址"
+  },
+  "importExcelLoadMsg": {
+    "message": "استيراد، يرجى الانتظار...",
+    "description": "考试快捷地址"
+  },
+  "importSuccess": {
+    "message": "تم استيرادها بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "hardlevels1": {
+    "message": "سهل جدا",
+    "description": "考试快捷地址"
+  },
+  "hardlevels2": {
+    "message": "سهل",
+    "description": "考试快捷地址"
+  },
+  "hardlevels3": {
+    "message": "متوسط",
+    "description": "考试快捷地址"
+  },
+  "hardlevels4": {
+    "message": "صعب",
+    "description": "考试快捷地址"
+  },
+  "hardlevels5": {
+    "message": "صعب جدا",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplate": {
+    "message": "تنزيل قالب",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplateMsg": {
+    "message": "قم بتنزيل قالب Excel واملأ الأسئلة وفقا لمتطلبات القالب",
+    "description": "考试快捷地址"
+  },
+  "uploadFile": {
+    "message": "رفع ملف",
+    "description": "考试快捷地址"
+  },
+  "uploadFileMsg": {
+    "message": "تحميل ملف Excel المكتمل",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError": {
+    "message": "بعض معلومات الموضوع في الملف غير موحدة ، يرجى التحقق والتعديل قبل التحميل",
+    "description": "考试快捷地址"
+  },
+  "uploadFileErrorMsg": {
+    "message": "السطر {n} ، العمود {m}",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg": {
+    "message": "يرجى اختيار الموضوع أولا",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg1": {
+    "message": "استيراد ما يصل إلى 200 سؤال في المرة الواحدة",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg2": {
+    "message": "استيراد ما يصل إلى 200 سؤال",
+    "description": "考试快捷地址"
+  },
+  "choiceAll": {
+    "message": "إختيار الكل",
+    "description": "考试快捷地址"
+  },
+  "moveSuccess": {
+    "message": "تم النقل بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "moveFail": {
+    "message": "لم نتمكن من النقل",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg1": {
+    "message": "لا يمكن أن يتجاوز مستوى المجلد 5 مستويات، ويتجاوز مجموع مستويات المجلد الوجهة والمجلد الحالي الحد الأعلى ولا يمكن نقله.",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg2": {
+    "message": "يوجد مجلد يحمل نفس الاسم في المجلد الوجهة ولا يمكن نقله.",
+    "description": "考试快捷地址"
+  },
+  "moveLoadMsg": {
+    "message": "تتحرك ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "changeShareRange": {
+    "message": "تعديل نطاق المشاركة",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError1": {
+    "message": "يرجى اختيار المعلم المعين",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError2": {
+    "message": "يرجى اختيار مشارك",
+    "description": "考试快捷地址"
+  },
+  "shareTeacherEmpty": {
+    "message": "لا يوجد معلم معين",
+    "description": "考试快捷地址"
+  },
+  "shareNumOver": {
+    "message": "اختر ما يصل إلى 100 معلم",
+    "description": "考试快捷地址"
+  },
+  "shareLoadMsg": {
+    "message": "الادخار ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "queBankEmpty": {
+    "message": "لا توجد عناوين في جدول المحتويات الحالي",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirmNew": {
+    "message": "هل أنت متأكد من أنك تريد حذف [{n}]؟",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm1": {
+    "message": "إذا قمت بتحديد الاحتفاظ بالمواضيع، حذف المجلد فقط، نقل الموضوعات الموجودة في المجلد إلى الدليل الجذر بعد الحذف.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm2": {
+    "message": "إذا قمت بتحديد حذف الكل، حذف الأسئلة الموجودة في المجلد أيضا.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm3": {
+    "message": "احتفظ بالعنوان واحذف المجلد فقط",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm4": {
+    "message": "هل أنت متأكد من أنك تريد حذف محتويات عناصر {n} مثل {x}؟",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm6": {
+    "message": "لا يمكن استرداد البيانات بعد الحذف.",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm7": {
+    "message": "هل أنت متأكد من أنك تريد حذفه؟ لا يمكن استرداد البيانات بعد الحذف.",
+    "description": "考试快捷地址"
+  },
+  "deleteLoadMsg": {
+    "message": "حذف ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "deleteAll": {
+    "message": "حذف الكل",
+    "description": "考试快捷地址"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "deleteFail": {
+    "message": "فشل الحذف",
+    "description": "考试快捷地址"
+  },
+  "hardLevel": {
+    "message": "الصعوبه",
+    "description": "考试快捷地址"
+  },
+  "schoolTeacher": {
+    "message": "معلمو المدرسة",
+    "description": "考试快捷地址"
+  },
+  "allTeacher": {
+    "message": "كل المعلمين",
+    "description": "考试快捷地址"
+  },
+  "appointTeacher": {
+    "message": "تعيين معلم",
+    "description": "考试快捷地址"
+  },
+  "sameQueinPaper": {
+    "message": "أسئلة مماثلة موجودة بالفعل في الورقة",
+    "description": "考试快捷地址"
+  },
+  "alreadyinPaper": {
+    "message": "بالفعل في ورقة الاختبار",
+    "description": "考试快捷地址"
+  },
+  "subQuestionNum": {
+    "message": "{n} سؤال فرعي",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime": {
+    "message": "آخر تحديث:{time}",
+    "description": "考试快捷地址"
+  },
+  "queLocation": {
+    "message": "موقع",
+    "description": "考试快捷地址"
+  },
+  "founder": {
+    "message": "المنشئ",
+    "description": "考试快捷地址"
+  },
+  "own": {
+    "message": "أنا",
+    "description": "考试快捷地址"
+  },
+  "batchType1": {
+    "message": "إعادة تسمية",
+    "description": "考试快捷地址"
+  },
+  "batchType2": {
+    "message": "نقل",
+    "description": "考试快捷地址"
+  },
+  "batchType3": {
+    "message": "مشاركه",
+    "description": "考试快捷地址"
+  },
+  "batchType5": {
+    "message": "تعديل",
+    "description": "考试快捷地址"
+  },
+  "batchType6": {
+    "message": "نسخ",
+    "description": "考试快捷地址"
+  },
+  "copySuccess": {
+    "message": "نسخت بنجاح! تم نسخ {y} إلى {x} الخاص بك.",
+    "description": "考试快捷地址"
+  },
+  "copyQuestion": {
+    "message": "اسم الاختبار",
+    "description": "考试快捷地址"
+  },
+  "copyFolder": {
+    "message": "مجلد",
+    "description": "考试快捷地址"
+  },
+  "copyFail": {
+    "message": "لم نتمكن من التكرار",
+    "description": "考试快捷地址"
+  },
+  "copyLoadMsg": {
+    "message": "النسخ ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "currentDirectory": {
+    "message": "الدليل الحالي",
+    "description": "考试快捷地址"
+  },
+  "rootDirectory": {
+    "message": "المجلد الاساسي",
+    "description": "考试快捷地址"
+  },
+  "targetFolder": {
+    "message": "يرجى تحديد مجلد الوجهة.",
+    "description": "考试快捷地址"
+  },
+  "sharePeople": {
+    "message": "شارك السؤال الحالي مع:",
+    "description": "考试快捷地址"
+  },
+  "justOwn": {
+    "message": "خاص",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolTeacher": {
+    "message": "يتم تعيين المعلمين من قبل المدرسة",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolAllTeacher": {
+    "message": "جميع المعلمين في المدرسة",
+    "description": "考试快捷地址"
+  },
+  "choicesallTeacher": {
+    "message": "كل المعلمين",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacher": {
+    "message": "إختر معلم",
+    "description": "考试快捷地址"
+  },
+  "searchTeacher": {
+    "message": "للبحث أدخل اسم المعلم",
+    "description": "考试快捷地址"
+  },
+  "previousPage": {
+    "message": "سابق",
+    "description": "考试快捷地址"
+  },
+  "NextPage": {
+    "message": "مقبل",
+    "description": "考试快捷地址"
+  },
+  "choicePage": {
+    "message": "قفز",
+    "description": "考试快捷地址"
+  },
+  "totleQueNum": {
+    "message": "الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "totleFolderNum": {
+    "message": "إجمالي عدد المجلدات",
+    "description": "考试快捷地址"
+  },
+  "hardDistribution": {
+    "message": "صعوبة التوزيع",
+    "description": "考试快捷地址"
+  },
+  "queTypeDistribution": {
+    "message": "توزيع نوع السؤال",
+    "description": "考试快捷地址"
+  },
+  "tagsMsg": {
+    "message": "العلامات (ضمن 30 حرفا، تأكيد إرجاع النقل، حتى 3):",
+    "description": "考试快捷地址"
+  },
+  "analysisTit": {
+    "message": "اضغط هنا لإدخال الشرح - ( اختياري )",
+    "description": "考试快捷地址"
+  },
+  "stemArea": {
+    "message": "عنصر نائب السؤال",
+    "description": "考试快捷地址"
+  },
+  "choiceA": {
+    "message": "عنصر نائب الاختيار 1",
+    "description": "考试快捷地址"
+  },
+  "choiceB": {
+    "message": "اختيار 2 العنصر النائب",
+    "description": "考试快捷地址"
+  },
+  "choiceC": {
+    "message": "اختيار 3 العنصر النائب",
+    "description": "考试快捷地址"
+  },
+  "choiceD": {
+    "message": "اختيار 4 عنصر نائب",
+    "description": "考试快捷地址"
+  },
+  "completionStem": {
+    "message": "الروح الأولمبية هي ( ) ، ( ) ، ( ) .",
+    "description": "考试快捷地址"
+  },
+  "completionAnswer": {
+    "message": " الجواب 1 || الجواب 2 || الجواب 3 ",
+    "description": "考试快捷地址"
+  },
+  "shortAnsStem": {
+    "message": "عنصر نائب السؤال",
+    "description": "考试快捷地址"
+  },
+  "shortAnsAnswer": {
+    "message": "عنصر نائب للرد",
+    "description": "考试快捷地址"
+  },
+  "saveErrorTips2": {
+    "message": " لم نتمكن من حفظ بعض الأسئلة!",
+    "description": "考试快捷地址"
+  },
+  "numExceededTips": {
+    "message": "لا يمكن أن يتجاوز عدد الأسئلة التي تم إدخالها في كل مرة ٢٠٠",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage1": {
+    "message": "الموضوع غير فارغ",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage2": {
+    "message": "احتفظ بخيارين على الأقل",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage3": {
+    "message": "الاختيارات ليست أكثر من ٢٠",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage4": {
+    "message": "الإجابة الصحيحة ليست فارغة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage5": {
+    "message": "الإجابة الصحيحة في المحتوى غير فارغة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage6": {
+    "message": "يرجى ملء الخيارات أو حذف الخيارات الإضافية",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage7": {
+    "message": "يجب ألا يتجاوز عدد الإجابات الصحيحة عدد الاختيارات",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage8": {
+    "message": "لا يمكن أن تظهر عناصر غير اختيارية في الإجابة الصحيحة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage9": {
+    "message": "هناك تكرارات في الإجابة الصحيحة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage10": {
+    "message": "يجب ألا تكون الإجابات المرجعية فارغة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage11": {
+    "message": "يجب ألا يكون عدد الإجابات الصحيحة أقل من عدد الإجابات الفارغة",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage12": {
+    "message": "إضافة ما يصل إلى 20 عنصرا لملء الفراغات",
+    "description": "考试快捷地址"
+  },
+  "completionAnswerTips": {
+    "message": "ملاحظة: الإجابات الفارغة لهذا السؤال قابلة للتبديل طالما أن المحتوى صحيحة",
+    "description": "考试快捷地址"
+  },
+  "changeScoreText": {
+    "message": "برجاء تاكيد التعين؟",
+    "description": "考试快捷地址"
+  },
+  "scoreTips": {
+    "message": "الرجاء إدخال درجات صحيحة",
+    "description": "考试快捷地址"
+  },
+  "setScoreTips": {
+    "message": "إنشاء مسودة للاسئلة اولا",
+    "description": "考试快捷地址"
+  },
+  "detailDescription": {
+    "message": "مساعدة",
+    "description": "考试快捷地址"
+  },
+  "batchChangeScore": {
+    "message": "درجة تحرير الدفعة",
+    "description": "考试快捷地址"
+  },
+  "questionEditarea": {
+    "message": "منطقة تحرير العنوان",
+    "description": "考试快捷地址"
+  },
+  "questionPreviewarea": {
+    "message": "منطقة معاينة العنوان",
+    "description": "考试快捷地址"
+  },
+  "questionEdit1": {
+    "message": "1. أنواع الأسئلة التي تدعمها هذه الوظيفة: اختيار واحد ، اختيار من متعدد ، حكم ، ملء الفراغ ، إجابة قصيرة.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit2": {
+    "message": "2. في الوقت الحاضر ، ينطبق فقط على استيراد أسئلة النص العادي ، ولا يدعم الأسئلة التي تحتوي على صور وصيغ ومقاطع فيديو وصوت.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit3": {
+    "message": "3. هناك طريقتان لإضافة سؤال: (1) انقر على نوع السؤال أعلاه لإضافة سؤال جديد وتحرير السؤال وفقا لتنسيق القالب. (2) الصق نص العنوان في مستند Word مباشرة هنا ، وسيقوم النظام تلقائيا بتحديد نوع السؤال وإنشاء السؤال.",
+    "description": "考试快捷地址"
+  },
+  "questionEdit4": {
+    "message": "4. بعد استيراد السؤال ، يرجى التحقق مما إذا كان نوع السؤال والنتيجة والإجابة والتحليل والمعلومات الأخرى دقيقة في منطقة المعاينة على اليسار ، وحفظها بعد التأكيد.",
+    "description": "考试快捷地址"
+  },
+  "correct": {
+    "message": "صحيح",
+    "description": "考试快捷地址"
+  },
+  "incorrect": {
+    "message": "خطأ",
+    "description": "考试快捷地址"
+  },
+  "quesOrder": {
+    "message": " سؤال {n}، ",
+    "description": "考试快捷地址"
+  },
+  "saveOutText": {
+    "message": "لديك سؤال لم يتم حفظه، هل تريد الخروج؟",
+    "description": "考试快捷地址"
+  },
+  "bindDownload": {
+    "message": "تنزيل أداة تحويل تنسيق مكتبة الأسئلة Moodle",
+    "description": "考试快捷地址"
+  },
+  "downloadMoodleTitle": {
+    "message": "كيفية استخدامه",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc1": {
+    "message": "1. قم بتنزيل أداة تحويل التنسيق وتثبيتها (يدعم نظام Windows فقط).",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc2": {
+    "message": "2. قم بتصدير بنك الأسئلة من منصة Moodle إلى ملف بتنسيق xml (يدعم فقط الاختيار من متعدد ، والحكم ، وملء الفراغ ، والإجابة القصيرة).",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc3": {
+    "message": "3. استخدم أداة تحويل التنسيق لتحويل ملف xml الذي تم تصديره بواسطة Moodle إلى تنسيق Excel.",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc4": {
+    "message": "4. استخدم وظيفة استيراد الدفعات في ULearning لتحميل ملفات Excel وإكمال استيراد بنك الأسئلة.",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoicesAll": {
+    "message": "{n} العنصر المحدد",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst1": {
+    "message": "1. باستخدام هذه الوظيفة ، يمكنك تصدير جميع الموضوعات الموجودة في المجلد الحالي ومجلداته الفرعية.",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst2": {
+    "message": "2. في الوقت الحالي ، يدعم فقط تصدير تنسيق Excel ، ولا يدعم تصدير الصور والصوت والفيديو والمرفقات الأخرى في العنوان.",
+    "description": "考试快捷地址"
+  },
+  "startImport": {
+    "message": "بدء التصدير",
+    "description": "考试快捷地址"
+  },
+  "queBankEmptyNew": {
+    "message": "لم يتم العثور على أي أسئلة مؤهلة",
+    "description": "考试快捷地址"
+  },
+  "examUploadTipNew": {
+    "message": "عند اختيار ملف ، سيقوم النظام بالخروج مؤقتا من حالة ملء الشاشة ، يرجى إكمال عملية تحديد المرفقات خلال 60 ثانية والعودة إلى واجهة الامتحان ، ثم النقر فوق أي مساحة فارغة على الصفحة للعودة إلى حالة ملء الشاشة ، وإلا سيقوم النظام بتسجيل العملية على أنها مغادرة الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip": {
+    "message": "يرجى التقييم حسب النطاق المحدد",
+    "description": "考试快捷地址"
+  },
+  "textCount": {
+    "message": "كلمة {n}",
+    "description": "考试快捷地址"
+  },
+  "noSkipping": {
+    "message": "يحظر تخطي الأسئلة لهذا الامتحان، لذا يرجى الإجابة عليها بالترتيب.",
+    "description": "考试快捷地址"
+  },
+  "preQue": {
+    "message": "إعادة توجيه",
+    "description": "考试快捷地址"
+  },
+  "nextQue": {
+    "message": "سؤال التالي",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "إنها النهاية",
+    "description": "考试快捷地址"
+  },
+  "quitExam": {
+    "message": "الخروج من الامتحان",
+    "description": "考试快捷地址"
+  },
+  "networkMsg1": {
+    "message": "الشبكة الحالية غير مستقرة، والاستمرار في الإجابة على الأسئلة قد يؤدي إلى فقدان سجل الإجابة.",
+    "description": "考试快捷地址"
+  },
+  "networkMsg2": {
+    "message": "إذا تعذر استعادة الشبكة مؤقتا ، فمن المستحسن الانسحاب من الامتحان بعد الحصول على موافقة المعلم ، ثم ترتيب إعادة في وقت لاحق.",
+    "description": "考试快捷地址"
+  },
+  "submissionExam": {
+    "message": "إنهاء إلزامي",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip1": {
+    "message": "لقد غادرت الامتحان للوصول إلى {n} مرات ، وفقا لإعدادات مراقبة الامتحان ، ستضطر إلى تسليم الورقة.",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip2": {
+    "message": "لقد كنت بعيدا عن الامتحان لأكثر من {n} ثانية وأنت على وشك أن تضطر إلى التسليم وفقا لإعدادات مراقبة الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "submitingNew": {
+    "message": "تقديم...",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTip": {
+    "message": "اترك {n} مرات وسيجبر النظام على التمديد!",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTimeTip": {
+    "message": "هذه المرة تركت {n} ثانية ، بعيدا أكثر من {m} ثانية ، سيجبر النظام على التمديد!",
+    "description": "考试快捷地址"
+  },
+  "uploadFileType": {
+    "message": "رفع المرفقات",
+    "description": "考试快捷地址"
+  },
+  "uploadFinishTip": {
+    "message": "بعد تحديد المرفق، انقر فوق متابعة الإجابة على الأسئلة للعودة إلى الامتحان.",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUpload": {
+    "message": "مسح الرمز ضوئيا لتحميله",
+    "description": "考试快捷地址"
+  },
+  "uploadByPhone": {
+    "message": "مسح الرمز ضوئيا على هاتفك لتحميله",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc": {
+    "message": "مسح هذا رمز ثنائي الأبعاد يسمح لك لتحميل الملفات من الجهاز المحمول إلى جهاز الكمبيوتر الخاص بك .",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc1": {
+    "message": "رمز الاستجابة السريعة {num} صالح لعدة دقائق ، يرجى إعادة فتح النافذة المنبثقة بعد انتهاء الصلاحية.",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip": {
+    "message": "استخدام جهاز محمول لمسح الرمز ضوئيا، أو تعديل معرف نوع جهاز المتصفح",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip1": {
+    "message": "انتهت صلاحية الرابط",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "من الألبوم المحلي",
+    "description": "考试快捷地址"
+  },
+  "selectFile": {
+    "message": "إختيار الملف",
+    "description": "考试快捷地址"
+  },
+  "uploadFirst": {
+    "message": "يرجى تحميل الملف أولا",
+    "description": "考试快捷地址"
+  },
+  "submitToPC": {
+    "message": "إرسال إلى الكمبيوتر",
+    "description": "考试快捷地址"
+  },
+  "submitFileSuccess": {
+    "message": "تحميل بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "submitFileFail": {
+    "message": "فشل التحميل!",
+    "description": "考试快捷地址"
+  },
+  "continueUpload": {
+    "message": "إضافة المزيد من الصوت",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip1": {
+    "message": "ملف واحد لا يتجاوز {size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip2": {
+    "message": "تحميل ملفات {num} في أقصى وقت",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "لا يمكن أن يتجاوز حجم ملف التحميل على جانب الهاتف المحمول {size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip4": {
+    "message": "تحميل ما يصل إلى {n} مرفقات لكل سؤال",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip5": {
+    "message": "يتم تحميل الملف ، يرجى الانتظار حتى يكتمل التحميل قبل الإرسال",
+    "description": "考试快捷地址"
+  },
+  "exit": {
+    "message": "تسجيل الخروج",
+    "description": "考试快捷地址"
+  },
+  "exitUploadTip": {
+    "message": "لم يتم تقديم المستندات ، هل أنت متأكد من المغادرة؟",
+    "description": "考试快捷地址"
+  },
+  "qrCodeOver": {
+    "message": "انتهت صلاحية رمز الاستجابة السريعة، يرجى النقر فوق {refresh}",
+    "description": "考试快捷地址"
+  },
+  "refresh": {
+    "message": "تحديث",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTipNew": {
+    "message": "فشل تحميل الملف أو تحويل الترميز ، يرجى محاولة تحويل الترميز ثم تحميله.",
+    "description": "考试快捷地址"
+  },
+  "publisher": {
+    "message": "تم نشره بواسطة",
+    "description": "考试快捷地址"
+  },
+  "examBatch": {
+    "message": "محاضرات اختبار الدورة",
+    "description": "考试快捷地址"
+  },
+  "examBatchNums": {
+    "message": "{n} ",
+    "description": "考试快捷地址"
+  },
+  "examMonitorConsole": {
+    "message": "مكتب مراقبة الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "enterCode": {
+    "message": "يرجى إدخال رمز تحقق بديل للامتحان",
+    "description": "考试快捷地址"
+  },
+  "monitorConsole": {
+    "message": "مكتب مراقبة الامتحانات المحمول",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "لم نتمكن من التحقق من الرمز",
+    "description": "考试快捷地址"
+  },
+  "answerTimeLimit": {
+    "message": "الإجابات محدودة زمنيا",
+    "description": "考试快捷地址"
+  },
+  "answerTimes": {
+    "message": "{n} مرات",
+    "description": "考试快捷地址"
+  },
+  "batchArrangement": {
+    "message": "المحاضرات",
+    "description": "考试快捷地址"
+  },
+  "allBatchs": {
+    "message": "كل المحاضرات",
+    "description": "考试快捷地址"
+  },
+  "allClasses": {
+    "message": "كل الفصول",
+    "description": "考试快捷地址"
+  },
+  "all": {
+    "message": "الكل",
+    "description": "考试快捷地址"
+  },
+  "notApproved": {
+    "message": "لوضع علامة",
+    "description": "考试快捷地址"
+  },
+  "readed": {
+    "message": "تم تقييمه",
+    "description": "考试快捷地址"
+  },
+  "notSubmitted": {
+    "message": "لم يتم الإرسال",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "يرجى عرض ورقة الاختبار والموافقة عليها من جهاز الكمبيوتر الخاص بك",
+    "description": "考试快捷地址"
+  },
+  "selectBatch": {
+    "message": "اختر جلسة",
+    "description": "考试快捷地址"
+  },
+  "selectClass": {
+    "message": "إختر الفصل",
+    "description": "考试快捷地址"
+  },
+  "totalBatch": {
+    "message": "{n} إجمالي عدد الجلسات",
+    "description": "考试快捷地址"
+  },
+  "ownSpieltag": {
+    "message": "ما عليك سوى إلقاء نظرة على عدد المرات التي يقع فيها فصلي الدراسي",
+    "description": "考试快捷地址"
+  },
+  "batchIndex": {
+    "message": "الدورة{index}",
+    "description": "考试快捷地址"
+  },
+  "totalNums": {
+    "message": "إجمالي عدد الأشخاص",
+    "description": "考试快捷地址"
+  },
+  "class": {
+    "message": "الفصل",
+    "description": "考试快捷地址"
+  },
+  "student": {
+    "message": "الطالب",
+    "description": "考试快捷地址"
+  },
+  "signInCode": {
+    "message": "رمز تسجيل الوصول",
+    "description": "考试快捷地址"
+  },
+  "verificationCode": {
+    "message": "رمز التحقق البديل",
+    "description": "考试快捷地址"
+  },
+  "notEnter": {
+    "message": "لم يبدأ",
+    "description": "考试快捷地址"
+  },
+  "signedIn": {
+    "message": "تم تسجيل الدخول",
+    "description": "考试快捷地址"
+  },
+  "haveEntered": {
+    "message": "بدات",
+    "description": "考试快捷地址"
+  },
+  "leave": {
+    "message": "مغادرة",
+    "description": "考试快捷地址"
+  },
+  "answering": {
+    "message": "قيد التنفيذ",
+    "description": "考试快捷地址"
+  },
+  "handInExam": {
+    "message": "تم الإرسال",
+    "description": "考试快捷地址"
+  },
+  "answerTimes1": {
+    "message": "{n} الإجابة",
+    "description": "考试快捷地址"
+  },
+  "copyLink": {
+    "message": "رابط النسخ",
+    "description": "考试快捷地址"
+  },
+  "wx": {
+    "message": "WeChat",
+    "description": "考试快捷地址"
+  },
+  "shareTo": {
+    "message": "شارك إلى",
+    "description": "考试快捷地址"
+  },
+  "behaviorRecord": {
+    "message": "سجلات المراقبة",
+    "description": "考试快捷地址"
+  },
+  "exe1": {
+    "message": "عميل شاشة القفل",
+    "description": "考试快捷地址"
+  },
+  "notSignIn": {
+    "message": "لم يتم تسجيل الدخول",
+    "description": "考试快捷地址"
+  },
+  "intoPage": {
+    "message": "الصفحة المدخلة",
+    "description": "考试快捷地址"
+  },
+  "leavePage": {
+    "message": "مغادرة الصفحة",
+    "description": "考试快捷地址"
+  },
+  "leavePageTimeTip": {
+    "message": "وقت الترك > 5 ثوان",
+    "description": "考试快捷地址"
+  },
+  "replaceDevice": {
+    "message": "تبديل الجهاز",
+    "description": "考试快捷地址"
+  },
+  "replaceIp": {
+    "message": "تبديل IP",
+    "description": "考试快捷地址"
+  },
+  "commitExam": {
+    "message": "إرسال",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip1": {
+    "message": "في منتصف الطريق للوصول إلى عدد محدد من المرات ، أجبر النظام على تسليم الورق",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip2": {
+    "message": "ترك في منتصف الطريق من خلال طول الوقت المحدد، أجبر النظام تسليم وحدة التخزين",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip3": {
+    "message": "النظام تلقائيا يشكل",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "عندما ينفد وقت الإجابة على الأسئلة ، يقوم النظام تلقائيا بإغلاق وحدة التخزين",
+    "description": "考试快捷地址"
+  },
+  "signinCode": {
+    "message": "رمز تسجيل الدخول إلى الامتحان",
+    "description": "考试快捷地址"
+  },
+  "refreshed": {
+    "message": "تحديث",
+    "description": "考试快捷地址"
+  },
+  "refreshInterval": {
+    "message": "الفاصل الزمني للتحديث",
+    "description": "考试快捷地址"
+  },
+  "intervalTime": {
+    "message": "{seconds} ثانية",
+    "description": "考试快捷地址"
+  },
+  "signinCodeTip": {
+    "message": "1. يرجى تسجيل الدخول إلى تطبيق [ULearning] لمسح الرمز ضوئيا لتسجيل الدخول. {br} 2. بعد تسجيل الدخول ، يرجى استخدام الجهاز لإدخال إجابات الاختبار ، لا يمكنك تغيير الجهاز في الوسط ، الظروف الخاصة ، يرجى سؤال المراقب عن استبدال رمز التحقق.",
+    "description": "考试快捷地址"
+  },
+  "examVerificationCode": {
+    "message": "رمز التحقق الاحتياطي للامتحان",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "يمكن للمرشحين الذين لا يستطيعون الدخول في الاختبار بسبب ظروف خاصة استخدام رمز التحقق هذا للدخول ، بما في ذلك: {br}- الاختبار مع تشغيل مراقبة الجهاز / IP ، يحتاج المرشحون إلى تغيير أجهزتهم أو IP في منتصف الطريق. {br1}- تم تشغيل اختبار التعرف على الوجه، ولم يتمكن المرشحون من اجتياز التحقق من الوجه",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "رمز التحقق صالح في غضون {minute} ، يرجى تحديثه وإعادة الحصول عليه بعد الإبطال.",
+    "description": "考试快捷地址"
+  },
+  "noExamTip": {
+    "message": "لا توجد إمتحانات حاليا.",
+    "description": "考试快捷地址"
+  },
+  "noMore": {
+    "message": "نكتفى بهذا القدر",
+    "description": "考试快捷地址"
+  },
+  "errorTip": {
+    "message": "فشل الطلب، يرجى إعادة التحميل",
+    "description": "考试快捷地址"
+  },
+  "noStudentTip": {
+    "message": "لم يتم العثور على بيانات. يمكنك إضافة الطلاب إلى الامتحان أو تعديل معايير البحث لإعادة البحث.",
+    "description": "考试快捷地址"
+  },
+  "pulling": {
+    "message": "اسحب لأسفل للتحديث...",
+    "description": "考试快捷地址"
+  },
+  "loosing": {
+    "message": "الافراج عن لتحديث...",
+    "description": "考试快捷地址"
+  },
+  "loading": {
+    "message": "جارٍ التحميل...",
+    "description": "考试快捷地址"
+  },
+  "enterTip": {
+    "message": "أدخل رقم الطالب أو اسمه",
+    "description": "考试快捷地址"
+  },
+  "noData": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "考试快捷地址"
+  },
+  "copySuccess1": {
+    "message": "تم النسخ",
+    "description": "考试快捷地址"
+  },
+  "shareTip": {
+    "message": "يرجى تثبيت عميل WeChat أولا",
+    "description": "考试快捷地址"
+  },
+  "tokenTip": {
+    "message": "اكتشفنا وجود تسجيل دخول للمستخدم من مصدر اخر",
+    "description": "考试快捷地址"
+  },
+  "scanTip": {
+    "message": "يرجى مسح رمز الاستجابة السريع الصحيح لتسجيل الدخول",
+    "description": "考试快捷地址"
+  },
+  "forceSubmit": {
+    "message": "اختتم مقدما",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip": {
+    "message": "يقوم المعلم بجمع الورقة مسبقا، وسيتم تقديم ورقة الاختبار تلقائيا بعد {seconds} ثانية، يرجى عدم مغادرة الصفحة أو إغلاقها",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip5": {
+    "message": "يقوم المعلمون بجمع الأوراق مقدما",
+    "description": "考试快捷地址"
+  },
+  "intoExamTime": {
+    "message": "تم البدء في",
+    "description": "考试快捷地址"
+  },
+  "answerUsedTime": {
+    "message": "طول الوقت المستغرق في الإجابة على السؤال",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip1": {
+    "message": "يجيب المرشحون على الأسئلة ، وباستخدام هذه الميزة ، سيتم إعادة تدوير أوراق امتحان المرشح بالقوة. قد يكون هناك تأخير من حوالي 10 ثوان إلى 1 دقيقة للتعبئة. لا يمكن سحب هذه العملية ويجب استخدامها بحذر.",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip3": {
+    "message": "هل أنت متأكد من أنك تغلق مقدما؟",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitSuccess": {
+    "message": "تم إرسال الطلب بنجاح",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitFail": {
+    "message": "فشل اللف المسبق",
+    "description": "考试快捷地址"
+  },
+  "forceSubmiting": {
+    "message": "اللف",
+    "description": "考试快捷地址"
+  },
+  "screenshot": {
+    "message": "لقطة شاشة",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip6": {
+    "message": "مخالفة لقطة الشاشة ، نظام إلزامي .",
+    "description": "考试快捷地址"
+  },
+  "questionTrain": {
+    "message": "تدريب بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "questionTrainManage": {
+    "message": "إدارة التدريب في بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "trainProgress": {
+    "message": "تقدم التدريب",
+    "description": "考试快捷地址"
+  },
+  "importQue": {
+    "message": "استيراد العنوان",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg1": {
+    "message": "تم الاستيراد بنجاح، وتمت إضافة أسئلة {n}.",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg2": {
+    "message": "يدعم تدريب بنك الأسئلة الأسئلة الموضوعية والأسئلة التي تملأ الفراغ فقط، ويتخطى تلقائيا أنواع الأسئلة غير المدعومة.",
+    "description": "考试快捷地址"
+  },
+  "trainMsg": {
+    "message": "يرجى تحديد الأسئلة المفتوحة للطلاب للتدرب عليها من بنك الأسئلة الفردية / المدرسية واستيرادها إلى بنك أسئلة التدريب الحالي. يمكن لمسؤولي المقرر الدراسي فقط استيراد/إزالة الأسئلة.",
+    "description": "考试快捷地址"
+  },
+  "deleteBank": {
+    "message": "إفراغ بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "deleteBankMsg": {
+    "message": "هل أنت متأكد من أنك تريد إفراغ بنك الأسئلة؟",
+    "description": "考试快捷地址"
+  },
+  "previewError": {
+    "message": "تم حذف السؤال من التجمع",
+    "description": "考试快捷地址"
+  },
+  "batchDelete": {
+    "message": "إزالة بالجملة",
+    "description": "考试快捷地址"
+  },
+  "queNum": {
+    "message": "عدد الأسئلة: {n}",
+    "description": "考试快捷地址"
+  },
+  "answeredNum": {
+    "message": "عدد الذين أجابوا",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "متوسط عدد الإجابات على الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "firstAccuracy": {
+    "message": "الدقة لأول مرة",
+    "description": "考试快捷地址"
+  },
+  "operation": {
+    "message": "اشتغل",
+    "description": "考试快捷地址"
+  },
+  "removeQue": {
+    "message": "أبعد",
+    "description": "考试快捷地址"
+  },
+  "removeQueTitle": {
+    "message": "إزالة العنوان",
+    "description": "考试快捷地址"
+  },
+  "removeQueMsg": {
+    "message": "هل أنت متأكد من أنك تريد إزالة السؤال المحدد؟",
+    "description": "考试快捷地址"
+  },
+  "previewQue": {
+    "message": "معاينة العنوان",
+    "description": "考试快捷地址"
+  },
+  "searchStu": {
+    "message": "البحث عن الطلاب",
+    "description": "考试快捷地址"
+  },
+  "export": {
+    "message": "تصدير",
+    "description": "考试快捷地址"
+  },
+  "studentID": {
+    "message": "كود الطالب",
+    "description": "考试快捷地址"
+  },
+  "studentName": {
+    "message": "اسم",
+    "description": "考试快捷地址"
+  },
+  "answerProgress": {
+    "message": "عدد الأسئلة التي تمت الإجابة عليها (التقدم المستلم)",
+    "description": "考试快捷地址"
+  },
+  "errorRate": {
+    "message": "عدد الإجابات غير الصحيحة (معدل الخطأ)",
+    "description": "考试快捷地址"
+  },
+  "progress": {
+    "message": "مستوى التقدم",
+    "description": "考试快捷地址"
+  },
+  "rightRate": {
+    "message": "معدل الدقة",
+    "description": "考试快捷地址"
+  },
+  "practice": {
+    "message": "تمارين متسلسلة",
+    "description": "考试快捷地址"
+  },
+  "errorQuestion": {
+    "message": "سؤال خاطئ",
+    "description": "考试快捷地址"
+  },
+  "bankClosed": {
+    "message": "المسبح مغلق",
+    "description": "考试快捷地址"
+  },
+  "noBank": {
+    "message": "بنك الأسئلة غير موجود",
+    "description": "考试快捷地址"
+  },
+  "notAnswerNum": {
+    "message": "لم تتم الإجابة عليه",
+    "description": "考试快捷地址"
+  },
+  "answerErrorNum": {
+    "message": "إجابة خاطئة",
+    "description": "考试快捷地址"
+  },
+  "errorRate1": {
+    "message": "معدل الخطأ",
+    "description": "考试快捷地址"
+  },
+  "submit": {
+    "message": "إرسال",
+    "description": "考试快捷地址"
+  },
+  "answerCard": {
+    "message": "بطاقة الرد",
+    "description": "考试快捷地址"
+  },
+  "questionDelete": {
+    "message": "تم حذف السؤال ، يرجى تحديث الصفحة والمحاولة مرة أخرى",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteTip": {
+    "message": "تمت إزالة العنوان",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteFail": {
+    "message": "فشلت إزالة السؤال",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "لا يوجد عنوان",
+    "description": "考试快捷地址"
+  },
+  "trainPageTip": {
+    "message": "تدريب بنك الأسئلة مدعوم حاليا فقط على الكمبيوتر",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip": {
+    "message": "اكتشف النظام أنك دخلت الاختبار من صفحة أخرى ، وإذا كنت بحاجة إلى إعادة الدخول ، فيرجى إغلاق صفحة الإجابة الأخرى.",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip1": {
+    "message": "إذا واجهت موقفا غير عادي ، فاطلب من معلمك رمز التحقق واستخدم رمز التحقق للدخول.",
+    "description": "考试快捷地址"
+  },
+  "submitSuccessTip": {
+    "message": "كان التسليم ناجحا",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip7": {
+    "message": "عند نفاد الوقت ، يقوم النظام تلقائيا بتقديم الأوراق",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip4": {
+    "message": "قام النظام بحفظ سجل الإجابة محليا مؤقتا، ثم حاول إرساله يدويا مرة أخرى.",
+    "description": "考试快捷地址"
+  },
+  "batchRemark": {
+    "message": "تقدير الدفعة",
+    "description": "考试快捷地址"
+  },
+  "lateTime": {
+    "message": "تأخر الوقت",
+    "description": "考试快捷地址"
+  },
+  "lateTimeTip": {
+    "message": "لا يسمح بالدقائق التي تتجاوز{minute}",
+    "description": "考试快捷地址"
+  },
+  "submitTime": {
+    "message": "تم الإرسال إلى",
+    "description": "考试快捷地址"
+  },
+  "submitTimeTip": {
+    "message": "لا يسمح بالأوراق خلال {minute} دقيقة",
+    "description": "考试快捷地址"
+  },
+  "usedPaper": {
+    "message": "الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip1": {
+    "message": " {n}",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip2": {
+    "message": "امتحان عشوائي",
+    "description": "考试快捷地址"
+  },
+  "submitRecord": {
+    "message": "إرسال السجلات",
+    "description": "考试快捷地址"
+  },
+  "times": {
+    "message": " الجلسة {n}",
+    "description": "考试快捷地址"
+  },
+  "remarkPageTip": {
+    "message": "في حالة الموافقة، يتم عرض الموضوعات المراد مراجعتها فقط.",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip1": {
+    "message": "الرجاء إدخال الرقم {num}",
+    "description": "考试快捷地址"
+  },
+  "choiceRemarkPaper": {
+    "message": "يرجى تحديد ورقة الامتحان التي تريد مراجعتها",
+    "description": "考试快捷地址"
+  },
+  "subQue": {
+    "message": "أسئلة ذاتية:",
+    "description": "考试快捷地址"
+  },
+  "remarkProgress": {
+    "message": "تقدم الموافقة:",
+    "description": "考试快捷地址"
+  },
+  "remarkMsg": {
+    "message": "ملاحظة: إذا أرسل الطالب سجلات متعددة، فستعرض المراجعة المجمعة أحدث سجل فقط",
+    "description": "考试快捷地址"
+  },
+  "remarkQueEmpty": {
+    "message": "لا توجد أسئلة في هذه الورقة تتطلب الدرجات اليدوية",
+    "description": "考试快捷地址"
+  },
+  "noScore": {
+    "message": "لم يتم تقييمه",
+    "description": "考试快捷地址"
+  },
+  "noStudentSubmit": {
+    "message": "لا توجد تقديمات للطلاب",
+    "description": "考试快捷地址"
+  },
+  "anonymous": {
+    "message": " مجهول ",
+    "description": "考试快捷地址"
+  },
+  "mark1": {
+    "message": " تعليق توضيحي ",
+    "description": "考试快捷地址"
+  },
+  "inputContent": {
+    "message": "أدخل المحتوى",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "تدور",
+    "description": "考试快捷地址"
+  },
+  "showDetail": {
+    "message": "عرض التفاصيل",
+    "description": "考试快捷地址"
+  },
+  "continueRemark": {
+    "message": "متابعة المراجعة",
+    "description": "考试快捷地址"
+  },
+  "remarkTip1": {
+    "message": "السؤال {n} لم تتم مراجعته بعد ، هل أنت متأكد من إنهاء المراجعة؟",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip1": {
+    "message": "تهانينا ، تمت الموافقة على جميع الأوراق!",
+    "description": "考试快捷地址"
+  },
+  "remarkBackTip": {
+    "message": "هل أحتاج إلى إعادة الموافقة على مغادرتي وتأكيدها بعد المغادرة مرة أخرى؟",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn1": {
+    "message": "لا تغادر بعد",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn2": {
+    "message": "تأكيد المغادرة",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes1": {
+    "message": "عدد الطلبات المسموح بها",
+    "description": "考试快捷地址"
+  },
+  "scoreTips1": {
+    "message": "يرجى إدخال الدرجة",
+    "description": "考试快捷地址"
+  },
+  "openLockScreen": {
+    "message": "بدء تشغيل عميل شاشة التأمين",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg": {
+    "message": "ستستحضر الصفحة عميل شاشة القفل",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg1": {
+    "message": "إذا لم يتم تثبيت العميل أو لا يمكن القفز بشكل طبيعي ، فقم بتنزيل العميل وتثبيته أولا.",
+    "description": "考试快捷地址"
+  },
+  "clickHere": {
+    "message": "اضغط هنا",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg2": {
+    "message": "إذا تم تثبيته ، من فضلك {clickHere} ، وعندما تنبثق صفحة الويب مربع الحوار ، انقر فوق الزر [فتح عميل شاشة القفل].",
+    "description": "考试快捷地址"
+  },
+  "downloadLockScreen": {
+    "message": "قم بتنزيل عميل قفل الشاشة",
+    "description": "考试快捷地址"
+  },
+  "goToExamDetile": {
+    "message": "العودة إلى تفاصيل الاختبار",
+    "description": "考试快捷地址"
+  },
+  "ltiTip3": {
+    "message": "ملاحظة: إذا لم يتمكن العميل من تسجيل الدخول تلقائيا بعد البدء ، فيمكنك محاولة إدخال حساب ULearning لتسجيل الدخول ، واسم المستخدم الخاص بك هو: {loginName} ، وكلمة المرور الأولية هي نفس اسم المستخدم.",
+    "description": "考试快捷地址"
+  },
+  "allowedTimesNew": {
+    "message": "عدد الطلبات المسموح بها",
+    "description": "考试快捷地址"
+  },
+  "usedTimesNew": {
+    "message": "عدد الالتزامات المنقضية",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNumNew": {
+    "message": "متوسط عدد الطلبات المقدمة",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "التقاط صورة",
+    "description": "考试快捷地址"
+  },
+  "ps": {
+    "message": "{n} مقالة/صفحة",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenError": {
+    "message": "لم يتم اكتشاف عميل شاشة القفل ، يرجى التأكد من تثبيته بشكل صحيح. إذا استمر عدم بدء التثبيت ، فيمكنك محاولة إلغاء تثبيت أحدث إصدار وإعادة تثبيته.",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "آخر تحديث",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip2": {
+    "message": "إذا كنت متأكدا من عدم فتح عدة صفحات إجابات في نفس الوقت، أو إذا أغلقت صفحات أخرى ولا تزال تتم مطالبتك بذلك، فأدخل {closeBrowser} ثم أعد إدخال الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "أغلق المتصفح",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "في حالة وجود مواقف غير طبيعية أخرى ، يمكنك أيضا أن تطلب من المعلم رمز التحقق واستخدام رمز التحقق لدخول الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "أوراق الامتحانات / بنوك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "paperBank": {
+    "message": "بنك الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "selectPaper": {
+    "message": "اختيار الامتحان",
+    "description": "考试快捷地址"
+  },
+  "selectedPaper": {
+    "message": "تم تحديد عناصر {n}",
+    "description": "考试快捷地址"
+  },
+  "myExamPaper": {
+    "message": "ورقتي",
+    "description": "考试快捷地址"
+  },
+  "schoolExamPaper": {
+    "message": "أوراق امتحانات المدرسة",
+    "description": "考试快捷地址"
+  },
+  "archivePwdSet": {
+    "message": "تعيين/ إعادة تعيين كلمة مرور",
+    "description": "考试快捷地址"
+  },
+  "addExamPaper": {
+    "message": "إضافة امتحان",
+    "description": "考试快捷地址"
+  },
+  "aotoGroupExamPaper": {
+    "message": "إنشاء إمتحان تلقائيا",
+    "description": "考试快捷地址"
+  },
+  "searchPaper": {
+    "message": "البحث عن المجلدات / أوراق الامتحان",
+    "description": "考试快捷地址"
+  },
+  "batchAction": {
+    "message": "إجراءات الدفعة",
+    "description": "考试快捷地址"
+  },
+  "updateDate": {
+    "message": "تحديث الوقت",
+    "description": "考试快捷地址"
+  },
+  "name": {
+    "message": "اسم",
+    "description": "考试快捷地址"
+  },
+  "shareFolder": {
+    "message": "المجلدات المشتركة",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "آمن",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "غير آمن",
+    "description": "考试快捷地址"
+  },
+  "inputFolderTip": {
+    "message": "الكلمة الرئيسية للبحث عن مجلد",
+    "description": "考试快捷地址"
+  },
+  "createShareFolder": {
+    "message": "إنشاء مجلد مشترك",
+    "description": "考试快捷地址"
+  },
+  "searchShareFolder": {
+    "message": "البحث عن مجلد مشترك",
+    "description": "考试快捷地址"
+  },
+  "permissionSettings": {
+    "message": "تعيين إذن",
+    "description": "考试快捷地址"
+  },
+  "exitShare": {
+    "message": "الخروج من المشاركة",
+    "description": "考试快捷地址"
+  },
+  "exitSuccess": {
+    "message": "كان الخروج ناجحا",
+    "description": "考试快捷地址"
+  },
+  "exitFail": {
+    "message": "فشل الخروج",
+    "description": "考试快捷地址"
+  },
+  "actionLog": {
+    "message": "سجلات التشغيل",
+    "description": "考试快捷地址"
+  },
+  "shareFolderDesc": {
+    "message": "تدعم المجلدات المشتركة التعاون متعدد الأشخاص، ويمكنك دعوة معلمين آخرين للمشاركة في الإدارة بعد الإنشاء.",
+    "description": "考试快捷地址"
+  },
+  "usePermission": {
+    "message": "حقوق الاستخدام",
+    "description": "考试快捷地址"
+  },
+  "usePermission1": {
+    "message": "متاح فقط لأعضاء فريق الإدارة",
+    "description": "考试快捷地址"
+  },
+  "usePermission2": {
+    "message": "متوفر في جميع أنحاء المدرسة",
+    "description": "考试快捷地址"
+  },
+  "canCopy": {
+    "message": "السماح للمستهلكين بعمل نسخ",
+    "description": "考试快捷地址"
+  },
+  "managementTeam": {
+    "message": "فريق الإدارة",
+    "description": "考试快捷地址"
+  },
+  "teamNums": {
+    "message": "{n} ",
+    "description": "考试快捷地址"
+  },
+  "addMembers": {
+    "message": "إضافة أعضاء",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "مالك",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "جميع الكليات",
+    "description": "考试快捷地址"
+  },
+  "searchTeachers": {
+    "message": "البحث عن معلمين",
+    "description": "考试快捷地址"
+  },
+  "jobNumber": {
+    "message": "رقم الوظيفة",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "جامعة",
+    "description": "考试快捷地址"
+  },
+  "removeMember": {
+    "message": "أبعد",
+    "description": "考试快捷地址"
+  },
+  "removeMemberNote": {
+    "message": "إزالة الأعضاء",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip": {
+    "message": "لن يتمكن العضو الذي تمت إزالته بعد الآن من عرض الأوراق واستخدامها في المجلد المشترك.",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip1": {
+    "message": "هل أنت متأكد من أنك تريد إزالة {name}؟",
+    "description": "考试快捷地址"
+  },
+  "createdDate": {
+    "message": "تاريخ الإنشاء",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "عدد أوراق الاختبار",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "الانتقال إلى",
+    "description": "考试快捷地址"
+  },
+  "moveTip": {
+    "message": "الكائنات التي يتم نقلها تحتوي على أوراق اختبار أو مجلدات تم إنشاؤها بواسطة الآخرين لا يمكن نقلها إلا داخل المجلد المشترك الحالي.",
+    "description": "考试快捷地址"
+  },
+  "questionMoveTip": {
+    "message": "يحتوي الكائن المنقول على موضوع أو مجلد تم إنشاؤه بواسطة شخص آخر، ولا يمكن نقله إلا داخل المجلد المشترك الحالي.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "تم استخدام ورقة الامتحان بالفعل في الاختبار ولا يمكن حذفها.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip1": {
+    "message": "تم استخدام {name} بالفعل في الاختبار ولا يمكن حذفه.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip2": {
+    "message": "{name} ليس المنشئ ولا يمكن حذفه.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip3": {
+    "message": "{الاسم} غير موجود",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "حذف امتحان",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "حذف مجلد",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro1": {
+    "message": "إذا قمت بتحديد الاحتفاظ بأوراق الاختبار، وحذف المجلدات فقط، نقل أوراق الاختبار الموجودة في المجلد إلى الدليل الجذر بعد الحذف.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro2": {
+    "message": "إذا قمت بتحديد حذف الكل، حذف أوراق الاختبار الموجودة في المجلد أيضا.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro3": {
+    "message": "يمكن حذف المجلد مع الاحتفاظ بالورق",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip": {
+    "message": "يحتوي المجلد على أوراق اختبار تم إنشاؤها بواسطة الآخرين ولا يمكن حذفها مباشرة.<br />إذا كنت تريد حذفه ، فقم أولا بإزالة ورقة الاختبار التي أنشأها شخص آخر.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip1": {
+    "message": "يحتوي المجلد على الأوراق التي تم استخدامها في الاختبار ولا يمكن حذفها.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip2": {
+    "message": "يحتوي المجلد على أوراق اختبار غير موجودة ولا يمكن حذفها مباشرة.",
+    "description": "考试快捷地址"
+  },
+  "batchDelete1": {
+    "message": "حذف مجمع",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelected": {
+    "message": "هل أنت متأكد من حذف عناصر {n} المحددة بشكل مجمع؟",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip": {
+    "message": "تحتوي العناصر المحددة على أوراق اختبار تم إنشاؤها بواسطة الآخرين ولا يمكن حذفها بشكل مجمع.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip1": {
+    "message": "يحتوي العنصر المحدد على أوراق تم استخدامها بالفعل في الاختبار ولا يمكن حذفها بشكل مجمع.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip2": {
+    "message": "تحتوي العناصر المحددة على أوراق اختبار غير موجودة ولا يمكن حذفها بشكل مجمع.",
+    "description": "考试快捷地址"
+  },
+  "noPaperTip": {
+    "message": "لم يتم العثور على أوراق مؤهلة",
+    "description": "考试快捷地址"
+  },
+  "noShareFolderTip": {
+    "message": "لم يتم العثور على مجلدات مشتركة مؤهلة",
+    "description": "考试快捷地址"
+  },
+  "loadErrorTip": {
+    "message": "إذا كانت الشبكة غير طبيعية ، فالرجاء النقر فوق {reload}",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "إعادة التحميل",
+    "description": "考试快捷地址"
+  },
+  "copySuccess2": {
+    "message": "تم التكرار بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolder": {
+    "message": "حذف المجلد المشترك",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip1": {
+    "message": "إذا قمت بحذف مجلد مشترك ، نقل المجلدات الفرعية وأوراق الاختبار الموجودة فيه مرة أخرى إلى الدليل الشخصي للمنشئ ولن يتم حذفها بشكل متزامن.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip3": {
+    "message": "إذا قمت بحذف مجلد مشترك ، نقل المجلدات الفرعية والأسئلة الموجودة فيه مرة أخرى إلى الدليل الشخصي لمنشئ المحتوى ولن يتم حذفها بشكل متزامن.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip2": {
+    "message": "هل أنت متأكد من أنك تريد حذف هذا المجلد المشترك؟",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip": {
+    "message": "بمجرد مغادرته ، لن تتمكن بعد الآن من عرض الأوراق الموجودة في المجلد المشترك واستخدامها.",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip1": {
+    "message": "هل أنت متأكد من رغبتك في إلغاء الاشتراك في المشاركة؟",
+    "description": "考试快捷地址"
+  },
+  "inputPw": {
+    "message": "أدخل كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "inputCheckPw": {
+    "message": "الرجاء إدخال كلمة مرور الدخول",
+    "description": "考试快捷地址"
+  },
+  "forgetPw": {
+    "message": "نسيت كلمة المرور؟",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "تأكيد الهوية",
+    "description": "考试快捷地址"
+  },
+  "authenticationMethods": {
+    "message": "طريقة التحقق",
+    "description": "考试快捷地址"
+  },
+  "mobileSMS": {
+    "message": "رسالة قصيرة",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "البريد الإلكتروني",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "رمز التحقق CAPTCHA",
+    "description": "考试快捷地址"
+  },
+  "emailCaptcha": {
+    "message": "رمز التحقق من البريد الإلكتروني",
+    "description": "考试快捷地址"
+  },
+  "SMSCaptcha": {
+    "message": "رمز التحقق عبر الرسائل القصيرة",
+    "description": "考试快捷地址"
+  },
+  "getCaptcha": {
+    "message": "الحصول على رمز التحقق",
+    "description": "考试快捷地址"
+  },
+  "reacquiredSeconds": {
+    "message": "{s} ثانية في وقت لاحق",
+    "description": "考试快捷地址"
+  },
+  "setLockPw": {
+    "message": "تعيين كلمة مرور",
+    "description": "考试快捷地址"
+  },
+  "updateLockPw": {
+    "message": "إعادة تعيين كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "oldPw": {
+    "message": "كلمة المرور القديمة",
+    "description": "考试快捷地址"
+  },
+  "newPw": {
+    "message": "كلمة المرور الجديدة",
+    "description": "考试快捷地址"
+  },
+  "newPwAgain": {
+    "message": "تأكيد كلمة المرور الجديدة",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPw": {
+    "message": "إزالة كلمة مرور",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "تأكيد كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "setLockPwTip": {
+    "message": "بعد إعداد كلمة المرور يمكنك تأمين الامتحانات أو مجلدات الامتحانات المختارة. يمكن عرض أو إلغاء تأمين الامتحانات أو المجلدات المؤمنة عن طريق كلمة المرور",
+    "description": "考试快捷地址"
+  },
+  "inputCodeTip": {
+    "message": "الرجاء إدخال رمز التحقق",
+    "description": "考试快捷地址"
+  },
+  "lockTip": {
+    "message": "ليس لديك بريد إلكتروني أو هاتف محمول لاسترداد حسابك. لتأمين امتحاناتك، تحتاج إلى الحصول على طريقة استرداد حسابك أولاً.",
+    "description": "考试快捷地址"
+  },
+  "bindBtn": {
+    "message": "ربط الآن",
+    "description": "考试快捷地址"
+  },
+  "pwNotSame": {
+    "message": "كلمتي المرور ليستا متطابقتين",
+    "description": "考试快捷地址"
+  },
+  "pwError": {
+    "message": "كلمة مرور خاطئة",
+    "description": "考试快捷地址"
+  },
+  "pwError1": {
+    "message": "يجب أن تكون كلمة المرورما بين  6-16 رقم أو حرف",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPwTip": {
+    "message": "بعد حذف كلمة المرور المؤرشفة ، سيتم إلغاء ختم جميع أوراق الاختبار والمجلدات المختومة.",
+    "description": "考试快捷地址"
+  },
+  "captchaError": {
+    "message": "رمز التحقق غير صحيح.",
+    "description": "考试快捷地址"
+  },
+  "inputCaptcha": {
+    "message": "أدخل كود CAPTCHA",
+    "description": "考试快捷地址"
+  },
+  "codeError": {
+    "message": "رمز التحقق غير صحيح.",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid1": {
+    "message": "انتهت صلاحية رمز التحقق، يرجى استرداده",
+    "description": "考试快捷地址"
+  },
+  "inputPasswordAgain": {
+    "message": "أدخل كلمة المرور مرة أخرى",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "teamsMaxCount": {
+    "message": "يمكن إضافة أعضاء {n} كحد أقصى",
+    "description": "考试快捷地址"
+  },
+  "selectPaperIntro": {
+    "message": "حدد ورقة الاختبار واستورد الأسئلة الموجودة في ورقة الاختبار إلى دليل بنك الأسئلة الحالي ، وحدد مجموعات {n} كحد أقصى من أوراق الاختبار في المرة الواحدة. (سيتم حفظ الأسئلة في كل مجموعة من أوراق الاختبار في شكل أوراق اختبار وبعض المجلدات ذات المستويين",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip": {
+    "message": "رجاء إختر الامتحان",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip1": {
+    "message": "يمكن تحديد مجموعات {n} من الأوراق كحد أقصى في المرة الواحدة",
+    "description": "考试快捷地址"
+  },
+  "insertSuccess": {
+    "message": "تم استيرادها بنجاح!",
+    "description": "考试快捷地址"
+  },
+  "insertFail": {
+    "message": "لم نتمكن من الاستيراد!",
+    "description": "考试快捷地址"
+  },
+  "allPaper": {
+    "message": "كل الامتحانات",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "الاحصاءات",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[0]": {
+    "message": "الترتيب الافتراضي",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[1]": {
+    "message": "الأكثر تحصيلا",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[2]": {
+    "message": "معظم المواضيع",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[3]": {
+    "message": "آخر تحديث",
+    "description": "考试快捷地址"
+  },
+  "searchBank": {
+    "message": "البحث في بنك الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "مصدر",
+    "description": "考试快捷地址"
+  },
+  "questionNums": {
+    "message": "عدد الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "updateTime": {
+    "message": "آخر وقت للتحديث",
+    "description": "考试快捷地址"
+  },
+  "timeOver": {
+    "message": "انتهت",
+    "description": "考试快捷地址"
+  },
+  "deadLine": {
+    "message": "الصلاحية حتى",
+    "description": "考试快捷地址"
+  },
+  "collect": {
+    "message": "مجموعة",
+    "description": "考试快捷地址"
+  },
+  "cancelCollect": {
+    "message": "إلغاء المجموعة.",
+    "description": "考试快捷地址"
+  },
+  "requestSuccess": {
+    "message": "{رسالة} النجاح",
+    "description": "考试快捷地址"
+  },
+  "requestFail": {
+    "message": "{رسالة} فشل",
+    "description": "考试快捷地址"
+  },
+  "noShareBank": {
+    "message": "لم يتم العثور على حمامات سباحة مطابقة",
+    "description": "考试快捷地址"
+  },
+  "shareBankTip": {
+    "message": "يتوفر بنك أسئلة مشترك مستورد من الخارج لجميع المعلمين في المدرسة.",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip": {
+    "message": "تمت ترقية المجلدات المشتركة!",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip1": {
+    "message": "يسمح إصدار جديد من \"المجلدات المشتركة\" للمعلمين بالعمل معا كفريق لإدارة الأوراق أو الأسئلة في نفس المجلد. إذا كنت بحاجة إلى الاستمرار في مشاركة أوراق الاختبار أو الأسئلة مع معلمين آخرين، فيمكنك إنشاء مجلد في [مجلد مشترك]، وإعداد أعضاء فريق المشاركة، ونقل المحتوى المراد مشاركته إلى المجلد المقابل.",
+    "description": "考试快捷地址"
+  },
+  "updateDesc": {
+    "message": "تحديث الوصف:",
+    "description": "考试快捷地址"
+  },
+  "paperUpdateDesc": {
+    "message": "كانت وظائف [أوراق اختبار مدرستنا] الأصلية و [مشاركة أوراق الاختبار] غير متصلة بالإنترنت ، يرجى استخدام [المجلد المشترك] في [أوراق الاختبار الخاصة بي] لفريق المعلم لمشاركة أوراق الاختبار.",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "المدخل القديم",
+    "description": "考试快捷地址"
+  },
+  "questionUpdateDesc": {
+    "message": "كانت وظائف [بنك أسئلة المدرسة المحلية] و [بنك الأسئلة المشترك] الأصلية غير متصلة بالإنترنت ، يرجى استخدام [المجلد المشترك] في [بنك الأسئلة الخاص بي] للمعلمين لمشاركة الأسئلة.",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip1": {
+    "message": "ورقة الامتحان أو المجلد غير موجود",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip4": {
+    "message": "السؤال أو المجلد غير موجود",
+    "description": "考试快捷地址"
+  },
+  "mobileGoBack": {
+    "message": "العودة إلى المستوى السابق من المحتوى",
+    "description": "考试快捷地址"
+  },
+  "quitCheckAll": {
+    "message": "إلغاء تحديد الكل",
+    "description": "考试快捷地址"
+  },
+  "notAllowCopy": {
+    "message": "النسخ المتماثل غير مسموح به",
+    "description": "考试快捷地址"
+  },
+  "isArchiveTip": {
+    "message": "تمت أرشفة المجلد المشترك حاليا.",
+    "description": "考试快捷地址"
+  },
+  "moveQue": {
+    "message": "نقل السؤال",
+    "description": "考试快捷地址"
+  },
+  "createQue": {
+    "message": "إنشاء سؤال",
+    "description": "考试快捷地址"
+  },
+  "appCreateQueMsg": {
+    "message": "لا تدعم المحطة المتنقلة إنشاء أنواع أسئلة أخرى ، يرجى إنشائها من الكمبيوتر.",
+    "description": "考试快捷地址"
+  },
+  "saveCreateQue": {
+    "message": "حفظ السؤال ومتابعة إنشائه",
+    "description": "考试快捷地址"
+  },
+  "submitQue": {
+    "message": "تم الإنشاء",
+    "description": "考试快捷地址"
+  },
+  "queScoreError": {
+    "message": "يجب أن تكون النتيجة بين 0 و 100 ، مع منزلة عشرية واحدة",
+    "description": "考试快捷地址"
+  },
+  "saveQue": {
+    "message": "احفظ السؤال",
+    "description": "考试快捷地址"
+  },
+  "choicePict": {
+    "message": "اختر لألبوم",
+    "description": "考试快捷地址"
+  },
+  "choicePict1": {
+    "message": " اختر من الألبوم ",
+    "description": "考试快捷地址"
+  },
+  "moveMsg": {
+    "message": "تحتوي الكائنات المنقولة على أسئلة تم إنشاؤها بواسطة الآخرين، ولا يمكن نقلها إلا داخل المجلد المشترك الحالي.",
+    "description": "考试快捷地址"
+  },
+  "noFolder": {
+    "message": "لا توجد مجلدات فرعية",
+    "description": "考试快捷地址"
+  },
+  "choiceMsg": {
+    "message": "انقر على حرف الخيار لضبطه على الإجابة الصحيحة",
+    "description": "考试快捷地址"
+  },
+  "setAnswer": {
+    "message": "حدد الإجابة",
+    "description": "考试快捷地址"
+  },
+  "changeTabMsg": {
+    "message": "عند تبديل أنواع الأسئلة، لا يتم حفظ المحتوى المحرر. هل أنت متأكد من التبديل؟",
+    "description": "考试快捷地址"
+  },
+  "goBackMsg": {
+    "message": "بعد العودة ، لن يتم حفظ المحتوى المحرر للسؤال ، هل أنت متأكد من إعادته؟",
+    "description": "考试快捷地址"
+  },
+  "optionContentNew": {
+    "message": "يرجى إدخال الخيارات",
+    "description": "考试快捷地址"
+  },
+  "soundRecording": {
+    "message": " انقر لبدء التسجيل ",
+    "description": "考试快捷地址"
+  },
+  "soundRecording1": {
+    "message": " يقوم بالتسجيل، انقر فوق التموج للإيقاف المؤقت ",
+    "description": "考试快捷地址"
+  },
+  "soundRecording2": {
+    "message": "إعادة رفع",
+    "description": "考试快捷地址"
+  },
+  "soundRecording3": {
+    "message": " ملاحظات، غير مطلوب، بمالا يزيد عن 200 كلمة ",
+    "description": "考试快捷地址"
+  },
+  "insertQue": {
+    "message": "إدراج تعبئة العناصر الفارغة",
+    "description": "考试快捷地址"
+  },
+  "deleQueNote": {
+    "message": "هل أنت متأكد من أنك تريد حذف السؤال؟",
+    "description": "考试快捷地址"
+  },
+  "imgloading": {
+    "message": "يتم تحميل الصورة",
+    "description": "考试快捷地址"
+  },
+  "fileLoading": {
+    "message": "هناك ملفات قيد التحميل ، يرجى تحميلها لاحقا",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle": {
+    "message": "سؤال توليد الذكاء الاصطناعي",
+    "description": "考试快捷地址"
+  },
+  "questionTextType1": {
+    "message": "إنشاء سؤال استنادا إلى الوصف",
+    "description": "考试快捷地址"
+  },
+  "questionTextType2": {
+    "message": "توليد الأسئلة بناء على النص",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc1": {
+    "message": "يرجى إدخال متطلبات السؤال أدناه (يتم إنشاء السؤال بواسطة النموذج الكبير الذكاء الاصطناعي ، والذي لا يمكن أن يضمن صحة المحتوى بشكل كامل ، يوصى بالتحقق منه قبل الحفظ)",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc2": {
+    "message": "الرجاء إدخال المتطلبات أدناه ، فكلما كان النص أكثر تحديدا ، زادت دقة نتيجة إنشاء السؤال.",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder1": {
+    "message": "إدخال طلب السؤال",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder2": {
+    "message": "أدخل المادة النصية ، وسيقوم الذكاء الاصطناعي باستخراج النقاط الرئيسية منها وإنشاء السؤال.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionBtn": {
+    "message": "توليد الأسئلة",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTip": {
+    "message": "يتم إنشاء السؤال ، يرجى الانتظار ...",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "Beta",
+    "description": "考试快捷地址"
+  },
+  "maxCountTip": {
+    "message": "أدخل ما يصل إلى {max} أحرف",
+    "description": "考试快捷地址"
+  },
+  "knowledgePoints": {
+    "message": "درجات المعرفة",
+    "description": "考试快捷地址"
+  },
+  "relateKnowledgePoints": {
+    "message": "نقاط المعرفة المنتسبة",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip2": {
+    "message": "إذا كنت ترغب في الاستمرار في تصحيح أوراق الاختبار ، فيرجى الخروج وإعادة فحص المرشحين للتصحيح.",
+    "description": "考试快捷地址"
+  },
+  "qrQuestionAnswer": {
+    "message": "امسح ضوئيا لمعرفة الإجابة",
+    "description": "考试快捷地址"
+  },
+  "exerciseQuestion": {
+    "message": "التمارين",
+    "description": "考试快捷地址"
+  },
+  "draft": {
+    "message": "مسودة",
+    "description": "考试快捷地址"
+  },
+  "draftTip": {
+    "message": "يرجى تحرير معلومات الاختبار على جهاز الكمبيوتر الخاص بك",
+    "description": "考试快捷地址"
+  }
+}

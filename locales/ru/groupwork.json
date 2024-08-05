@@ -1,0 +1,2050 @@
+{
+  "cancel": {
+    "message": "Отменить",
+    "description": "小组作业 zh.json"
+  },
+  "close": {
+    "message": "Закрывать",
+    "description": "小组作业 zh.json"
+  },
+  "delete": {
+    "message": "удалить",
+    "description": "小组作业 zh.json"
+  },
+  "confirm": {
+    "message": "Подтвердите",
+    "description": "小组作业 zh.json"
+  },
+  "submit": {
+    "message": "Подача",
+    "description": "小组作业 zh.json"
+  },
+  "action": {
+    "message": "операция",
+    "description": "小组作业 zh.json"
+  },
+  "view": {
+    "message": "Просмотр",
+    "description": "小组作业 zh.json"
+  },
+  "save": {
+    "message": "сохранить",
+    "description": "小组作业 zh.json"
+  },
+  "tip": {
+    "message": "подсказка",
+    "description": "小组作业 zh.json"
+  },
+  "back": {
+    "message": "вернуться",
+    "description": "小组作业 zh.json"
+  },
+  "inputLimit": {
+    "message": "Введите целое положительное число {limit} \nВведите целое число меньше {limit}",
+    "description": "小组作业 zh.json"
+  },
+  "inputContent": {
+    "message": "Введите контент",
+    "description": "小组作业 zh.json"
+  },
+  "submitSuccess": {
+    "message": "Подача успешна",
+    "description": "小组作业 zh.json"
+  },
+  "fullMarks": {
+    "message": "максимальный балл: {marks} балл",
+    "description": "小组作业 zh.json"
+  },
+  "uploadNotFinish": {
+    "message": "Файл не загружен полностью",
+    "description": "小组作业 zh.json"
+  },
+  "teacher": {
+    "message": "учитель",
+    "description": "小组作业 zh.json"
+  },
+  "addAttachment": {
+    "message": "добавить вложение",
+    "description": "小组作业 zh.json"
+  },
+  "record": {
+    "message": "Аудиозапись",
+    "description": "小组作业 zh.json"
+  },
+  "generateRecord": {
+    "message": "Нажмите на иконку, чтобы сгенерировать Аудиозапись",
+    "description": "小组作业 zh.json"
+  },
+  "download": {
+    "message": "Скачать",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip1": {
+    "message": "Загрузить не более {num} вложений",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip2": {
+    "message": "Файл не превышать {size}",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip3": {
+    "message": "Не поддерживается данный тип файла",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip4": {
+    "message": "Формат кодирования файла невозможно разобрать. Попробуйте перекодировать файл в mp4 и загрузить его повторно.",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip5": {
+    "message": "Пользователь отказал в праве на аудиозапись. Измените настройки и попробуйте снова.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text1": {
+    "message": "Изменить домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text2": {
+    "message": "Опубликовать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text3": {
+    "message": "заполните заголовок домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text4": {
+    "message": "Введите требования к домашней работе",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text5": {
+    "message": "максимальный балл",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text6": {
+    "message": "После публикации изменить нельзя",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text7": {
+    "message": "Способ оценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text8": {
+    "message": "Преподавательская оценка",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text9": {
+    "message": "взаимооценка студентов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text10": {
+    "message": "Вес взаимооценки в группе",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text11": {
+    "message": "Вес взаимооценки в группе",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text12": {
+    "message": "Количество домашних работ, оцениваемых на человека",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text13": {
+    "message": "Количество оцениваемых работ на человека должно быть меньше, чем количество групп в каждом классе",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text14": {
+    "message": "Описание правил взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text15": {
+    "message": "время начала",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text16": {
+    "message": "Выберите время",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text17": {
+    "message": "Изменить нельзя после начала взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text18": {
+    "message": "крайний срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text19": {
+    "message": "Крайний срок взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text20": {
+    "message": "объявлять оценку",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text21": {
+    "message": "объявлять",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text22": {
+    "message": "Не публиковать",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text23": {
+    "message": "группировать",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text24": {
+    "message": "Использовать фиксированные группы Класса",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text25": {
+    "message": "Импортировать группу",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text26": {
+    "message": "Скачать шаблон группирования",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text27": {
+    "message": "Импортировать список групп",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text28": {
+    "message": "выбрать класс",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text29": {
+    "message": "Класс",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text30": {
+    "message": "Число paccказoв",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text31": {
+    "message": "Количество неугруппированных человек:",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text32": {
+    "message": "Обновить",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text33": {
+    "message": "операция",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text34": {
+    "message": "Просмотр",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text35": {
+    "message": "Расширенные настройки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text36": {
+    "message": "Разрешить Студентам просрочку",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text37": {
+    "message": "После окончания крайнего срока подачи студент может подать домашнюю работу, которая будет помечена как \"просрочка\"",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text38": {
+    "message": "Разрешить студенту прикрепить файл",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text39": {
+    "message": "Максимальный размер вложения 500 МБ. Поддерживаются распространенные форматы документов, аудио, видео, изображений, архивов и т.д.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text40": {
+    "message": "Разрешить Студентам Копировать",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text41": {
+    "message": "После отмены ученик может вводить только с помощью ручной печати, пожалуйста, используйте с осторожностью",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text42": {
+    "message": "сохранить",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text43": {
+    "message": "сохранить черновик",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text44": {
+    "message": "Поиск по названию класса",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text45": {
+    "message": "Выбрать все",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text46": {
+    "message": "Группировка домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text47": {
+    "message": "Примечание. Изменение группы заданий не влияет на фиксированные группы класса.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text48": {
+    "message": "добавлять группу",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text49": {
+    "message": "Не сгруппировано",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text50": {
+    "message": "Студенты без группировки не могут выполнять Групповую работу, пожалуйста, сделайте настройки для этих студентов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text51": {
+    "message": "Группа отправила домашнюю работу, невозможно редактировать учеников",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text52": {
+    "message": "Пока нет учеников",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text53": {
+    "message": "Изменить группировку",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text54": {
+    "message": "Скачать шаблон группировки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text55": {
+    "message": "пожалуйста, выберите тип шаблона по мере необходимости",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text56": {
+    "message": "Скачать пустой шаблон",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text57": {
+    "message": "Скачать шаблон со списком студентов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text58": {
+    "message": "Крайний срок сдачи должен быть позже времени начала Домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text59": {
+    "message": "Крайний срок взаимооценки должен быть позже крайнего срока сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text60": {
+    "message": "Выберите время объявления оценок",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text61": {
+    "message": "Время объявления оценок должно быть позже крайнего срока сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text62": {
+    "message": "Время объявления оценок должно быть позже срока взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text63": {
+    "message": "Количество оцениваемых каждым человеком ХДомашних работх должно быть меньше количества Хгруппх в каждом Хклассех",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text64": {
+    "message": "Выбрать минимум один класс",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text65": {
+    "message": "【{className}】 не группированы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text66": {
+    "message": "【{className}】 есть не сгруппированные ученики",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text67": {
+    "message": "Заполните заголовок домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text68": {
+    "message": "Заголовок домашней работы не должен превышать {num} символов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text69": {
+    "message": "Требования к домашней работе не должны превышать {num] символа",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text70": {
+    "message": "Введите балл",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text71": {
+    "message": "Выберите способ оценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text72": {
+    "message": "Выберите время начала Домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text73": {
+    "message": "Выберите крайний срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text74": {
+    "message": "Выберите крайний срок взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text75": {
+    "message": "Выберите способ группировки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text76": {
+    "message": "Групповая работа",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text77": {
+    "message": "все учителя",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text78": {
+    "message": "После изменения способа группирования данные о предыдущем группировании Домашней работы будут Очищены, Подтвердите ли вы регулировку?",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text79": {
+    "message": "Изменить способ группировки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text80": {
+    "message": "Введите название группы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text81": {
+    "message": "Добавить группу",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text82": {
+    "message": "Группа {num}",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text83": {
+    "message": "Введите название группы",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text84": {
+    "message": "Название группы не может превышать {num} символов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text85": {
+    "message": "В этом классе уже есть существующая группа такого же названия",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text86": {
+    "message": "Подтвердите удаление группы?",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text87": {
+    "message": "подсказка",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text88": {
+    "message": "Если вы уйдете, текущие изменения не будут сохранены. Подтвердите закрытие?",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text89": {
+    "message": "Импорт успешный",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text90": {
+    "message": "【{tips}】Нет учеников",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text91": {
+    "message": "Файл загружен не полностью",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text92": {
+    "message": "Черновик сохранён успешно",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text93": {
+    "message": "Изменено успешно",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text94": {
+    "message": "Опубликовано успешно",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text95": {
+    "message": "Подтвердите отказ?",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text96": {
+    "message": "Взаимооценка групповых работ, включая внутригрупповую и межгрупповую взаимооценку:",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text97": {
+    "message": "- Взаимооценка в группе, т.е. оценка студентами успеваемости других участников группы в Домашней работе;",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text98": {
+    "message": "- Взаимооценка, когда студенты оценивают работы других групп",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text99": {
+    "message": "время и формы взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text100": {
+    "message": "- Взаимооценка студентами начинается после крайнего срока сдачи домашней работы. (внимание: если количество сданных домашних работ недостаточно, работа будет переведена на оценку учителем)",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text101": {
+    "message": "Группы, несдавшие домашнюю работу в срок, не будут участвовать во взаимооценке; домашние работы, сданные после окончания крайнего срока сдачи работы, оцениваются учителем.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text102": {
+    "message": "- Студенты, участвующие в оценке, должны завершить задания оценки к сроку завершения оценки, в противном случае им будет снижен балл.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text103": {
+    "message": "- Внутригрупповая и межгрупповая взаимооценка ведется анонимно, что означает, что подробные оценки видны только учителю.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text104": {
+    "message": "Распределение задач по взаимооценке",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text105": {
+    "message": "Внутри группы, студенты должны давать друг другу оценки.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text106": {
+    "message": "Взаимооценка между группами, оценочные задания не распределяются между классами, студенты могут оценивать только работы других групп своего класса. Система случайным образом распределяет студентам определенное количество работ из групп, участвующих во взаимооценке.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text107": {
+    "message": "правила вычисления оценок",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text108": {
+    "message": "Студенческая оценка = Средний балл по межгрупповой взаимооценке * Вес межгрупповой взаимооценки + Средний балл по внутригрупповой взаимооценке * Вес внутригрупповой взаимооценки - Снятие очков за незавершенные задачи взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text109": {
+    "message": "Штрафные очки за задания с взаимооценкой: Если студент не выполнил задание по оцениванию, то за каждого отсутствующего участника при внутригрупповой взаимооценке или за каждую отсутствующую группу при межгрупповой взаимооценке из общей оценки за домашнюю работу будет вычитаться 2%. Максимальный суммарный штраф - 20%.",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text110": {
+    "message": "- После завершения взаимооценки, учитель должен оценить работы, которые никто не оценивал. Учитель может также пересмотреть оценку на основе результатов взаимооценки студентов. После пересмотра оценки учителем, итоговая оценка будет основана на оценке учителя.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text1": {
+    "message": "Подробности задания",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text2": {
+    "message": "Задания на проверке",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text3": {
+    "message": "Взаимооценка",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text4": {
+    "message": "взаимооценка",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text5": {
+    "message": "Для этого домашнего задания оценки объявлять не будут",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text6": {
+    "message": "Оценка пока не объявлена",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text7": {
+    "message": "Необходимо переписать",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text8": {
+    "message": "Переписать",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text9": {
+    "message": "Отозвать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text10": {
+    "message": "Время объявления:",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text11": {
+    "message": "Оценка домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text12": {
+    "message": "балл",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text13": {
+    "message": "максимальный балл",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text14": {
+    "message": "Просмотр подробностей оценки",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text15": {
+    "message": "Способ оценки",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text16": {
+    "message": "время начала",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text17": {
+    "message": "Крайний срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text18": {
+    "message": "Крайний срок взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text19": {
+    "message": "Время объявления оценок",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text20": {
+    "message": "Оценки не объявляются",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text21": {
+    "message": "Пока не сгруппировано",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text22": {
+    "message": "Домашние задания для этой группы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text23": {
+    "message": "Оценка Задача",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text24": {
+    "message": "Свернуть",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text25": {
+    "message": "развернуть",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text26": {
+    "message": "Подача:",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text27": {
+    "message": "буква",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text28": {
+    "message": "Групповая работа выполняется вместе, и только один человек сдает ее в конце.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text29": {
+    "message": "Примечание: эта домашняя работа разрешает просрочку, пожалуйста, подайте работу как можно скорее.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text30": {
+    "message": "Подача домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text31": {
+    "message": "Сохранить черновик",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text32": {
+    "message": "сохранить в",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text33": {
+    "message": "несвоевременная сдача",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text34": {
+    "message": "обсуждение задания",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text35": {
+    "message": "полоски",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text36": {
+    "message": "Просмотр обсуждения другие группа",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text37": {
+    "message": "Введите сообщение",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text38": {
+    "message": "Домашняя работа не подана, во взаимооценке не участвует",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text39": {
+    "message": "1. Взаимооценка начнется после крайнего срока сдачи домашней работы.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text40": {
+    "message": "2. При несвоевременной подаче домашней работы, домашняя работа данной группы не сможет участвовать во взаимооценке групп, а поданная позже домашняя работа будет оцениваться учителем.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text41": {
+    "message": "3. Взаимооценка. Если незавершенная оценка задачи. Каждая задача будет вычитаться из итоговой оценки на 2%. Накопительный вычет балла не превышает 20%.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text42": {
+    "message": "Взаимооценка между группами",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text43": {
+    "message": "Оцените домашние задания других групп. Оценка будет анонимной и доступна только для учителя",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text44": {
+    "message": "Просрочка домашней работы, неучастие в межгрупповой взаимооценке",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text45": {
+    "message": "Оценить Задачу",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text46": {
+    "message": "Домашняя работа",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text47": {
+    "message": "оценивание",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text48": {
+    "message": "отзыв",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text49": {
+    "message": "Не оценен",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text50": {
+    "message": "Проверить снова",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text51": {
+    "message": "Взаимооценка в группе",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text52": {
+    "message": "Оцените работу других членов группы в этом задании, оценка будет анонимной и будет доступна только учителю",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text53": {
+    "message": "ученик",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text54": {
+    "message": "Моя оценка",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text55": {
+    "message": "Подробности оценки",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text56": {
+    "message": "Оценка по взаимооценке в группе",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text57": {
+    "message": "Оценка взаимооценки групп",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text58": {
+    "message": "Снятие баллов с задания по оценке",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text59": {
+    "message": "Преподавательская оценка",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text60": {
+    "message": "Одноклассники оценивают домашнюю работу группы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text61": {
+    "message": "Одноклассники",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text62": {
+    "message": "Оценка учеников в группе",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text63": {
+    "message": "Домашняя работа или контент сообщения не сохранены. Подтвердите закрытие?",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text64": {
+    "message": "Сохранение черновика не может быть пустым",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text65": {
+    "message": "Контент домашней работы обязательно должен быть заполнен",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text66": {
+    "message": "Контент домашней работы не должен превышать {num} символов",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text67": {
+    "message": "Файл не загружен полностью",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text68": {
+    "message": "Домашняя работа в каждой группе может быть отправлена только одним человеком. Пожалуйста, свяжитесь и удостоверьтесь у других учеников перед отправкой. Вы уверены, что хотите отправить?",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text69": {
+    "message": "Все участники группы участвуют в групповой работе; если вы собираетесь отозвать задание, убедитесь, что остальные участники согласны. Вы точно хотите отозвать задание?",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text70": {
+    "message": "Отмена выполнена успешно, вы можете повторно отправить домашнюю работу до крайнего срока сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text71": {
+    "message": "Введите балл",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text72": {
+    "message": "Введите балл {limit}",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text73": {
+    "message": "Отзыв Не превышать {num} символ",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text74": {
+    "message": "Поле для комментариев не может быть Пустым",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text75": {
+    "message": "Можно ввести максимум {num} символов. Вы превысили предельное значение.",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text76": {
+    "message": "Удаление необратимо, подтвердите?",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text77": {
+    "message": "Настройки домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text78": {
+    "message": "Опубликована ли оценка",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text79": {
+    "message": "участвовать в Классе",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text1": {
+    "message": "обсуждение задания",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text2": {
+    "message": "группы",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text3": {
+    "message": "количество обсуждений",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text4": {
+    "message": "Человек",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text5": {
+    "message": "Свернуть",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text6": {
+    "message": "развернуть",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text7": {
+    "message": "ввод сообщения",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text8": {
+    "message": "Удалить невозможно восстановить. Подтвердите удаление?",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text9": {
+    "message": "Контент сообщения не может быть пустым",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text10": {
+    "message": "превышен предел входных символов (максимум 2000 символов).",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text11": {
+    "message": "файл не загружен полностью",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text1": {
+    "message": "Способ оценки",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text2": {
+    "message": "Взаимооценка студентов",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text3": {
+    "message": "Преподавательская оценка",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text4": {
+    "message": "Подробности задания",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text5": {
+    "message": "время начала:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text6": {
+    "message": "Крайний срок сдачи:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text7": {
+    "message": "Крайний срок взаимооценки:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text8": {
+    "message": "Время объявления оценок:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text9": {
+    "message": "Напоминание студентам сдать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text10": {
+    "message": "Изменить время домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text11": {
+    "message": "Поиск групп/Студентов",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text12": {
+    "message": "Экспортировать подробности",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text13": {
+    "message": "Экспорт оценок",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text14": {
+    "message": "все",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text15": {
+    "message": "Задания на проверке",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text16": {
+    "message": "Проверенный",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text17": {
+    "message": "Не отправлено",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text18": {
+    "message": "Класс",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text19": {
+    "message": "группы",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text20": {
+    "message": "ученик",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text21": {
+    "message": "Срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text22": {
+    "message": "оценка",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text23": {
+    "message": "балл",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text24": {
+    "message": "Необходимо переписать",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text25": {
+    "message": "просрочка",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text26": {
+    "message": "число обсуждений",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text27": {
+    "message": "проверка",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text28": {
+    "message": "Напоминание успешно!",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text29": {
+    "message": "Студенты пока не подали Домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "review.text1": {
+    "message": "взаимооценка",
+    "description": "小组作业 zh.json"
+  },
+  "review.text2": {
+    "message": "Не отправлено",
+    "description": "小组作业 zh.json"
+  },
+  "review.text3": {
+    "message": "Задания на проверке",
+    "description": "小组作业 zh.json"
+  },
+  "review.text4": {
+    "message": "Просроченные домашние работы проверяет учитель",
+    "description": "小组作业 zh.json"
+  },
+  "review.text5": {
+    "message": "Взаимооценка за завершённую домашнюю работу никем не была выставлена, выставлена оценка преподавателя.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text6": {
+    "message": "Ожидает взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "review.text7": {
+    "message": "взаимооценка",
+    "description": "小组作业 zh.json"
+  },
+  "review.text8": {
+    "message": "Во время взаимооценки студенты могут просмотреть и изменить оценки после завершения процесса.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text9": {
+    "message": "Необходимо переписать",
+    "description": "小组作业 zh.json"
+  },
+  "review.text10": {
+    "message": "балл",
+    "description": "小组作业 zh.json"
+  },
+  "review.text11": {
+    "message": "Просмотр подробностей оценки",
+    "description": "小组作业 zh.json"
+  },
+  "review.text12": {
+    "message": "Единая система оценивания",
+    "description": "小组作业 zh.json"
+  },
+  "review.text13": {
+    "message": "снова проверка",
+    "description": "小组作业 zh.json"
+  },
+  "review.text14": {
+    "message": "Введите отзыв",
+    "description": "小组作业 zh.json"
+  },
+  "review.text15": {
+    "message": "Свернуть",
+    "description": "小组作业 zh.json"
+  },
+  "review.text16": {
+    "message": "развернуть",
+    "description": "小组作业 zh.json"
+  },
+  "review.text17": {
+    "message": "Домашняя работа группы",
+    "description": "小组作业 zh.json"
+  },
+  "review.text18": {
+    "message": "Подробности взаимооценок",
+    "description": "小组作业 zh.json"
+  },
+  "review.text19": {
+    "message": "Подача:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text20": {
+    "message": "буква",
+    "description": "小组作业 zh.json"
+  },
+  "review.text21": {
+    "message": "Домашняя работа не подана",
+    "description": "小组作业 zh.json"
+  },
+  "review.text22": {
+    "message": "обсуждение задания",
+    "description": "小组作业 zh.json"
+  },
+  "review.text23": {
+    "message": "шт",
+    "description": "小组作业 zh.json"
+  },
+  "review.text24": {
+    "message": "Введите сообщение",
+    "description": "小组作业 zh.json"
+  },
+  "review.text25": {
+    "message": "Если домашняя работа не была подана, во взаимооценке участвовать нельзя",
+    "description": "小组作业 zh.json"
+  },
+  "review.text26": {
+    "message": "Взаимооценка начнется после крайнего срока сдачи Домашней работы.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text27": {
+    "message": "Если работы не сданы вовремя, группа не сможет участвовать во взаимооценке. Повторно сданные работы будут оценены учителем.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text28": {
+    "message": "В процессе взаимной оценки, за каждую незавершенную задачу из итоговой оценки будет вычитаться по 2%, совокупный вычет баллов не может превышать 20%.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text29": {
+    "message": "Взаимооценка в группе",
+    "description": "小组作业 zh.json"
+  },
+  "review.text30": {
+    "message": "оценка Домашней работы другими Студентами в этой Группе",
+    "description": "小组作业 zh.json"
+  },
+  "review.text31": {
+    "message": "Средняя оценка взаимооценки внутри группы:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text32": {
+    "message": "Домашняя работа просроченная, не участвовать во взаимной оценке групп",
+    "description": "小组作业 zh.json"
+  },
+  "review.text33": {
+    "message": "Человек, осуществляющий оценку",
+    "description": "小组作业 zh.json"
+  },
+  "review.text34": {
+    "message": "оценивание",
+    "description": "小组作业 zh.json"
+  },
+  "review.text35": {
+    "message": "Не оценен",
+    "description": "小组作业 zh.json"
+  },
+  "review.text36": {
+    "message": "Внутригрупповая взаимооценка",
+    "description": "小组作业 zh.json"
+  },
+  "review.text37": {
+    "message": "ученик",
+    "description": "小组作业 zh.json"
+  },
+  "review.text38": {
+    "message": "Средняя оценка",
+    "description": "小组作业 zh.json"
+  },
+  "review.text39": {
+    "message": "Подробности оценки",
+    "description": "小组作业 zh.json"
+  },
+  "review.text40": {
+    "message": "Итоговая оценка участника группы: {marks} балл",
+    "description": "小组作业 zh.json"
+  },
+  "review.text41": {
+    "message": "Итоговая оценка пользователя: {marks} балл",
+    "description": "小组作业 zh.json"
+  },
+  "review.text42": {
+    "message": "Оценка взаимооценки в группе:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text43": {
+    "message": "Оценка взаимооценки в группе:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text44": {
+    "message": "Оценка с вычитанием баллов за задания:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text45": {
+    "message": "Преподавательская оценка:",
+    "description": "小组作业 zh.json"
+  },
+  "review.text46": {
+    "message": "Удаление невозможно восстановить. Подтвердите удаление?",
+    "description": "小组作业 zh.json"
+  },
+  "review.text47": {
+    "message": "Поле контента сообщения не может быть Пустым",
+    "description": "小组作业 zh.json"
+  },
+  "review.text48": {
+    "message": "Максимальное количество введенных символов {num}; вы превысили предельное значение.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text49": {
+    "message": "Сообщение не сохранено, точно хотите вернуться?",
+    "description": "小组作业 zh.json"
+  },
+  "review.text50": {
+    "message": "Введите Балл.",
+    "description": "小组作业 zh.json"
+  },
+  "review.text51": {
+    "message": "Введите {limit} Балл, максимальный один десятичный знак",
+    "description": "小组作业 zh.json"
+  },
+  "review.text52": {
+    "message": "Отзыв не должен превышать {num} символов",
+    "description": "小组作业 zh.json"
+  },
+  "saving": {
+    "message": "Сохранение...",
+    "description": "小组作业 zh.json"
+  },
+  "downloading": {
+    "message": "Загрузка",
+    "description": "小组作业 zh.json"
+  },
+  "downloadSuccess": {
+    "message": "Загрузка прошла успешно",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip6": {
+    "message": "Загрузка файла. Попробуйте ещё раз позже!",
+    "description": "小组作业 zh.json"
+  },
+  "timeTip1": {
+    "message": "выбрать время",
+    "description": "小组作业 zh.json"
+  },
+  "timeTip2": {
+    "message": "Настройки времени начала",
+    "description": "小组作业 zh.json"
+  },
+  "timeTip3": {
+    "message": "Крайний срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "timeTip4": {
+    "message": "Установить время опубликования оценок",
+    "description": "小组作业 zh.json"
+  },
+  "timeTip5": {
+    "message": "Настройка крайнего срока взаимооценки",
+    "description": "小组作业 zh.json"
+  },
+  "mark": {
+    "message": "балл",
+    "description": "小组作业 zh.json"
+  },
+  "fullMark": {
+    "message": "максимальный балл",
+    "description": "小组作业 zh.json"
+  },
+  "avgScore": {
+    "message": "Средний балл",
+    "description": "小组作业 zh.json"
+  },
+  "scoringMethod": {
+    "message": "Метод оценивания",
+    "description": "小组作业 zh.json"
+  },
+  "groupMember": {
+    "message": "Участник группы",
+    "description": "小组作业 zh.json"
+  },
+  "people": {
+    "message": "Человек",
+    "description": "小组作业 zh.json"
+  },
+  "deleteHomework": {
+    "message": "Удалить домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "editHomework": {
+    "message": "Изменить Домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "showMore": {
+    "message": "Прокрутить вниз, чтобы отобразить Больше",
+    "description": "小组作业 zh.json"
+  },
+  "item": {
+    "message": "пункт",
+    "description": "小组作业 zh.json"
+  },
+  "detail": {
+    "message": "Подробности",
+    "description": "小组作业 zh.json"
+  },
+  "more": {
+    "message": "Больше",
+    "description": "小组作业 zh.json"
+  },
+  "waitUpload": {
+    "message": "Ждать загрузить",
+    "description": "小组作业 zh.json"
+  },
+  "reupload": {
+    "message": "Загрузить снова",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg1": {
+    "message": "Подтвердите удаление?",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg2": {
+    "message": "Подтвердите отказаться?",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg3": {
+    "message": "Домашняя работа не сохранена, подтвердите выход?",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg4": {
+    "message": "Не отправлено сообщение, подтверждаете выход?",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg5": {
+    "message": "Введите {num} целых чисел",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg6": {
+    "message": "Введите название группы или Имя студента",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg7": {
+    "message": "Не найдено ни одного контента, отвечающего заданным условиям",
+    "description": "小组作业 zh.json"
+  },
+  "startrRcord": {
+    "message": "Нажмите, чтобы начать аудиозапись",
+    "description": "小组作业 zh.json"
+  },
+  "recording": {
+    "message": "Воспроизведение аудиозаписи, нажмите на дорожку, чтобы остановить",
+    "description": "小组作业 zh.json"
+  },
+  "rerecord": {
+    "message": "Перепишите",
+    "description": "小组作业 zh.json"
+  },
+  "recordTip": {
+    "message": "дополнение,не обязательно для заполнения, не более 200 букв",
+    "description": "小组作业 zh.json"
+  },
+  "group": {
+    "message": "группа",
+    "description": "小组作业 zh.json"
+  },
+  "group2": {
+    "message": "группа",
+    "description": "小组作业 zh.json"
+  },
+  "finish": {
+    "message": "Завершить",
+    "description": "小组作业 zh.json"
+  },
+  "editSuccess": {
+    "message": "Изменено успешно",
+    "description": "小组作业 zh.json"
+  },
+  "editFail": {
+    "message": "Изменение не получилось",
+    "description": "小组作业 zh.json"
+  },
+  "deleteSuccess": {
+    "message": "Удаление прошло успешно",
+    "description": "小组作业 zh.json"
+  },
+  "search": {
+    "message": "поиск",
+    "description": "小组作业 zh.json"
+  },
+  "nodata": {
+    "message": "пока нет данных",
+    "description": "小组作业 zh.json"
+  },
+  "allTea": {
+    "message": "Все учителя",
+    "description": "小组作业 zh.json"
+  },
+  "allClass": {
+    "message": "Все классы",
+    "description": "小组作业 zh.json"
+  },
+  "pleaseSelect": {
+    "message": "Выберите",
+    "description": "小组作业 zh.json"
+  },
+  "saveSuccess": {
+    "message": "Сохранение завершено успешно",
+    "description": "小组作业 zh.json"
+  },
+  "saveFail": {
+    "message": "Не удалось сохранить",
+    "description": "小组作业 zh.json"
+  },
+  "saveDraft": {
+    "message": "сохранить черновик",
+    "description": "小组作业 zh.json"
+  },
+  "changeSuccess": {
+    "message": "Изменено успешно",
+    "description": "小组作业 zh.json"
+  },
+  "loading": {
+    "message": "Загрузка...",
+    "description": "小组作业 zh.json"
+  },
+  "homework": {
+    "message": "Домашняя работа",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkSubmited": {
+    "message": "Домашняя работа представлена",
+    "description": "小组作业 zh.json"
+  },
+  "moveSuccess": {
+    "message": "Перемещение успешно",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text111": {
+    "message": "Проверка учителя",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text112": {
+    "message": "Автоматическая проверка",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text113": {
+    "message": "Взаимооценка студентов",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text114": {
+    "message": "Домашняя работа не началась",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text115": {
+    "message": "пока не сгруппировано, нельзя участвовать в групповой работе",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text80": {
+    "message": "Делать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text81": {
+    "message": "Ввод домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text82": {
+    "message": "Каждое задание группы может подать только один человек, пожалуйста, обязательно подтвердите после согласования с другими учениками.<br />Подтвердите, что подаёте?",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text12": {
+    "message": "{num} обсуждений",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text13": {
+    "message": "пока нет обсуждения",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text14": {
+    "message": "Сообщение",
+    "description": "小组作业 zh.json"
+  },
+  "discussion.text15": {
+    "message": "Комментарий успешно удалён",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text30": {
+    "message": "Представлено ({num})",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text31": {
+    "message": "Не передано ({num})",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text32": {
+    "message": "сортировка по умолчанию",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text33": {
+    "message": "Сортировать по сроку сдачи по возрастанию",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text34": {
+    "message": "Сортировать по сроку сдачи в порядке убывания",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text35": {
+    "message": "сортировать по оценке по возрастанию",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text36": {
+    "message": "Сортировка по оценке в порядке убывания",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text37": {
+    "message": "Сортировать по количеству обсуждений (по убыванию)",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text38": {
+    "message": "Домашняя работа не началась, время начала:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text39": {
+    "message": "Сдача работы в процессе, крайний срок:",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text40": {
+    "message": "Количество сданных работ недостаточно, переведено на оценку преподавателя",
+    "description": "小组作业 zh.json"
+  },
+  "homeworkList.text41": {
+    "message": "При взаимооценке домашней работы крайний срок:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text1": {
+    "message": "Создатель",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text2": {
+    "message": "Количество оценок домашней работы на человека",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text3": {
+    "message": "Подача Начать",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text4": {
+    "message": "Крайний срок сдачи",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text5": {
+    "message": "обсуждение в группе",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text6": {
+    "message": "Пока не отправлено",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text7": {
+    "message": "несвоевременная сдача",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text8": {
+    "message": "Эта домашняя работа может быть исправлена ​​и дополнена, пожалуйста, подайте ее как можно скорее.",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text9": {
+    "message": "Крайний срок сдачи:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text10": {
+    "message": "Завершите групповую работу и подача последним человеком",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text11": {
+    "message": "Делать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text12": {
+    "message": "Отменить и пересдать",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text13": {
+    "message": "Переделать домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text14": {
+    "message": "Оцените домашнюю работу других групп, оценка будет анонимной, видна только учителю.",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text15": {
+    "message": "Оцените работу других учеников вашей группы. Оценка анонимна и доступна только учителю.",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text16": {
+    "message": "ввод оценивания",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text17": {
+    "message": "Введите оценивание",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text18": {
+    "message": "Оценивание успешно",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text19": {
+    "message": "Посмотреть подробности",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text20": {
+    "message": "Средний балл участников группы:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text21": {
+    "message": "пересмотреть оценку",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text22": {
+    "message": "Единая система оценивания",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text23": {
+    "message": "оценивать по отдельности",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text24": {
+    "message": "ввод балла",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text25": {
+    "message": "Средний балл группы:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text26": {
+    "message": "Если преподаватель пересматривает оценку, то итоговая оценка студента будет основана на оценке преподавателя",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text27": {
+    "message": "В студенческом взаимооценивании оценки можно просмотреть и изменить после завершенного взаимооценивания",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text28": {
+    "message": "Просроченная домашняя работа, оценка учителя",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text29": {
+    "message": "Взаимооценка завершена, но домашняя работа не оценена, так что оценку выставит учитель",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text30": {
+    "message": "Домашняя работа не началась",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text31": {
+    "message": "Домашняя работа завершена",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text32": {
+    "message": "Пока не сгруппирован, не может участвовать в групповой работе",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text33": {
+    "message": "Домашняя работа представлена, ожидает учительской оценки",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text34": {
+    "message": "Сдача работы, крайний срок:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text35": {
+    "message": "Домашняя работа представлена, время начала взаимооценки:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text36": {
+    "message": "Взаимооценка домашней работы: Дедлайн:",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text37": {
+    "message": "Взаимооценка завершена, Домашняя работа просрочена, Пожалуйста, подождите Преподавательскую оценку",
+    "description": "小组作业 zh.json"
+  },
+  "reviewHomework.text38": {
+    "message": "Взаимооценка завершена, в этой группе никто не оценивал домашнюю работу, пожалуйста, подождите учительскую оценку",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text1": {
+    "message": "Удалить группу",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text2": {
+    "message": "Руководитель группы",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text3": {
+    "message": "Выбрать группу",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text4": {
+    "message": "Изменить группировку",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text5": {
+    "message": "Зачисление студентов",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text6": {
+    "message": "Сбросить настройки руководителя группы",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text7": {
+    "message": "Настройки группы",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text8": {
+    "message": "Название должно быть заполнено",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text9": {
+    "message": "Название группы не должно превышать 100 символов",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text10": {
+    "message": "Подтвердите удаление группы?",
+    "description": "小组作业 zh.json"
+  },
+  "addGroup.text11": {
+    "message": "Сброс руководителя группы успешный",
+    "description": "小组作业 zh.json"
+  },
+  "addGroupStudent.text1": {
+    "message": "Выбрать Студента",
+    "description": "小组作业 zh.json"
+  },
+  "addGroupStudent.text2": {
+    "message": "Выберите минимум одного студента",
+    "description": "小组作业 zh.json"
+  },
+  "addGroupStudent.text3": {
+    "message": "Ученик перемещен успешно",
+    "description": "小组作业 zh.json"
+  },
+  "addGroupStudent.text4": {
+    "message": "Не удалось переместить ученика",
+    "description": "小组作业 zh.json"
+  },
+  "addGroupStudent.text5": {
+    "message": "Напоминание прошло успешно",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text1": {
+    "message": "Введите заголовок домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text2": {
+    "message": "ввод требований к Домашняя работа",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text3": {
+    "message": "Число домашних работ, которые каждый человек должен оценить в рамках взаимооценки групп, должно быть меньше количества групп в каждом классе",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text4": {
+    "message": "Взаимооценка началась. Невозможно изменить время начала и крайний срок подачи, запоздавшие домашние работы будут оцениваться преподавателем.",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text5": {
+    "message": "Есть студенты вне группы",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text6": {
+    "message": "просрочка | Прикрепить файл | Копировать",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text7": {
+    "message": "Разрешить просрочку",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text8": {
+    "message": "Разрешение студентам сдавать работы после крайнего срока сдачи работ. Пересданные работы будут отображаться с пометкой [Просрочено]; при взаимооценке работ просроченная группа не участвует в оценке, оценку проводит учитель.",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text9": {
+    "message": "Разрешить загрузку вложений",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text10": {
+    "message": "Студентам разрешается прикреплять файлы при выполнении домашних заданий. Поддерживаются распространённые форматы: изображения, документы, аудио и видео. Можно загрузить не более 5 файлов, размер каждого не должен превышать 500 МБ.",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text11": {
+    "message": "Разрешить копировать и вставлять",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text12": {
+    "message": "опубликовать",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text13": {
+    "message": "Введите целое число от 1 до 999",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text14": {
+    "message": "Количество домашних заданий",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text15": {
+    "message": "Объявлять",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text16": {
+    "message": "вес взаимооценки внутри группы",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text17": {
+    "message": "вес взаимооценки между группами",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text18": {
+    "message": "Количество домашних работ, оцениваемых каждым человеком, должно превышать количество групп в данном классе",
+    "description": "小组作业 zh.json"
+  },
+  "assignHomework.text19": {
+    "message": "Вы действительно хотите удалить Домашнюю работу? Удаление будет необратимо.",
+    "description": "小组作业 zh.json"
+  },
+  "classGroup.text1": {
+    "message": "Групповая схема",
+    "description": "小组作业 zh.json"
+  },
+  "classGroup.text2": {
+    "message": "Вы изменяете схему фиксированных групп в классе",
+    "description": "小组作业 zh.json"
+  },
+  "classGroup.text3": {
+    "message": "В классе нет студентов",
+    "description": "小组作业 zh.json"
+  },
+  "editClassGroup.text1": {
+    "message": "Изменять группировать",
+    "description": "小组作业 zh.json"
+  },
+  "editClassGroup.text2": {
+    "message": "Выбрать группу",
+    "description": "小组作业 zh.json"
+  },
+  "editClassGroup.text3": {
+    "message": "Подтвердить изменение группы студента?",
+    "description": "小组作业 zh.json"
+  },
+  "editClassGroup.text4": {
+    "message": "Выберите группу",
+    "description": "小组作业 zh.json"
+  },
+  "peerHomework.text1": {
+    "message": "оценка Домашняя работа",
+    "description": "小组作业 zh.json"
+  },
+  "releaseDission.text1": {
+    "message": "Оставить комментарий",
+    "description": "小组作业 zh.json"
+  },
+  "releaseDission.text2": {
+    "message": "Сообщение не может быть пустым",
+    "description": "小组作业 zh.json"
+  },
+  "releaseDission.text3": {
+    "message": "Не превышать {num} символов",
+    "description": "小组作业 zh.json"
+  },
+  "workGroup.text1": {
+    "message": "Группировка домашних работ",
+    "description": "小组作业 zh.json"
+  },
+  "workGroup.text2": {
+    "message": "Домашняя работа опубликована, и изменение группы домашней работы не повлияет на фиксированный план группировки класса. У группы, которая уже отправила домашнюю работу, нельзя удалить или настроить учеников.",
+    "description": "小组作业 zh.json"
+  },
+  "workGroup.text3": {
+    "message": "Изменение группировки заданий не повлияет на закрепленные группы класса.",
+    "description": "小组作业 zh.json"
+  },
+  "workGroup.text4": {
+    "message": "Недоступные группы",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip7": {
+    "message": "Загружено успешно",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip8": {
+    "message": "Ошибка загрузки",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg8": {
+    "message": "Пожалуйста, Загрузите вложения большего размера, чем {size} с компьютера",
+    "description": "小组作业 zh.json"
+  },
+  "tipMsg9": {
+    "message": "Запрещено копировать и вставлять эту Домашнюю работу",
+    "description": "小组作业 zh.json"
+  },
+  "photograph": {
+    "message": "Фотографировать",
+    "description": "小组作业 zh.json"
+  },
+  "selectAlbum": {
+    "message": "Выбрать альбом",
+    "description": "小组作业 zh.json"
+  },
+  "selectFile": {
+    "message": "выбрать файл",
+    "description": "小组作业 zh.json"
+  },
+  "selectFromMachine": {
+    "message": "выбрать на этом компьютере",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.one": {
+    "message": "Один",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.two": {
+    "message": "два",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.three": {
+    "message": "3",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.four": {
+    "message": "4",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.five": {
+    "message": "Пять",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.six": {
+    "message": "шесть",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.day": {
+    "message": "день",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.moth": {
+    "message": "месяц",
+    "description": "小组作业 zh.json"
+  },
+  "datepicker.year": {
+    "message": "год",
+    "description": "小组作业 zh.json"
+  },
+  "review.text53": {
+    "message": "оцененный",
+    "description": "小组作业 zh.json"
+  },
+  "totalPeople": {
+    "message": "и др. {num} человек",
+    "description": "小组作业 zh.json"
+  },
+  "uploadTip9": {
+    "message": "Размер изображения не превышает {size}",
+    "description": "小组作业 zh.json"
+  },
+  "transcoding": {
+    "message": "Транскодируется. Пожалуйста, проверьте немного позже",
+    "description": "小组作业 zh.json"
+  },
+  "publish.text116": {
+    "message": "Изменить {stu}",
+    "description": "小组作业 zh.json"
+  },
+  "doHomework.text83": {
+    "message": "Подробности оценки домашней работы",
+    "description": "小组作业 zh.json"
+  },
+  "comment": {
+    "message": "комментарий",
+    "description": "小组作业翻译"
+  },
+  "deleteMarksConfirm": {
+    "message": "Эта операция удалит все аннотации в этом документе.",
+    "description": "小组作业翻译"
+  },
+  "docLoading": {
+    "message": "Загрузка...",
+    "description": "小组作业翻译"
+  },
+  "inputCommentsTips": {
+    "message": "Пожалуйста, введите комментарий, по желанию",
+    "description": "小组作业翻译"
+  },
+  "noMember": {
+    "message": "не вступивший ученик",
+    "description": "小组作业翻译"
+  },
+  "numOfGroup": {
+    "message": "{0} Группа",
+    "description": "小组作业翻译"
+  },
+  "numOfPeople": {
+    "message": "({0} человек)",
+    "description": "小组作业翻译"
+  },
+  "numOfPeople1": {
+    "message": "{0} человек",
+    "description": "小组作业翻译"
+  },
+  "numOfPoints": {
+    "message": "{0} балл",
+    "description": "小组作业翻译"
+  },
+  "numOfTiao": {
+    "message": "(Статья {0})",
+    "description": "小组作业翻译"
+  },
+  "publish.text117": {
+    "message": "Подробная информация о взаимной оценке внутри группы",
+    "description": "小组作业翻译"
+  },
+  "publish.text118": {
+    "message": "- Взаимное оценивание учащихся начинается после крайнего срока сдачи заданий",
+    "description": "小组作业翻译"
+  },
+  "publish.text119": {
+    "message": "(Примечание. Если вы отправите недостаточное количество заданий, задание будет оценено преподавателем)",
+    "description": "小组作业翻译"
+  },
+  "publish.text120": {
+    "message": "Оценка поставленных задач",
+    "description": "小组作业翻译"
+  },
+  "publish.text121": {
+    "message": "Баллы учащихся по взаимному оцениванию",
+    "description": "小组作业翻译"
+  },
+  "reUpload1": {
+    "message": "переотправить",
+    "description": "小组作业翻译"
+  },
+  "saveTime": {
+    "message": "Хранится в {0}",
+    "description": "小组作业翻译"
+  },
+  "wordCount": {
+    "message": "{0} слово",
+    "description": "小组作业翻译"
+  }
+}

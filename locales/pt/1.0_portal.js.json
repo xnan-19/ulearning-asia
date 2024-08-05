@@ -1,0 +1,98 @@
+{
+    "plzNewPassword": {
+        "message": "Digite a nova senha",
+        "description": ""
+    },
+    "loginErrorTip": {
+        "message": "Nome de usuário ou senha digitada incorretamente.",
+        "description": ""
+    },
+    "passwordPlaceholder": {
+        "message": "Sua senha",
+        "description": ""
+    },
+    "loginPlaceholder": {
+        "message": "Digite seu Nome de usuário ou número de celular",
+        "description": ""
+    },
+    "loginTryLimit": {
+        "message": "Você errou 5 vezes seguidas, tente novamente em 3 minutos",
+        "description": ""
+    },
+    "passwordNotSame": {
+        "message": "O campo Senha deve ser digitado duas vezes de forma consistente.",
+        "description": ""
+    },
+    "plzRightOldPassword": {
+        "message": "Digite a senha antiga correta",
+        "description": ""
+    },
+    "plzOldPassword": {
+        "message": "Digite sua senha antiga",
+        "description": ""
+    },
+    "welcome": {
+        "message": "Bem-vindo ao ULearning",
+        "description": ""
+    },
+    "loginName": {
+        "message": "Nome de usuário/número de celular",
+        "description": ""
+    },
+    "modifySuccessed": {
+        "message": "Modificado com sucesso",
+        "description": ""
+    },
+    "modifyError": {
+        "message": "Ocorreu um erro",
+        "description": ""
+    },
+    "userAndPasswordTip": {
+        "message": "O Nome de usuário e a senha não podem ser iguais.",
+        "description": ""
+    },
+    "modifyFailed": {
+        "message": "Falha ao editar sua senha. Verifique sua Senha antiga e tente novamente!",
+        "description": ""
+    },
+    "tip": {
+        "message": "Ainda não tem uma conta na ULearning?",
+        "description": ""
+    },
+    "loginTip": {
+        "message": "Digite o nome de usuário ou senha",
+        "description": ""
+    },
+    "register": {
+        "message": "cadastrar",
+        "description": ""
+    },
+    "login": {
+        "message": "Entrar",
+        "description": ""
+    },
+    "confirmPassword": {
+        "message": "Digite a Senha de confirmação",
+        "description": ""
+    },
+    "password": {
+        "message": "senha",
+        "description": ""
+    },
+    "passwordTip": {
+        "message": "8-16 caracteres, deve conter Letras e Números simultaneamente (sensível a maiúsculas e minúsculas)",
+        "description": ""
+    },
+    "forgotPassword": {
+        "message": "Esqueceu a senha?",
+        "description": ""
+    },
+    "copySuccess": {
+        "message": "Copiado com sucesso",
+        "description": ""
+    },
+    "copyFailed": {
+        "message": "Falha ao copiar",
+        "description": ""
+    }
+}

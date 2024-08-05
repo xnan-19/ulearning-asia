@@ -1,0 +1,926 @@
+{
+  "kityformula": {
+    "message": "Input rumus",
+    "description": "kindeditor 编辑器组件"
+  },
+  "ctrlAction": {
+    "message": "Hapus",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertAction": {
+    "message": "Tambah soal kecil",
+    "description": "kindeditor 编辑器组件"
+  },
+  "source": {
+    "message": "Kode HTML",
+    "description": "kindeditor 编辑器组件"
+  },
+  "preview": {
+    "message": "Pra-tinjau",
+    "description": "kindeditor 编辑器组件"
+  },
+  "undo": {
+    "message": "Kembali (Ctrl+Z)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "redo": {
+    "message": "Lanjut (Ctrl+Y)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "cut": {
+    "message": "Potong (Ctrl+X)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "copy": {
+    "message": "Salin (Ctrl+C)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "paste": {
+    "message": "Tempel (Ctrl+V)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "plainpaste": {
+    "message": "Tempel sebagai teks tanpa format",
+    "description": "kindeditor 编辑器组件"
+  },
+  "wordpaste": {
+    "message": "Salin dari Word",
+    "description": "对应图片：https://www.ulearning.cn/static/kindeditor_4.1.4/themes/default/word.png"
+  },
+  "selectall": {
+    "message": "Pilih semua (Ctrl+A)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyleft": {
+    "message": "Rata kiri",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifycenter": {
+    "message": "Tengah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyright": {
+    "message": "Rata kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyfull": {
+    "message": "2 sisi sejajar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertorderedlist": {
+    "message": "Nomor kode",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertunorderedlist": {
+    "message": "Simbol",
+    "description": "kindeditor 编辑器组件"
+  },
+  "indent": {
+    "message": "Tambah indentasi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "outdent": {
+    "message": "Kurangi indentasi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "subscript": {
+    "message": "Subskrip",
+    "description": "kindeditor 编辑器组件"
+  },
+  "superscript": {
+    "message": "Superskrip",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock": {
+    "message": "Paragraf",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fontname": {
+    "message": "Font",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fontsize": {
+    "message": "Ukuran teks",
+    "description": "kindeditor 编辑器组件"
+  },
+  "forecolor": {
+    "message": "Warna teks",
+    "description": "kindeditor 编辑器组件"
+  },
+  "hilitecolor": {
+    "message": "Latar belakang teks",
+    "description": "kindeditor 编辑器组件"
+  },
+  "bold": {
+    "message": "Tebal (Ctrl+B)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "italic": {
+    "message": "Miring (Ctrl+I)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "underline": {
+    "message": "Garis bawah (Ctrl+U)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "strikethrough": {
+    "message": "Garis hapus",
+    "description": "kindeditor 编辑器组件"
+  },
+  "removeformat": {
+    "message": "Hapus format",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image": {
+    "message": "Gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage": {
+    "message": "Gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "imageUpload": {
+    "message": "Gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage": {
+    "message": "Unggah gambar batch",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash": {
+    "message": "Flash",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media": {
+    "message": "Audio visual",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table": {
+    "message": "Tabel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecell": {
+    "message": "Cell",
+    "description": "kindeditor 编辑器组件"
+  },
+  "hr": {
+    "message": "Input garis horizontal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "emoticons": {
+    "message": "Input emoticon",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link": {
+    "message": "Hyperlink",
+    "description": "kindeditor 编辑器组件"
+  },
+  "unlink": {
+    "message": "Batalkan hyperlink",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fullscreen": {
+    "message": "Tampilan penuh (Esc)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "about": {
+    "message": "Tentang",
+    "description": "kindeditor 编辑器组件"
+  },
+  "print": {
+    "message": "Print (Ctrl+P)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager": {
+    "message": "Ruang file",
+    "description": "kindeditor 编辑器组件"
+  },
+  "code": {
+    "message": "Input kode program",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map": {
+    "message": "Peta Google",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap": {
+    "message": "Peta Baidu",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight": {
+    "message": "Spasi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "clearhtml": {
+    "message": "Hapus kode HTML",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pagebreak": {
+    "message": "Input Page Break",
+    "description": "kindeditor 编辑器组件"
+  },
+  "quickformat": {
+    "message": "Format sekali klik",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile": {
+    "message": "Input dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template": {
+    "message": "Input templat",
+    "description": "kindeditor 编辑器组件"
+  },
+  "anchor": {
+    "message": "Jangkar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "yes": {
+    "message": "OK",
+    "description": "kindeditor 编辑器组件"
+  },
+  "no": {
+    "message": "Batalkan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "close": {
+    "message": "Tutup",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editImage": {
+    "message": "Properti gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteImage": {
+    "message": "Hapus gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editFlash": {
+    "message": "Properti Flash",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteFlash": {
+    "message": "Hapus Flash",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editMedia": {
+    "message": "Properti audio visual",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteMedia": {
+    "message": "Hapus audio visual",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editLink": {
+    "message": "Properti hyperlink",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteLink": {
+    "message": "Batalkan hyperlink",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editAnchor": {
+    "message": "Properti jangkar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteAnchor": {
+    "message": "Hapus jangkar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tableprop": {
+    "message": "Properti tabel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecellprop": {
+    "message": "Properti cell",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tableinsert": {
+    "message": "Input tabel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tabledelete": {
+    "message": "Hapus tabel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolinsertleft": {
+    "message": "Sisipkan kolom di sebelah kiri",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolinsertright": {
+    "message": "Sisipkan kolom di sebelah kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowinsertabove": {
+    "message": "Sisipkan baris di atas",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowinsertbelow": {
+    "message": "Sisipkan baris di bawah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowmerge": {
+    "message": "Gabungkan sel kebawah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolmerge": {
+    "message": "Gabungkan sel ke kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowsplit": {
+    "message": "Baris terpisah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolsplit": {
+    "message": "Kolom terpisah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecoldelete": {
+    "message": "Hapus kolom",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowdelete": {
+    "message": "Hapus baris",
+    "description": "kindeditor 编辑器组件"
+  },
+  "noColor": {
+    "message": "Tanpa warna",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pleaseSelectFile": {
+    "message": "Silakan pilih dokumen.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidImg": {
+    "message": "Silahkan masukkan alamat URL yang valid.\nHanya bisa berupa JPG, GIF, BMP, PNG.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidMedia": {
+    "message": "Silahkan masukkan alamat URL yang valid.\nHanya bisa berupa format SWF, FLV, MP3, WAV, WMA, WMV, Mid, AVI, mpg, ASF, RM, rmvb.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidWidth": {
+    "message": "Lebar harus berupa angka.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidHeight": {
+    "message": "Tinggi harus berupa angka.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidBorder": {
+    "message": "Bingkai harus berupa angka.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidUrl": {
+    "message": "Silakan masukkan alamat URL yang valid.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidRows": {
+    "message": "Jumlah baris harus diisi, hanya bisa input angka lebih besar dari 0.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidCols": {
+    "message": "Jumlah kolom harus diisi, hanya bisa input angka lebih besar dari 0.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidPadding": {
+    "message": "Margin harus berupa angka.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidSpacing": {
+    "message": "Jarak harus berupa angka.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidJson": {
+    "message": "Server gagal.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadSuccess": {
+    "message": "Berhasil diunggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "cutError": {
+    "message": "Pengaturan keamanan browser anda tidak mengizinkan anda untuk potong/cut, silahkan gunakan tombol (Ctrl+X) untuk melakukannya.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "copyError": {
+    "message": "Pengaturan keamanan browser anda tidak mengizinkan anda untuk salin, silahkan gunakan tombol (Ctrl+C) untuk melakukannya.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pasteError": {
+    "message": "Pengaturan keamanan browser anda tidak mengizinkan anda untuk tempel/paste, silahkan gunakan tombol (Ctrl+V) untuk melakukannya.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "ajaxLoading": {
+    "message": "Sedang memuat, mohon menunggu...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadLoading": {
+    "message": "Sedang mengunggah, mohon menunggu...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadError": {
+    "message": "Gagal mengunggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "jme": {
+    "message": "Input rumus",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachImg": {
+    "message": "Unggah gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachAudio": {
+    "message": "Unggah audio",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachVideo": {
+    "message": "Unggah video",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertBlank": {
+    "message": "Tambah soal kecil",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachFormula": {
+    "message": "Input rumus",
+    "description": "kindeditor 编辑器组件"
+  },
+  "addSubQues": {
+    "message": "Pertanyaan kecil {n}",
+    "description": "kindeditorPlugins.js"
+  },
+  "plainpaste.comment": {
+    "message": "Silahkan gunakan tombol (Ctrl+V) untuk menyalin konten ke kotak di bawah ini.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "wordpaste.comment": {
+    "message": "Silahkan gunakan tombol (Ctrl+V) untuk menyalin konten ke kotak di bawah ini.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.url": {
+    "message": "Url",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.linkType": {
+    "message": "Cara buka",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.newWindow": {
+    "message": "Jendela baru",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.selfWindow": {
+    "message": "Jendela saat ini",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.url": {
+    "message": "Url",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.width": {
+    "message": "Lebar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.height": {
+    "message": "Tinggi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.upload": {
+    "message": "Unggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.viewServer": {
+    "message": "Ruang dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.url": {
+    "message": "Url",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.width": {
+    "message": "Lebar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.height": {
+    "message": "Tinggi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.autostart": {
+    "message": "Autoplay",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.upload": {
+    "message": "Unggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.viewServer": {
+    "message": "Ruang dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.remoteImage": {
+    "message": "Gambar internet",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.localImage": {
+    "message": "Unggah lokal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.remoteUrl": {
+    "message": "Alamat gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.localUrl": {
+    "message": "Unggah dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.size": {
+    "message": "Ukuran gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.width": {
+    "message": "Lebar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.height": {
+    "message": "Tinggi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.resetSize": {
+    "message": "Atur ulang ukuran",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.align": {
+    "message": "Cara perataan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.defaultAlign": {
+    "message": "Default",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.leftAlign": {
+    "message": "Rata kiri",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.rightAlign": {
+    "message": "Rata kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.imgTitle": {
+    "message": "Keterangan gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.upload": {
+    "message": "Pra-tinjau...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.viewServer": {
+    "message": "Ruang gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.remoteImage": {
+    "message": "Gambar internet",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.localImage": {
+    "message": "Unggah lokal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.remoteUrl": {
+    "message": "Alamat gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.localUrl": {
+    "message": "Unggah dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.size": {
+    "message": "Ukuran gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.width": {
+    "message": "Lebar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.height": {
+    "message": "Tinggi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.resetSize": {
+    "message": "Atur ulang ukuran",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.align": {
+    "message": "Cara perataan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.defaultAlign": {
+    "message": "Default",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.leftAlign": {
+    "message": "Rata kiri",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.rightAlign": {
+    "message": "Rata kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.imgTitle": {
+    "message": "Keterangan gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.upload": {
+    "message": "Pra-tinjau...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "calignimage.viewServer": {
+    "message": "Ruang gambar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.uploadDesc": {
+    "message": "Mengizinkan pengguna untuk unggah <%=uploadLimit%> gambar dalam waktu bersamaan, kapasitas setiap gambar tidak lebih dari <%=sizeLimit%>",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.startUpload": {
+    "message": "Mulai unggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.clearAll": {
+    "message": "Hapus semua",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.insertAll": {
+    "message": "Input semua",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.queueLimitExceeded": {
+    "message": "Jumlah dokumen melebihi batas.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.fileExceedsSizeLimit": {
+    "message": "Ukuran dokumen melebihi batas.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.zeroByteFile": {
+    "message": "Tidak dapat mengunggah dokumen kosong.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.invalidFiletype": {
+    "message": "Jenis dokumen salah.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.unknownError": {
+    "message": "Terjadi kesalahan, tidak bisa diunggah.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.pending": {
+    "message": "Menunggu untuk diunggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.uploadError": {
+    "message": "Unggahan gagal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.emptyFolder": {
+    "message": "Folder kosong",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.moveup": {
+    "message": "Pindahkan ke folder sebelumnya",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.viewType": {
+    "message": "Cara tampilan:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.viewImage": {
+    "message": "Thumbnail",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.listImage": {
+    "message": "Rincian informasi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.orderType": {
+    "message": "Cara pengurutan:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileName": {
+    "message": "Nama",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileSize": {
+    "message": "Ukuran",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileType": {
+    "message": "Jenis",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.url": {
+    "message": "Url",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.title": {
+    "message": "Deskripsi dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.upload": {
+    "message": "Unggah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.viewServer": {
+    "message": "Ruang dokumen",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.cells": {
+    "message": "Jumlah sel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.rows": {
+    "message": "Jumlah baris",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.cols": {
+    "message": "Jumlah kolom",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.size": {
+    "message": "Ukuran",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.width": {
+    "message": "Lebar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.height": {
+    "message": "Tinggi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.percent": {
+    "message": "%",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.px": {
+    "message": "px",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.space": {
+    "message": "Margin spasi",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.padding": {
+    "message": "Margin",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.spacing": {
+    "message": "Jarak",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.align": {
+    "message": "Cara perataan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.textAlign": {
+    "message": "Rata horizontal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.verticalAlign": {
+    "message": "Rata vertikal",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignDefault": {
+    "message": "Default",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignLeft": {
+    "message": "Rata kiri",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignCenter": {
+    "message": "Tengah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignRight": {
+    "message": "Rata kanan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignTop": {
+    "message": "Atas",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignMiddle": {
+    "message": "Tengah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignBottom": {
+    "message": "Bawah",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignBaseline": {
+    "message": "Dasar",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.border": {
+    "message": "Bingkai",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.borderWidth": {
+    "message": "Bingkai",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.borderColor": {
+    "message": "Warna",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.backgroundColor": {
+    "message": "Warna latar belakang",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map.address": {
+    "message": "Alamat: ",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map.search": {
+    "message": "Cari",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.address": {
+    "message": "Alamat: ",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.search": {
+    "message": "Cari",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.insertDynamicMap": {
+    "message": "Masukkan peta dinamis",
+    "description": "kindeditor 编辑器组件"
+  },
+  "anchor.name": {
+    "message": "Nama anchor",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h1": {
+    "message": "Judul 1",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h2": {
+    "message": "Judul 2",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h3": {
+    "message": "Judul 3",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h4": {
+    "message": "Judul 4",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.p": {
+    "message": "Teks",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[0].1": {
+    "message": "spasi 1",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[1].1.5": {
+    "message": "spasi 1.5",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[2].2": {
+    "message": "spasi 2",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[3].2.5": {
+    "message": "spasi 2.5",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[4].3": {
+    "message": "spasi 3",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.selectTemplate": {
+    "message": "Templat pilihan",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.replaceContent": {
+    "message": "Ganti konten saat ini",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.1.html": {
+    "message": "Gambar dan teks",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.2.html": {
+    "message": "Tabel",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.3.html": {
+    "message": "No. order",
+    "description": "kindeditor 编辑器组件"
+  }
+}

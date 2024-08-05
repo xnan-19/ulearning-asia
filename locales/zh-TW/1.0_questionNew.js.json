@@ -1,0 +1,466 @@
+{
+  "useControlText": {
+    "message": "請使用控件錄制您的答案",
+    "description": "此翻译文件隶属于exam.js和questionNew.js 被考试试题预览页面、布置个人作业所用到，"
+  },
+  "reDoRecord": {
+    "message": "重新錄制",
+    "description": "1.0 questionNew.json"
+  },
+  "videoText": {
+    "message": "視頻",
+    "description": "1.0 questionNew.json"
+  },
+  "audioText": {
+    "message": "音頻",
+    "description": "1.0 questionNew.json"
+  },
+  "clickPlayText": {
+    "message": "點擊播放 {video}",
+    "description": "1.0 questionNew.json"
+  },
+  "CollapseText": {
+    "message": "收起 {video}",
+    "description": "1.0 questionNew.json"
+  },
+  "reloadText": {
+    "message": "重新加載",
+    "description": "1.0 questionNew.json"
+  },
+  "netErrorText": {
+    "message": "網絡可能有問題,請 {reload}",
+    "description": "1.0 questionNew.json"
+  },
+  "setScoreText": {
+    "message": "設置分數：",
+    "description": "1.0 questionNew.json"
+  },
+  "scoreText": {
+    "message": "{score}分",
+    "description": "1.0 questionNew.json"
+  },
+  "playTimes": {
+    "message": "播放次數：",
+    "description": "1.0 questionNew.json"
+  },
+  "noLimit": {
+    "message": "不限",
+    "description": "1.0 questionNew.json"
+  },
+  "enterAnswerText": {
+    "message": "在此輸入答案...",
+    "description": "1.0 questionNew.json"
+  },
+  "dragSortText": {
+    "message": "注：可拖動選項排序",
+    "description": "1.0 questionNew.json"
+  },
+  "answerText": {
+    "message": "答案",
+    "description": "1.0 questionNew.json"
+  },
+  "oralLanguageText": {
+    "message": "口語示範音",
+    "description": "1.0 questionNew.json"
+  },
+  "pleaseSelectAnswer": {
+    "message": "請選擇答案",
+    "description": "1.0 questionNew.json"
+  },
+  "attachmentUploadText": {
+    "message": "附件只有學生端能上傳！",
+    "description": "1.0 questionNew.json"
+  },
+  "studentAnswerText": {
+    "message": "學生答案",
+    "description": "1.0 questionNew.json"
+  },
+  "uploadCompleteText": {
+    "message": "上傳完成",
+    "description": "1.0 questionNew.json"
+  },
+  "newQParse": {
+    "message": "新題型未解析",
+    "description": "1.0 questionNew.json"
+  },
+  "correctAnswerText": {
+    "message": "正確答案",
+    "description": "1.0 questionNew.json"
+  },
+  "getScoreText": {
+    "message": "本題得分",
+    "description": "1.0 questionNew.json"
+  },
+  "teacherCommentText": {
+    "message": "老師點評",
+    "description": "1.0 questionNew.json"
+  },
+  "commentText": {
+    "message": "點評",
+    "description": "1.0 questionNew.json"
+  },
+  "noSelectText": {
+    "message": "未選擇",
+    "description": "1.0 questionNew.json"
+  },
+  "answerParseText": {
+    "message": "答案解析",
+    "description": "1.0 questionNew.json"
+  },
+  "getQScoreText": {
+    "message": "得分",
+    "description": "1.0 questionNew.json"
+  },
+  "noFoundPathText": {
+    "message": "未找到該生上傳音頻路徑",
+    "description": "1.0 questionNew.json"
+  },
+  "completeText": {
+    "message": "完成",
+    "description": "1.0 questionNew.json"
+  },
+  "enterCommentContentText": {
+    "message": "在此輸入點評內容",
+    "description": "1.0 questionNew.json"
+  },
+  "markSkipText": {
+    "message": "批閱提示：您可以批閱的題目有 {questions} 题",
+    "description": "1.0 questionNew.json"
+  },
+  "noMarkText": {
+    "message": "本卷沒有您可以批閱的題目，給學生寫點評語吧",
+    "description": "1.0 questionNew.json"
+  },
+  "answerRightText": {
+    "message": "回答正確！",
+    "description": "1.0 questionNew.json"
+  },
+  "answerErrorText": {
+    "message": "回答錯誤！",
+    "description": "1.0 questionNew.json"
+  },
+  "clickSelectText": {
+    "message": "點擊選擇答案",
+    "description": "1.0 questionNew.json"
+  },
+  "uploadFailText": {
+    "message": "上傳失敗",
+    "description": "1.0 questionNew.json"
+  },
+  "checkPaperText": {
+    "message": "你所查找的試卷不存在,瀏覽器將關閉!",
+    "description": "1.0 exam.js"
+  },
+  "checkPaperText2": {
+    "message": "你所查找的試卷不存在！",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "submitAnswerText": {
+    "message": "教師端不可以提交答題記錄！",
+    "description": "1.0 exam.js"
+  },
+  "lastPartText": {
+    "message": "上個部分",
+    "description": "1.0 exam.js"
+  },
+  "nextPartText": {
+    "message": "下個部分",
+    "description": "1.0 exam.js"
+  },
+  "putIllegalText": {
+    "message": "您的輸入含有非法字符，已幫您刪除",
+    "description": "1.0 exam.js"
+  },
+  "autoClearText": {
+    "message": "輸入敏感標簽，為保證服務安全進行，系統已自動清除",
+    "description": "1.0 exam.js"
+  },
+  "inputIgnoredText": {
+    "message": "輸入的詞數限制為200個字符（含標點），您的答案已超出範圍，系統將忽略超出部分",
+    "description": "1.0 exam.js"
+  },
+  "answerCardText": {
+    "message": "答題卡",
+    "description": "1.0 exam.js"
+  },
+  "enterColumn": {
+    "message": "分屏答題",
+    "description": "1.0 exam.js"
+  },
+  "exitColumn": {
+    "message": "退出分屏",
+    "description": "1.0 exam.js"
+  },
+  "columnDragTip": {
+    "message": "拖動可調整高度",
+    "description": "1.0 exam.js"
+  },
+  "recordTip": {
+    "message": "註意：本題錄音只能播放{count}次",
+    "description": "1.0 exam.js"
+  },
+  "timesOverTip": {
+    "message": "註意：本題播放次數已用完",
+    "description": "1.0 exam.js"
+  },
+  "played": {
+    "message": "已播放{count}次",
+    "description": "1.0 exam.js"
+  },
+  "jquizMaxFileTips": {
+    "message": "最多添加10個文件",
+    "description": "1.0 exam.js"
+  },
+  "uploadAttachment": {
+    "message": "上傳附件",
+    "description": "1.0 exam.js"
+  },
+  "recordText": {
+    "message": "有正在進行的錄音，請先完成錄制！",
+    "description": "1.0 questionNew.js"
+  },
+  "loadingText": {
+    "message": "正在載入試卷...",
+    "description": "1.0 questionNew.js"
+  },
+  "unknowText": {
+    "message": "服務器發生未知錯誤，請稍後再試！",
+    "description": "1.0 questionNew.js"
+  },
+  "examNetErrorTitle": {
+    "message": "網路異常",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examNetErrorMsg": {
+    "message": "當前網路異常，無法正常載入試卷，請檢查本地網路，待網路恢復后再嘗試進入考試。",
+    "description": "1.0 questionNew.json.js"
+  },
+  "processText": {
+    "message": "正在載入上次中斷的答題記錄…",
+    "description": "1.0 questionNew.js"
+  },
+  "inText": {
+    "message": "已于{time}保存答題記錄",
+    "description": "1.0 questionNew.js"
+  },
+  "systemText": {
+    "message": "系統已爲您恢複{time}中斷考試的答題記錄！",
+    "description": "1.0 questionNew.js"
+  },
+  "examPaperText": {
+    "message": "試卷提交失敗，請不要關閉網頁，系統正在重新提交...",
+    "description": "1.0 questionNew.js"
+  },
+  "notCloseText": {
+    "message": "請不要關閉網頁，系統正在提交試卷...",
+    "description": "1.0 questionNew.js"
+  },
+  "errorOccurText": {
+    "message": "系統在爲您自動上傳答案時出現錯誤，請檢查網絡連接是否正常，或者聯系老師請求幫助",
+    "description": "1.0 questionNew.js"
+  },
+  "examAutoSaveError": {
+    "message": "網路異常！ 系統正在重連，請勿離開或關閉頁面，待網路恢復后系統將自動上傳答題記錄。",
+    "description": "1.0 questionNew.json.js"
+  },
+  "guaranteeText": {
+    "message": "爲保障您能正常考試，請查看您的網絡是否出現異常！",
+    "description": "1.0 questionNew.js"
+  },
+  "browserText": {
+    "message": "正在上傳您錄制的口語音頻，請勿關閉浏覽器，關閉後您的錄音可能不會被提交。請稍等...",
+    "description": "1.0 questionNew.js"
+  },
+  "recordSaveText": {
+    "message": "其他記錄已經爲您保存，但是在上傳口語時出現錯誤，請檢查考試環境後重試",
+    "description": "1.0 questionNew.js"
+  },
+  "haveText": {
+    "message": "你還有第{no}小題沒有做，仍要繼續提交嗎？",
+    "description": "1.0 questionNew.js"
+  },
+  "examEndText": {
+    "message": "結束考試",
+    "description": "1.0 questionNew.js"
+  },
+  "continueText": {
+    "message": "繼續答題",
+    "description": "1.0 questionNew.js"
+  },
+  "sureSubmitText": {
+    "message": "您確定要提交嗎？",
+    "description": "1.0 questionNew.js"
+  },
+  "systemSubmitText": {
+    "message": "系統正在爲您提交答案...",
+    "description": "1.0 questionNew.js"
+  },
+  "submissionText": {
+    "message": "提交成功!",
+    "description": "1.0 questionNew.js"
+  },
+  "tryText": {
+    "message": "提交失敗，正在嘗試爲您再次提交!",
+    "description": "1.0 questionNew.js"
+  },
+  "checkText": {
+    "message": "提交失敗，請查看您的網絡是否正常!",
+    "description": "1.0 questionNew.js"
+  },
+  "examFiailSubmitTitle": {
+    "message": "提交失敗",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examFiailSubmitMsg1": {
+    "message": "網路異常，試卷提交失敗！",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examFiailSubmitMsg2": {
+    "message": "系統已將答題記錄暫存在本地，待網路恢復后自動提交，請勿離開或關閉頁面。 您也可以關閉此彈窗，稍後再次嘗試手動提交。",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examTimeText": {
+    "message": "考試時間到，系統將爲您自動提交試卷並關閉浏覽器窗口!",
+    "description": "1.0 questionNew.js"
+  },
+  "examSearchText": {
+    "message": "你所查找的考試不存在!",
+    "description": "1.0 questionNew.js"
+  },
+  "saveSuccessText": {
+    "message": "答題記錄保存成功!",
+    "description": "1.0 questionNew.js"
+  },
+  "examOver": {
+    "message": "該考試已結束！",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip1": {
+    "message": "你已離開考試{count}次，將強制為你交卷。",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip2": {
+    "message": "系統檢測到你離開了考試。{limitCount}次離開將強制交卷，你還剩{count}次機會。",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip3": {
+    "message": "系統檢測到你於{time}離開了考試。{limitCount}次離開將強制交卷，你還剩{count}次機會。",
+    "description": "1.0 questionNew.js"
+  },
+  "highlightBtn": {
+    "message": "高亮",
+    "description": "1.0 questionNew.js"
+  },
+  "clearBtn": {
+    "message": "清除",
+    "description": "1.0 questionNew.js"
+  },
+  "abnormalDetect": {
+    "message": "檢測到你已{count1}秒沒有進行操作，{count2}秒內無操作將被判定為異常離開。",
+    "description": "1.0 questionNew.js"
+  },
+  "startPaperText": {
+    "message": "開始答卷",
+    "description": "1.0 backwards.jsp"
+  },
+  "invalidIp": {
+    "message": "當前IP：{ip} 無進入考試許可權，請使用規定電腦參加考試",
+    "description": "1.0 backwards.jsp"
+  },
+  "invalidExamCount": {
+    "message": "您已超過本考試的次數限制，無法進行考試！\n限制次數：{count}次",
+    "description": "1.0 backwards.jsp"
+  },
+  "noAnswer": {
+    "message": "學生未作答",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "inputContent": {
+    "message": "在这里輸入點評內容",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "noQuestion": {
+    "message": "本卷沒有您可以批閱的題目，給學生寫點評語吧!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "downloadStuAttach": {
+    "message": "點擊下載學生附件",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "downloadStuAttach2": {
+    "message": "點擊下載我的附件",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "lookExit": {
+    "message": "您查找的答題記錄不存在！",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "loadRecord": {
+    "message": "正在載入學生的答題記錄...",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "networkAbnormal": {
+    "message": "您的的網絡出現異常！",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "unenableViewRecord": {
+    "message": "你現在還不能查看答題記錄!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "nilText": {
+    "message": "無",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "mayHaveText": {
+    "message": "您的答題記錄丟失或您沒有作答，無法查看答題記錄!",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "notCheckText": {
+    "message": "暫時不能查看",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "coursePaperText": {
+    "message": "你所查找課程試卷不存在!",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "totalText": {
+    "message": "共{count}題",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "scoreValueText": {
+    "message": "分值",
+    "description": "1.0 viewpaperanswer.jsp 用在表格的表头"
+  },
+  "getScoreText2": {
+    "message": "得分",
+    "description": "1.0 viewpaperanswer.jsp 用在表格的表头"
+  },
+  "unableText": {
+    "message": "暫時無法查看本次答題記錄！",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "toBeGraded": {
+    "message": "待批閱",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "plzInputScore": {
+    "message": "請輸入{range}的分數",
+    "description": "range插值是一个范围，例如，请输入0-50的分数"
+  },
+  "photoNotChecked": {
+    "message": "認證照片未審核",
+    "description": "1.0 questionNew.js"
+  },
+  "photoNotPass": {
+    "message": "認證照片審核未通過",
+    "description": "1.0 questionNew.js"
+  },
+  "photoConfirm": {
+    "message": "你還沒有完成人臉識別的照片認證，無法進入考試。現在去認證？",
+    "description": "1.0 questionNew.js"
+  },
+  "commitLimitTimeTips": {
+    "message": "考試開始{time}分鐘後才可以交卷",
+    "description": "1.0 questionNew.json.js"
+  }
+}

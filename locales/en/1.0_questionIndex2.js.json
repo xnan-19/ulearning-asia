@@ -1,0 +1,270 @@
+{
+  "checkCount": {
+    "message": "Quantity querying error!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "currentFolder": {
+    "message": "The current folder includes",
+    "description": "1.0 questionIndex2.js"
+  },
+  "fileStats": {
+    "message": "Folders: {count} ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "quesStats": {
+    "message": "Questions: {count}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderMore": {
+    "message": "The folder levels cannot exceed 5!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameEmpty": {
+    "message": "The folder name cannot be empty!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "createFolder": {
+    "message": "Failed to create the folder - Please try again later!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "editFolderName": {
+    "message": "Renamed the folder successfully!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameIllegal": {
+    "message": "The folder name is not valid!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError": {
+    "message": "Invalid parameter!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "rootDirectory": {
+    "message": "Root Directory",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectAddFolder": {
+    "message": "Select the folder you want to add",
+    "description": "1.0 questionIndex2.js"
+  },
+  "moveSuccess": {
+    "message": "Moved successfully!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail": {
+    "message": "Failed to delete the question!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "No": {
+    "message": "No.: {id}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noTest": {
+    "message": "The question does not exist!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notCreator": {
+    "message": "Only the question creator can edit the question!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cannotEdit": {
+    "message": "This question is in use and cannot be deleted!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notGet": {
+    "message": "This question is in use and cannot be deleted!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail1": {
+    "message": "Failed to delete!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "allDelete": {
+    "message": "Delete All",
+    "description": "1.0 questionIndex2.js"
+  },
+  "keepOnly": {
+    "message": "Delete Folder, but Keep Questions",
+    "description": "1.0 questionIndex2.js"
+  },
+  "confirmDeleteFolder": {
+    "message": "Are you sure you want to delete it? Delete All will delete all the question in the folder. If the deleted question(s) is used in an exam, the exam won't be available any more.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteAfter": {
+    "message": "Data cannot be recovered after deletion - are you sure you want to delete it?",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTopic": {
+    "message": "Share to: ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFolder": {
+    "message": "Share to:",
+    "description": "1.0 questionIndex2.js"
+  },
+  "onlyMe": {
+    "message": "Private",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAppointTeacher": {
+    "message": "Selected teachers",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAllTeacher": {
+    "message": "All school teachers",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTeacher": {
+    "message": "All teachers",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTips": {
+    "message": "Question Sharing",
+    "description": "1.0 questionIndex2.js"
+  },
+  "share2": {
+    "message": "Confirm",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noSelectTeacher": {
+    "message": "No teacher selected!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareSuccess": {
+    "message": "Shared successfully!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFail": {
+    "message": "Failed to share!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectTeacher": {
+    "message": "Select Teacher",
+    "description": "1.0 questionIndex2.js"
+  },
+  "enterTeacher": {
+    "message": "Enter teacher name to search",
+    "description": "1.0 questionIndex2.js"
+  },
+  "continueSelect": {
+    "message": "Select More",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selected": {
+    "message": "Selected",
+    "description": "1.0 questionIndex2.js"
+  },
+  "action": {
+    "message": "Import Questions in Batch",
+    "description": "1.0 questionIndex2.js"
+  },
+  "downloadModel": {
+    "message": "Download the template and create the questions on it",
+    "description": "1.0 questionIndex2.js"
+  },
+  "model": {
+    "message": "Download Template",
+    "description": "1.0 questionIndex2.js"
+  },
+  "uploadFile2": {
+    "message": "Upload the completed file",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cellError": {
+    "message": "Row {r} Column {c} data error: {msg}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importNormal": {
+    "message": "Importing is ok!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importSuccess": {
+    "message": "Imported successfully!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyQuestion": {
+    "message": "Duplicating No. {id} question..., please wait!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copySuccess": {
+    "message": "The question is successfully duplicated at your root directory!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "systemBusy": {
+    "message": "The system is busing. Please try again later!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportNote": {
+    "message": "Export Questions",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyRightRequire": {
+    "message": "Due to copyright ownership, only questions created by the teachers of your school can be exported.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "leaveEmail": {
+    "message": "Due to the large amount of data in the question bank, the export will be time-consuming. Please leave your email. After the export is completed, we will email you the exported questions.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "ipuntEmail": {
+    "message": "Click to enter your email",
+    "description": "1.0 questionIndex2.js"
+  },
+  "pleaseInputEmail": {
+    "message": "Please enter a valid email",
+    "description": "1.0 questionIndex2.js"
+  },
+  "inputEmailAd": {
+    "message": "Please enter your email address",
+    "description": "1.0 questionIndex2.js"
+  },
+  "queueBusy": {
+    "message": "The querying is busy!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError2": {
+    "message": "Querying parameter error!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "checkEmail": {
+    "message": "Exported successfully - Please check your email!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportFail2": {
+    "message": "Failed to export - Please contact customer service!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "downloadMoodleTitle": {
+    "message": "Instructions for Use",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc1": {
+    "message": "1. Download and install the format conversion tool (Windows system only).",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc2": {
+    "message": "2. Export the question bank from Moodle into an xml format file. Only the following question types are supported: multiple choice, true/false, short answer, essay.",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc3": {
+    "message": "3. Use the format conversion tool to convert the xml file to Excel format.",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "downloadDesc4": {
+    "message": "4. Use ULearning's bulk import function to upload the Excel file and import the question bank.",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "download": {
+    "message": "Download",
+    "description": "1.0 questionIndex2.json.js"
+  },
+  "copySuccessfully": {
+    "message": "Copied successfully",
+    "description": "1.0 questionIndex2.json.js"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "learningTips1": {
+    "message": "لم يتم تسجيل دخولك ولن يتم حفظ سجلات التعلم الخاصة بك.",
+    "description": "2.0 learning.js"
+  },
+  "LoginImmediately": {
+    "message": "سجل الدخول الآن",
+    "description": "2.0 learning.js"
+  },
+  "exit": {
+    "message": "خروج",
+    "description": "2.0 learning.js"
+  },
+  "collectDirectories": {
+    "message": "طي القائمة",
+    "description": "2.0 learning.js"
+  },
+  "expandDirectories": {
+    "message": "توسيع القائمة",
+    "description": "2.0 learning.js"
+  },
+  "watched": {
+    "message": "تم العرض",
+    "description": "2.0 learning.js"
+  },
+  "finished": {
+    "message": "مكتمل",
+    "description": "2.0 learning.js"
+  },
+  "learningTips2": {
+    "message": "إذا تم عرض 80%  أو أكثر من وقت الفيديو ستوضع علامة بالصفحة على أنه مكتمل",
+    "description": "2.0 learning.js"
+  },
+  "description": {
+    "message": "الوصف",
+    "description": "2.0 learning.js"
+  },
+  "fullScreen": {
+    "message": "ملء الشاشة",
+    "description": "2.0 learning.js"
+  },
+  "learningTips3": {
+    "message": "لا يمكن فتح هذا الرابط مباشرة، لفتح الرابط يرجى نسخه إلى المتصفح",
+    "description": "2.0 learning.js"
+  },
+  "noNore": {
+    "message": "كفاية",
+    "description": "2.0 learning.js"
+  },
+  "lastPage": {
+    "message": "الصفحة السابقة",
+    "description": "2.0 learning.js"
+  },
+  "menu": {
+    "message": "القائمة",
+    "description": "2.0 learning.js"
+  },
+  "nextPage": {
+    "message": "الصفحة التالية",
+    "description": "2.0 learning.js"
+  },
+  "learningTips4": {
+    "message": "حالة إكمال الموضوع",
+    "description": "2.0 learning.js"
+  },
+  "studyProgress": {
+    "message": "تقدم عملية التعلم",
+    "description": "2.0 learning.js"
+  },
+  "studyTime": {
+    "message": "وقت التعلم",
+    "description": "2.0 learning.js"
+  },
+  "learningTips5": {
+    "message": "تهانينا. لقد أننهيت هذا الموضوع!",
+    "description": "2.0 learning.js"
+  },
+  "learningTips6": {
+    "message": "لم تكمل بعد تعلم هذه الصفحة",
+    "description": "2.0 learning.js"
+  },
+  "nextUnit": {
+    "message": "الموضوع التالي",
+    "description": "2.0 learning.js"
+  },
+  "chapterStatistics": {
+    "message": "إحصائيات الوحدة",
+    "description": "2.0 learning.js"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "announcement": {
+    "message": "إشعارات",
+    "description": "2.0 announcement.js"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "2.0 announcement.js"
+  },
+  "schoolAnnouncement": {
+    "message": "إشعارات الأكاديمية",
+    "description": "2.0 announcement.js"
+  },
+  "systemAnnouncement": {
+    "message": "إشعارات النظام",
+    "description": "2.0 announcement.js"
+  },
+  "publishedIn": {
+    "message": "تاريخ النشر",
+    "description": "2.0 announcement.js"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "2.0 announcement.js"
+  },
+  "fold": {
+    "message": "طي",
+    "description": "2.0 announcement.js"
+  },
+  "unfold": {
+    "message": "تمديد",
+    "description": "2.0 announcement.js"
+  },
+  "noAnnouncement": {
+    "message": "لا توجد إشعارات",
+    "description": "2.0 announcement.js"
+  },
+  "homePage": {
+    "message": "الصفحة الرئيسية",
+    "description": "2.0 announcement.js"
+  },
+  "lastPage": {
+    "message": "آخر صفحة",
+    "description": "2.0 announcement.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 announcement.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 announcement.js"
+  },
+  "jumpPage": {
+    "message": "إذهب إلى",
+    "description": "2.0 announcement.js"
+  }
+}

@@ -1,0 +1,2486 @@
+{
+  "homePage": {
+    "message": "หน้าแรก",
+    "description": "2.0 public.js"
+  },
+  "lastPage": {
+    "message": "หน้าสุดท้าย",
+    "description": "2.0 public.js"
+  },
+  "frontPage": {
+    "message": "หน้าที่แล้ว",
+    "description": "2.0 public.js"
+  },
+  "backPage": {
+    "message": "หน้าถัดไป",
+    "description": "2.0 public.js"
+  },
+  "jumpPage": {
+    "message": "ข้ามไปยัง",
+    "description": "2.0 public.js"
+  },
+  "search": {
+    "message": "ค้นหา",
+    "description": "2.0 public.js"
+  },
+  "friendshipLink": {
+    "message": "ลิงค์เพื่อน",
+    "description": "2.0 public.js"
+  },
+  "ulearning": {
+    "message": "ULearning",
+    "description": "2.0 public.js"
+  },
+  "peopleMooc": {
+    "message": "เว๊บไซต์เหรินหมินกงไคเค่อ",
+    "description": "2.0 public.js"
+  },
+  "leiClass": {
+    "message": "เว๊บไซต์ห้องเรียนเหลย https://www.leiketang.cn/",
+    "description": "2.0 public.js"
+  },
+  "helpCenter": {
+    "message": "ศูนย์ช่วยเหลือ",
+    "description": "2.0 public.js"
+  },
+  "signin": {
+    "message": "เข้าสู่ระบบ",
+    "description": "2.0 public.js"
+  },
+  "signup": {
+    "message": "ลงทะเบียน",
+    "description": "2.0 public.js"
+  },
+  "signout": {
+    "message": "ออกจากระบบ",
+    "description": "2.0 public.js"
+  },
+  "myHomePage": {
+    "message": "หน้าแรกของฉัน",
+    "description": "2.0 public.js"
+  },
+  "backToHomePage": {
+    "message": "กลับไปยังหน้าแรก",
+    "description": "2.0 public.js"
+  },
+  "personalPage": {
+    "message": "ข้อมูลส่วนบุคคล",
+    "description": "2.0 public.js"
+  },
+  "signupNow": {
+    "message": "ลงทะเบียนทันที",
+    "description": "2.0 public.js"
+  },
+  "username": {
+    "message": "ชื่อบัญชี/หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "password": {
+    "message": "รหัสผ่าน",
+    "description": "2.0 public.js"
+  },
+  "forgetPassword": {
+    "message": "ลืมรหัสผ่าน?",
+    "description": "2.0 public.js"
+  },
+  "usernameNotExist": {
+    "message": "บัญชีนี้ไม่มีในระบบ",
+    "description": "2.0 public.js"
+  },
+  "wrongPassword": {
+    "message": "ชื่อบัญชี/พาสเวิร์ดไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "wrongCode": {
+    "message": "รหัสรักษาความปลอดภัยไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "verificationCodePlaceholder": {
+    "message": "กรุณาใส่รหัสรักษาความปลอดภัย6หลัก",
+    "description": "2.0 public.js"
+  },
+  "sendVerificationCode": {
+    "message": "ส่งรหัสยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterUsername": {
+    "message": "กรุณาใส่ชื่อบัญชี/หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterPassword": {
+    "message": "กรุณาใส่พาสเวิร์ด",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterVerificationCode": {
+    "message": "กรุณาใส่รหัสรักษาความปลอดภัย",
+    "description": "2.0 public.js"
+  },
+  "wrongToManyTimes": {
+    "message": "ท่านทำรายการผิดติดต่อกัน5ครั้งแล้ว อีก3นาทีกรุณาทดลองใหม่",
+    "description": "2.0 public.js"
+  },
+  "searchCourse": {
+    "message": "ค้นหาหลักสูตรทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "Classification": {
+    "message": "แบ่งประเภท",
+    "description": "2.0 public.js"
+  },
+  "defaultOrder": {
+    "message": "ลำดับโดยรวม",
+    "description": "2.0 public.js"
+  },
+  "mostRecent": {
+    "message": "ใหม่ที่สุด",
+    "description": "2.0 public.js"
+  },
+  "mostPopular": {
+    "message": "ได้รับความนิยมที่สุด",
+    "description": "2.0 public.js"
+  },
+  "all": {
+    "message": "ทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "other": {
+    "message": "อื่นๆ",
+    "description": "2.0 public.js"
+  },
+  "department": {
+    "message": "คณะ",
+    "description": "2.0 public.js"
+  },
+  "allDepartment": {
+    "message": "วิทยาลัยทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "totalCourse": {
+    "message": "รวม {n} หลักสูตร",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "departments": {
+    "message": "คณะ",
+    "description": "2.0 public.js"
+  },
+  "moreDepartments": {
+    "message": "คณะอื่นๆที่มากกว่านี้",
+    "description": "2.0 public.js"
+  },
+  "allDepartments": {
+    "message": "คณะทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "announcement": {
+    "message": "ประกาศ",
+    "description": "2.0 public.js"
+  },
+  "moreAnnouncement": {
+    "message": "ประกาศเพิ่มเติม",
+    "description": "2.0 public.js"
+  },
+  "otherAnnouncement": {
+    "message": "ประกาศอื่นๆ",
+    "description": "2.0 public.js"
+  },
+  "moreCourse": {
+    "message": "หลักสูตรเพิ่มเติม",
+    "description": "2.0 public.js"
+  },
+  "joinCourseCount": {
+    "message": "จํานวนผู้เข้าร่วม: {n}",
+    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "กําหนดการนําทางเอง",
+    "description": "2.0 public.js"
+  },
+  "courseManager": {
+    "message": "ผู้รับผิดชอบหลักสูตร：",
+    "description": "2.0 public.js"
+  },
+  "affiliatedCollege": {
+    "message": "วิทยาลัยที่สังกัด",
+    "description": "2.0 public.js"
+  },
+  "classNum": {
+    "message": "จำนวนชั้นเรียน",
+    "description": "2.0 public.js"
+  },
+  "courseStartTime": {
+    "message": "เวลาที่เปิดคอร์สเรียน",
+    "description": "2.0 public.js"
+  },
+  "usingTextbook": {
+    "message": "สื่อการสอนที่ใช้ทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "noTextbook": {
+    "message": "ไม่มีเอกสารการสอนชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "courseAnnouncement": {
+    "message": "การประกาศหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "publisher": {
+    "message": "ผู้ประกาศ：",
+    "description": "2.0 public.js"
+  },
+  "publishTime": {
+    "message": "เวลาที่ประกาศ：",
+    "description": "2.0 public.js"
+  },
+  "noCourseAnnouncement": {
+    "message": "ไม่มีการประกาศหลักสูตรชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "teachingActivity": {
+    "message": "กิจกรรมการสอน",
+    "description": "2.0 public.js"
+  },
+  "homework": {
+    "message": "การบ้าน",
+    "description": "2.0 public.js"
+  },
+  "noHomework": {
+    "message": "ไม่มีการบ้านชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "no": {
+    "message": "ไม่มีชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "discussion": {
+    "message": "อภิปราย",
+    "description": "2.0 public.js"
+  },
+  "noDiscussion": {
+    "message": "ไม่มีอภิปรายชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "exam": {
+    "message": "การสอบ",
+    "description": "2.0 public.js"
+  },
+  "noExam": {
+    "message": "ไม่มีการสอบชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "teachingTeam": {
+    "message": "ทีมการสอน",
+    "description": "2.0 public.js"
+  },
+  "noTeachingTeam": {
+    "message": "ไม่มีทีมการสอนชั่วคราว",
+    "description": "2.0 public.js"
+  },
+  "joinCourse": {
+    "message": "เข้าสู่หลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "searchNoCourse": {
+    "message": "ไม่พบหลักสูตรที่สอดคล้องกัน",
+    "description": "2.0 public.js"
+  },
+  "noCourse": {
+    "message": "ไม่มีหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "netError": {
+    "message": "ข้อผิดพลาดของเครือข่าย ให้คลิก {reloadButton}",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "reload": {
+    "message": "โหลดใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "viewDetail": {
+    "message": "ตรวจดูอย่างละเอียด",
+    "description": "2.0 public.js"
+  },
+  "contentSummary": {
+    "message": "แนะนำเนื้อหาอย่างย่อ",
+    "description": "2.0 public.js"
+  },
+  "studyTimesOf": {
+    "message": "การเรียนรู้ {n} ครั้ง",
+    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+  },
+  "totalSearchResult": {
+    "message": "พบผลลัพธ์ {n} ทั้งหมดที่เกี่ยวข้องกับ '{keyword}'",
+    "description": "自定义门户网站 -> 上方搜索框搜索"
+  },
+  "schoolCourse": {
+    "message": "หลักสูตรในโรงเรียน",
+    "description": "2.0 public.js"
+  },
+  "openCourse": {
+    "message": "หลักสูตรเปิด",
+    "description": "2.0 public.js"
+  },
+  "moreSearchResult": {
+    "message": "ผลลัพธ์อื่นๆที่ค้นหา",
+    "description": "2.0 public.js"
+  },
+  "annex": {
+    "message": "ไฟล์แนบ",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "เว๊ปไซด์เหรินหมิน-ช่องวิชาสาธารณะ",
+    "description": "2.0 public.js"
+  },
+  "personalResource": {
+    "message": "ทรัพยากรส่วนบุคคล",
+    "description": "2.0 public.js"
+  },
+  "resourceTips1": {
+    "message": "ไฟล์ต้องไม่เกิน 1G",
+    "description": "2.0 public.js"
+  },
+  "addResource": {
+    "message": "เพิ่มทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "modifyResource": {
+    "message": "แก้ไขทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "modifyResourceName": {
+    "message": "แก้ไขชื่อทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "myResource": {
+    "message": "ทรัพยากรของฉัน",
+    "description": "2.0 public.js"
+  },
+  "courseResource": {
+    "message": "ทรัพยากรหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "subjectResourceLibrary": {
+    "message": "คลังทรัพยากรแขนงวิชา",
+    "description": "2.0 public.js"
+  },
+  "inputKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "2.0 public.js"
+  },
+  "resourceTips2": {
+    "message": "สูงสุด 1G สําหรับไฟล์เดียว",
+    "description": "2.0 public.js"
+  },
+  "localUpload": {
+    "message": "อัปโหลดภายในเครื่อง",
+    "description": "2.0 public.js"
+  },
+  "back": {
+    "message": "กลับ",
+    "description": "2.0 public.js"
+  },
+  "currentPosition": {
+    "message": "ตำแหน่งปัจจุบัน：",
+    "description": "2.0 public.js"
+  },
+  "allResource": {
+    "message": "ทรัพยากรทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "resourceName": {
+    "message": "ชื่อทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "noResource": {
+    "message": "ไม่มีทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "publisher2": {
+    "message": "ผู้ประกาศ",
+    "description": "2.0 public.js"
+  },
+  "confirm": {
+    "message": "ยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "cancel": {
+    "message": "ยกเลิก",
+    "description": "2.0 public.js"
+  },
+  "pleaseAddContent": {
+    "message": "กรุณาเพิ่มเนื้อหา",
+    "description": "2.0 public.js"
+  },
+  "resourceTips3": {
+    "message": "รูปภาพและอักษรต้องไม่เกิน 20,000 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "saveSuccess": {
+    "message": "บันทึกสำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "saveFailed": {
+    "message": "บันทึกไม่สำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "modify": {
+    "message": "แก้ไข",
+    "description": "2.0 public.js"
+  },
+  "add": {
+    "message": "สร้างใหม่",
+    "description": "2.0 public.js"
+  },
+  "resource": {
+    "message": "ทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "resourceTips4": {
+    "message": "กรุณาเขียนชื่อทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "delete": {
+    "message": "ลบ",
+    "description": "2.0 public.js"
+  },
+  "size": {
+    "message": "ขนาด",
+    "description": "2.0 public.js"
+  },
+  "duration": {
+    "message": "ระยะเวลา",
+    "description": "2.0 public.js"
+  },
+  "cover": {
+    "message": "หน้าปก",
+    "description": "2.0 public.js"
+  },
+  "reUpload": {
+    "message": "อัปโหลดใหม่",
+    "description": "2.0 public.js"
+  },
+  "upload": {
+    "message": "อัปโหลด",
+    "description": "2.0 public.js"
+  },
+  "subtitle": {
+    "message": "คําบรรยาย",
+    "description": "2.0 public.js"
+  },
+  "contentValidateTips5": {
+    "message": "สนับสนุนเฉพาะรูปแบบ srt เท่านั้น",
+    "description": "2.0 public.js"
+  },
+  "linkAddress": {
+    "message": "ลิงก์ที่อยู่",
+    "description": "2.0 public.js"
+  },
+  "resourceTips5": {
+    "message": "กรุณาใส่ลิงก์ที่อยู่",
+    "description": "2.0 public.js"
+  },
+  "content": {
+    "message": "เนื้อหา",
+    "description": "2.0 public.js"
+  },
+  "resourceDescription": {
+    "message": "แนะนำทรัพยากรอย่างย่อ",
+    "description": "2.0 public.js"
+  },
+  "resourceTips6": {
+    "message": "รายการที่ไม่จำเป็นต้องกรอก สามารถไม่กรอกได้",
+    "description": "2.0 public.js"
+  },
+  "downloadSettings": {
+    "message": "ตั้งค่าการดาวน์โหลด",
+    "description": "2.0 public.js"
+  },
+  "allowDownload": {
+    "message": "อนุญาตดาวน์โหลด",
+    "description": "2.0 public.js"
+  },
+  "disallowDownload": {
+    "message": "ไม่อนุญาตให้ดาวน์โหลด",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "ขอบเขตการประกาศ",
+    "description": "2.0 public.js"
+  },
+  "myClassess": {
+    "message": "ชั้นเรียนของฉัน",
+    "description": "2.0 public.js"
+  },
+  "courseAllClass": {
+    "message": "ชั้นเรียนของหลักสูตรทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "resourceTips7": {
+    "message": "กรุณาเลือกทรัพยากรที่ต้องการจะเพิ่ม",
+    "description": "2.0 public.js"
+  },
+  "changePassword": {
+    "message": "แก้ไขพาสเวิร์ด",
+    "description": "2.0 public.js"
+  },
+  "safeguard": {
+    "message": "ปกป้องอย่างปลอดภัย",
+    "description": "2.0 public.js"
+  },
+  "securitySetting": {
+    "message": "ตั้งค่าอย่างปลอดภัย",
+    "description": "2.0 public.js"
+  },
+  "welcomeUlearn": {
+    "message": "ยินดีต้อนรับสู่ULearning",
+    "description": "2.0 public.js"
+  },
+  "wrongUsernamePassword": {
+    "message": "ชื่อบัญชีหรือพาสเวิร์ดไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "wrongDynamicCode": {
+    "message": "รหัสรักษาความปลอดภัยไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "loginTips1": {
+    "message": "เวปไซต์นี้เปิดให้เฉพาะนักเรียนเข้าใช้งานเพื่อเรียนรู้ชั่วคราว กรุณาใช้บัญชีนักเรียนเพื่อเข้าสู่ระบบ ท่านสามารถใช้WeChatแสกนคิวอาร์เพื่อเข้าสู่ระบบเพื่อทำการเรียนได้",
+    "description": "2.0 public.js"
+  },
+  "wxLogin": {
+    "message": "เข้าสู่ระบบด้วยWeChat",
+    "description": "2.0 public.js"
+  },
+  "registeredAccount": {
+    "message": "ลงทะเบียนบัญชี",
+    "description": "2.0 public.js"
+  },
+  "forgotPassword": {
+    "message": "ลืมพาสเวิร์ด",
+    "description": "2.0 public.js"
+  },
+  "userWXLogin": {
+    "message": "ใช้WeChatเพื่อเข้าสู่ระบบ",
+    "description": "2.0 public.js"
+  },
+  "bindUlearnAccount": {
+    "message": "ผูกบัญชีULearning",
+    "description": "2.0 public.js"
+  },
+  "loginTips2": {
+    "message": "หลังจากผูกบัญชีแล้วจะสามารถซิงค์บัญชีได้",
+    "description": "2.0 public.js"
+  },
+  "loginTips3": {
+    "message": "เว๊บไซต์นี้เปิดให้เฉพาะนักเรียนเข้าใช้งานเพื่อเรียนรู้ชั่วคราว กรุณาผูกบัญชีนักเรียน หากไม่มีบัญชีนักเรียนสามารถไม่ผูกบัญชีได้",
+    "description": "2.0 public.js"
+  },
+  "unbound": {
+    "message": "ไม่ผูกบัญชี",
+    "description": "2.0 public.js"
+  },
+  "unboundSkip": {
+    "message": "ไม่ผูกบัญชี ข้าม",
+    "description": "2.0 public.js"
+  },
+  "reSend": {
+    "message": "ส่งใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips1": {
+    "message": "ปรับตำแหน่งและขนาดของรูป",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips2": {
+    "message": "ขยับเส้นประเพื่อปรับตำแหน่งขนาด",
+    "description": "2.0 public.js"
+  },
+  "save": {
+    "message": "บันทึก",
+    "description": "2.0 public.js"
+  },
+  "baseInfo": {
+    "message": "ข้อมูลพื้นฐาน",
+    "description": "2.0 public.js"
+  },
+  "userName": {
+    "message": "ชื่อบัญชี",
+    "description": "2.0 public.js"
+  },
+  "headImg": {
+    "message": "รูปภาพประจำตัว",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImg": {
+    "message": "อัปโหลดรูภาพประจำตัว",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImgTips": {
+    "message": "รูปภาพสกุลjpg/jpeg/png ขนาดไม่เกิน2M แนะนำขนาดเป็น80px*80px",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber": {
+    "message": "หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "modifyRelatedPhone": {
+    "message": "แก้ไขหมายเลขโทรศัพท์มือถือสำหรับติดต่อ",
+    "description": "2.0 public.js"
+  },
+  "relatePhone": {
+    "message": "หมายเลขโทรศัพท์มือถือสำหรับติดต่อ",
+    "description": "2.0 public.js"
+  },
+  "fullName": {
+    "message": "ชื่อสกุล",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips1": {
+    "message": "ชื่อสำคัญมาก แนะนำให้ใช้ชื่อสกุลจริง",
+    "description": "2.0 public.js"
+  },
+  "gender": {
+    "message": "เพศ",
+    "description": "2.0 public.js"
+  },
+  "male": {
+    "message": "ชาย",
+    "description": "2.0 public.js"
+  },
+  "female": {
+    "message": "หญิง",
+    "description": "2.0 public.js"
+  },
+  "email": {
+    "message": "อีเมล์",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips2": {
+    "message": "ใช้สำหรับการกู้คืนพาสเวิร์ด",
+    "description": "2.0 public.js"
+  },
+  "birthday": {
+    "message": "วันเดือนปีเกิด",
+    "description": "2.0 public.js"
+  },
+  "telphoneNum": {
+    "message": "หมายเลขโทรศัพท์",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips3": {
+    "message": "กรุณาเลือกวันเดือนปีเกิด",
+    "description": "2.0 public.js"
+  },
+  "schoolInfo": {
+    "message": "ข้อมูลโรงเรียน",
+    "description": "2.0 public.js"
+  },
+  "college": {
+    "message": "วิทยาลัยที่อยู่",
+    "description": "2.0 public.js"
+  },
+  "department2": {
+    "message": "คณะที่สังกัด",
+    "description": "2.0 public.js"
+  },
+  "department3": {
+    "message": "วิทยาลัย",
+    "description": "2.0 public.js"
+  },
+  "grade": {
+    "message": "ชั้นปี",
+    "description": "2.0 public.js"
+  },
+  "pleaseChoose": {
+    "message": "กรุณาเลือก",
+    "description": "2.0 public.js"
+  },
+  "normalClass": {
+    "message": "ชั้นเรียนปกติ",
+    "description": "2.0 public.js"
+  },
+  "studentNo": {
+    "message": "รหัสนักเรียน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips4": {
+    "message": "กรุณากรอกตามความเป็นจริง เกี่ยวข้องกับผลการเรียน",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "บัญชีบุคคลที่สาม",
+    "description": "2.0 public.js"
+  },
+  "unbind": {
+    "message": "ยกเลิกการผูกบัญชี",
+    "description": "2.0 public.js"
+  },
+  "bindWX": {
+    "message": "ผูกบัญชีกับWeChat",
+    "description": "2.0 public.js"
+  },
+  "phoneNum": {
+    "message": "หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "inputPhoneNum": {
+    "message": "กรุณาใส่หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "inputCorrectPhoneNum": {
+    "message": "กรุณาใส่หมายเลขโทรศัพท์มือถือที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "verificationCode": {
+    "message": "รหัสยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "inputVerificationCode": {
+    "message": "กรุณาใส่รหัสยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "hanNationality": {
+    "message": "ชาวฮั่น",
+    "description": "2.0 public.js"
+  },
+  "city": {
+    "message": "เมือง",
+    "description": "2.0 public.js"
+  },
+  "town": {
+    "message": "เขต",
+    "description": "2.0 public.js"
+  },
+  "countryside": {
+    "message": "หมู่บ้าน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips5": {
+    "message": "อีเมล์นี้ถูกใช้งานแล้ว กรุณาใส่ใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips6": {
+    "message": "รหัสนักเรียนนี้ถูกใช้งานแล้ว กรุณาใส่ใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips7": {
+    "message": "หมายเลขโทรศัพท์มือถือนี้ถูกใช้งานแล้ว กรุณาใส่ใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips8": {
+    "message": "ไม่สามารถเว้นว่าง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips9": {
+    "message": "รูปแบบอีเมล์ที่กรอกไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips10": {
+    "message": "ความยาวตัวอักษรที่ใส่ห้ามเกิน",
+    "description": "2.0 public.js"
+  },
+  "modifyFailed": {
+    "message": "การแก้ไขไม่สำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "unbindSuccess": {
+    "message": "ผูกบัญชีสำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "getVerificationCode": {
+    "message": "รับรหัสยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips11": {
+    "message": "กรุณาใส่หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips12": {
+    "message": "กรุณาใส่หมายเลขโทรศัพท์มือถือที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips13": {
+    "message": "หมายเลขโทรศัพท์มือถือนี้ถูกใช้งานแล้ว",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips14": {
+    "message": "บันทึกหมายเลขโทรศัพท์มือถือสำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCode": {
+    "message": "รหัสยืนยันไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "bindSuccess": {
+    "message": "ผูกบัญชีสำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "bindFailed": {
+    "message": "ผูกบัญชีไม่สำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips15": {
+    "message": "WeChatนี้ได้ผูกกับบัญชีULearningอื่นแล้ว กรุณาเปลี่ยนบัญชีWeChatที่จะผูกใหม่",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips16": {
+    "message": "ตอนนี้ได้เปิดใช้งานการปกป้องบัญชีแล้ว หากไม่ต้องการสามารถปิดได้",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips17": {
+    "message": "หลังจากที่เปิดใช้งาน ขณะที่เข้าสู่ระบบจะต้องทำการยืนยันตัวตน เพื่อรักษาความปลอดภัยให้แก่บัญชีของคุณ",
+    "description": "2.0 public.js"
+  },
+  "loginProtection": {
+    "message": "การป้องกันการเข้าสู่ระบบ",
+    "description": "2.0 public.js"
+  },
+  "close": {
+    "message": "ปิด",
+    "description": "2.0 public.js"
+  },
+  "open": {
+    "message": "เปิดใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips18": {
+    "message": "ป้องกันการเข้าสู่ระบบด้วยรหัสยืนยันจากโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "phone": {
+    "message": "โทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "thisAccount": {
+    "message": "บัญชีนี้",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips19": {
+    "message": "ไม่ได้เชื่อมโยงกับหมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips20": {
+    "message": "กรุณากรอกหมายเลขโทรศัพท์มือถือในข้อมูลส่วนบุคคลก่อนค่อยเริ่มการใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "ตั้งค่าสำเร็จ！",
+    "description": "2.0 public.js"
+  },
+  "oldPassword": {
+    "message": "พาสเวิร์ดเก่า",
+    "description": "2.0 public.js"
+  },
+  "newpassword": {
+    "message": "พาสเวิร์ดใหม่",
+    "description": "2.0 public.js"
+  },
+  "confirmPassword": {
+    "message": "ยืนยันพาสเวิร์ด",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips21": {
+    "message": "ชื่อบัญชีและพาสเวิร์ดห้ามเหมือนกัน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips22": {
+    "message": "กรุณาใส่พาสเวิร์ดเก่า",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips23": {
+    "message": "กรุณาใส่พาสเวิร์ดเก่าที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips24": {
+    "message": "กรุณาใส่พาสเวิร์ดใหม่",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips25": {
+    "message": "8-8-16อักขระ จำเป็นจะต้องมีทั้งตัวอักษรและตัวเลข(ทั้งพิมพ์เล็กและพิมพ์ใหญ่)",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips26": {
+    "message": "กรุณาใส่พาสเวิร์ดยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips27": {
+    "message": "พาสเวิร์ดทั้งสองครั้งไม่ตรงกัน",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips28": {
+    "message": "แก้ไขพาสเวิร์ดสำเร็จ！",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips29": {
+    "message": "พาสเวิร์ดเก่าไม่ถูกต้อง！",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips30": {
+    "message": "แก้ไขพาสเวิร์ดไม่สำเร็จ！",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText1": {
+    "message": "ดาวน์โหลดแอปพลิเคชั่น",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText2": {
+    "message": "แสกนคิวอาร์เพื่อดาวน์โหลดแอปพลิเคชั่น【Ulearning 2.0】",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText3": {
+    "message": "บริการติดต่อสอบถาม",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText4": {
+    "message": "ศูนย์ช่วยเหลือ",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText5": {
+    "message": "กลับไปที่ด้านบนสุด",
+    "description": "2.0 public.js"
+  },
+  "myOrder": {
+    "message": "คำสั่งซื้อของฉัน",
+    "description": "2.0 public.js"
+  },
+  "improveCourse": {
+    "message": "ปรับปรุงหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "teachingProcess": {
+    "message": "กราฟขั้นตอนการสอน",
+    "description": "2.0 public.js"
+  },
+  "studyPlan": {
+    "message": "แผนการเรียน",
+    "description": "2.0 public.js"
+  },
+  "studyProgress": {
+    "message": "ความก้าวหน้าด้านการเรียน",
+    "description": "2.0 public.js"
+  },
+  "myTextbook": {
+    "message": "สื่อการเรียนของฉัน",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "จัดเรียงสนามสอบ",
+    "description": "2.0 public.js"
+  },
+  "studyStatistics": {
+    "message": "สถิติผลการเรียน",
+    "description": "2.0 public.js"
+  },
+  "randomGroupPaper": {
+    "message": "สุ่มกลุ่มข้อสอบ",
+    "description": "2.0 public.js"
+  },
+  "faceAuthentication": {
+    "message": "ยืนยันตนด้วยใบหน้า",
+    "description": "2.0 public.js"
+  },
+  "questionAnalysis": {
+    "message": "วิเคราะห์ข้อสอบ",
+    "description": "2.0 public.js"
+  },
+  "batchRemarkQue": {
+    "message": "ตรวจข้อสอบเป็นชุด",
+    "description": "2.0 public.js"
+  },
+  "examPaperLibrary": {
+    "message": "คลังข้อสอบ",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "มอนิเตอร์",
+    "description": "2.0 public.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "ตรวจสอบรูปภาพการยืนยันด้วยใบหน้า",
+    "description": "2.0 public.js"
+  },
+  "joinCourseClass": {
+    "message": "เข้าร่วมชั้นเรียน",
+    "description": "2.0 public.js"
+  },
+  "classDivideGroup": {
+    "message": "การแบ่งกลุ่มชั้นเรียน",
+    "description": "2.0 public.js"
+  },
+  "resourceStatistic": {
+    "message": "สถิติทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "resourcePreview": {
+    "message": "การแสดงตัวอย่างทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "resourceImport": {
+    "message": "นำเข้าทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "publishToCourse": {
+    "message": "ประกาศทรัพยากรไปยังหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "resourceLibrary": {
+    "message": "คลังทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "ตรวจสอบสภาพแวดล้อมการสอบ",
+    "description": "2.0 public.js"
+  },
+  "createAssessment": {
+    "message": "สร้างนโยบายการประเมิน",
+    "description": "2.0 public.js"
+  },
+  "modifyAssessment": {
+    "message": "แก้ไขนโยบายการประเมิน",
+    "description": "2.0 public.js"
+  },
+  "viewScore": {
+    "message": "ตรวจดูผลการเรียน",
+    "description": "2.0 public.js"
+  },
+  "courseAnalysis": {
+    "message": "วิเคราะห์หลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "coursewareContent": {
+    "message": "เนื้อหาสื่อการสอน",
+    "description": "2.0 public.js"
+  },
+  "livePlayback": {
+    "message": "ย้อนดูการถ่ายทอดสด",
+    "description": "2.0 public.js"
+  },
+  "liveAnalysis": {
+    "message": "การวิเคราะห์สตรีมแบบสด",
+    "description": "2.0 public.js"
+  },
+  "live": {
+    "message": "ถ่ายทอดสด",
+    "description": "2.0 public.js"
+  },
+  "semesterManagement": {
+    "message": "การจัดการภาคการศึกษา",
+    "description": "2.0 public.js"
+  },
+  "foreignMember": {
+    "message": "สมาชิกจากโรงเรียนภาษาต่างประเทศ",
+    "description": "2.0 public.js"
+  },
+  "copyRight": {
+    "message": "หน่วยงานเครือข่ายนานาชาติข้อมูลคอมพิวเตอร์เมืองปักกิ่ง หมายเลข 11010502036460",
+    "description": "2.0 public.js"
+  },
+  "certificateManagement": {
+    "message": "จัดการประกาศนียบัตร",
+    "description": "2.0 public.js"
+  },
+  "certificateSettings": {
+    "message": "ตั้งค่าประกาศนียบัตร",
+    "description": "2.0 public.js"
+  },
+  "certificateTemplate": {
+    "message": "แม่แบบประกาศนียบัตรของฉัน",
+    "description": "2.0 public.js"
+  },
+  "createCertificate": {
+    "message": "สร้างแม่แบบใหม่",
+    "description": "2.0 public.js"
+  },
+  "selectTemplate": {
+    "message": "เลือกแม่แบบ",
+    "description": "2.0 public.js"
+  },
+  "electronicSignature": {
+    "message": "ลายเซ็นอิเล็กทรอนิกส์",
+    "description": "2.0 public.js"
+  },
+  "liveManagement": {
+    "message": "จัดการการถ่ายทอดสด",
+    "description": "2.0 public.js"
+  },
+  "setAssesmentRules": {
+    "message": "ตั้งค่าข้อกำหนดการประเมิน",
+    "description": "2.0 public.js"
+  },
+  "basicInfo": {
+    "message": "ข้อมูลพื้นฐาน",
+    "description": "2.0 public.js"
+  },
+  "activityCalendar": {
+    "message": "ปฏิทิน",
+    "description": "2.0 public.js"
+  },
+  "studyEportfolio": {
+    "message": "ไฟล์วิชาการ",
+    "description": "2.0 public.js"
+  },
+  "ofEportfolio": {
+    "message": "ไฟล์วิชาการ",
+    "description": "2.0 public.js"
+  },
+  "myHomePage2": {
+    "message": "หน้าแรกของฉัน",
+    "description": "2.0 public.js"
+  },
+  "eportfolio": {
+    "message": "ไฟล์",
+    "description": "2.0 public.js"
+  },
+  "folder": {
+    "message": "โฟลเดอร์",
+    "description": "2.0 public.js"
+  },
+  "fileSize": {
+    "message": "ขนาดไฟล์",
+    "description": "2.0 public.js"
+  },
+  "eportfolioTips": {
+    "message": "นี่เป็นไฟล์ส่วนตัว คุณไม่ได้รับอนุญาตให้ดู~",
+    "description": "2.0 public.js"
+  },
+  "addFolder2": {
+    "message": "โฟลเดอร์ใหม่",
+    "description": "2.0 public.js"
+  },
+  "inputFolderName": {
+    "message": "กรุณาใส่ชื่อโฟลเดอร์",
+    "description": "2.0 public.js"
+  },
+  "addEportfolio": {
+    "message": "ไฟล์ใหม่",
+    "description": "2.0 public.js"
+  },
+  "editEportfolio": {
+    "message": "แก้ไขไฟล์",
+    "description": "2.0 public.js"
+  },
+  "inputEportfolioName": {
+    "message": "ป้อนชื่อไฟล์",
+    "description": "2.0 public.js"
+  },
+  "permission": {
+    "message": "สิทธิ์",
+    "description": "2.0 public.js"
+  },
+  "private": {
+    "message": "ส่วนตัว",
+    "description": "2.0 public.js"
+  },
+  "notPrivate": {
+    "message": "สาธารณะ",
+    "description": "2.0 public.js"
+  },
+  "tag": {
+    "message": "แท็ก",
+    "description": "2.0 public.js"
+  },
+  "add2": {
+    "message": "เพิ่ม",
+    "description": "2.0 public.js"
+  },
+  "tagName": {
+    "message": "ชื่อแท็ก",
+    "description": "2.0 public.js"
+  },
+  "inputAddTagName": {
+    "message": "คลิกเพื่อเพิ่มแท็ก",
+    "description": "2.0 public.js"
+  },
+  "homePageTemplate": {
+    "message": "เทมเพลตโฮมเพจส่วนตัว",
+    "description": "2.0 public.js"
+  },
+  "template1": {
+    "message": "เค้าโครง 1",
+    "description": "2.0 public.js"
+  },
+  "template2": {
+    "message": "เค้าโครง 2",
+    "description": "2.0 public.js"
+  },
+  "copyLinkTips": {
+    "message": "คัดลอกลิงก์เพื่อแชร์กับผู้อื่น",
+    "description": "2.0 public.js"
+  },
+  "copySuccess": {
+    "message": "คัดลอกสำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "copyLink": {
+    "message": "คัดลอกลิงก์",
+    "description": "2.0 public.js"
+  },
+  "importHw": {
+    "message": "นำเข้าการบ้าน",
+    "description": "2.0 public.js"
+  },
+  "importHwTips": {
+    "message": "ด้านล่างนี้คือการบ้านที่คุณเพิ่งส่งในหลักสูตร คุณสามารถเลือกการบ้านที่ต้องการบันทึกหรือแชร์ นำเข้าไปยังไฟล์วิชาการของคุณ การบ้านที่นำเข้าจะถูกบันทึกเป็นไฟล์กราฟิกรวมถึงไฟล์แนบของงาน (เฉพาะรูปภาพและเอกสาร) และนำเข้าสู่สารบัญปัจจุบัน",
+    "description": "2.0 public.js"
+  },
+  "allCourses": {
+    "message": "หลักสูตรทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "uploaded": {
+    "message": "อัปโหลดแล้ว",
+    "description": "2.0 public.js"
+  },
+  "allEportfolio": {
+    "message": "ไฟล์ทั้งหมด",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips1": {
+    "message": "คุณแน่ใจว่าต้องการลบไฟล์นี้หรือไม่?",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips2": {
+    "message": "การลบโฟลเดอร์จะเป็นการลบไฟล์ที่อยู่ในนั้น แน่ใจว่าต้องการลบ?",
+    "description": "2.0 public.js"
+  },
+  "searchByNameAndTag": {
+    "message": "ค้นหาตามชื่อและแท็ก",
+    "description": "2.0 public.js"
+  },
+  "noDesc": {
+    "message": "ไม่มีบทนํา",
+    "description": "2.0 public.js"
+  },
+  "previewEportfolio": {
+    "message": "ดูตัวอย่างไฟล์",
+    "description": "2.0 public.js"
+  },
+  "personalHomepage": {
+    "message": "โฮมเพจส่วนตัว",
+    "description": "2.0 public.js"
+  },
+  "accountManage": {
+    "message": "การจัดการบัญชี",
+    "description": "2.0 public.js"
+  },
+  "afterImportPerssion": {
+    "message": "สิทธิ์การใช้ไฟล์หลังจากนำเข้า:",
+    "description": "2.0 public.js"
+  },
+  "importHwTips2": {
+    "message": "โปรดเลือกการบ้านก่อน",
+    "description": "2.0 public.js"
+  },
+  "moveFolder": {
+    "message": "ย้ายโฟลเดอร์",
+    "description": "2.0 public.js"
+  },
+  "deleteFolder": {
+    "message": "ลบโฟลเดอร์",
+    "description": "2.0 public.js"
+  },
+  "editPhone": {
+    "message": "แก้ไขโทรศัพท์",
+    "description": "2.0 public.js"
+  },
+  "editMail": {
+    "message": "แก้ไขกล่องจดหมาย",
+    "description": "2.0 public.js"
+  },
+  "editPhone1": {
+    "message": "แก้ไขหมายเลขโทรศัพท์",
+    "description": "2.0 public.js"
+  },
+  "inpitMail": {
+    "message": "กรุณาใส่อีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "getFail": {
+    "message": "การรับล้มเหลว",
+    "description": "2.0 public.js"
+  },
+  "paramError": {
+    "message": "พารามิเตอร์ไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "mailTip": {
+    "message": "รูปแบบกล่องจดหมายไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "phoneTip": {
+    "message": "รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "mailTip1": {
+    "message": "กล่องจดหมายถูกผูกไว้",
+    "description": "2.0 public.js"
+  },
+  "phoneTip1": {
+    "message": "หมายเลขโทรศัพท์ถูกผูกไว้",
+    "description": "2.0 public.js"
+  },
+  "mailTip2": {
+    "message": "หมายเลขโทรศัพท์ถูกใช้งานแล้ว",
+    "description": "2.0 public.js"
+  },
+  "phoneTip2": {
+    "message": "กล่องจดหมายถูกใช้งานแล้ว",
+    "description": "2.0 public.js"
+  },
+  "codeTip1": {
+    "message": "รับรหัสยืนยันบ่อยเกินไป โปรดลองอีกครั้งหลังจาก 60 วินาที",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "รับรหัสยืนยันบ่อยเกินไป",
+    "description": "2.0 public.js"
+  },
+  "codeTip3": {
+    "message": "รหัสการยืนยันหมดอายุ",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin": {
+    "message": "เข้าสู่ระบบรหัสผ่านบัญชี",
+    "description": "2.0 public.js"
+  },
+  "account": {
+    "message": "ชื่อผู้ใช้ / หมายเลขโทรศัพท์ / กล่องจดหมาย",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip": {
+    "message": "การเข้าสู่ระบบ SMS รองรับเฉพาะหมายเลขโทรศัพท์มือถือในจีนแผ่นดินใหญ่",
+    "description": "2.0 public.js"
+  },
+  "goRegister": {
+    "message": "ไปลงทะเบียน",
+    "description": "2.0 public.js"
+  },
+  "phoneLogin": {
+    "message": "เข้าสู่ระบบ SMS",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin1": {
+    "message": "เข้าสู่ระบบรหัสผ่าน",
+    "description": "2.0 public.js"
+  },
+  "accountTip": {
+    "message": "โปรดป้อนชื่อผู้ใช้ / หมายเลขโทรศัพท์ / อีเมล",
+    "description": "2.0 public.js"
+  },
+  "userNotExit": {
+    "message": "ไม่มีผู้ใช้",
+    "description": "2.0 public.js"
+  },
+  "loginFail": {
+    "message": "การเข้าสู่ระบบล้มเหลว",
+    "description": "2.0 public.js"
+  },
+  "getAgain": {
+    "message": "รับอีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip1": {
+    "message": "หมายเลขโทรศัพท์มือถือไม่ได้ลงทะเบียน",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber1": {
+    "message": "หมายเลขโทรศัพท์มือถือ",
+    "description": "2.0 public.js"
+  },
+  "mail": {
+    "message": "กล่องจดหมาย",
+    "description": "2.0 public.js"
+  },
+  "otherTypeLogin": {
+    "message": "วิธีอื่นๆ ในการเข้าสู่ระบบ",
+    "description": "2.0 public.js"
+  },
+  "success": {
+    "message": "สำเร็จ",
+    "description": "2.0 public.js"
+  },
+  "video": {
+    "message": "วิดีโอ",
+    "description": "2.0 public.js"
+  },
+  "audio": {
+    "message": "เสียง",
+    "description": "2.0 public.js"
+  },
+  "picture": {
+    "message": "รูปภาพ",
+    "description": "2.0 public.js"
+  },
+  "document": {
+    "message": "เอกสาร",
+    "description": "2.0 public.js"
+  },
+  "archive": {
+    "message": "การบีบอัดไฟล์",
+    "description": "2.0 public.js"
+  },
+  "link": {
+    "message": "ลิงก์",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "รูปภาพและอักษร",
+    "description": "2.0 public.js"
+  },
+  "microCourse": {
+    "message": "บทเรียนไมโคร",
+    "description": "2.0 public.js"
+  },
+  "otherResource": {
+    "message": "อื่นๆ",
+    "description": "2.0 public.js"
+  },
+  "allType": {
+    "message": "ทุกประเภท",
+    "description": "2.0 public.js"
+  },
+  "saved": {
+    "message": "บันทึกแล้ว",
+    "description": "2.0 public.js"
+  },
+  "modifySuccess": {
+    "message": "แก้ไขสำเร็จ",
+    "description": "2.0 course.js"
+  },
+  "jqueryValidatorRequired": {
+    "message": "ส่วนนี้จำเป็นต้องกรอกข้อมูล",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRemote": {
+    "message": "โปรดแก้ไขฟิลด์นี้",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEmail": {
+    "message": "โปรดป้อนที่อยู่อีเมลที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorUrl": {
+    "message": "โปรดป้อนที่อยู่เว็บที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDate": {
+    "message": "โปรดป้อนวันที่ที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDateISO": {
+    "message": "โปรดป้อนวันที่ที่ถูกต้อง (YYYY-MM-DD)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorNumber": {
+    "message": "กรุณาใส่ตัวเลขที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDigits": {
+    "message": "สามารถป้อนได้เฉพาะตัวเลขเท่านั้น",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorCreditcard": {
+    "message": "กรุณาใส่หมายเลขบัตรเครดิตที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEqualTo": {
+    "message": "การป้อนข้อมูลของคุณไม่เหมือนกัน",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorExtension": {
+    "message": "กรุณาใส่คําต่อท้ายที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMaxlength": {
+    "message": "คุณสามารถป้อนอักขระได้สูงสุด {0} ตัว",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMinlength": {
+    "message": "คุณต้องป้อนอักขระอย่างน้อย{0}ตัว",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRangelength": {
+    "message": "โปรดใส่สตริงที่มีความยาวตั้งแต่ {0} ถึง {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRange": {
+    "message": "โปรดป้อนค่าที่มีขอบเขตตั้งแต่ {0} ถึง {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMax": {
+    "message": "โปรดป้อนค่าไม่เกิน {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMin": {
+    "message": "โปรดป้อนค่าไม่ต่ำกว่า {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorLoginName": {
+    "message": "ชื่อผู้ใช้ไม่สามารถมีอักขระภาษาจีน ช่องว่าง และอักขระพิเศษได้",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorPassWord": {
+    "message": "8-16หลักต้องมีทั้งตัวอักษรและตัวเลข (แบ่งแยกตัวพิมพ์ใหญ่-เล็ก)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorStudentID": {
+    "message": "กรุณาใส่ตัวอักษรหรือตัวเลข 4-20 หลัก ตัวอักษรต้องแยกตัวพิมพ์ใหญ่-เล็ก",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRealName": {
+    "message": "ต้องไม่มีอักขระและช่องว่างที่ผิดกฎ",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsMobile": {
+    "message": "กรุณากรอกหมายเลขโทรศัพท์มือถือของคุณอย่างถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsZipCode": {
+    "message": "กรุณากรอกรหัสไปรษณีย์ของคุณอย่างถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsEmail": {
+    "message": "กรุณากรอกอีเมลของคุณอย่างถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "identityVerification": {
+    "message": "การยืนยันตัวตนฐานะ",
+    "description": "2.0 public.js"
+  },
+  "selectDomain": {
+    "message": "ชื่อโดเมนสถาบัน",
+    "description": "2.0 public.js"
+  },
+  "inputDomainTip": {
+    "message": "โปรดป้อนชื่อโดเมนของสถาบันของคุณ",
+    "description": "2.0 public.js"
+  },
+  "networkError": {
+    "message": "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
+    "description": "2.0 public.js"
+  },
+  "unopenedError": {
+    "message": "ขออภัย องค์กรนี้ไม่ได้เปิดใช้งานฟังก์ชันการเข้าสู่ระบบ SSO",
+    "description": "2.0 public.js"
+  },
+  "invalidDomainError": {
+    "message": "ไม่พบโดเมน กรุณากรอกใหม่อีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "blankError": {
+    "message": "ชื่อโดเมนว่างเปล่า",
+    "description": "2.0 public.js"
+  },
+  "selectClassification": {
+    "message": "เลือกประเภท",
+    "description": "2.0 public.js"
+  },
+  "secondClassification": {
+    "message": "การจําแนกประเภทรอง (เลือกได้หลายตัวเลือก)",
+    "description": "2.0 public.js"
+  },
+  "alphabeta": {
+    "message": "เรียงลําดับตามตัวอักษร",
+    "description": "2.0 public.js"
+  },
+  "revevance": {
+    "message": "เรียงลําดับตามความเกี่ยวข้อง",
+    "description": "2.0 public.js"
+  },
+  "timeSort": {
+    "message": "เรียงลําดับตามเวลาอัพเดต",
+    "description": "2.0 public.js"
+  },
+  "application": {
+    "message": "เปิดรับสมัคร",
+    "description": "2.0 public.js"
+  },
+  "notApplication": {
+    "message": "แอปพลิเคชันไม่ได้เปิดอยู่",
+    "description": "2.0 public.js"
+  },
+  "applicationTime": {
+    "message": "เวลาสมัคร:",
+    "description": "2.0 public.js"
+  },
+  "enrolment": {
+    "message": "ลง ทะเบียน:",
+    "description": "2.0 public.js"
+  },
+  "tuition": {
+    "message": "ค่า เล่า เรียน",
+    "description": "2.0 public.js"
+  },
+  "credits": {
+    "message": "หน่วยกิต",
+    "description": "2.0 public.js"
+  },
+  "learningStyles": {
+    "message": "รูปแบบการเรียนรู้",
+    "description": "2.0 public.js"
+  },
+  "studyTime": {
+    "message": "ระยะเวลาการเรียน",
+    "description": "2.0 public.js"
+  },
+  "certificate": {
+    "message": "ใบรับรอง",
+    "description": "2.0 public.js"
+  },
+  "contactUs": {
+    "message": "ติดต่อพวกเรา",
+    "description": "2.0 public.js"
+  },
+  "noProgram": {
+    "message": "ไม่พบโปรแกรม\n",
+    "description": "2.0 public.js"
+  },
+  "enroll": {
+    "message": "สมัคร",
+    "description": "2.0 public.js"
+  },
+  "majorName": {
+    "message": "ชื่อมืออาชีพ",
+    "description": "2.0 public.js"
+  },
+  "majorName2": {
+    "message": "มืออาชีพ",
+    "description": "2.0 public.js"
+  },
+  "enrollEmail": {
+    "message": "ที่อยู่อีเมล",
+    "description": "2.0 public.js"
+  },
+  "enrollPhone": {
+    "message": "เบอร์ติดต่อ",
+    "description": "2.0 public.js"
+  },
+  "enrollOther": {
+    "message": "ข้อมูลเพิ่มเติม",
+    "description": "2.0 public.js"
+  },
+  "inputFullName": {
+    "message": "ใส่ชื่อเต็มของคุณ",
+    "description": "2.0 public.js"
+  },
+  "inputEmail": {
+    "message": "ใส่ที่อยู่อีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "inputOther": {
+    "message": "ข้อมูลเพิ่มเติมเกี่ยวกับคุณ (ไม่บังคับ)",
+    "description": "2.0 public.js"
+  },
+  "submitApply": {
+    "message": "ส่งใบสมัครของคุณ",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg1": {
+    "message": "กรุณากรอกชื่อ",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg2": {
+    "message": "ชื่อต้องไม่เกิน 50 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg1": {
+    "message": "กรุณากรอกอีเมล",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg2": {
+    "message": "ที่อยู่อีเมลไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg3": {
+    "message": "อีเมลถูกส่งยกเลิกหรือมีการใช้ที่อยู่อีเมลอื่น",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg4": {
+    "message": "ข้อความควรมีความยาวไม่เกิน 254 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "errorPhoneMsg": {
+    "message": "หมายเลขติดต่อไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "errorOtherMsg": {
+    "message": "สูงสุด 300 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "selectMajor": {
+    "message": "เลือกวิชาเอก",
+    "description": "2.0 public.js"
+  },
+  "securityCodeExpired": {
+    "message": "รหัสความปลอดภัยแบบไดนามิกหมดอายุแล้ว",
+    "description": "2.0 public.js"
+  },
+  "securityCodeError": {
+    "message": "รหัสรักษาความปลอดภัยไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "enterCourse": {
+    "message": "เข้าสู่หลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "สมัครแล้วรออนุมัติ",
+    "description": "2.0 public.js"
+  },
+  "newVersion": {
+    "message": "ด้านผู้ดูแลระบบใหม่",
+    "description": "2.0 public.js"
+  },
+  "loginTip": {
+    "message": "กรุณาใส่ชื่อผู้ใช้หรือรหัสผ่าน",
+    "description": "2.0 public.js"
+  },
+  "schoolBadge": {
+    "message": "สัญลักษณ์ของโรงเรียน",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadge": {
+    "message": "อัปโหลดสัญลักษณ์ของโรงเรียน",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip1": {
+    "message": "รูปแบบ: png, bmp, jpg, gif; ขนาด: ไม่เกิน2M; ขนาดที่แนะนํา: 120*120px",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip2": {
+    "message": "เฉพาะไฟล์ที่สามารถอัปโหลดเป็น PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip3": {
+    "message": "ไฟล์ที่อัพโหลดควรมีขนาดน้อยกว่า 1MB ",
+    "description": "2.0 public.js"
+  },
+  "uploadLogo": {
+    "message": "อัปโหลดโลโก้",
+    "description": "2.0 public.js"
+  },
+  "background": {
+    "message": "ภาพพื้นหลัง",
+    "description": "2.0 public.js"
+  },
+  "setBackground": {
+    "message": "ตั้งค่าพื้นหลังเว็บไซต์ (เลือกได้สูงสุด 5 รายการ)",
+    "description": "2.0 public.js"
+  },
+  "customImage": {
+    "message": "กําหนดรูปภาพเอง",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip1": {
+    "message": "ข้อกำหนดของรูปภาพ: png, bmp, jpg, jpeg, gif; ขนาด: <= 5M; ขนาด: ไม่น้อยกว่า 1920*1080px (เมื่อคุณอัปโหลดรูปภาพที่มีขนาดไม่ถึงขนาดที่แนะนำ เราจะแสดงภาพนั้นที่กึ่งกลางของหน้าตามขนาดต้นฉบับของรูปภาพที่อัปโหลด)",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip2": {
+    "message": "เมื่อคุณอัปโหลดรูปภาพหลายๆรูปภาพ รูปภาพเหล่านั้นจะแสดงตามลำดับที่อัปโหลด",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip3": {
+    "message": "เฉพาะไฟล์ที่สามารถอัปโหลดเป็น PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip4": {
+    "message": "ไฟล์ที่อัพโหลดควรมีขนาดน้อยกว่า 1MB ",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip5": {
+    "message": "ต้องไม่เกิน 5 รายการ",
+    "description": "2.0 public.js"
+  },
+  "editFriendLinks": {
+    "message": "แก้ไขลิงก์มิตรภาพ",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder1": {
+    "message": "กรุณาใส่ชื่อการเชื่อมโยง",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder2": {
+    "message": "โปรดป้อนข้อมูลในรูปแบบของ http://www.ulearning.asia",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip1": {
+    "message": "หมายเหตุ: คุณสามารถเพิ่มที่อยู่ลิงก์ได้สูงสุด 10 รายการ ชื่อลิงก์มีความยาวได้สูงสุด 20 อักขระ ลากเพื่อจัดลำดับใหม่",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip2": {
+    "message": "เพิ่มมากที่สุดไม่เกิน 10 ",
+    "description": "2.0 public.js"
+  },
+  "addFriendLinks": {
+    "message": "เพิ่มลิงก์",
+    "description": "2.0 public.js"
+  },
+  "resource1": {
+    "message": "ชนิด",
+    "description": "2.0 public.js"
+  },
+  "resource2": {
+    "message": "แบ่งประเภท",
+    "description": "2.0 public.js"
+  },
+  "resource3": {
+    "message": "วิดีโอ",
+    "description": "2.0 public.js"
+  },
+  "resource4": {
+    "message": "เสียง",
+    "description": "2.0 public.js"
+  },
+  "resource5": {
+    "message": "ภาพ",
+    "description": "2.0 public.js"
+  },
+  "resource6": {
+    "message": "เอกสาร",
+    "description": "2.0 public.js"
+  },
+  "resource7": {
+    "message": "ลิงค์",
+    "description": "2.0 public.js"
+  },
+  "searchResource": {
+    "message": "ค้นหาทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "resourceDetail": {
+    "message": "รายละเอียดทรัพยากร",
+    "description": "2.0 public.js"
+  },
+  "hotResource": {
+    "message": "ทรัพยากรยอดนิยม",
+    "description": "2.0 public.js"
+  },
+  "uploadTime": {
+    "message": "เวลาอัปโหลด",
+    "description": "2.0 public.js"
+  },
+  "viewCount": {
+    "message": "จํานวนการดู",
+    "description": "2.0 public.js"
+  },
+  "downloadCount": {
+    "message": "จํานวนการดาวน์โหลด",
+    "description": "2.0 public.js"
+  },
+  "name": {
+    "message": "ชื่อ",
+    "description": "2.0 public.js"
+  },
+  "searchNoResource": {
+    "message": "ไม่มีทรัพยากรถูกนําออกใช้",
+    "description": "2.0 public.js"
+  },
+  "uploadFile": {
+    "message": "อัปโหลดไฟล์",
+    "description": "2.0 public.js"
+  },
+  "addLink": {
+    "message": "เพิ่มลิงก์",
+    "description": "2.0 public.js"
+  },
+  "addRichtext": {
+    "message": "เพิ่มกราฟิกและข้อความ",
+    "description": "2.0 public.js"
+  },
+  "passwordRegTips": {
+    "message": "8-16 ตัวอักษรที่มีอย่างน้อย 3 ตัวอักษร (ตัวเลขตัวพิมพ์ใหญ่ตัวพิมพ์เล็กหรือสัญลักษณ์พิเศษ)",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip3": {
+    "message": "ต้องไม่เกิน 20 ตัวอักษร",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus1": {
+    "message": "หลักสูตรได้สิ้นสุดลงแล้ว",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus2": {
+    "message": "หลักสูตรไม่ได้เริ่มต้น",
+    "description": "2.0 public.js"
+  },
+  "joinNum": {
+    "message": "การมีส่วนร่วม",
+    "description": "2.0 public.js"
+  },
+  "courseinfo1": {
+    "message": "สถาบันเปิดเรียน",
+    "description": "2.0 public.js"
+  },
+  "courseinfo2": {
+    "message": "ขอแนะนําให้เรียนนาน",
+    "description": "2.0 public.js"
+  },
+  "courseinfo3": {
+    "message": "การจำแนกประเภทวิชา",
+    "description": "2.0 public.js"
+  },
+  "courseinfo4": {
+    "message": "เหมาะสำหรับวิชา",
+    "description": "2.0 public.js"
+  },
+  "coursebtn1": {
+    "message": "สัมผัสประสบการณ์ตอนนี้",
+    "description": "2.0 public.js"
+  },
+  "coursebtn2": {
+    "message": "เริ่มเรียน",
+    "description": "2.0 public.js"
+  },
+  "coursebtn3": {
+    "message": "เข้าร่วมชั้นเรียน",
+    "description": "2.0 public.js"
+  },
+  "coursebtn4": {
+    "message": "ซื้อตอนนี้",
+    "description": "2.0 public.js"
+  },
+  "coursebtn5": {
+    "message": "เพื่อสัมผัสกับมัน",
+    "description": "2.0 public.js"
+  },
+  "coursetime": {
+    "message": "ชั่วโมงเรียน",
+    "description": "2.0 public.js"
+  },
+  "courseTitle1": {
+    "message": "แคตตาล็อกบท",
+    "description": "2.0 public.js"
+  },
+  "courseTitle2": {
+    "message": "บทนําหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "courseTitle3": {
+    "message": "โครงร่างหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "courseTitle4": {
+    "message": "ทีมหลักสูตร",
+    "description": "2.0 public.js"
+  },
+  "courseTitle5": {
+    "message": "วัสดุการเรียนการสอนที่แนะนํา",
+    "description": "2.0 public.js"
+  },
+  "courseTitle6": {
+    "message": "หลักสูตรที่แนะนํา",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook1": {
+    "message": "การตั้งราคา",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook2": {
+    "message": "ผู้เขียน",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook3": {
+    "message": "นักแปล",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook4": {
+    "message": "ภายในประเทศ",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook5": {
+    "message": "ต่างประเทศ",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook6": {
+    "message": "สำนักพิมพ์",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook7": {
+    "message": "บทนําสู่ผู้เขียน",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook8": {
+    "message": "บทนําสู่นักแปล",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook9": {
+    "message": "ลักษณะพิเศษจำเพาะของตำราเรียน",
+    "description": "2.0 public.js"
+  },
+  "send": {
+    "message": "ส่ง",
+    "description": "2.0 public.js"
+  },
+  "login1": {
+    "message": "ชื่อเรื่อง",
+    "description": "2.0 public.js"
+  },
+  "login2": {
+    "message": "เค้าโครงหน้า",
+    "description": "2.0 public.js"
+  },
+  "login3": {
+    "message": "ภาพพื้นหลัง",
+    "description": "2.0 public.js"
+  },
+  "login4": {
+    "message": "ตั้งค่าบันทึก",
+    "description": "2.0 public.js"
+  },
+  "login5": {
+    "message": "อีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login6": {
+    "message": "ป้อนที่อยู่อีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login7": {
+    "message": "จําฉันไว้",
+    "description": "2.0 public.js"
+  },
+  "login8": {
+    "message": "ตรวจสอบข้อความ",
+    "description": "2.0 public.js"
+  },
+  "login9": {
+    "message": "เราได้ส่งอีเมลยืนยันไปยัง {email} โปรดป้อนรหัสยืนยันด้านล่างเพื่อยืนยันอีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login10": {
+    "message": "ส่งอีเมลยืนยันแล้วโปรดป้อนรหัสยืนยันด้านล่างเพื่อยืนยันอีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login11": {
+    "message": "ไม่ได้รับอีเมล?",
+    "description": "2.0 public.js"
+  },
+  "login12": {
+    "message": "บัญชีถูกปิดใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "login13": {
+    "message": "บัญชีของคุณถูกปิดใช้งานและคุณจะไม่สามารถเข้าสู่ระบบได้ ติดต่อผู้ดูแลระบบขององค์กรเพื่อเปิดใช้งานบัญชีของคุณอีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "login14": {
+    "message": "โปรดป้อนที่อยู่อีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login15": {
+    "message": "รูปแบบอีเมลไม่ถูกต้องโปรดป้อนที่อยู่อีเมลที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "login16": {
+    "message": "กรุณาใส่รหัสผ่านของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login17": {
+    "message": "รหัสผ่านมีความยาว 8-20 ตัวอักษรและต้องมีตัวอักษรและตัวเลข",
+    "description": "2.0 public.js"
+  },
+  "login18": {
+    "message": "ข้อมูลที่เข้ามาไม่สมบูรณ์",
+    "description": "2.0 public.js"
+  },
+  "login19": {
+    "message": "บัญชีไม่มีอยู่",
+    "description": "2.0 public.js"
+  },
+  "login20": {
+    "message": "บัญชีกําลังรอการเปิดใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "login21": {
+    "message": "บัญชีถูกปิดใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "login22": {
+    "message": "จํานวนข้อผิดพลาดถึงห้าครั้ง",
+    "description": "2.0 public.js"
+  },
+  "login23": {
+    "message": "บัญชีถูกลบไปแล้ว",
+    "description": "2.0 public.js"
+  },
+  "login24": {
+    "message": "รหัสผ่านไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "login25": {
+    "message": "การส่งข้อความบ่อยเกินไป",
+    "description": "2.0 public.js"
+  },
+  "login26": {
+    "message": "ส่งข้อความไม่สําเร็จ",
+    "description": "2.0 public.js"
+  },
+  "login27": {
+    "message": "ข้อมูลไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "firstLogin1": {
+    "message": "สวัสดี",
+    "description": "2.0 public.js"
+  },
+  "firstLogin2": {
+    "message": "ความยินยอมของผู้ใช้",
+    "description": "2.0 public.js"
+  },
+  "firstLogin3": {
+    "message": "กรอกข้อมูลส่วนบุคคลของคุณให้ครบถ้วน",
+    "description": "2.0 public.js"
+  },
+  "firstLogin4": {
+    "message": "การกําหนดลักษณะ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin5": {
+    "message": "เสร็จ!",
+    "description": "2.0 public.js"
+  },
+  "firstLogin6": {
+    "message": "โปรดอ่านข้อตกลงและนโยบายความเป็นส่วนตัวต่อไปนี้และลงนามในความยินยอมของผู้ใช้ในการใช้งาน",
+    "description": "2.0 public.js"
+  },
+  "firstLogin7": {
+    "message": "การใช้โปรโตคอล",
+    "description": "2.0 public.js"
+  },
+  "firstLogin8": {
+    "message": "ข้อตกลงผู้ใช้นี้ควบคุมวิธีที่ผู้ใช้ใช้เว็บไซต์นี้ หากคุณต้องการดูข้อตกลงผู้ใช้ฉบับเต็ม โปรดดู ข้อตกลงผู้ใช้ฉบับเต็ม",
+    "description": "2.0 public.js"
+  },
+  "firstLogin9": {
+    "message": "ฉันเห็นด้วย",
+    "description": "2.0 public.js"
+  },
+  "firstLogin10": {
+    "message": "ข้อตกลงการใช้",
+    "description": "2.0 public.js"
+  },
+  "firstLogin11": {
+    "message": "นโยบายความเป็นส่วนตัว",
+    "description": "2.0 public.js"
+  },
+  "firstLogin12": {
+    "message": "คําชี้แจงสิทธิ์ส่วนบุคคลนี้เกี่ยวข้องกับบัญชีผู้ใช้ที่สร้างขึ้นบนเว็บไซต์นี้ หากคุณต้องการดูข้อความฉบับเต็มโปรดดูคําชี้แจงสิทธิ์ส่วนบุคคลฉบับเต็ม",
+    "description": "2.0 public.js"
+  },
+  "firstLogin13": {
+    "message": "นโยบายเกี่ยวกับคุกกี้",
+    "description": "2.0 public.js"
+  },
+  "firstLogin14": {
+    "message": "นโยบายคุกกี้ของเราอธิบายว่าคุกกี้คืออะไรเราใช้คุกกี้อย่างไรบุคคลที่สามที่เราทํางานด้วยอาจใช้คุกกี้บนเว็บไซต์นี้และตัวเลือกของคุณเกี่ยวกับคุกกี้ หากคุณต้องการดูข้อความฉบับเต็มโปรดดูนโยบายคุกกี้ฉบับเต็ม",
+    "description": "2.0 public.js"
+  },
+  "firstLogin15": {
+    "message": "ชื่อเต็มของคุณ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin16": {
+    "message": "ชื่อที่ใช้แสดง",
+    "description": "2.0 public.js"
+  },
+  "firstLogin17": {
+    "message": "เปลี่ยนรหัสผ่าน",
+    "description": "2.0 public.js"
+  },
+  "firstLogin18": {
+    "message": "ภาษา",
+    "description": "2.0 public.js"
+  },
+  "firstLogin19": {
+    "message": "ยินดีต้อนรับสู่ Ulearning และขอให้คุณทั้งหมดที่ดีที่สุดในเส้นทางการเรียนรู้ของคุณ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin20": {
+    "message": "ตั้งค่าให้เสร็จสมบูรณ์",
+    "description": "2.0 public.js"
+  },
+  "firstLogin21": {
+    "message": "รหัสผ่าน 8-20 หลัก รวมทั้งตัวเลขและตัวอักษร",
+    "description": "2.0 public.js"
+  },
+  "firstLogin22": {
+    "message": "กรุณากรอกชื่อ-นามสกุล",
+    "description": "2.0 public.js"
+  },
+  "firstLogin23": {
+    "message": "ชื่อเต็มต้องมีความยาวไม่เกิน 128 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin24": {
+    "message": "กรุณากรอกชื่อที่แสดง",
+    "description": "2.0 public.js"
+  },
+  "firstLogin25": {
+    "message": "ชื่อที่แสดงต้องมีความยาวไม่เกิน 64 อักขระ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin26": {
+    "message": "รูปแบบรหัสผ่านไม่ถูกต้องโปรดป้อนอีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "firstLogin27": {
+    "message": "รหัสผ่านไม่ตรงกันโปรดป้อนอีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "firstLogin28": {
+    "message": "ไม่สามารถใช้รหัสผ่านเดิมได้",
+    "description": "2.0 public.js"
+  },
+  "cookieSettings": {
+    "message": "การตั้งค่าคุกกี้",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle1": {
+    "message": "การตั้งค่าคุกกี้",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip1": {
+    "message": "คุกกี้ที่ใช้บนเว็บไซต์ของเรามีสามประเภท: บังคับ ใช้งานได้ และบุคคลที่สาม คุณสามารถเลือกได้ว่าจะใช้ฟังก์ชันการทํางานและเปิดคุกกี้ของบุคคลที่สามหรือไม่ คลิกที่หมวดหมู่คุกกี้ต่างๆ เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับแต่ละหมวดหมู่และเปลี่ยนการตั้งค่าเริ่มต้น",
+    "description": "2.0 public.js"
+  },
+  "cookiesAll": {
+    "message": "เปิดตลอดเวลา",
+    "description": "2.0 public.js"
+  },
+  "cookiesMore": {
+    "message": "ข้อมูลเพิ่มเติม",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle2": {
+    "message": "คุกกี้ที่จําเป็น",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip2": {
+    "message": "คุกกี้ที่จําเป็นจําเป็นสําหรับฟังก์ชันพื้นฐานของเว็บไซต์ ตัวอย่างบางส่วน ได้แก่ คุกกี้เซสชันคุกกี้การตรวจสอบสิทธิ์และคุกกี้ความปลอดภัยที่จําเป็นในการส่งเว็บไซต์",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle3": {
+    "message": "คุกกี้เพื่อการทํางาน (Functional Cookies)",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip3": {
+    "message": "คุกกี้เพื่อการทํางานช่วยเพิ่มฟังก์ชันการทํางานประสิทธิภาพและบริการบนเว็บไซต์ ตัวอย่างบางส่วน ได้แก่ คุกกี้ที่ใช้ในการวิเคราะห์การเข้าชมเว็บไซต์คุกกี้ที่ใช้สําหรับการวิจัยผู้ใช้และคุกกี้ที่ใช้เพื่อแสดงโฆษณาที่ไม่ได้กําหนดเป้าหมายไปยังบุคคลใดบุคคลหนึ่ง",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle4": {
+    "message": "คุกกี้ของบุคคลที่สาม",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip4": {
+    "message": "นอกเหนือจากคุกกี้ของเราเองเราอาจใช้คุกกี้ของบุคคลที่สามต่างๆเพื่อรายงานสถิติการใช้งานเว็บไซต์และเพิ่มประสิทธิภาพความพยายามทางการตลาด",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle5": {
+    "message": "คุกกี้ติดตาม: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip5": {
+    "message": "ติดตามพฤติกรรมของเว็บไซต์และเชื่อมโยงกับเมตริกอื่นๆ เพื่อทําความเข้าใจพฤติกรรมการใช้งานได้ดียิ่งขึ้น",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle6": {
+    "message": "เพิ่มประสิทธิภาพคุกกี้: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip6": {
+    "message": "ช่วยให้สามารถติดตามการแปลงผู้ใช้แบบเรียลไทม์จากช่องทางการตลาดต่างๆ เพื่อประเมินประสิทธิภาพ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle7": {
+    "message": "คุกกี้ของพันธมิตร: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip7": {
+    "message": "ให้เมตริกการแปลงการตลาดแก่คู่ค้าของเราเพื่อให้พวกเขาสามารถเพิ่มประสิทธิภาพความพยายามทางการตลาดแบบชําระเงินได้",
+    "description": "2.0 public.js"
+  },
+  "policies": {
+    "message": "ข้อตกลง",
+    "description": "2.0 public.js"
+  },
+  "usePolicy": {
+    "message": "ข้อตกลงการใช้งานของผู้ใช้",
+    "description": "2.0 public.js"
+  },
+  "privacyPolicy": {
+    "message": "ข้อตกลงความเป็นส่วนตัว",
+    "description": "2.0 public.js"
+  },
+  "cookiesPolicy": {
+    "message": "นโยบายเกี่ยวกับคุกกี้",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting1": {
+    "message": "เราใช้คุกกี้เพื่อจดจํารายละเอียดการเข้าสู่ระบบของคุณมอบประสบการณ์การเข้าสู่ระบบที่ปลอดภัยและรวบรวมสถิติเพื่อเพิ่มประสิทธิภาพการทํางานของเว็บไซต์",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting2": {
+    "message": "คุณสามารถดูคําอธิบายโดยละเอียดเกี่ยวกับประเภทของคุกกี้ที่เราใช้ได้ในนโยบายคุกกี้ของเรา คลิก \"ยอมรับ\" เพื่อยอมรับคุกกี้ทั้งหมดหรือ \"ปฏิเสธ\" เพื่ออนุญาตเฉพาะคุกกี้ที่จําเป็นเท่านั้น คลิก การตั้งค่าคุกกี้ เพื่อกําหนดค่าคุกกี้โดยละเอียด",
+    "description": "2.0 public.js"
+  },
+  "refuse": {
+    "message": "ปฏิเสธ",
+    "description": "2.0 public.js"
+  },
+  "agree": {
+    "message": "เห็นด้วย",
+    "description": "2.0 public.js"
+  },
+  "userPolicy": {
+    "message": "ข้อตกลงการใช้",
+    "description": "2.0 public.js"
+  },
+  "switchRole": {
+    "message": "สลับบทบาท",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "เลือกบทบาท",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "เลือกบทบาทที่คุณต้องการใช้",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "ยืนยัน",
+    "description": "2.0 public.js"
+  },
+  "register01": {
+    "message": "ขอเชิญลงทะเบียน",
+    "description": "2.0 public.js"
+  },
+  "register02": {
+    "message": "มีบัญชีอยู่แล้ว?",
+    "description": "2.0 public.js"
+  },
+  "register03": {
+    "message": "เข้าสู่ระบบ",
+    "description": "2.0 public.js"
+  },
+  "register04": {
+    "message": "การทําเครื่องหมายในช่องนี้แสดงว่าคุณยอมรับ",
+    "description": "2.0 public.js"
+  },
+  "register05": {
+    "message": "และ",
+    "description": "2.0 public.js"
+  },
+  "register06": {
+    "message": "คําเชิญหมดอายุแล้ว",
+    "description": "2.0 public.js"
+  },
+  "register07": {
+    "message": "คําเชิญทางอีเมลหมดอายุแล้ว หากไม่ดําเนินการลงทะเบียนให้เสร็จสมบูรณ์ ให้ติดต่อผู้ดูแลระบบเพื่อส่งคําเชิญอีกครั้ง",
+    "description": "2.0 public.js"
+  },
+  "register08": {
+    "message": "การลงทะเบียนเสร็จสมบูรณ์",
+    "description": "2.0 public.js"
+  },
+  "register09": {
+    "message": "คําเชิญเสร็จสมบูรณ์และคุณสามารถลงชื่อเข้าใช้ด้วยอีเมลและรหัสผ่านของคุณ",
+    "description": "2.0 public.js"
+  },
+  "register10": {
+    "message": "รหัสยืนยันไม่สามารถใช้งานได้",
+    "description": "2.0 public.js"
+  },
+  "register11": {
+    "message": "captcha ถูกใช้ไปแล้ว",
+    "description": "2.0 public.js"
+  },
+  "register12": {
+    "message": "กล่องจดหมายไม่มีอยู่",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "เราได้ส่งอีเมลเชิญลงทะเบียนไปที่ {registeremail}",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "ข้อมูลไซต์รองไม่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "ไม่มีบัญชีที่สอดคล้องกับที่อยู่อีเมล",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "บัญชีเข้าสู่ระบบไม่ใช่บัญชีของเว็บไซต์หรือสถาบันย่อย",
+    "description": "2.0 public.js"
+  },
+  "register13": {
+    "message": "รหัสยืนยันถูกส่งแล้วโปรดตรวจสอบอีเมลของคุณ",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "ระบบตรวจพบว่าบัญชีนี้โกงและพฤติกรรมที่ไม่เหมาะสมอื่น ๆ ในการเรียนรู้หลักสูตรของ {textbooks} และระบบได้ระงับบัญชีนี้โดยอัตโนมัติโปรดติดต่อครูหรือแพลตฟอร์มในชั้นเรียนเพื่อจัดการ",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "รหัสยืนยันไม่ถูกต้องโปรดป้อนรหัสยืนยันที่ถูกต้อง",
+    "description": "2.0 public.js"
+  },
+  "sso": {
+    "message": "ยังไม่ได้เปิดบัญชี",
+    "description": "2.0 public.js"
+  },
+  "sso1": {
+    "message": "หากยังไม่ได้เปิดใช้งานบริการสําหรับบัญชีนี้โปรดติดต่อผู้ดูแลระบบของคุณเพื่อเปิดใช้งานบริการและเข้าสู่ระบบผ่าน SSO",
+    "description": "2.0 public.js"
+  },
+  "sso2": {
+    "message": "บัญชีลงทะเบียนกับสถาบันอื่นแล้ว",
+    "description": "2.0 public.js"
+  },
+  "sso3": {
+    "message": "บัญชีลงทะเบียนกับองค์กรอื่นแล้วโปรดลงชื่อเข้าใช้สถาบันที่ลงทะเบียน หากคุณต้องการลงชื่อเข้าใช้ที่สถาบันนี้ โปรดติดต่อผู้ดูแลระบบของคุณเพื่อลงทะเบียนบทบาทที่สถาบันนี้",
+    "description": "2.0 public.js"
+  },
+  "sso4": {
+    "message": "เข้าสู่ระบบ SSO",
+    "description": "2.0 public.js"
+  },
+  "sso5": {
+    "message": "หรือ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin29": {
+    "message": "ชื่อเต็มจะใช้สําหรับการถอดเสียงและรายงานอย่างเป็นทางการ",
+    "description": "2.0 public.js"
+  },
+  "firstLogin30": {
+    "message": "ชื่อที่คุณแสดงในระบบ",
+    "description": "2.0 public.js"
+  },
+  "centralCertificationSystem": {
+    "message": "การเข้าสู่ระบบการรับรองความถูกต้องแบบรวม",
+    "description": "2.0 public.js"
+  },
+  "confirmUnbind": {
+    "message": "คุณแน่ใจหรือว่าจะไม่ผูกมัด?",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": "แจ้งเตือน",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "ผูก Welink",
+    "description": "2.0 public.js"
+  },
+  "userNameReadOnlyTips": {
+    "message": "โรงเรียนห้ามไม่ให้นักเรียนเปลี่ยนชื่อดังนั้นโปรดติดต่อผู้บริหารโรงเรียนหรือฝ่ายบริการลูกค้าของคุณ",
+    "description": "2.0 public.js"
+  },
+  "moreOperation": {
+    "message": "การดําเนินการ",
+    "description": "2.0 public.js"
+  }
+}

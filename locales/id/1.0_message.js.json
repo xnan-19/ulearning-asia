@@ -1,0 +1,74 @@
+{
+  "receivedMessage": {
+    "message": "Pesan masuk",
+    "description": "1.0 message.js"
+  },
+  "sendedMessage": {
+    "message": "Pesan keluar",
+    "description": "1.0 message.js"
+  },
+  "deleteMsgSuccess": {
+    "message": "Berhasil dihapus!",
+    "description": "1.0 message.js"
+  },
+  "deleteMsgFail": {
+    "message": "Gagal dihapus, silahkan coba kembali!",
+    "description": "1.0 message.js"
+  },
+  "invalidDelete": {
+    "message": "Silahkan pilih pesan sebelum menghapusnya",
+    "description": "1.0 message.js"
+  },
+  "messageList": {
+    "message": "Rekaman pesan",
+    "description": "1.0 message.js"
+  },
+  "inputKeyWords": {
+    "message": "Silahkan masukkan kurang dari 500 karakter ",
+    "description": "1.0 message.js"
+  },
+  "submiting": {
+    "message": "Sedang dikumpul ",
+    "description": "1.0 message.js"
+  },
+  "confirmBeforeDelete": {
+    "message": "Anda yakin untuk hapus pesan ini? ",
+    "description": "1.0 message.js"
+  },
+  "inputkeyLimit": {
+    "message": "Jumlah kata melebihi batas, silahkan hapus sebagian konten ",
+    "description": "1.0 message.js"
+  },
+  "fileType": {
+    "message": "Jenis dokumen ",
+    "description": "1.0 message.js"
+  },
+  "sendMessage": {
+    "message": "Kirim pesan",
+    "description": "1.0 message.js"
+  },
+  "selectContact": {
+    "message": "Silahkan pilih kontak dari sisi sebelah kanan ",
+    "description": "1.0 message.js"
+  },
+  "messageLimit": {
+    "message": "Maksimal kirim 300 pesan",
+    "description": "1.0 message.js"
+  },
+  "messageSend": {
+    "message": "Pesan telah terkirim",
+    "description": "1.0 message.js"
+  },
+  "searchName": {
+    "message": "'Masukkan nama lengkap",
+    "description": "1.0 message.js"
+  },
+  "admin": {
+    "message": "Admin:",
+    "description": "1.0 message.js"
+  },
+  "otherTeacher": {
+    "message": "Dosen lain di universitas ini;",
+    "description": "1.0 message.js"
+  }
+}

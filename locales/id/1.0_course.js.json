@@ -1,0 +1,98 @@
+{
+  "previewCourse": {
+    "message": "Pra-tinjau mata kuliah",
+    "description": "网页的标题"
+  },
+  "startStudy": {
+    "message": "Mulai belajar",
+    "description": "一个按钮"
+  },
+  "joinCourse": {
+    "message": "Mata kuliah ini dibukakan kelas untuk dosen anda, guna menghindari masalah statistik nilai, silahkan scan kode QR yang dibagikan oleh dosen atau ikut bergabung melalui no. kode kelas.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "logintitle": {
+    "message": "Masuk",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "username": {
+    "message": "Nama pengguna",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "usernameOrPhoneNo": {
+    "message": "Nama pengguna / Nomor ponsel",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "password": {
+    "message": "Kata sandi",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordtile": {
+    "message": "Silahkan masukkan kata sandi",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "forgetPassword": {
+    "message": "Lupa kata sandi?",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "register": {
+    "message": "Segera daftar",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "wxLogin": {
+    "message": "Login WeChat",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "errorTitle": {
+    "message": "Nama pengguna atau kata sandi salah",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginMsg": {
+    "message": "Nama pengguna harus diisi",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordMsg": {
+    "message": "Kata sandi harus diisi",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "confirm": {
+    "message": "Saya sudah tahu",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputTip": {
+    "message": "Silahkan masukkan nama pengguna/nomor ponsel",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "inputLimitTip": {
+    "message": "Anda telah salah input 5 kali berturut-turut, coba kembali setelah 3 menit",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "dynamicCode": {
+    "message": "6 angka kode keamanan dinamis",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtect": {
+    "message": "Perlindungan login",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtectTip": {
+    "message": "Perlindungan login telah diaktifkan untuk akun saat ini, mohon cek SMS",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputCode": {
+    "message": "Silahkan masukkan no.verifikasi dinamis",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "codeError": {
+    "message": "Kode keamanan dinamis salah",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "sendCode": {
+    "message": "Kirim no. verifikasi",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "reSendCode": {
+    "message": "Kirim ulang",
+    "description": "1.0 umooc-web courseDetail"
+  }
+}

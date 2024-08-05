@@ -1,0 +1,166 @@
+{
+  "title": {
+    "message": "FAQ pour le test d’anglais parlé",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1": {
+    "message": "1. Que dois-je préparer et vérifier avant de commencer l’examen?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p1": {
+    "message": "1.1 Si l’ordinateur fonctionne correctement",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p2": {
+    "message": "Allumez l’ordinateur et vérifiez si le clavier, la souris et le casque fonctionnent comme prévu. Si vous avez rencontré des problèmes, veuillez contacter l’administrateur du laboratoire informatique / de l’installation d’examen.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p3": {
+    "message": "1.2 Vérifier si l’environnement logiciel de l’ordinateur est conforme aux exigences de l’examen?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p4": {
+    "message": "Accédez à <a href=\"http://www.longmanenglish.cn\">http://www.longmanenglish.cn</a> et cliquez sur le lien Vérification de la conformité de l’ordinateur sur la page d’accueil.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p5": {
+    "message": "Une fois la vérification de la conformité de l’ordinateur terminée, elle vous montrera si l’ordinateur est conforme aux exigences de l’examen. S’il y a des éléments de vérification ayant échoué, veuillez suivre les instructions pour effectuer les réglages correspondants.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p6": {
+    "message": "1.3 Si vous pouvez vous connecter au site Web ULearning?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p7": {
+    "message": "Accédez au site Web ULearning de votre école et essayez de vous connecter avec votre nom d’utilisateur et votre mot de passe. Si vous ne par arrivez pas à vous connecter, veuillez contacter immédiatement votre école ou le service clientèle.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p8": {
+    "message": "1.4 Êtes-vous inscrit dans la classe de votre professeur?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p9": {
+    "message": "Après vous être connecté au site Web ULearning de votre école, vérifiez si vous avez rejoint la classe de votre professeur. Si ce n’est pas le cas, veuillez inscrire la classe de votre professeur à temps.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p10": {
+    "message": "1.5 Pouvez-vous entendre le son avec votre casque?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p11": {
+    "message": "Testez votre casque pour vérifier si vous pouvez entendre le son avec lui.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p12": {
+    "message": "Faites le test avec un fichier audio. Si vous n’entendez pas le son, veuillez remplacer le casque à temps.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p13": {
+    "message": "1.6 Pouvez-vous enregistrer votre voix?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p14": {
+    "message": "Utilisez l’application d’enregistrement vocal de votre ordinateur pour tester si vous pouvez enregistrer votre voix.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p15": {
+    "message": "1.7 Que dois-je faire si la voix enregistrée est trop basse ?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p16": {
+    "message": "Vous pouvez régler le volume de deux manières :",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p17": {
+    "message": "Tout d’abord, cliquez avec le bouton droit sur l’icône du haut-parleur dans le coin inférieur droit, et un menu apparaîtra:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p18": {
+    "message": "Cliquez sur les paramètres Ajuster les propriétés audio et la fenêtre contextuelle suivante apparaîtra :",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p19": {
+    "message": "Il existe une option de volume d’enregistrement sous le menu Voix. Cliquez sur le bouton Volume.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p20": {
+    "message": "Réglez le volume au maximum, puis le son de l’enregistrement sera plus fort.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p21": {
+    "message": "Ou vous pouvez cliquer avec le bouton droit sur l’icône du haut-parleur dans le coin inférieur droit, et un menu apparaîtra:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p22": {
+    "message": "Cliquez sur le menu Périphérique d’enregistrement comme indiqué ci-dessous :",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p23": {
+    "message": "Après avoir sélectionné le microphone, cliquez sur le bouton Propriétés",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p24": {
+    "message": "Dans la fenêtre contextuelle, sélectionnez le menu de niveau de volume et réglez le volume du microphone au maximum",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p25": {
+    "message": "1.8 Comment installer le plug-in ?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p26": {
+    "message": "Pour les ordinateurs sur lesquels le plug-in n’est pas installé, veuillez en télécharger un sur la page d’accueil interactive en anglais",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2": {
+    "message": "2 Comment configurer l’enregistrement?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p1": {
+    "message": "Lorsque les étudiants entrent dans le test d’anglais parlé, une boîte de dialogue s’affiche comme suit :",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p2": {
+    "message": "Les élèves doivent cocher la case « Toujours faire confiance au contenu de cet éditeur », puis cliquer sur le bouton Exécuter avant de pouvoir commencer à enregistrer.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3": {
+    "message": "3 Que se passe-t-il si l’examen est interrompu ?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p1": {
+    "message": "Si l’examen est interrompu en raison d’une défaillance de l’équipement ou d’autres raisons, fermez toutes les fenêtres du navigateur. Ensuite, rouvrez le navigateur, connectez-vous à la plateforme ULearning de votre école et redémarrez l’examen. L’écran d’examen aura une invite pour restaurer vos réponses, comme indiqué ci-dessous:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p2": {
+    "message": "Les élèves doivent cliquer sur le bouton Restaurer les réponses pour confirmer. Mais il convient de noter que <font class=\"red\">le système ne peut restaurer vos réponses enregistrées qu’il y a 5 minutes. De plus, pour les questions en anglais parlé, l’enregistrement restauré ne peut être lu que et ne peut pas être réenregistré ou téléchargé à nouveau. </font>",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4": {
+    "message": "4 Comment enregistrer des enregistrements vocaux?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4-p1": {
+    "message": "Une fois que les élèves ont terminé la question du test oral, veuillez d’abord enregistrer l’enregistrement. Cliquez sur le bouton Enregistrer pour enregistrer l’enregistrement localement pour la sauvegarde.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5": {
+    "message": "5 Comment télécharger l’enregistrement?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5-p1": {
+    "message": "Une fois que les élèves ont terminé la question du test oral, cliquez sur le bouton Télécharger pour télécharger l’enregistrement sur la plate-forme.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6": {
+    "message": "6 Comment puis-je savoir si mon enregistrement a été téléchargé avec succès?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6-p1": {
+    "message": "Après avoir cliqué sur le bouton Télécharger, vous devez attendre quelques secondes (plus l’enregistrement est long, plus votre temps d’attente est long). Lorsque l’invite « Téléchargé avec succès » apparaît, cela signifie que votre enregistrement a été téléchargé avec succès.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "closeWindow": {
+    "message": "Fermer la fenêtre",
+    "description": "1.0 speakingFaq.json"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "receivedMessage": {
+    "message": "ข้อความที่ได้รับ",
+    "description": "1.0 message.js"
+  },
+  "sendedMessage": {
+    "message": "ข้อความที่ส่ง",
+    "description": "1.0 message.js"
+  },
+  "deleteMsgSuccess": {
+    "message": "ลบสําเร็จแล้ว!",
+    "description": "1.0 message.js"
+  },
+  "deleteMsgFail": {
+    "message": "การลบล้มเหลว โปรดลองอีกครั้งในภายหลัง!",
+    "description": "1.0 message.js"
+  },
+  "invalidDelete": {
+    "message": "โปรดเลือกข้อความและลบออก!",
+    "description": "1.0 message.js"
+  },
+  "messageList": {
+    "message": "รายการข้อความที่บันทึก",
+    "description": "1.0 message.js"
+  },
+  "inputKeyWords": {
+    "message": "กรุณาใส่อักขระน้อยกว่า 500 ตัว",
+    "description": "1.0 message.js"
+  },
+  "submiting": {
+    "message": "อยู่ในระหว่างการส่ง",
+    "description": "1.0 message.js"
+  },
+  "confirmBeforeDelete": {
+    "message": "คุณแน่ใจหรือไม่ว่าคุณต้องการลบข้อความดังกล่าว?",
+    "description": "1.0 message.js"
+  },
+  "inputkeyLimit": {
+    "message": "จํานวนอักษรเกินกว่าที่กำหนด กรุณาลบเนื้อหาบางส่วนอย่างเหมาะสม",
+    "description": "1.0 message.js"
+  },
+  "fileType": {
+    "message": "ประเภทไฟล์",
+    "description": "1.0 message.js"
+  },
+  "sendMessage": {
+    "message": "ส่งข้อความ",
+    "description": "1.0 message.js"
+  },
+  "selectContact": {
+    "message": "โปรดเลือกผู้ติดต่อทางด้านขวา",
+    "description": "1.0 message.js"
+  },
+  "messageLimit": {
+    "message": "ข้อความที่สามารถส่งเป็นกลุ่มได้สูงสุด 300 ข้อความ",
+    "description": "1.0 message.js"
+  },
+  "messageSend": {
+    "message": "ข้อมูลถูกส่งแล้ว",
+    "description": "1.0 message.js"
+  },
+  "searchName": {
+    "message": "กรุณาใส่ชื่อที่ต้องการค้นหา...",
+    "description": "1.0 message.js"
+  },
+  "admin": {
+    "message": "ผู้ดูแล; ",
+    "description": "1.0 message.js"
+  },
+  "otherTeacher": {
+    "message": "ครูท่านอื่นในโรงเรียนของเรา;",
+    "description": "1.0 message.js"
+  }
+}

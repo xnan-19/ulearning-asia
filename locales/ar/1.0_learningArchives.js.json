@@ -1,0 +1,30 @@
+{
+  "userLearning": {
+    "message": "السجلات الدراسية الخاصة بـ {name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "userCourse": {
+    "message": "سجلات المدورات الدراسية الخاصة بـ {name}",
+    "description": "1.0 learningArchives.js"
+  },
+  "courseArchive": {
+    "message": "سجلات الدورات الدراسية",
+    "description": "1.0 learningArchives.js"
+  },
+  "learningStats": {
+    "message": "الانضمام الى {count} دورة دراسية",
+    "description": "1.0 learningArchives.js"
+  },
+  "submmitStats": {
+    "message": "ارسلت الواجبات {count} مرات",
+    "description": "1.0 learningArchives.js"
+  },
+  "partinStats": {
+    "message": "شارك في {count} الامتحانات",
+    "description": "1.0 learningArchives.js"
+  },
+  "publishStats": {
+    "message": "ارسل  {count} مواضيع ، ويوجد {reply} تعليقات",
+    "description": "1.0 learningArchives.js"
+  }
+}

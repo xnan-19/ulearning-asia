@@ -1,0 +1,114 @@
+{
+  "myOrder": {
+    "message": "My Orders",
+    "description": "2.0_order.js"
+  },
+  "close": {
+    "message": "Close",
+    "description": "2.0_order.js"
+  },
+  "orderTotalNum": {
+    "message": "Total Orders: ",
+    "description": "2.0_order.js"
+  },
+  "unpaidOrder": {
+    "message": "Unpaid Orders: ",
+    "description": "2.0_order.js"
+  },
+  "finishedOrder": {
+    "message": "Completed Orders:",
+    "description": "2.0_order.js"
+  },
+  "cancelOrderCl": {
+    "message": "Cancelled Orders: ",
+    "description": "2.0_order.js"
+  },
+  "orderCode": {
+    "message": "Order No.:",
+    "description": "2.0_order.js"
+  },
+  "discount": {
+    "message": "Discount: ",
+    "description": "2.0_order.js"
+  },
+  "placeAnOrder": {
+    "message": "Place Order",
+    "description": "2.0_order.js"
+  },
+  "unpaid": {
+    "message": "Unpaid",
+    "description": "2.0_order.js"
+  },
+  "cancelOrder": {
+    "message": "Cancel Order",
+    "description": "2.0_order.js"
+  },
+  "goToPay": {
+    "message": "Make Payment",
+    "description": "2.0_order.js"
+  },
+  "finished": {
+    "message": "Completed",
+    "description": "2.0_order.js"
+  },
+  "viewActivationcode": {
+    "message": "View Activation Code",
+    "description": "2.0_order.js"
+  },
+  "canceled": {
+    "message": "Canceled",
+    "description": "2.0_order.js"
+  },
+  "delete": {
+    "message": "Delete",
+    "description": "2.0_order.js"
+  },
+  "orderTips1": {
+    "message": "You haven't purchased any courseware on the website.",
+    "description": "2.0_order.js"
+  },
+  "used": {
+    "message": "Used",
+    "description": "2.0_order.js"
+  },
+  "orderTips2": {
+    "message": "The activation codes can only be used once.",
+    "description": "2.0_order.js"
+  },
+  "orderCode2": {
+    "message": "Order No.: ",
+    "description": "2.0_order.js"
+  },
+  "recipient": {
+    "message": "Recipient: ",
+    "description": "2.0_order.js"
+  },
+  "orderProduct": {
+    "message": "Product Ordered: ",
+    "description": "2.0_order.js"
+  },
+  "productNumber": {
+    "message": "Product Quantity: ",
+    "description": "2.0_order.js"
+  },
+  "orderMoney": {
+    "message": "Order Amount: ",
+    "description": "2.0_order.js"
+  },
+  "contactEmail": {
+    "message": "Email: ",
+    "description": "2.0_order.js"
+  },
+  "orderTips3": {
+    "message": " (Activation code is sent to this email)",
+    "description": "2.0_order.js"
+  },
+  "deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "2.0_order.js"
+  },
+  "deleteFailed": {
+    "message": "Failed to delete!",
+    "description": "2.0_order.js"
+  }
+}

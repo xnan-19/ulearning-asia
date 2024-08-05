@@ -1,0 +1,754 @@
+{
+  "m.cklang": {
+    "message": "id",
+    "description": "个人作业zh_js"
+  },
+  "m.LangCss": {
+    "message": "id-zone",
+    "description": "个人作业zh_js"
+  },
+  "m.Point": {
+    "message": "：",
+    "description": "个人作业zh_js"
+  },
+  "m.BACK": {
+    "message": "Kembali",
+    "description": "个人作业zh_js"
+  },
+  "m.CLOSE": {
+    "message": "Tutup",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_WAYS": {
+    "message": "Penilaian",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_TEA": {
+    "message": "Penilaian dosen",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_STUPEER": {
+    "message": "Penilaian bersama siswa",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_WRITEAUTO": {
+    "message": "Penilaian sistem penulisan esai bahasa Inggris",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_SPOKENAUTO": {
+    "message": "Penilaian sistem percakapan bahasa Inggris",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_SYSTEM": {
+    "message": "Penilaian sistem",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_FULL": {
+    "message": "Nilai sempurna",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_FULL_OF1": {
+    "message": "Skor total {n}",
+    "description": "移动端 -> 教师端 -> 作业详情 -> 批阅"
+  },
+  "m.GROWTH": {
+    "message": "Nilai pertumbuhan",
+    "description": "个人作业zh_js"
+  },
+  "m.STARTTIME": {
+    "message": "Waktu mulai",
+    "description": "个人作业zh_js"
+  },
+  "m.ENDTIME": {
+    "message": "Waktu pengumpulan berakhir",
+    "description": "个人作业zh_js"
+  },
+  "m.PEERENDTIME": {
+    "message": "Waktu penilaian bersama berakhir",
+    "description": "个人作业zh_js"
+  },
+  "m.JOINCLASS": {
+    "message": " Kelas yang berpartisipasi",
+    "description": "个人作业zh_js"
+  },
+  "m.VIPSETTING": {
+    "message": "Pengaturan level tinggi",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_ATTACH": {
+    "message": "Mahasiswa dapat mengunggah lampiran",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_ATTACH_INFO": {
+    "message": "Mendukung rekaman online, dokumen, audio, video, gambar, paket kompresi dll",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_COPY": {
+    "message": "Boleh menyalin",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_COPY_INFO": {
+    "message": "Setelah dibatalkan, mahasiswa hanya dapat input secara manual, silahkan gunakan dengan teliti",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_DUPICATE": {
+    "message": "Boleh memeriksa konten tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_DUPICATE_INFO": {
+    "message": "Konten di dalam lampiran tugas tidak dapat diperiksa",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_Grammar": {
+    "message": "Mahasiswa boleh menggunakan pemeriksaan tata bahasa",
+    "description": "个人作业zh_js"
+  },
+  "m.SETTING_Grammar_INFO": {
+    "message": "Tes tata bahasa dapat menguji kesalahan tata bahasa dalam tugas berbahasa Inggris",
+    "description": "个人作业zh_js"
+  },
+  "m.PUBLISTH": {
+    "message": "Rilis",
+    "description": "个人作业zh_js"
+  },
+  "m.SAVE_DRAFT": {
+    "message": "Draft",
+    "description": "个人作业zh_js"
+  },
+  "m.SAVE": {
+    "message": "Simpan",
+    "description": "个人作业zh_js"
+  },
+  "m.Determine": {
+    "message": "Konfirmasi",
+    "description": "个人作业zh_js"
+  },
+  "m.CANCEL": {
+    "message": "Batalkan",
+    "description": "个人作业zh_js"
+  },
+  "m.DELETE": {
+    "message": "Hapus",
+    "description": "个人作业zh_js"
+  },
+  "m.upAttach": {
+    "message": "Unggah lampiran",
+    "description": "个人作业zh_js"
+  },
+  "m.CHOICE": {
+    "message": "Silahkan pilih",
+    "description": "个人作业zh_js"
+  },
+  "m.UpAttachInfo1": {
+    "message": "Paling banyak mengunggah",
+    "description": "个人作业zh_js"
+  },
+  "m.UpAttachInfo2": {
+    "message": "lampiran",
+    "description": "个人作业zh_js"
+  },
+  "m.UpAttachError1": {
+    "message": "Video tidak boleh lebih dari 1G",
+    "description": "个人作业zh_js"
+  },
+  "m.UpAttachError2": {
+    "message": "Dokumen tidak boleh lebih dari 200M",
+    "description": "个人作业zh_js"
+  },
+  "m.UpError3": {
+    "message": "Tidak mendukung dokumen dengan jenis ini",
+    "description": "个人作业zh_js"
+  },
+  "m.PCREQUEST": {
+    "message": "Silahkan masukkan persyaratan tugas. Tugas mendukung paling banyak 5000 kata; aplikasi ponsel hanya mendukung pengunggahan gambar dan rekaman, lampiran jenis lainnya harus dikumpulkan melalui halaman web komputer. ",
+    "description": "个人作业zh_js"
+  },
+  "m.IPTHOMETITLE": {
+    "message": "Silahkan masukkan nama pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.UPATTACH": {
+    "message": "Unggah lampiran",
+    "description": "个人作业zh_js"
+  },
+  "m.RECORDING": {
+    "message": "Rekam",
+    "description": "个人作业zh_js"
+  },
+  "m.CHOICECLASS": {
+    "message": "Pilih kelas",
+    "description": "个人作业zh_js"
+  },
+  "m.PEERRULES": {
+    "message": "Aturan penilaian bersama",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_WRITEAUTOTIP": {
+    "message": "Catatan: pekerjaan rumah siswa hanya dapat menginput bahasa Inggris, tidak mendukung pengunggahan lampiran",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_SPOKENAUTOTIP": {
+    "message": "Catatan: Apabila rekaman siswa lebih dari 3 menit, sistem tidak dapat menilai",
+    "description": "个人作业zh_js"
+  },
+  "m.GRADE_SPOKENAUTOTIPerror": {
+    "message": "Silahkan masukkan konten bacaan, di bawah 200 kata, tidak boleh menginput karakter Mandarin, karena akan terjadi kegagalan pada penilaian.",
+    "description": "个人作业zh_js"
+  },
+  "m.wordsLength": {
+    "message": "{n} kata-kata",
+    "description": "教师 -> 布置作业 -> 评价方式 -> 英文口语系统评分 -> 英文口语系统评分"
+  },
+  "m.HOMEWORKTITLEEmptyERROR": {
+    "message": "Silahkan masukkan judul",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKTITLECountERROR": {
+    "message": "Tidak boleh lebih dari 200 karakter (Karakter Mandarin kurang lebih 100 kata)",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKRequestERROR": {
+    "message": "Tidak boleh lebih dari 10 ribu karakter (Karakter Mandarin kurang lebih 5000 kata) juga memperhitungkan sejumlah karakter tertentu",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKGradeEmptyERROR": {
+    "message": "Silahkan masukkan total nilai",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKGradeCountERROR": {
+    "message": "Silahkan masukkan bilangan bulat 1-100",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKClassEmptyERROR": {
+    "message": "Silahkan pilih kelas",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKClassCountERROR": {
+    "message": "Jumlah orang untuk penilaian bersama melebihi jumlah orang",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKRepeatEmptyERROR": {
+    "message": "Silahkan masukkan konten bacaan",
+    "description": "个人作业zh_js"
+  },
+  "m.STARTTIMEERROR": {
+    "message": "Silahkan masukkan waktu mulai",
+    "description": "个人作业zh_js"
+  },
+  "m.ENDTIMEERROR": {
+    "message": "Silahkan masukkan waktu berakhir",
+    "description": "个人作业zh_js"
+  },
+  "m.PEERENDTIMEERROR": {
+    "message": "Silahkan masukkan waktu berakhir untuk penilaian bersama",
+    "description": "个人作业zh_js"
+  },
+  "m.HOMEWORKTITLE": {
+    "message": "Tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.ASSIGNTITLE": {
+    "message": "Tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.MODIFYTITLE": {
+    "message": "Ubah pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.SAVING": {
+    "message": "Sedang menyimpan",
+    "description": "个人作业zh_js"
+  },
+  "m.SavingWork": {
+    "message": "Simpan pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.PUBLISTHWork": {
+    "message": "Rilis pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.SUCCESS": {
+    "message": "Berhasil",
+    "description": "个人作业zh_js"
+  },
+  "m.Failure": {
+    "message": "Gagal,",
+    "description": "个人作业zh_js"
+  },
+  "m.WORKSETTING": {
+    "message": "Pengaturan pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.Submissionstart": {
+    "message": "Mulai dikumpul",
+    "description": "个人作业zh_js"
+  },
+  "m.WORKTiming": {
+    "message": "Waktu tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.WORKPublicClass": {
+    "message": "Rilis kelas",
+    "description": "个人作业zh_js"
+  },
+  "m.WORKDetailinfo": {
+    "message": "Rincian pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.SHAREWork": {
+    "message": "Berbagi tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.MyWork": {
+    "message": "Pekerjaan rumah saya",
+    "description": "个人作业zh_js"
+  },
+  "m.otherWork": {
+    "message": "Pekerjaan rumah dia",
+    "description": "个人作业zh_js"
+  },
+  "m.evaluationWork": {
+    "message": "Menilai pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.PeerWorkTask": {
+    "message": "Menilai tugas",
+    "description": "个人作业zh_js"
+  },
+  "m.WriteWork": {
+    "message": "Tulis pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.resubmitted": {
+    "message": "Tarik kembali dan kumpul ulang",
+    "description": "个人作业zh_js"
+  },
+  "m.AfterSubmitWork": {
+    "message": "Kumpul pekerjaan rumah susulan (Dikumpulkan sebelum",
+    "description": "个人作业zh_js"
+  },
+  "m.RewriteWork": {
+    "message": "Tulis ulang pekerjaan rumah (Dikumpulkan sebelum",
+    "description": "个人作业zh_js"
+  },
+  "m.BeforeSubmitWork": {
+    "message": ")",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo1": {
+    "message": "Anda memiliki",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo2": {
+    "message": "pekerjaan rumah yang belum dinilai",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo3": {
+    "message": "Pekerjaan rumah telah dikumpul, sedang menunggu untuk dinilai",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo4": {
+    "message": "Setelah penilaian bersama selesai, siswa dapat melihat penilaian orang lain terhadap diri sendiri",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo5": {
+    "message": "Pekerjaan rumah telah berakhir",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo6": {
+    "message": "Jumlah pekerjaan rumah yang dikumpulkan tidak cukup, tidak bisa melaksanakan penilaian bersama. Silahkan tunggu penilaian dari dosen",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTip7": {
+    "message": "Pekerjaan telah diserahkan. Silakan mulai evaluasi bersama di {startTime} hingga {endTime}",
+    "description": "学生 -> 作业详情(要求作业处于互评未开始的阶段)"
+  },
+  "m.workdetailsTipInfo9": {
+    "message": "Terjadi kesalahan saat mendapatkan pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo10": {
+    "message": "Pekerjaan rumah belum mendapatkan penilaian dari para siswa, telah diteruskan ke dosen untuk dikoreksi",
+    "description": "个人作业zh_js"
+  },
+  "m.workdetailsTipInfo11": {
+    "message": "Pekerjaan rumah belum mulai",
+    "description": "个人作业zh_js"
+  },
+  "m.Period": {
+    "message": "Sudah tidak ada",
+    "description": "个人作业zh_js"
+  },
+  "m.previewWork": {
+    "message": "Sebelumnya",
+    "description": "个人作业zh_js"
+  },
+  "m.nextWork": {
+    "message": "Selanjutnya",
+    "description": "个人作业zh_js"
+  },
+  "m.Appeal": {
+    "message": "Komplain",
+    "description": "个人作业zh_js"
+  },
+  "m.Appealing": {
+    "message": "Sedang komplain",
+    "description": "个人作业zh_js"
+  },
+  "m.Appealfailure": {
+    "message": "Gagal komplain",
+    "description": "个人作业zh_js"
+  },
+  "m.AppealSuccess": {
+    "message": "Berhasil komplain",
+    "description": "个人作业zh_js"
+  },
+  "m.sharetipInfo1": {
+    "message": "Siswa lain di dalam kelas juga dapat melihat pekerjaan rumah yang dibagikan ",
+    "description": "个人作业zh_js"
+  },
+  "m.sharetipInfo2": {
+    "message": "Dosen membagikan pekerjaan rumah untuk semua orang, para siswa dapat menyimaknya",
+    "description": "个人作业zh_js"
+  },
+  "m.sharetipInfo3": {
+    "message": "Pada saat mengkoreksi pekerjaan rumah, pekerjaan rumah siswa diatur menjadi “Berbagi”, siswa lain di dalam kelas juga dapat melihatnya",
+    "description": "个人作业zh_js"
+  },
+  "m.sharetipInfo4": {
+    "message": "Dosen belum berbagi pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.prevWorkList": {
+    "message": "Catatan komit historis",
+    "description": "个人作业zh_js"
+  },
+  "m.workVersion": {
+    "message": "Versi",
+    "description": "个人作业zh_js"
+  },
+  "m.gradingInfo1": {
+    "message": "Siswa menilai pekerjaan rumah bersama, setelah penilaian bersama berakhir, dapat melihat rincian penilaian",
+    "description": "个人作业zh_js"
+  },
+  "m.gradingInfo2": {
+    "message": "Pekerjaan rumah murid tersebut tidak mendapatkan penilaian dari siswa lain, anda perlu mengkoreksinya.",
+    "description": "个人作业zh_js"
+  },
+  "m.appealCause": {
+    "message": "Alasan komplain",
+    "description": "个人作业zh_js"
+  },
+  "m.appealError": {
+    "message": "Alasan komplain tidak boleh kosong",
+    "description": "个人作业zh_js"
+  },
+  "m.appealError01": {
+    "message": "Tidak dapat lebih dari 400 karakter (Karakter Mandarin sekitar 200 kata)",
+    "description": "个人作业zh_js"
+  },
+  "m.reject": {
+    "message": "Tolak",
+    "description": "个人作业zh_js"
+  },
+  "m.repateGrading": {
+    "message": "Koreksi ulang",
+    "description": "个人作业zh_js"
+  },
+  "m.rejecting": {
+    "message": "Sedang menolak",
+    "description": "个人作业zh_js"
+  },
+  "m.rejectfailure": {
+    "message": "Gagal menolak",
+    "description": "个人作业zh_js"
+  },
+  "m.appealCauseInfo1": {
+    "message": "Silahkan isi alasan komplain, paling banyak 200 kata. Setelah dosen menerima komplain, akan melakukan penilaian ulang terhadap pekerjaan rumah.",
+    "description": "个人作业zh_js"
+  },
+  "m.smialInfo": {
+    "message": "Tingkat pengulangan pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.seek": {
+    "message": "Lihat",
+    "description": "个人作业zh_js"
+  },
+  "m.scoreOf2": {
+    "message": "Skor: {score}",
+    "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
+  },
+  "m.commentEmpty": {
+    "message": "Tidak meninggalkan komen",
+    "description": "个人作业zh_js"
+  },
+  "m.stuCommentEmpty": {
+    "message": "Siswa tersebut tidak meninggalkan komen",
+    "description": "个人作业zh_js"
+  },
+  "m.comment": {
+    "message": "Komen:",
+    "description": "个人作业zh_js"
+  },
+  "m.commentIpt": {
+    "message": "Silahkan masukkan komen",
+    "description": "个人作业zh_js"
+  },
+  "m.saveComment": {
+    "message": "Simpan komen",
+    "description": "个人作业zh_js"
+  },
+  "m.scoreIpt": {
+    "message": "Silahkan masukkan nilai",
+    "description": "个人作业zh_js"
+  },
+  "m.submittxt": {
+    "message": "Kumpul",
+    "description": "个人作业zh_js"
+  },
+  "m.repeateDay1": {
+    "message": "Dalam waktu ",
+    "description": "个人作业zh_js"
+  },
+  "m.repeateDay": {
+    "message": " hari kumpul ulang pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.shareTxt": {
+    "message": "Berbagi",
+    "description": "个人作业zh_js"
+  },
+  "m.shareTip": {
+    "message": "Siswa lain dapat melihat pekerjaan rumah siswa tersebut",
+    "description": "个人作业zh_js"
+  },
+  "m.repeatTxt": {
+    "message": "Tulis ulang",
+    "description": "个人作业zh_js"
+  },
+  "m.needrepeatTxt": {
+    "message": "Perlu ditulis ulang",
+    "description": "个人作业zh_js"
+  },
+  "m.Marking": {
+    "message": "Koreksi",
+    "description": "个人作业zh_js"
+  },
+  "m.teaevaluate": {
+    "message": "Penilaian dosen",
+    "description": "个人作业zh_js"
+  },
+  "m.stuevaluate": {
+    "message": "Penilaian bersama siswa",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrules": {
+    "message": "Aturan penilaian bersama",
+    "description": "个人作业zh_js"
+  },
+  "m.advantage": {
+    "message": "Nilai rata-rata:",
+    "description": "个人作业zh_js"
+  },
+  "m.systemEvaluate": {
+    "message": "Saran penilaian sistem",
+    "description": "个人作业zh_js"
+  },
+  "m.systemWriteError": {
+    "message": "Kosa kata salah",
+    "description": "个人作业zh_js"
+  },
+  "m.suggetSystem": {
+    "message": "Disarankan untuk menggunakan",
+    "description": "个人作业zh_js"
+  },
+  "m.systemGrammerError": {
+    "message": "Tata bahasa salah",
+    "description": "个人作业zh_js"
+  },
+  "m.iptScoreError": {
+    "message": "Silahkan masukkan nilai",
+    "description": "个人作业zh_js"
+  },
+  "m.iptScoreError02": {
+    "message": "Silahkan masukkan nilai yang tepat, hanya terdiri dari 1 angka desimal",
+    "description": "个人作业zh_js"
+  },
+  "m.iptScoreError03": {
+    "message": "Nilai yang didapat tidak boleh lebih dari total nilai",
+    "description": "个人作业zh_js"
+  },
+  "m.CommentError01": {
+    "message": "Tidak boleh lebih dari 1000 karakter (Karakter Mandarin kira-kira 500 kata)",
+    "description": "个人作业zh_js"
+  },
+  "m.workevulating": {
+    "message": "Sedang menyimpan",
+    "description": "个人作业zh_js"
+  },
+  "m.evulatSuccess": {
+    "message": "Berhasil koreksi",
+    "description": "个人作业zh_js"
+  },
+  "m.evulatFailure": {
+    "message": "Gagal koreksi",
+    "description": "个人作业zh_js"
+  },
+  "m.noEvaluate02": {
+    "message": "Siswa tersebut belum menilai pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.goEvaluate": {
+    "message": "Pergi menilai",
+    "description": "个人作业zh_js"
+  },
+  "m.goSeek": {
+    "message": "Lihat",
+    "description": "个人作业zh_js"
+  },
+  "m.FileConvert": {
+    "message": "Dokumen sedang di konversi, silahkan cek nanti",
+    "description": "个人作业zh_js"
+  },
+  "m.VideoConvert": {
+    "message": "Video sedang di konversi, silahkan cek nanti",
+    "description": "个人作业zh_js"
+  },
+  "m.downing": {
+    "message": "Unduh",
+    "description": "个人作业zh_js"
+  },
+  "m.addComments": {
+    "message": "Tambah komen",
+    "description": "个人作业zh_js"
+  },
+  "m.addPrise": {
+    "message": "Klik suka",
+    "description": "个人作业zh_js"
+  },
+  "m.delPrise": {
+    "message": "Yakin untuk menghapus suka?",
+    "description": "个人作业zh_js"
+  },
+  "m.delComment": {
+    "message": "Yakin untuk menghapus catatan tambahan?",
+    "description": "个人作业zh_js"
+  },
+  "m.autoCommentEn": {
+    "message": "Hebat, Tidak ditemukan masalah pada artikel anda",
+    "description": "个人作业zh_js"
+  },
+  "m.peerruleTitle1": {
+    "message": "Aturan penilaian",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule1": {
+    "message": "Nilai pekerjaan rumah",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule2": {
+    "message": "Nilai pekerjaan rumah = Nilai rata-rata penilaian pekerjaan rumah yang diberikan oleh siswa kepada anda (Anda harus menyelesaikan tugas penilaian, apabila belum menyelesaikannya, maka akan dikurangi 5% dari total nilai pekerjaan rumah.)",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule3": {
+    "message": "Contohnya",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule4": {
+    "message": "Nilai sempurna pekerjaan rumah = 100 poin",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule5": {
+    "message": "Nilai rata-rata penilaian dari siswa terhadap pekerjaan rumah anda = 80 poin",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule6": {
+    "message": "Anda harus melakukan penilaian untuk 4 pekerjaan rumah, dan anda memiliki 3 pekerjaan rumah yang belum dinilai, maka akan dikurangi 3*5%*100 poin.",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule7": {
+    "message": "Nilai akhir = 80-3*5%*100=65 poin;",
+    "description": "个人作业zh_js"
+  },
+  "m.peerrule8": {
+    "message": "Apabila anda tidak puas dengan nilai rata-rata dari penilaian bersama, anda dapat mengajukan komplain ke dosen, dan dosen akan melakukan penilaian terhadap pekerjaan rumah. Nilai akhir = Penilaian dari dosen.",
+    "description": "个人作业zh_js"
+  },
+  "m.pickHour": {
+    "message": "{n} jam",
+    "description": "用在 datepicker (时间选择器) 中"
+  },
+  "m.pickMinute": {
+    "message": "{n} min",
+    "description": "用在 datepicker (时间选择器) 中"
+  },
+  "m.scoreTip": {
+    "message": "Nilai yang didapat tidak boleh lebih dari total nilai",
+    "description": "个人作业zh_js"
+  },
+  "m.confirmTip": {
+    "message": "Nilai dan komen tidak dapat direvisi setelah dikumpul, yakin untuk kumpul?",
+    "description": "个人作业zh_js"
+  },
+  "m.currentMonth": {
+    "message": "{m} {y}",
+    "description": "个人作业zh_js"
+  },
+  "m.timePickerHourFmt": {
+    "message": "Pukul hh",
+    "description": "个人作业zh_js"
+  },
+  "m.reRecord": {
+    "message": "Setelah rekam ulang, rekaman awal akan terhapus. Yakin untuk rekam ulang?",
+    "description": "个人作业zh_js"
+  },
+  "m.switchON": {
+    "message": "Buka",
+    "description": "switch按钮上显示的文本，可以在发布个人作业页面看到"
+  },
+  "m.switchOFF": {
+    "message": "Tutup",
+    "description": "switch按钮上显示的文本，可以在发布个人作业页面看到"
+  },
+  "m.historyTip": {
+    "message": "Kirim beberapa kali, dan skor pekerjaan rumah akan menjadi skor tertinggi",
+    "description": "个人作业zh_js"
+  },
+  "m.mobilePermissionTip1": {
+    "message": "Anda telah menonaktifkan izin kamera dan tidak dapat menggunakan fitur ini, silakan buka Pengaturan ponsel Anda untuk mengotorisasi",
+    "description": "个人作业zh_js"
+  },
+  "m.mobilePermissionTip2": {
+    "message": "Anda telah menonaktifkan izin mikrofon dan tidak dapat menggunakan fungsi ini, silakan buka [Pengaturan] telepon untuk mengotorisasi",
+    "description": "个人作业zh_js"
+  },
+  "m.otherpeertip": {
+    "message": "Jika Anda tidak memiliki penugasan rekan -rekan yang ditugaskan, hubungi inchactor Anda untuk penilaian.",
+    "description": "个人作业zh_js"
+  },
+  "m.submissionType": {
+    "message": "Jenis Pengajuan",
+    "description": "个人作业zh_js"
+  },
+  "m.markSettings": {
+    "message": "Pengaturan skor",
+    "description": "个人作业zh_js"
+  },
+  "m.submissionSettings": {
+    "message": "Penyerahan",
+    "description": "个人作业zh_js"
+  },
+  "m.workSettings": {
+    "message": "Menetapkan",
+    "description": "个人作业zh_js"
+  },
+  "m.openBrowserContinue": {
+    "message": "Jenis tugas ini tidak dapat terbuka di aplikasi, silakan lanjutkan dengan browser.",
+    "description": "个人作业zh_js"
+  },
+  "m.openInBrowser": {
+    "message": "Buka di browser",
+    "description": "个人作业zh_js"
+  }
+}

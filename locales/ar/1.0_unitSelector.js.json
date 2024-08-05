@@ -1,0 +1,22 @@
+{
+  "selectCourseFirst": {
+    "message": "إختيار دورات دراسية",
+    "description": "1.0 unitSelector.js"
+  },
+  "loadCourse": {
+    "message": "جارى تحميل الدورات الدراسية",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnit": {
+    "message": "حدد الوحدة",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnitTip": {
+    "message": "تحديد دورة دراسية من الجزء الأيسر لتعبئة جميع الوحدات",
+    "description": "1.0 unitSelector.js"
+  },
+  "pleaseSelect": {
+    "message": "حدد الدورة الدراسية والوحدة",
+    "description": "1.0 unitSelector.js"
+  }
+}

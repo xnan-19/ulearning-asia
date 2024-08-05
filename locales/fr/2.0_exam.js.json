@@ -1,0 +1,4002 @@
+{
+  "close": {
+    "message": "Fermer",
+    "description": "2.0 exam.js"
+  },
+  "examinationResults": {
+    "message": "Résultats de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "gradeSumCl": {
+    "message": "Auto/Manuel/Total",
+    "description": "2.0 {filename}"
+  },
+  "examinationAnalysis": {
+    "message": "Analyse d’examen",
+    "description": "2.0 exam.js"
+  },
+  "allBatches": {
+    "message": "Toutes les sessions",
+    "description": "2.0 exam.js"
+  },
+  "allClasses": {
+    "message": "Toutes les classes",
+    "description": "2.0 exam.js"
+  },
+  "allTeachers": {
+    "message": "Tous les enseignants",
+    "description": "2.0 exam.js"
+  },
+  "submissionStatus": {
+    "message": "État de la soumission",
+    "description": "2.0 exam.js"
+  },
+  "sort": {
+    "message": "Trier",
+    "description": "2.0 exam.js"
+  },
+  "studentNumUp": {
+    "message": "Ascendant - carte d’étudiant",
+    "description": "2.0 exam.js"
+  },
+  "studentNumDown": {
+    "message": "Décroissant - carte d’étudiant",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreUp": {
+    "message": "Ascendant - score total",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreDown": {
+    "message": "Décroissant - score total",
+    "description": "2.0 exam.js"
+  },
+  "export": {
+    "message": "Exportation",
+    "description": "2.0 exam.js"
+  },
+  "derivedAchievements": {
+    "message": "Exporter les résultats",
+    "description": "2.0 exam.js"
+  },
+  "exportAnswerRecords": {
+    "message": "Exporter les réponses à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "fastExport": {
+    "message": "Exporter des scores",
+    "description": "2.0 exam.js"
+  },
+  "customExport": {
+    "message": "Exporter des résultats personnalisés",
+    "description": "2.0 exam.js"
+  },
+  "startRemark": {
+    "message": "Grade",
+    "description": "2.0 exam.js"
+  },
+  "batchRemark": {
+    "message": "Grader le lot",
+    "description": "2.0 exam.js"
+  },
+  "remarkByQuestion": {
+    "message": "Grader un par un",
+    "description": "2.0 exam.js"
+  },
+  "all": {
+    "message": "Tout",
+    "description": "2.0 exam.js"
+  },
+  "notApproved": {
+    "message": "Non grader",
+    "description": "2.0 exam.js"
+  },
+  "readed": {
+    "message": "Déja gradé",
+    "description": "2.0 exam.js"
+  },
+  "notSubmitted": {
+    "message": "Non soumis",
+    "description": "2.0 exam.js"
+  },
+  "exception": {
+    "message": "Signalé",
+    "description": "2.0 exam.js"
+  },
+  "readTip1": {
+    "message": "En attente",
+    "description": "2.0 exam.js"
+  },
+  "readTip2": {
+    "message": "signifie que la composante de score manuel n’est pas encore notée",
+    "description": "2.0 exam.js"
+  },
+  "serialNumber": {
+    "message": "Numero de série",
+    "description": "2.0 exam.js"
+  },
+  "studentNumber": {
+    "message": "Carte d’étudiant",
+    "description": "2.0 exam.js"
+  },
+  "name": {
+    "message": "Nom",
+    "description": "2.0 exam.js"
+  },
+  "namePrefix": {
+    "message": "Nom : {nom}",
+    "description": "2.0 {filename}"
+  },
+  "accountPrefix": {
+    "message": "Nom d’utilisateur : {account}",
+    "description": "2.0 {filename}"
+  },
+  "schoolPrefix": {
+    "message": "École : {org}",
+    "description": "2.0 {filename}"
+  },
+  "certPrefix": {
+    "message": "N° de l’évaluation : {no}",
+    "description": "2.0 {filename}"
+  },
+  "totalScore": {
+    "message": "Score total",
+    "description": "2.0 exam.js"
+  },
+  "objectiveQuestions": {
+    "message": "Score automatique",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQuestions": {
+    "message": "Score manuel",
+    "description": "2.0 exam.js"
+  },
+  "examinationPapers": {
+    "message": "Examens utilisés",
+    "description": "2.0 exam.js"
+  },
+  "status": {
+    "message": "Statut",
+    "description": "2.0 exam.js"
+  },
+  "submissionTime": {
+    "message": "Soumis",
+    "description": "2.0 exam.js"
+  },
+  "operation": {
+    "message": "Actions",
+    "description": "2.0 exam.js"
+  },
+  "leaveExam": {
+    "message": "Examen de fin d’étude",
+    "description": "2.0 exam.js"
+  },
+  "leaveExamTip": {
+    "message": "Si un étudiant quitte l’examen plus de temps que prévu, l’examen de l’étudiant sera soumis involontairement. Vous pouvez organiser un examen de maquillage pour cet étudiant si nécessaire.",
+    "description": "2.0 exam.js"
+  },
+  "answerRecord": {
+    "message": "Réponses aux examens",
+    "description": "2.0 exam.js"
+  },
+  "behaviorTrace": {
+    "message": "Afficher le journal",
+    "description": "2.0 exam.js"
+  },
+  "markPapers": {
+    "message": "Notez l'examen",
+    "description": "2.0 exam.js"
+  },
+  "setUpRetest": {
+    "message": "Définir la reprise",
+    "description": "2.0 exam.js"
+  },
+  "deleteRecords": {
+    "message": "Supprimer des enregistrements",
+    "description": "2.0 exam.js"
+  },
+  "noDataTip": {
+    "message": "Aucune donnée trouvée. Vous pouvez ajouter des étudiants à l’examen ou modifier les critères de recherche pour effectuer une nouvelle recherche.",
+    "description": "2.0 exam.js"
+  },
+  "chooseBatch": {
+    "message": "Sélectionnez la session pour l’examen",
+    "description": "2.0 exam.js"
+  },
+  "betweenTime": {
+    "message": "{startTime} à {endTime}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
+  },
+  "confirm": {
+    "message": "Confirmer",
+    "description": "2.0 exam.js"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "2.0 exam.js"
+  },
+  "toBeApproved": {
+    "message": "Non noté",
+    "description": "2.0 exam.js"
+  },
+  "notAttending": {
+    "message": "Non démarré",
+    "description": "2.0 exam.js"
+  },
+  "inExam": {
+    "message": "En cours",
+    "description": "2.0 exam.js"
+  },
+  "homePage": {
+    "message": "Page d’accueil",
+    "description": "2.0 exam.js"
+  },
+  "lastPage": {
+    "message": "Dernière page",
+    "description": "2.0 exam.js"
+  },
+  "upperPage": {
+    "message": "Page précédente",
+    "description": "2.0 exam.js"
+  },
+  "nextPage": {
+    "message": "Page suivante",
+    "description": "2.0 exam.js"
+  },
+  "jumpPage": {
+    "message": "Sauter",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip1": {
+    "message": "Une fois la reprise définie, tous les enregistrements d’examen précédents seront supprimés pour cet étudiant. Êtes-vous sûr de vouloir définir cette reprise?",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip2": {
+    "message": "Aucune session d’examen appropriée n’est disponible, voulez-vous ajouter une session?",
+    "description": "2.0 exam.js"
+  },
+  "deleteTip": {
+    "message": "La suppression des résultats d’examen est irrécupérable. Êtes-vous sûr de vouloir supprimer ?",
+    "description": "2.0 exam.js"
+  },
+  "exportTip": {
+    "message": "Seul le score le plus élevé de chaque élève sera exporté. Pour une exportation personnalisée, choisissez Exporter les résultats personnalisés.",
+    "description": "2.0 exam.js"
+  },
+  "tips": {
+    "message": "Alerte",
+    "description": "2.0 exam.js"
+  },
+  "chooseClass": {
+    "message": "Sélectionnez la classe :",
+    "description": "2.0 exam.js"
+  },
+  "basicInformation": {
+    "message": "Informations de base",
+    "description": "2.0 exam.js"
+  },
+  "quantity": {
+    "message": "Compte",
+    "description": "2.0 exam.js"
+  },
+  "proportion": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "examStuNum": {
+    "message": "{0} terminé",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "expectExamStuNum": {
+    "message": "Nombre total de candidats : {0}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate": {
+    "message": "Taux de fréquentation",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate2": {
+    "message": "Taux de présence: {0} % (Taux d’anomalie : {1} %)",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "exceptionRate": {
+    "message": "Taux d’anomalie",
+    "description": "2.0 exam.js"
+  },
+  "averageAnswerTime": {
+    "message": "Durée moyenne de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "maximumAnswerTime": {
+    "message": "Durée d’examen la plus longue",
+    "description": "2.0 exam.js"
+  },
+  "minimumAnswerTime": {
+    "message": "Durée d’examen la plus courte",
+    "description": "2.0 exam.js"
+  },
+  "mobile": {
+    "message": "Appareil mobile",
+    "description": "2.0 exam.js"
+  },
+  "PC": {
+    "message": "PC",
+    "description": "2.0 exam.js"
+  },
+  "computeTip": {
+    "message": "Notes: Calculé par nombre d’appareils utilisés par les étudiants",
+    "description": "2.0 exam.js"
+  },
+  "examinationAchievementsAnalysis": {
+    "message": "Analyse des résultats d’examen",
+    "description": "2.0 exam.js"
+  },
+  "averageAchievement": {
+    "message": "Note moyenne",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviation": {
+    "message": "Écart type",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviationTip": {
+    "message": "L’écart-type indique le degré de dispersion des scores de performance des élèves. Un écart-type important indique une grande différence entre la majorité des scores et leur moyenne. Un score plus petit indique que les scores sont plus proches de la moyenne.",
+    "description": "2.0 exam.js"
+  },
+  "passRate": {
+    "message": "Taux de réussite",
+    "description": "2.0 exam.js"
+  },
+  "highestScore": {
+    "message": "Score le plus élevé",
+    "description": "2.0 exam.js"
+  },
+  "minimumScore": {
+    "message": "Score le plus bas",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip1": {
+    "message": "*Notes : 1. Les données excluent les étudiants qui ont manqué ou n’ont pas commencé l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip2": {
+    "message": "2. Seul le score le plus élevé de plusieurs tentatives est inclus.",
+    "description": "2.0 exam.js"
+  },
+  "fractionalStatistics": {
+    "message": "Répartition des scores",
+    "description": "2.0 exam.js"
+  },
+  "noStuRecord": {
+    "message": "Aucun dossier de réponse des élèves!",
+    "description": "2.0 exam.js"
+  },
+  "paperAnalysis": {
+    "message": "Analyse d’examen",
+    "description": "2.0 exam.js"
+  },
+  "chart": {
+    "message": "Graphique",
+    "description": "2.0 exam.js"
+  },
+  "form": {
+    "message": "Table",
+    "description": "2.0 exam.js"
+  },
+  "paperStatistics": {
+    "message": "Utilisation de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "personnel": {
+    "message": "{0} nombre(s)/{1} %",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "personnel2": {
+    "message": "{count} count(s)",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "detailedAnalysis": {
+    "message": "Détails >>",
+    "description": "2.0 exam.js"
+  },
+  "scoreStatistics": {
+    "message": "Statistiques de score",
+    "description": "2.0 exam.js"
+  },
+  "paperName": {
+    "message": "Nom de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "userNum": {
+    "message": "Nombre d’utilisations",
+    "description": "2.0 exam.js"
+  },
+  "proportion2": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "averageScore": {
+    "message": "Note moyenne",
+    "description": "2.0 exam.js"
+  },
+  "disabled": {
+    "message": "Désactivé",
+    "description": "2.0 exam.js"
+  },
+  "questionAnalysis": {
+    "message": "Analyse des questions",
+    "description": "2.0 exam.js"
+  },
+  "previewPapers": {
+    "message": "Aperçu examen\n",
+    "description": "2.0 exam.js"
+  },
+  "quantity2": {
+    "message": "Question:\n",
+    "description": "2.0 exam.js"
+  },
+  "totalScore2": {
+    "message": "Points possibles :",
+    "description": "2.0 exam.js"
+  },
+  "paperPartAnalysis": {
+    "message": "Analyse des scores de section",
+    "description": "2.0 exam.js"
+  },
+  "pdfGeneration": {
+    "message": "PDF est en cours de génération...",
+    "description": "2.0 exam.js"
+  },
+  "choosePaper": {
+    "message": "Sélectionnez l’examen :",
+    "description": "2.0 exam.js"
+  },
+  "exportAllQuestion": {
+    "message": "Exporter tout",
+    "description": "2.0 exam.js"
+  },
+  "exportCurrentQuestion": {
+    "message": "Exporter la page actuelle",
+    "description": "2.0 exam.js"
+  },
+  "paperAccuracy": {
+    "message": "Statistiques d’exactitude",
+    "description": "2.0 exam.js"
+  },
+  "questionNumSToL": {
+    "message": "Numéro de question - Du plus bas au plus élevé",
+    "description": "2.0 exam.js"
+  },
+  "questionNumLToS": {
+    "message": "Numéro de question - Du plus élevé au plus bas",
+    "description": "2.0 exam.js"
+  },
+  "questionNum": {
+    "message": "N° de la question",
+    "description": "2.0 exam.js"
+  },
+  "questionType": {
+    "message": "Type",
+    "description": "2.0 exam.js"
+  },
+  "correctRate": {
+    "message": "Exactitude",
+    "description": "2.0 exam.js"
+  },
+  "correctAnswer": {
+    "message": "Réponses correctes",
+    "description": "2.0 exam.js"
+  },
+  "optionStuNum": {
+    "message": "Nombre de réponses",
+    "description": "2.0 exam.js"
+  },
+  "difficulty": {
+    "message": "Difficulté",
+    "description": "2.0 exam.js"
+  },
+  "difficultyTip": {
+    "message": "Le degré de difficulté est souvent basé sur la précisiondes réponses des testeurs. Plus le degré de difficulté est élevé, plus la question est simple. Plus la valeur est petite, plus la question est difficile. D’une manière générale, le degré de difficulté approprié d’une question se situe entre 0,3 et 0,8.",
+    "description": "2.0 exam.js"
+  },
+  "difficulties": {
+    "message": "Difficile",
+    "description": "2.0 exam.js"
+  },
+  "general": {
+    "message": "Moyenne",
+    "description": "2.0 exam.js"
+  },
+  "easy": {
+    "message": "Facile",
+    "description": "2.0 exam.js"
+  },
+  "discrimination": {
+    "message": "Différenciation",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip": {
+    "message": "La différenciation fait référence au degré de questions d’examen pour distinguer les étudiants ayant des performances académiques différentes. Le degré de différenciation est compris entre -1 et +1, plus il est grand, mieux c’est. En règle générale, le degré de différenciation des questions d’examen doit être supérieur à 0,3.\n",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip1": {
+    "message": ", indiquant que la question est bien différenciée.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip2": {
+    "message": ", montrant une mauvaise différenciation, veuillez modifier.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip3": {
+    "message": "La valeur négative de la différenciation indique que la question ou la réponse n’est pas correcte.",
+    "description": "2.0 exam.js"
+  },
+  "noData": {
+    "message": "Aucune donnée trouvée.",
+    "description": "2.0 exam.js"
+  },
+  "recommendedAnswer": {
+    "message": "Clé de réponse :",
+    "description": "2.0 exam.js"
+  },
+  "parsing": {
+    "message": "Explication de la réponse",
+    "description": "2.0 exam.js"
+  },
+  "previousQuestion": {
+    "message": "Question précédente",
+    "description": "2.0 exam.js"
+  },
+  "nextQuestion": {
+    "message": "Question suivante",
+    "description": "2.0 exam.js"
+  },
+  "previewQuestion": {
+    "message": "Aperçu",
+    "description": "2.0 exam.js"
+  },
+  "searchTip": {
+    "message": "Entrez le mot-clé à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "submitByAPP": {
+    "message": "Via APP",
+    "description": "2.0 exam.js"
+  },
+  "submitByPC": {
+    "message": "Via le web",
+    "description": "2.0 exam.js"
+  },
+  "chooseExamBatch": {
+    "message": "Sélectionnez la session pour l’examen",
+    "description": "2.0 exam.js"
+  },
+  "unknown": {
+    "message": "Inconnu",
+    "description": "2.0 exam.js"
+  },
+  "points": {
+    "message": "{grade} points",
+    "description": "2.0 exam.js"
+  },
+  "paperPartName": {
+    "message": "Nom de la section",
+    "description": "2.0 exam.js"
+  },
+  "peopleNum": {
+    "message": "Nombre de candidats",
+    "description": "2.0 exam.js"
+  },
+  "abandonRate": {
+    "message": "Taux d’absence",
+    "description": "2.0 exam.js"
+  },
+  "hour": {
+    "message": "Heure",
+    "description": "2.0 exam.js"
+  },
+  "minute": {
+    "message": "{nombre} min",
+    "description": "2.0 exam.js"
+  },
+  "timeLength": {
+    "message": "{jours} jours {heures} heures {minutes} minutes {secondes} seconds",
+    "description": "2.0 exam.js"
+  },
+  "scoringRate": {
+    "message": "Grade en %",
+    "description": "2.0 exam.js"
+  },
+  "score": {
+    "message": "Score",
+    "description": "2.0 exam.js"
+  },
+  "exam": {
+    "message": "Examens",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips1": {
+    "message": "Une liste de tous les examens de cours est affichée ici. L’administrateur du cours peut publier/afficher les examens pour toutes les classes, tandis que l’enseignant du cours ne peut publier/afficher les examens que pour sa propre classe.",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips2": {
+    "message": "Tous vos examens de cours sont répertoriés ici. Portez une attention particulière au moment où l’examen est disponible, si le début est autorisé et combien de temps, si plusieurs tentatives sont autorisées et combien, et la durée de l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "examTips1": {
+    "message": "Si la vérification faciale est activée pour un examen, téléchargez votre photo de tête avant l’examen pour éviter tout retard.",
+    "description": "2.0 exam.js"
+  },
+  "goToIdentify": {
+    "message": "Commencer",
+    "description": "2.0 exam.js"
+  },
+  "addExam": {
+    "message": "Ajouter un examen de cours",
+    "description": "2.0 exam.js"
+  },
+  "examPaperLibrary": {
+    "message": "Banque d’examens",
+    "description": "2.0 exam.js"
+  },
+  "questionLibrary": {
+    "message": "Banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "Vérification de la conformité de l’ordinateur",
+    "description": "2.0 exam.js"
+  },
+  "examName": {
+    "message": "Nom de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "field": {
+    "message": "Nombre total de sessions {count}",
+    "description": "指有多少场考试"
+  },
+  "creator": {
+    "message": "Créé par",
+    "description": "2.0 exam.js"
+  },
+  "examTime": {
+    "message": "Heure de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "examPaper": {
+    "message": "Versions",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes": {
+    "message": "Tentatives",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimes": {
+    "message": "Tentatives/Tentatives",
+    "description": "2.0 {filename}"
+  },
+  "achievement": {
+    "message": "Score",
+    "description": "2.0 exam.js"
+  },
+  "noStart": {
+    "message": "Non démarré",
+    "description": "2.0 exam.js"
+  },
+  "onGoing": {
+    "message": "En cours",
+    "description": "2.0 exam.js"
+  },
+  "hasEnded": {
+    "message": "Terminé",
+    "description": "2.0 exam.js"
+  },
+  "examDurationCl": {
+    "message": "Durée de l’examen: {count} min",
+    "description": "2.0 exam.js"
+  },
+  "lateTime": {
+    "message": "Début tardif : {count}",
+    "description": "2.0 exam.js"
+  },
+  "lateTimeSet": {
+    "message": "Début tardif",
+    "description": "2.0 exam.js"
+  },
+  "myself": {
+    "message": "Moi",
+    "description": "2.0 exam.js"
+  },
+  "start": {
+    "message": "Commencer",
+    "description": "2.0 exam.js"
+  },
+  "startDatePrefix": {
+    "message": "Début: {heure}",
+    "description": "2.0 {filename}"
+  },
+  "ended": {
+    "message": "Fin",
+    "description": "2.0 exam.js"
+  },
+  "endDatePrefix": {
+    "message": "Fin : {heure}",
+    "description": "2.0 {filename}"
+  },
+  "noBatch": {
+    "message": "Pas de sessions",
+    "description": "2.0 exam.js"
+  },
+  "partOf": {
+    "message": "{n} ensemble(s)",
+    "description": "教师账号 -> 考试"
+  },
+  "randomGroupPaper": {
+    "message": "Examen aléatoire",
+    "description": "2.0 exam.js"
+  },
+  "viewScore": {
+    "message": "Afficher les résultats",
+    "description": "2.0 exam.js"
+  },
+  "previewExam": {
+    "message": "Aperçu examen",
+    "description": "2.0 exam.js"
+  },
+  "modifyExam": {
+    "message": "Modifier l’examen",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatch": {
+    "message": "Modifier la session",
+    "description": "2.0 exam.js"
+  },
+  "delete": {
+    "message": "Supprimer",
+    "description": "2.0 exam.js"
+  },
+  "startExam": {
+    "message": "Commencer",
+    "description": "2.0 exam.js"
+  },
+  "examTips2": {
+    "message": "Passez l’examen via Ulearning APP",
+    "description": "2.0 exam.js"
+  },
+  "examTips3": {
+    "message": "Vous n’êtes pas autorisé à passer l’examen puisque vous avez réussi l’heure de début tardive autorisée.",
+    "description": "2.0 exam.js"
+  },
+  "examTips4": {
+    "message": "Auto/Manuel : ",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinished": {
+    "message": "Montrer ",
+    "description": "2.0 exam.js"
+  },
+  "dayShowExam": {
+    "message": "{n} jours après la fin de l’examen",
+    "description": "学生账号 -> 考试"
+  },
+  "examTips5": {
+    "message": "Les résultats ne sont pas publiés pour le moment",
+    "description": "2.0 exam.js"
+  },
+  "examTips6": {
+    "message": "Aucun examen trouvé.",
+    "description": "2.0 exam.js"
+  },
+  "noExam": {
+    "message": "Aucun examen trouvé.",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips": {
+    "message": "Erreur réseau, cliquez sur ",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips2": {
+    "message": "Erreur réseau ! Cliquez sur {button} pour recharger.",
+    "description": "2.0 {filename}"
+  },
+  "loadErrorTips": {
+    "message": "Erreur de chargement, cliquez sur ",
+    "description": "2.0 exam.js"
+  },
+  "reload": {
+    "message": "Recharger",
+    "description": "2.0 exam.js"
+  },
+  "unlimited": {
+    "message": "Aucune limite",
+    "description": "2.0 exam.js"
+  },
+  "examTips7": {
+    "message": "Voulez-vous vraiment supprimer l’examen ?",
+    "description": "2.0 exam.js"
+  },
+  "deletePaper": {
+    "message": "Supprimer l’examen",
+    "description": "2.0 exam.js"
+  },
+  "deleteSuccess": {
+    "message": "Supprimé avec succès !",
+    "description": "2.0 exam.js"
+  },
+  "deleteFailed": {
+    "message": "Impossible de supprimer !",
+    "description": "2.0 exam.js"
+  },
+  "batchRemarkQue": {
+    "message": "Grader le lot",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips1": {
+    "message": "Remarques : Si plusieurs tentatives sont autorisées, le dernier enregistrement de réponse est affiché par défaut.",
+    "description": "2.0 exam.js"
+  },
+  "totalQue": {
+    "message": "Total {n} ",
+    "description": "2.0 exam.js"
+  },
+  "queOf": {
+    "message": "{n} ",
+    "description": "2.0 exam.js"
+  },
+  "queIndex": {
+    "message": "Question {n} ,",
+    "description": "2.0 exam.js"
+  },
+  "answeringCount": {
+    "message": "Tentative {n}  ",
+    "description": "2.0 exam.js"
+  },
+  "seeDetails": {
+    "message": "Voir les détails",
+    "description": "2.0 exam.js"
+  },
+  "allAnswer": {
+    "message": "Toutes les réponses",
+    "description": "2.0 exam.js"
+  },
+  "thisQueFullScore": {
+    "message": "Points possibles : {grade} ",
+    "description": "2.0 exam.js"
+  },
+  "noMark": {
+    "message": "Non noté",
+    "description": "2.0 exam.js"
+  },
+  "hasMarked": {
+    "message": "Déja gradé",
+    "description": "2.0 exam.js"
+  },
+  "batchScore": {
+    "message": "Grader le lot",
+    "description": "2.0 exam.js"
+  },
+  "openedAnonymousMarking": {
+    "message": "La notation anonyme est activée",
+    "description": "2.0 exam.js"
+  },
+  "preview": {
+    "message": "Aperçu",
+    "description": "2.0 exam.js"
+  },
+  "download": {
+    "message": "Télécharger",
+    "description": "2.0 exam.js"
+  },
+  "modifyScore": {
+    "message": "Modifier le score",
+    "description": "2.0 exam.js"
+  },
+  "approximateAnswerBatchScore": {
+    "message": "Gradez le lot pour des réponses similaires",
+    "description": "2.0 exam.js"
+  },
+  "inputScore": {
+    "message": "Cliquez pour entrer le score",
+    "description": "2.0 exam.js"
+  },
+  "fullScore": {
+    "message": "Total possible ",
+    "description": "2.0 exam.js"
+  },
+  "save": {
+    "message": "Sauvegarder",
+    "description": "2.0 exam.js"
+  },
+  "noStudent": {
+    "message": "Plus d’étudiants",
+    "description": "2.0 exam.js"
+  },
+  "commit": {
+    "message": "Envoyer",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips2": {
+    "message": "Plus de questions à noter",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips3": {
+    "message": "Remarques : vous pouvez noter cette question par lots pour tous les élèves, puis modifier le score individuellement pour certains élèves.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentPreview": {
+    "message": "Aperçu de la pièce jointe",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips4": {
+    "message": "Parmi les élèves à noter, le système a trouvé ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips5": {
+    "message": "réponses similaires. Si vous acceptez les résultats de la recherche, cliquez sur le bouton OK pour enregistrer le score.",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[0]": {
+    "message": "Choix multiples",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[1]": {
+    "message": "Réponse multiple",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[2]": {
+    "message": "Remplissez le vide",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[3]": {
+    "message": "Vrai/Faux",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[4]": {
+    "message": "Réponse courte",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[5]": {
+    "message": "Correspondant",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[6]": {
+    "message": "Lecture",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[7]": {
+    "message": "Écoute",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[8]": {
+    "message": "Écrit",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[9]": {
+    "message": "Traduction",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[10]": {
+    "message": "Texte à trous",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[11]": {
+    "message": "Séquence",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[12]": {
+    "message": "Explication",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[13]": {
+    "message": "Grammaire",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[14]": {
+    "message": "Vocabulaire",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[15]": {
+    "message": "Langue - Oral",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[16]": {
+    "message": "Banque de mots",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[17]": {
+    "message": "Téléchargement de fichiers",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[18]": {
+    "message": "Langue - Lire à haute voix",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[19]": {
+    "message": "Lecture - Combler les lacunes",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[20]": {
+    "message": "Essai",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[21]": {
+    "message": "Analyse",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[22]": {
+    "message": "Liste déroulante multiple",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[23]": {
+    "message": "Combinaison",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[24]": {
+    "message": "Formule calculée",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[0]": {
+    "message": "Très facile",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[1]": {
+    "message": "Facile",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[2]": {
+    "message": "Moyenne",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[3]": {
+    "message": "Difficile",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[4]": {
+    "message": "Très difficile",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips6": {
+    "message": "Cet étudiant n’a pas répondu",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips7": {
+    "message": "Aucune réponse similaire n’est trouvée parmi les réponses non graduées",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips8": {
+    "message": "Cliquez pour entrer le score",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips9": {
+    "message": "Entrez un score valide avec une décimale seulement",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips10": {
+    "message": "Le score ne peut pas être supérieur au total possible",
+    "description": "2.0 exam.js"
+  },
+  "timesOf": {
+    "message": "{n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
+  },
+  "baseInformation": {
+    "message": "Informations de base",
+    "description": "2.0 exam.js"
+  },
+  "examNameCl": {
+    "message": "Nom de l’examen : ",
+    "description": "2.0 exam.js"
+  },
+  "answerDurationCl": {
+    "message": "Temps d’examen utilisé : {count} ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOf": {
+    "message": "Tentatives : {count}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "passScoreCl": {
+    "message": "Note de passage: ",
+    "description": "2.0 exam.js"
+  },
+  "participtionWaysCl": {
+    "message": "Appareils autorisés : ",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicTimeCl": {
+    "message": "Afficher les résultats : ",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicScopeCl": {
+    "message": "Ce qu’il faut montrer: ",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationCl": {
+    "message": "Vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "opened": {
+    "message": "Activé",
+    "description": "2.0 exam.js"
+  },
+  "notOpened": {
+    "message": "Non activé",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCode": {
+    "message": "Code de vérification alternatif",
+    "description": "2.0 exam.js"
+  },
+  "detailTips1": {
+    "message": "1. Utilisez ce code pour permettre à un candidat de passer l’examen si la vérification faciale a échoué ou n’est pas disponible.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips2": {
+    "message": "2. Le code est valide pendant 15 minutes. Après 15 minutes, vous devez venir ici pour en obtenir un nouveau.",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "Vérification des photos faciales des étudiants",
+    "description": "2.0 exam.js"
+  },
+  "sets": {
+    "message": " ",
+    "description": "2.0 exam.js"
+  },
+  "enabled": {
+    "message": "Activé",
+    "description": "2.0 exam.js"
+  },
+  "queNumberCl": {
+    "message": "Questions de section : ",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreCl": {
+    "message": "Total possible : ",
+    "description": "2.0 exam.js"
+  },
+  "setExamStructure": {
+    "message": "Définir la structure de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "phone": {
+    "message": "Appareils mobiles",
+    "description": "2.0 exam.js"
+  },
+  "pcAndMobile": {
+    "message": "PC et appareil mobile",
+    "description": "2.0 exam.js"
+  },
+  "notShow": {
+    "message": "Ne pas montrer",
+    "description": "2.0 exam.js"
+  },
+  "commitImmediatelyShow": {
+    "message": "Immédiatement",
+    "description": "2.0 exam.js"
+  },
+  "cannotAllForbidden": {
+    "message": "Conservez au moins un examen",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthentication": {
+    "message": "Vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "myAuthenticationPhoto": {
+    "message": "Ma photo pour vérification",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips1": {
+    "message": "Cliquez pour télécharger votre photo faciale",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips2": {
+    "message": "Notes: ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips3": {
+    "message": "Votre photo faciale est utilisée pour la vérification du visage pour passer l’examen. Assurez-vous de télécharger votre propre photo faciale. L’enseignant examinera et vérifiera si la photo que vous avez téléchargée est vous. Sinon, cela sera traité comme de la tricherie. Vous ne serez pas autorisé à passer l’examen ou à échouer à l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips4": {
+    "message": " La photo ne peut pas être mise à jour/remplacée après avoir été téléchargée. ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips5": {
+    "message": "Avant de le télécharger, assurez-vous que c’est celui qui est prêt.",
+    "description": "2.0 exam.js"
+  },
+  "authenticatePhoto": {
+    "message": "Photo sélectionnée",
+    "description": "2.0 exam.js"
+  },
+  "reUpload": {
+    "message": "Re-télécharger",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips6": {
+    "message": "Testez-le pour vous assurer qu’il fonctionne avant de le télécharger",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips7": {
+    "message": "Cliquez pour tester",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips8": {
+    "message": "Faites face à la caméra et assurez-vous qu’il y a suffisamment de lumière",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthenticateFailed": {
+    "message": "Échec de la vérification du visage",
+    "description": "2.0 exam.js"
+  },
+  "reTry": {
+    "message": "Réessayer",
+    "description": "2.0 exam.js"
+  },
+  "authenticateSuccess": {
+    "message": "Vérification faciale réussie",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips9": {
+    "message": "Demandez à votre enseignant ou à votre surveillant le code de vérification et entrez le code ci-dessous.",
+    "description": "2.0 exam.js"
+  },
+  "verificationCodeError": {
+    "message": "Code de vérification incorrect!",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips10": {
+    "message": "Recadrer la photo",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips11": {
+    "message": "Faites glisser l’image/une bordure d’image pour ajuster le recadrage",
+    "description": "2.0 exam.js"
+  },
+  "auditor": {
+    "message": "Réviseur: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTimeCl": {
+    "message": "Temps pour revoir l’examen: ",
+    "description": "2.0 exam.js"
+  },
+  "refuseReasonCl": {
+    "message": "Raison du rejet : ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips12": {
+    "message": "La photo ne correspond pas à la personne",
+    "description": "2.0 exam.js"
+  },
+  "waitTeaAudit": {
+    "message": "En attente pour la revue",
+    "description": "2.0 exam.js"
+  },
+  "auditPassed": {
+    "message": "Accepté",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditPassVerb": {
+    "message": "Accepter",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditFailed": {
+    "message": "Rejeté",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips13": {
+    "message": "Testez la photo pour vous assurer qu’elle fonctionne pour la vérification du visage",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips14": {
+    "message": "La taille du fichier ne peut pas dépasser 10 Mo",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips1": {
+    "message": "La notation anonyme est activée pour cet examen",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips2": {
+    "message": "Examens qui m’ont été assignés : ",
+    "description": "2.0 exam.js"
+  },
+  "readedCl": {
+    "message": "Déja gradé",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedCl": {
+    "message": "Non grader",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips3": {
+    "message": "L’organisateur de l’examen attribue le nombre d’examens à noter",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips4": {
+    "message": "Entrez dans l’examen par la vérification du visage",
+    "description": "2.0 exam.js"
+  },
+  "toBeAudit": {
+    "message": "À vérifier",
+    "description": "2.0 exam.js"
+  },
+  "thisTimeExamPhoto": {
+    "message": "Photos pour cet examen",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips5": {
+    "message": "Entrez dans l’examen via le code de vérification",
+    "description": "2.0 exam.js"
+  },
+  "studentNOCl2": {
+    "message": "Carte d’étudiant : {no}",
+    "description": "2.0 {filename}"
+  },
+  "classOf": {
+    "message": "Classe : {className}",
+    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
+  },
+  "waitApproved": {
+    "message": "En attente",
+    "description": "2.0 exam.js"
+  },
+  "examinationBehaviorTrajectory": {
+    "message": "Registre d'actions",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips6": {
+    "message": "Étant donné que le système a détecté plus de comportements suspects que ce qui était autorisé, votre examen a été soumis involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips7": {
+    "message": "Lorsque l’examen est terminé, le système soumettra automatiquement l’examen",
+    "description": "2.0 exam.js"
+  },
+  "computerTerminal": {
+    "message": "PC",
+    "description": "2.0 exam.js"
+  },
+  "mobileTerminal": {
+    "message": "Mobile",
+    "description": "2.0 exam.js"
+  },
+  "mobileApp": {
+    "message": "Application ULearning",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips8": {
+    "message": "Laissé trop long, comportement marqué + 1",
+    "description": "2.0 exam.js"
+  },
+  "intoPage": {
+    "message": "Entré dans la page",
+    "description": "2.0 exam.js"
+  },
+  "leavePage": {
+    "message": "Page de gauche",
+    "description": "2.0 exam.js"
+  },
+  "commitExam": {
+    "message": "Examen soumis",
+    "description": "2.0 exam.js"
+  },
+  "batchArrangement": {
+    "message": "Sessions",
+    "description": "2.0 exam.js"
+  },
+  "examRoomArrangement": {
+    "message": "Équipement",
+    "description": "2.0 exam.js"
+  },
+  "markExamArrangement": {
+    "message": "Classement",
+    "description": "2.0 exam.js"
+  },
+  "markingTips1": {
+    "message": "Examens contenant des questions de notation manuelle : ",
+    "description": "2.0 exam.js"
+  },
+  "markingTips2": {
+    "message": "Attribuer uniformément la notation",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumberCl": {
+    "message": "Non grader :",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumberCl": {
+    "message": "Déja gradé:",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumber": {
+    "message": "Non grader",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumber": {
+    "message": "Déja gradé",
+    "description": "2.0 exam.js"
+  },
+  "closeAnonymousMarking": {
+    "message": "Désactiver la notation anonyme",
+    "description": "2.0 exam.js"
+  },
+  "openAnonymousMarking": {
+    "message": "Activer la notation anonyme",
+    "description": "2.0 exam.js"
+  },
+  "teacher": {
+    "message": "Enseignant",
+    "description": "2.0 exam.js"
+  },
+  "markingTips3": {
+    "message": "Déja gradé",
+    "description": "2.0 exam.js"
+  },
+  "markingTips4": {
+    "message": "Assigné",
+    "description": "2.0 exam.js"
+  },
+  "participants": {
+    "message": "Oui",
+    "description": "2.0 exam.js"
+  },
+  "noParticipants": {
+    "message": "Non",
+    "description": "2.0 exam.js"
+  },
+  "finished": {
+    "message": "Completé",
+    "description": "2.0 exam.js"
+  },
+  "markRecord": {
+    "message": "Enregistrements des notations",
+    "description": "2.0 exam.js"
+  },
+  "teacherCl": {
+    "message": "Enseignant: ",
+    "description": "2.0 exam.js"
+  },
+  "markTime": {
+    "message": "Noté à",
+    "description": "2.0 exam.js"
+  },
+  "viewMarkDetail": {
+    "message": "Voir les détails",
+    "description": "2.0 exam.js"
+  },
+  "markingTips5": {
+    "message": "Le nombre d’examens attribués ne peut pas dépasser le nombre d’examens contenant des questions de notation manuelle",
+    "description": "2.0 exam.js"
+  },
+  "arrangingExamRoom": {
+    "message": "Planifier l’installation d’examen",
+    "description": "2.0 exam.js"
+  },
+  "exportTable": {
+    "message": "Planification de l’exportation",
+    "description": "2.0 exam.js"
+  },
+  "batch": {
+    "message": "Session",
+    "description": "2.0 exam.js"
+  },
+  "batchNo": {
+    "message": "Sessions: {n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "batchNoTime": {
+    "message": "Session {n}: {startTime} à {endTime} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "clearExamRoomPlan": {
+    "message": "Supprimer le calendrier des equipements",
+    "description": "2.0 exam.js"
+  },
+  "noDesignatedExamRoom": {
+    "message": "-Aucune dispositif d’examen prévue-",
+    "description": "2.0 exam.js"
+  },
+  "examRoom": {
+    "message": "Dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "classAndStudent": {
+    "message": "Classe/Étudiant",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber": {
+    "message": "Nombre de sièges",
+    "description": "2.0 exam.js"
+  },
+  "examStuNumber": {
+    "message": "Candidats",
+    "description": "2.0 exam.js"
+  },
+  "remainSeat": {
+    "message": "Places disponibles",
+    "description": "2.0 exam.js"
+  },
+  "invigilator": {
+    "message": "Proctor",
+    "description": "2.0 exam.js"
+  },
+  "etcOfPeople": {
+    "message": "{name}..., {n} étudiants",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "etcOf": {
+    "message": "{nom}...",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+  },
+  "peopleOf": {
+    "message": "[{n}]",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "empty": {
+    "message": "Vide",
+    "description": "2.0 exam.js"
+  },
+  "nnallocated": {
+    "message": "Cliquez pour ajouter",
+    "description": "2.0 exam.js"
+  },
+  "exanStuList": {
+    "message": "Liste des candidats",
+    "description": "2.0 exam.js"
+  },
+  "chooseInvigilator": {
+    "message": "Sélectionnez Proctor",
+    "description": "2.0 exam.js"
+  },
+  "inputTeaNameSearch": {
+    "message": "Entrez le nom de l’enseignant à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "roomTips1": {
+    "message": "Aucune donnée trouvée. Veuillez modifier les critères de recherche pour réessayer.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips2": {
+    "message": "Voulez-vous vraiment supprimer toutes les installations d’examen et les surveillants pour cette session?",
+    "description": "2.0 exam.js"
+  },
+  "addBatch": {
+    "message": "Ajouter une session",
+    "description": "2.0 exam.js"
+  },
+  "someBatch": {
+    "message": "Nombre total de sessions {count}",
+    "description": "2.0 exam.js"
+  },
+  "time": {
+    "message": "Heure",
+    "description": "2.0 exam.js"
+  },
+  "participantsClassAndStu": {
+    "message": "Classes/Étudiants",
+    "description": "2.0 exam.js"
+  },
+  "shouldArrivePeople": {
+    "message": "Tous les candidats",
+    "description": "2.0 exam.js"
+  },
+  "participantsNumber": {
+    "message": "Commencé",
+    "description": "2.0 exam.js"
+  },
+  "nonParticipantsNumber": {
+    "message": "Non démarré",
+    "description": "2.0 exam.js"
+  },
+  "studentBrackets": {
+    "message": "[Étudiant]",
+    "description": "2.0 exam.js"
+  },
+  "someClassAndStu": {
+    "message": "Classes/Étudiants",
+    "description": "2.0 exam.js"
+  },
+  "modify": {
+    "message": "Éditer",
+    "description": "2.0 exam.js"
+  },
+  "checkAll": {
+    "message": "Choisir tout",
+    "description": "2.0 exam.js"
+  },
+  "expandEndTime": {
+    "message": "Prolonger la durée de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "examTimeCl": {
+    "message": "Heure de l’examen: ",
+    "description": "2.0 exam.js"
+  },
+  "startTime": {
+    "message": "Heure de début",
+    "description": "2.0 exam.js"
+  },
+  "endTime": {
+    "message": "Heure de fin",
+    "description": "2.0 exam.js"
+  },
+  "participantsPeople": {
+    "message": "Candidats: ",
+    "description": "2.0 exam.js"
+  },
+  "addClass": {
+    "message": "Ajouter une classe",
+    "description": "2.0 exam.js"
+  },
+  "addStudent": {
+    "message": "Ajouter un étudiant",
+    "description": "2.0 exam.js"
+  },
+  "selectClass": {
+    "message": "Choisir une classe",
+    "description": "2.0 exam.js"
+  },
+  "selectStudent": {
+    "message": "Sélectionner un étudiant",
+    "description": "2.0 exam.js"
+  },
+  "allTeacher": {
+    "message": "Tous les enseignants",
+    "description": "2.0 exam.js"
+  },
+  "inputClassNameSearch": {
+    "message": "Entrez le nom de la classe à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "roomTips3": {
+    "message": "Entrez le nom de l’étudiant/l’ID de l’étudiant à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "roomTips4": {
+    "message": "L’enseignant n’a pas de classe assignée",
+    "description": "2.0 exam.js"
+  },
+  "roomTips5": {
+    "message": "Aucune classe trouvée.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips6": {
+    "message": "Aucun étudiant trouvé.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips7": {
+    "message": "Pas d’étudiant",
+    "description": "2.0 exam.js"
+  },
+  "batchExpand": {
+    "message": "La session s’étend {count} min ",
+    "description": "2.0 exam.js"
+  },
+  "roomTips8": {
+    "message": "Remarques: après la prolongation de l’examen, les étudiants qui sont en retard ou qui ont un temps d’examen insuffisant pour d’autres raisons verront leur temps d’examen prolongé en conséquence. Les étudiants qui passent et soumettent l’examen comme d’habitude ne seront pas affectés.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips9": {
+    "message": "La durée de prolongation devrait être comprise entre 1 et 1000",
+    "description": "2.0 exam.js"
+  },
+  "expandSuccess": {
+    "message": "Prolongé avec succès!",
+    "description": "2.0 exam.js"
+  },
+  "expandFailed": {
+    "message": "N’a pas réussi à prolonger!",
+    "description": "2.0 exam.js"
+  },
+  "roomTips10": {
+    "message": "La suppression de cette session peut supprimer les réponses à l’examen associées à cette session. Êtes-vous sûr de vouloir le supprimer?",
+    "description": "2.0 exam.js"
+  },
+  "roomTips11": {
+    "message": "Voulez-vous vraiment supprimer cette fonction d’examen ?",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch": {
+    "message": "Supprimer la session",
+    "description": "2.0 exam.js"
+  },
+  "roomTips12": {
+    "message": "Définir l’heure de la session",
+    "description": "2.0 exam.js"
+  },
+  "roomTips13": {
+    "message": "Sélectionnez les preneurs (classes/étudiants)",
+    "description": "2.0 exam.js"
+  },
+  "monitor": {
+    "message": "Moniteur",
+    "description": "2.0 exam.js"
+  },
+  "openedFaceVerification": {
+    "message": "La vérification faciale est activée",
+    "description": "2.0 exam.js"
+  },
+  "viewStandbyVerificationCode": {
+    "message": "Afficher l’autre code de vérification",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips1": {
+    "message": "1. Utilisez ce code pour permettre à un candidat de passer l’examen si la vérification faciale a échoué ou n’est pas disponible.",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips2": {
+    "message": "2. Le code est valide pendant 15 minutes. Après 15 minutes, vous devez venir ici pour en obtenir un nouveau.",
+    "description": "2.0 exam.js"
+  },
+  "allExamRoom": {
+    "message": "Toutes les dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "inputNameAndStuNoSearch": {
+    "message": "Entrez le nom de l’étudiant/l’ID de l’étudiant à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "exportMonitorInfo": {
+    "message": "Informations de surveillance des exportations",
+    "description": "2.0 exam.js"
+  },
+  "exportPhotos": {
+    "message": "Exporter la photo",
+    "description": "2.0 exam.js"
+  },
+  "noEnterExam": {
+    "message": "Non démarré",
+    "description": "2.0 exam.js"
+  },
+  "byVerificationCode": {
+    "message": "Par le voie d’un code de vérification",
+    "description": "2.0 exam.js"
+  },
+  "intoExam": {
+    "message": "Commencer l’examen",
+    "description": "2.0 exam.js"
+  },
+  "answering": {
+    "message": "En cours",
+    "description": "2.0 exam.js"
+  },
+  "handInExam": {
+    "message": "Soumis",
+    "description": "2.0 exam.js"
+  },
+  "equipment": {
+    "message": "Appareil",
+    "description": "2.0 exam.js"
+  },
+  "verificationType": {
+    "message": "Méthode de vérification",
+    "description": "2.0 exam.js"
+  },
+  "intoExamTime": {
+    "message": "Commencé à",
+    "description": "2.0 exam.js"
+  },
+  "answerTimeMinite": {
+    "message": "Durée (min)",
+    "description": "2.0 exam.js"
+  },
+  "faceVerification": {
+    "message": "Vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "verificationCode": {
+    "message": "Code de vérification",
+    "description": "2.0 exam.js"
+  },
+  "abnormalRecord": {
+    "message": "Enregistrements d’indicateur",
+    "description": "2.0 exam.js"
+  },
+  "haveEntered": {
+    "message": "Commencé",
+    "description": "2.0 exam.js"
+  },
+  "notEnter": {
+    "message": "Non démarré",
+    "description": "2.0 exam.js"
+  },
+  "beAnswering": {
+    "message": "En cours",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl": {
+    "message": "Notes: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips1": {
+    "message": "Pour les examens avec la vérification faciale activée, les photos faciales des étudiants doivent être téléchargées à l’avance. Les photos faciales peuvent être téléchargées soit par vous par lots, soit par les étudiants. Vous devez vérifier les photos téléchargées par les étudiants. Cependant, dans les paramètres d’examen, vous pouvez choisir d’autoriser les étudiants à passer l’examen sans que leurs photos faciales ne soient vérifiées. Sinon, les étudiants qui n’ont pas vérifié et accepté leurs photos faciales ne seront pas autorisés à passer l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "batchExportPhotos": {
+    "message": "Importer des photos par lots",
+    "description": "2.0 exam.js"
+  },
+  "exportAuthenticationInfo": {
+    "message": "Exporter la vérification de la photo",
+    "description": "2.0 exam.js"
+  },
+  "unuploadedPhotos": {
+    "message": "Non téléchargé",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "unuploadedPhotosAlt": {
+    "message": "Photo indisponible",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "batchOpration": {
+    "message": "Actions par lots",
+    "description": "2.0 exam.js"
+  },
+  "finish": {
+    "message": "Terminé",
+    "description": "2.0 exam.js"
+  },
+  "checkAllWholePage": {
+    "message": "Sélectionnez tout sur cette page",
+    "description": "2.0 exam.js"
+  },
+  "batchAudit": {
+    "message": "Photos de vérification par lots",
+    "description": "2.0 exam.js"
+  },
+  "batchClearPhoto": {
+    "message": "Supprimer des photos par lots",
+    "description": "2.0 exam.js"
+  },
+  "replacePhoto": {
+    "message": "Télécharger une nouvelle photo",
+    "description": "2.0 exam.js"
+  },
+  "reAudit": {
+    "message": "Re-vérifier",
+    "description": "2.0 exam.js"
+  },
+  "photoUploader": {
+    "message": "Téléchargé par :",
+    "description": "2.0 exam.js"
+  },
+  "photoUploadTimeCl": {
+    "message": "Téléchargé à l’adresse :",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditorCl": {
+    "message": "Revu par: ",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditTimeCl": {
+    "message": "Revu à : ",
+    "description": "2.0 exam.js"
+  },
+  "batchExportAuthenticationPhoto": {
+    "message": "Importation par lots de photos faciales d’étudiants",
+    "description": "2.0 exam.js"
+  },
+  "authenticationPhotoRequire": {
+    "message": "Exigences pour la photo faciale",
+    "description": "2.0 exam.js"
+  },
+  "auditTips2": {
+    "message": "Format : jpg, jpeg, png et bmp.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips3": {
+    "message": "Largeur x Hauteur: 413x295 px ou une taille différente avec le même rapport d’aspect est recommandé.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips4": {
+    "message": "Le nom de la photo doit contenir la carte d’étudiant et aucun autre numéro.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips5": {
+    "message": "Si votre école utilise un système d’information sur les élèves (SIS) pour alimenter les données des élèves dans ULearning. Nous recommandons à votre école de pré-télécharger les photos faciales des élèves à partir du SIS.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips6": {
+    "message": "Exemples de dénomination de photos",
+    "description": "2.0 exam.js"
+  },
+  "auditTips7": {
+    "message": "Zhang San",
+    "description": "2.0 exam.js"
+  },
+  "auditTips8": {
+    "message": "Compressez toutes les photos faciales des étudiants dans un fichier .zip à télécharger.",
+    "description": "2.0 exam.js"
+  },
+  "uploadPhoto": {
+    "message": "Télécharger",
+    "description": "2.0 exam.js"
+  },
+  "cancelUpload": {
+    "message": "Annuler",
+    "description": "2.0 exam.js"
+  },
+  "batchAuditAuthenticationPhoto": {
+    "message": "Batch Verify Student Facial Photos",
+    "description": "2.0 exam.js"
+  },
+  "auditTips9": {
+    "message": "Cliquez pour entrer la ou les raisons pour lesquelles la photo faciale est inacceptable. Par exemple, ce n’est pas la photo faciale de cet élève.",
+    "description": "2.0 exam.js"
+  },
+  "batchClearAuthenticationPhoto": {
+    "message": "Supprimer des photos par lots",
+    "description": "2.0 exam.js"
+  },
+  "auditTips26": {
+    "message": "La suppression de photos est irrécupérable. Êtes-vous sûr de vouloir les supprimer",
+    "description": "2.0 exam.js"
+  },
+  "auditTips10": {
+    "message": " photos faciales d’étudiants?",
+    "description": "2.0 exam.js"
+  },
+  "auditTips12": {
+    "message": "Veuillez attendre que la dernière image soit téléchargée",
+    "description": "2.0 exam.js"
+  },
+  "auditTips13": {
+    "message": "Sélectionnez l’étudiant à réviser",
+    "description": "2.0 exam.js"
+  },
+  "auditTips14": {
+    "message": "Sélectionnez l’étudiant dont vous souhaitez supprimer la photo",
+    "description": "2.0 exam.js"
+  },
+  "auditTips15": {
+    "message": "Le fichier zip téléchargé ne peut pas dépasser 1 Go",
+    "description": "2.0 exam.js"
+  },
+  "uploaded": {
+    "message": "Téléchargé",
+    "description": "2.0 exam.js"
+  },
+  "auditTips16": {
+    "message": "Téléchargement terminé! Les photos sont assorties au bon élève...",
+    "description": "2.0 exam.js"
+  },
+  "auditTips17": {
+    "message": "L’importation est terminée. Importation réussie ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips18": {
+    "message": "morceaux de photos vérifiées. Raté",
+    "description": "2.0 exam.js"
+  },
+  "auditTips19": {
+    "message": " Photos. La carte d’étudiant ou le format du fichier photo pour les étudiants suivants sont incorrects (",
+    "description": "2.0 exam.js"
+  },
+  "auditTips20": {
+    "message": "L’importation est terminée. Importation réussie ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips21": {
+    "message": "photos faciales des étudiants.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips22": {
+    "message": "Aucune photo n’a été trouvée dans le fichier .zip sélectionné. Assurez-vous d’avoir sélectionné le bon fichier.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips23": {
+    "message": "Erreur d’importation de photos!",
+    "description": "2.0 exam.js"
+  },
+  "auditTips24": {
+    "message": "Le téléchargement a échoué ! Vérifiez le format de fichier.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips25": {
+    "message": "Erreur de téléchargement!",
+    "description": "2.0 exam.js"
+  },
+  "myQuestionLibrary": {
+    "message": "Ma banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "examPaperTitle": {
+    "message": "Nom de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "examStructure": {
+    "message": "Structure de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "queTotalNumberCl": {
+    "message": "Questions d’examen: ",
+    "description": "2.0 exam.js"
+  },
+  "examPaperFullScore": {
+    "message": "Points d’examen : ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips1": {
+    "message": "Copier la structure d’examen existante",
+    "description": "2.0 exam.js"
+  },
+  "inputSectionName": {
+    "message": "Cliquez pour entrer le nom de la section",
+    "description": "2.0 exam.js"
+  },
+  "scoreCl": {
+    "message": "Points:",
+    "description": "2.0 exam.js"
+  },
+  "moveUp": {
+    "message": "Monter",
+    "description": "2.0 exam.js"
+  },
+  "moveDown": {
+    "message": "Descendre",
+    "description": "2.0 exam.js"
+  },
+  "extractQueNumberCl": {
+    "message": "Choisir: ",
+    "description": "2.0 exam.js"
+  },
+  "eachContainSubQue": {
+    "message": "Sous-questions : ",
+    "description": "2.0 exam.js"
+  },
+  "eachQueScoreCl": {
+    "message": "Pts par question : ",
+    "description": "2.0 exam.js"
+  },
+  "subQueScoreCl": {
+    "message": "Points:",
+    "description": "2.0 exam.js"
+  },
+  "containSubQueType": {
+    "message": "Types de sous-questions : ",
+    "description": "2.0 exam.js"
+  },
+  "extractMenuCl": {
+    "message": "Répertoire de questions à choisir : ",
+    "description": "2.0 exam.js"
+  },
+  "seleteMenu": {
+    "message": "Sélectionnez Répertoire",
+    "description": "2.0 exam.js"
+  },
+  "randomTips2": {
+    "message": " (Le répertoire n’est pas valide)",
+    "description": "2.0 exam.js"
+  },
+  "randomTips3": {
+    "message": "Remarques : Une question combinée contient plusieurs sous-questions. Une seule question combinée peut être tirée.",
+    "description": "2.0 exam.js"
+  },
+  "addQuestionType": {
+    "message": "Ajouter un type de question",
+    "description": "2.0 exam.js"
+  },
+  "addSection": {
+    "message": "Ajouter une section",
+    "description": "2.0 exam.js"
+  },
+  "copyExamStructure": {
+    "message": "Copier la structure de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "selectCourse": {
+    "message": "Sélectionner un cours",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "Veuillez sélectionner le cours",
+    "description": "2.0 exam.js"
+  },
+  "selectExam": {
+    "message": "Sélectionner l’examen du cours",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExam": {
+    "message": "Veuillez sélectionner l’examen du cours",
+    "description": "2.0 exam.js"
+  },
+  "selectExamPaper": {
+    "message": "Sélectionnez l’examen :",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamPaper": {
+    "message": "Veuillez sélectionner l’examen",
+    "description": "2.0 exam.js"
+  },
+  "selectExtractMenuCl": {
+    "message": "Sélectionnez le répertoire de questions à choisir",
+    "description": "2.0 exam.js"
+  },
+  "schoolQuestionLibrary": {
+    "message": "Banque de questions scolaires",
+    "description": "2.0 exam.js"
+  },
+  "randomTips4": {
+    "message": "Aucun répertoire n’a été créé ! ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips5": {
+    "message": "Tout d’abord, allez à  ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips6": {
+    "message": "Ma banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "randomTips7": {
+    "message": "pour ajouter un dossier (répertoire).",
+    "description": "2.0 exam.js"
+  },
+  "singleChoiceQ": {
+    "message": "Choix multiples",
+    "description": "2.0 exam.js"
+  },
+  "multipleChoiceQ": {
+    "message": "Réponse multiple",
+    "description": "2.0 exam.js"
+  },
+  "completionQ": {
+    "message": "Remplissez le vide",
+    "description": "2.0 exam.js"
+  },
+  "judgementQ": {
+    "message": "Vrai/Faux",
+    "description": "2.0 exam.js"
+  },
+  "shortAnswerQ": {
+    "message": "Réponse courte",
+    "description": "2.0 exam.js"
+  },
+  "sequencingQ": {
+    "message": "Séquence",
+    "description": "2.0 exam.js"
+  },
+  "comprehensiveQ": {
+    "message": "Combinaison",
+    "description": "2.0 exam.js"
+  },
+  "pullDownSelectionQ": {
+    "message": "Liste déroulante multiple",
+    "description": "2.0 exam.js"
+  },
+  "matchingQ": {
+    "message": "Correspondant",
+    "description": "2.0 exam.js"
+  },
+  "readingQ": {
+    "message": "Lecture",
+    "description": "2.0 exam.js"
+  },
+  "listeningQ": {
+    "message": "Écoute",
+    "description": "2.0 exam.js"
+  },
+  "writingQ": {
+    "message": "Écrit",
+    "description": "2.0 exam.js"
+  },
+  "translationQ": {
+    "message": "Traduction",
+    "description": "2.0 exam.js"
+  },
+  "clozeQ": {
+    "message": "Test de texte à trous",
+    "description": "2.0 exam.js"
+  },
+  "formulaQ": {
+    "message": "Formule calculée",
+    "description": "2.0 exam.js"
+  },
+  "descriptionModule": {
+    "message": "Module d’explication",
+    "description": "2.0 exam.js"
+  },
+  "syntaxModule": {
+    "message": "Module de grammaire",
+    "description": "2.0 exam.js"
+  },
+  "lexicalModule": {
+    "message": "Module de vocabulaire",
+    "description": "2.0 exam.js"
+  },
+  "spokenModule": {
+    "message": "Module de langue parlée",
+    "description": "2.0 exam.js"
+  },
+  "readingQBankedCloze": {
+    "message": "Lecture - Combler les lacunes",
+    "description": "2.0 exam.js"
+  },
+  "attachUploadQ": {
+    "message": "Téléchargement de fichiers",
+    "description": "2.0 exam.js"
+  },
+  "listeningObjectivesQ": {
+    "message": "Écoute - Question objective",
+    "description": "2.0 exam.js"
+  },
+  "completionQDisorder": {
+    "message": "Remplir vide - Non ordonné",
+    "description": "2.0 exam.js"
+  },
+  "discussionQ": {
+    "message": "Essai",
+    "description": "2.0 exam.js"
+  },
+  "materialAnalysisQ": {
+    "message": "Analyse",
+    "description": "2.0 exam.js"
+  },
+  "autoGroupPaper": {
+    "message": "Génération automatique de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "randomTips8": {
+    "message": "Le nom de l’examen doit être compris entre 1 et 200 caractères",
+    "description": "2.0 exam.js"
+  },
+  "randomTips9": {
+    "message": "Ajouter au moins une section à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "randomTips10": {
+    "message": "Le nom de la section doit être compris entre 1 et 200 caractères",
+    "description": "2.0 exam.js"
+  },
+  "randomTips11": {
+    "message": "La structure de l’examen est incomplète. Veuillez vérifier et modifier si nécessaire avant de réessayer.",
+    "description": "2.0 exam.js"
+  },
+  "randomTips12": {
+    "message": "Il n’y a pas assez de questions dans le répertoire. Ajoutez un autre répertoire.",
+    "description": "2.0 exam.js"
+  },
+  "selectExamRoom": {
+    "message": "Sélectionnez le dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "confirmExamRoom": {
+    "message": "Confirmer le dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips1": {
+    "message": "Nombre de candidats par session : ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips2": {
+    "message": " (Le nombre total de places dans l’installation d’examen sélectionnée doit être supérieur à cette valeur)",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips3": {
+    "message": "Nombre de places dans l’installation d’examen sélectionnée : ",
+    "description": "2.0 exam.js"
+  },
+  "addExamRoom": {
+    "message": "Ajouter une fonction d’examen",
+    "description": "2.0 exam.js"
+  },
+  "examRoomName": {
+    "message": "Nom de du dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "type": {
+    "message": "Type",
+    "description": "2.0 exam.js"
+  },
+  "normalClassroom": {
+    "message": "Classe normale",
+    "description": "2.0 exam.js"
+  },
+  "computerRoom": {
+    "message": "Laboratoire informatique",
+    "description": "2.0 exam.js"
+  },
+  "lastStep": {
+    "message": "Précédent",
+    "description": "2.0 exam.js"
+  },
+  "nextStep": {
+    "message": "Étape suivante",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips4": {
+    "message": "Sélectionnez le centre d’examen pour chaque session. Le nombre de places disponibles pour chaque session doit être supérieur au nombre d’étudiants.",
+    "description": "2.0 exam.js"
+  },
+  "seatOf": {
+    "message": "{n} sièges",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "examStudentOf": {
+    "message": "{n} candidats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "seatsOf": {
+    "message": "{n} sièges",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips5": {
+    "message": "Les sièges sont automatiquement attribués par le système. Vous pouvez modifier manuellement l’attribution des sièges.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips6": {
+    "message": "Sélectionnez une classe pour modifier l’attribution des sièges ou deux classes pour l’échange d’installations.",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamRoom": {
+    "message": "Modifier le dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "exchangeExamRoom": {
+    "message": "Échange le dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "saveArranging": {
+    "message": "Sauvegarder",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips7": {
+    "message": "Vous pouvez déplacer toute la classe ou certains étudiants vers un autre centre d’examen.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips11": {
+    "message": "Voulez-vous vraiment supprimer cette fonction d’examen ?",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips12": {
+    "message": "Cliquez pour entrer le nom du dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips13": {
+    "message": "Entrez un nombre supérieur à 0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips14": {
+    "message": "Les places disponibles dans le dispositif d’examen sélectionnée doivent être supérieures à celles des participants à la session d’examen.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips15": {
+    "message": "Sélectionnez le dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTip16": {
+    "message": "Le nombre de sièges disponibles pour la session {n} est inférieur au nombre de candidats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips17": {
+    "message": "Le nombre d’étudiants à déplacer ne peut pas être 0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips18": {
+    "message": "Le nombre d’étudiants à déplacer ne peut pas dépasser le nombre total d’étudiants",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips19": {
+    "message": "Le nombre d’étudiants à déplacer ne peut pas dépasser le nombre de sièges restants",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips20": {
+    "message": "Il ne reste plus assez de sièges",
+    "description": "2.0 exam.js"
+  },
+  "inputExamName": {
+    "message": "Cliquez pour entrer le nom de l’examen du cours",
+    "description": "2.0 exam.js"
+  },
+  "examPapers": {
+    "message": "Examen de cours",
+    "description": "2.0 exam.js"
+  },
+  "appointExamPaper": {
+    "message": "Examen prédéfini",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips1": {
+    "message": "(Ne peut pas être modifié après le début de l’examen)",
+    "description": "2.0 exam.js"
+  },
+  "enable": {
+    "message": "Activé",
+    "description": "2.0 exam.js"
+  },
+  "disable": {
+    "message": "Désactiver",
+    "description": "2.0 exam.js"
+  },
+  "questionNumber": {
+    "message": "Questions d’examen: ",
+    "description": "2.0 exam.js"
+  },
+  "passScore": {
+    "message": "Note de passage: ",
+    "description": "2.0 exam.js"
+  },
+  "examResult": {
+    "message": "Afficher les résultats",
+    "description": "2.0 exam.js"
+  },
+  "immediateDisplay": {
+    "message": "Immédiatement",
+    "description": "2.0 exam.js"
+  },
+  "afterDaysShow": {
+    "message": "S’affiche après {n} jours",
+    "description": "教师账号 -> 考试 -> 添加考试"
+  },
+  "weekAfterShow": {
+    "message": "{count} semaine(s) après l’examen",
+    "description": "2.0 exam.js"
+  },
+  "noShow": {
+    "message": "Ne pas montrer",
+    "description": "2.0 exam.js"
+  },
+  "examDuration": {
+    "message": "Durée de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "showScope": {
+    "message": "Montrer quoi?",
+    "description": "2.0 exam.js"
+  },
+  "participtionWay": {
+    "message": "Dispositif d’examen",
+    "description": "2.0 exam.js"
+  },
+  "onPCExam": {
+    "message": "PC",
+    "description": "2.0 exam.js"
+  },
+  "onMobileExam": {
+    "message": "Appareil mobile",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips2": {
+    "message": "PC et appareil mobile",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips3": {
+    "message": "Les questions de formule calculée ne sont pas encore prises en charge par l’examen mobile",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips4": {
+    "message": "L’examen {paperName} contient les questions de test qui ne sont pas prises en charge par l’application mobile. Remplacez l’examen par un examen sur PC uniquement ou supprimez ou modifiez les questions d’examen non prises en charge.",
+    "description": "2.0 exam.js"
+  },
+  "examTimes": {
+    "message": "Tentatives d’examen",
+    "description": "2.0 exam.js"
+  },
+  "most": {
+    "message": "Jusqu’à ",
+    "description": "2.0 exam.js"
+  },
+  "mostExamCount": {
+    "message": "{count} fois",
+    "description": "2.0 exam.js"
+  },
+  "unlimitTimes": {
+    "message": "Aucune limite",
+    "description": "2.0 exam.js"
+  },
+  "lateTip": {
+    "message": "Aucune inscription n’est autorisée après {count} minutes à partir du début de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "commitLimitTip": {
+    "message": "Impossible de soumettre dans {count} mins",
+    "description": "2.0 exam.js"
+  },
+  "abnormalMonitor": {
+    "message": "Surveillance des comportements suspects",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips5": {
+    "message": "Surveillez le nombre de fois qu’un étudiant quitte l’écran d’examen pendant l’examen. Si plus de ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips6": {
+    "message": ", l’examen sera soumis involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips7": {
+    "message": "Prise en charge uniquement de l’examen via l’application mobile - Détection si l’étudiant quitte l’écran de l’application, ferme l’application ou exécute l’application en arrière-plan",
+    "description": "2.0 exam.js"
+  },
+  "identityVerification": {
+    "message": "Authentification",
+    "description": "2.0 exam.js"
+  },
+  "openFaceVerification": {
+    "message": "Activer la vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips8": {
+    "message": "Autoriser les étudiants dont les photos sont en attente de révision à participer à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "description": {
+    "message": "Explication",
+    "description": "2.0 exam.js"
+  },
+  "fold": {
+    "message": "Réduire",
+    "description": "2.0 exam.js"
+  },
+  "unfold": {
+    "message": "Développer",
+    "description": "2.0 exam.js"
+  },
+  "publishExam": {
+    "message": "Publier l’examen du cours",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips9": {
+    "message": " (Fonctionnalité optionnelle avec supplément. Contactez service.sg@ulearning.cn ou votre administrateur LMS pour plus d’informations.)",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips10": {
+    "message": " (Le service a expiré. Si vous devez continuer à utiliser le service, veuillez contacter le service clientèle de service.sg@ulearning.cn ou votre administrateur LMS.)",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchs": {
+    "message": "Modifier la session",
+    "description": "2.0 exam.js"
+  },
+  "batchs": {
+    "message": "Session",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips11": {
+    "message": "Voulez-vous vraiment supprimer cette session ?",
+    "description": "2.0 exam.js"
+  },
+  "publishSuccess": {
+    "message": "Publié avec succès!",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamSuccess": {
+    "message": "Examen édité avec succès!",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchSuccess": {
+    "message": "Session éditée avec succès!",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips12": {
+    "message": "Les examens en double ont été supprimés",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips13": {
+    "message": "Vous ne pouvez pas supprimer les examens avec des enregistrements de réponse",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips14": {
+    "message": "Conservez au moins un examen",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips15": {
+    "message": "Le nom de l’examen doit être compris entre 2 et 100 caractères",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamTime": {
+    "message": "La durée du test doit être supérieure ou égale à 0",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips16": {
+    "message": "Gardez au moins un examen activé",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips17": {
+    "message": "La note de passage doit être comprise entre {range}",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips18": {
+    "message": "Entre.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips19": {
+    "message": "Sélectionnez les preneurs (classes/étudiants)",
+    "description": "2.0 exam.js"
+  },
+  "allBatch": {
+    "message": "Toutes les sessions",
+    "description": "2.0 exam.js"
+  },
+  "inputNameSearch": {
+    "message": "Entrez le nom à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "approve": {
+    "message": "Grade",
+    "description": "2.0 exam.js"
+  },
+  "scoreAnalysis": {
+    "message": "Analyse des résultats d’examen",
+    "description": "2.0 exam.js"
+  },
+  "averageFinishedTime": {
+    "message": "Délai d’achèvement moyen",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips1": {
+    "message": "Les données du rapport n’incluent pas les étudiants qui ont manqué l’examen",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips2": {
+    "message": "Si plusieurs tentatives sont autorisées, le score le plus élevé est compté",
+    "description": "2.0 exam.js"
+  },
+  "userNumber": {
+    "message": "Nombre d’utilisateurs",
+    "description": "2.0 exam.js"
+  },
+  "viewQue": {
+    "message": "Voir les questions d’examen",
+    "description": "2.0 exam.js"
+  },
+  "examInfo": {
+    "message": "Informations sur l’examen",
+    "description": "2.0 exam.js"
+  },
+  "examinationManagement": {
+    "message": "Gestion des examens",
+    "description": "2.0 exam.js"
+  },
+  "examMonitor": {
+    "message": "Surveillance des examens",
+    "description": "2.0 exam.js"
+  },
+  "analysisReport": {
+    "message": "Rapport d’analyse",
+    "description": "2.0 exam.js"
+  },
+  "class": {
+    "message": "Classe",
+    "description": "2.0 exam.js"
+  },
+  "roomTips14": {
+    "message": "Entrez l’ID/le nom de l’étudiant à rechercher",
+    "description": "2.0 exam.js"
+  },
+  "allStudent": {
+    "message": "Tous les étudiants",
+    "description": "2.0 exam.js"
+  },
+  "auditFailed2": {
+    "message": "Rejeter",
+    "description": "2.0 exam.js"
+  },
+  "remainSeatOf": {
+    "message": "{n} sièges restants",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "remainSeatOf2": {
+    "message": "{roomName} ({n} sièges restants)",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "modifyRoomTip": {
+    "message": "Déplacez {n} étudiants de {className} (nombre total d’étudiants : {total}) vers la fonction d’examen suivante : ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "objectivesQ": {
+    "message": "Questions de notation automatique",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQ": {
+    "message": "Questions de notation manuelle",
+    "description": "2.0 exam.js"
+  },
+  "commitTime": {
+    "message": "Heure de soumission",
+    "description": "2.0 exam.js"
+  },
+  "view": {
+    "message": "Aperçu",
+    "description": "2.0 exam.js"
+  },
+  "classRange": {
+    "message": "Classes: {className}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "exportDate": {
+    "message": "Export Date: {date}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "conceptDesc": {
+    "message": "Notes conceptuelles : ",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "mark": {
+    "message": "Point",
+    "description": "2.0 exam.js"
+  },
+  "securitySetting": {
+    "message": "Paramètres anti-triche",
+    "description": "2.0 exam.js"
+  },
+  "answerSetting": {
+    "message": "Paramètres de réponse",
+    "description": "2.0 exam.js"
+  },
+  "attachAccess": {
+    "message": "Pièces jointes autorisées pour les questions à réponse courte",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor": {
+    "message": "Surveillance des appareils",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor1": {
+    "message": "Activez la surveillance des appareils. Les étudiants ne sont pas autorisés à passer à un autre appareil ou navigateur pendant l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor2": {
+    "message": "Si un changement d’appareil est nécessaire, l’enseignant peut émettre un code de vérification.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor": {
+    "message": "Surveillance IP",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor1": {
+    "message": "Activez la surveillance IP. Les étudiants ne sont pas autorisés à passer à un autre réseau pendant l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor2": {
+    "message": "Si un commutateur réseau est nécessaire, l’enseignant peut émettre un code de vérification.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor": {
+    "message": "Surveillance par caméra",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor1": {
+    "message": "Activez la surveillance par caméra. Les photos des étudiants seront prises au hasard toutes les 3 à 5 minutes et affichées sur la page du journal des examens des étudiants.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor2": {
+    "message": "Assurez-vous que les appareils d’examen utilisés par les étudiants ont tous une caméra frontale.",
+    "description": "2.0 exam.js"
+  },
+  "showAfterBatchEnd": {
+    "message": "Après la fin de toutes les sessions d’examen",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitor": {
+    "message": "Surveillance de l’écran",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips1": {
+    "message": "(Soutenez les examens via l’application ULearning uniquement)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips2": {
+    "message": "Activez la surveillance de l’écran. L’examen sera soumis involontairement si les étudiants passent de l’écran d’examen à un autre écran / application plus de {nombre} fois {tip}",
+    "description": "tip处的插值是 “（仅支持手机考试）”，因为tip需要独立的设置样式。"
+  },
+  "faceAuth": {
+    "message": "Vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips15": {
+    "message": "Activez la vérification faciale. Les étudiants doivent réussir la vérification du visage pour commencer l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips16": {
+    "message": "Vous devez télécharger les photos faciales des étudiants avant l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime": {
+    "message": "Soumis à",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime2": {
+    "message": "Heure de soumission: {time}",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTimeTips1": {
+    "message": "L’examen n’est pas autorisé à soumettre dans {count} {minuteTip} après le début de l’examen",
+    "description": "minuteTip 的插值是分钟，就是下面的minuteTip"
+  },
+  "minuteTip": {
+    "message": "Min",
+    "description": "2.0 exam.js"
+  },
+  "batchTips": {
+    "message": "Pour passer un examen, les étudiants ou la classe contenant les étudiants doivent d’abord être ajoutés à la session d’examen. La ou les sessions d’examen peuvent être créées après la publication de l’examen en classe.",
+    "description": "2.0 exam.js"
+  },
+  "edit": {
+    "message": "Éditez",
+    "description": "2.0 exam.js"
+  },
+  "examTips": {
+    "message": "Instructions d’examen",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips": {
+    "message": "Jusqu’à 2000 caractères",
+    "description": "2.0 exam.js"
+  },
+  "defaultExamTips": {
+    "message": "Enregistrez-le en tant que modèle par défaut pour une utilisation ultérieure",
+    "description": "2.0 exam.js"
+  },
+  "detailTips3": {
+    "message": "1. Pour les examens avec la surveillance de l’appareil et la surveillance IP activées, si nécessaire, un étudiant peut passer à un autre appareil ou réseau via ce code de vérification.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips4": {
+    "message": "2. Pour les examens pour lesquels la vérification faciale est activée, un étudiant peut commencer l’examen via ce code de vérification s’il ne peut pas participer à l’examen via la vérification faciale.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips5": {
+    "message": "3. Le code est valide pendant 15 minutes. Après 15 minutes, vous devez venir ici pour en obtenir un nouveau.",
+    "description": "2.0 exam.js"
+  },
+  "leave": {
+    "message": "Quitter",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips4": {
+    "message": "Veuillez {detectEnv} avant l’examen pour confirmer que le réseau, l’équipement, le navigateur, etc. sont normaux.",
+    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
+  },
+  "detectEnv": {
+    "message": "Vérification de la conformité de l’appareil d’examen",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto": {
+    "message": "Supprimer l’image",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto2": {
+    "message": "Supprimer la photo",
+    "description": "2.0 exam.js"
+  },
+  "replaceDevice": {
+    "message": "Changer d'appareil",
+    "description": "2.0 exam.js"
+  },
+  "replaceIp": {
+    "message": "Changer d'IP",
+    "description": "2.0 exam.js"
+  },
+  "systemPhoto": {
+    "message": "Photo capturée",
+    "description": "2.0 exam.js"
+  },
+  "inCorrectPhoto": {
+    "message": "La photo ne correspond pas à l’utilisateur",
+    "description": "2.0 exam.js"
+  },
+  "photoRemoved": {
+    "message": "La photo a été supprimée",
+    "description": "2.0 exam.js"
+  },
+  "deviceID": {
+    "message": "ID de l’appareil : {id}",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto": {
+    "message": "Êtes-vous sûr de vouloir supprimer toutes les photos d’élèves capturées pour ce cours?",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto2": {
+    "message": "Êtes-vous sûr de vouloir supprimer les photos capturées pour cet étudiant?",
+    "description": "2.0 exam.js"
+  },
+  "recordShowAfterSubmit": {
+    "message": "Juste après la soumission",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaper": {
+    "message": "Exporter un exemple d’examen",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaperSuccess": {
+    "message": "L’exemple d’examen a été enregistré dans la bibliothèque d’examens",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips1": {
+    "message": "Après la fin de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips2": {
+    "message": "{n} jours après la fin de l’examen",
+    "description": "2.0 {filename}"
+  },
+  "weekPublish": {
+    "message": "{n} semaines après la fin de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "noPublish": {
+    "message": "Ne c'est pas presenté",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch2": {
+    "message": "Supprimer la session",
+    "description": "2.0 exam.js"
+  },
+  "examDaysPublish": {
+    "message": "Les résultats de l’examen s’affichent {n} jours après la fin de l’examen",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "auditTipsClassroom": {
+    "message": "La vérification faciale est activée. Les photos faciales des étudiants doivent être téléchargées à l’avance. Les photos peuvent être importées en vrac par l’enseignant ou téléchargées par les élèves. Si une photo faciale est téléchargée par l’élève, elle doit être examinée et approuvée par l’enseignant.",
+    "description": "2.0 exam.js"
+  },
+  "faceServiceTips": {
+    "message": "La vérification faciale et la surveillance par caméra ne sont pas activées pour votre institut (services optionnels avec supplément). Contactez votre administrateur LMS pour plus de détails.",
+    "description": "2.0 exam.js"
+  },
+  "borwserTip": {
+    "message": "Le navigateur que vous utilisez : {browser}. Veuillez utiliser Chrome pour passer l’examen.",
+    "description": "2.0 {filename}"
+  },
+  "offlineTip": {
+    "message": "Pour passer l’examen, l’emplacement de l’examen hors ligne doit d’abord être défini.",
+    "description": "2.0 {filename}"
+  },
+  "restoreLocalRecord": {
+    "message": "Reprendre le mode local d’enregistrement des réponses de l’examen",
+    "description": "2.0 {filename}"
+  },
+  "findExamTip": {
+    "message": "Si vous ne trouvez pas l’examen que vous devez passer dans la liste des examens ci-dessous, vérifiez si vous êtes connecté au bon compte ou si vous êtes dans la bonne classe.",
+    "description": "2.0 {filename}"
+  },
+  "faceServiceTipsNew": {
+    "message": "La vérification faciale et la surveillance par caméra ne sont pas activées pour votre institut (services optionnels avec supplément). Contactez votre administrateur LMS pour plus de détails.",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWeb": {
+    "message": "Uniquement sur le web",
+    "description": "2.0 exam.js"
+  },
+  "onlyMobile": {
+    "message": "Seule l’application ULearning",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExe": {
+    "message": "Navigateur de verrouillage uniquement",
+    "description": "2.0 exam.js"
+  },
+  "unlimit": {
+    "message": "Aucune restriction",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips": {
+    "message": "Pour passer un examen à l’aide de {PCExe}, les étudiants ne peuvent pas quitter l’écran d’examen pendant l’examen, qui convient aux tests à enjeux élevés, ou aux examens dispensés dans un centre de test ou un laboratoire informatique.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe": {
+    "message": "Navigateur de verrouillage",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips1": {
+    "message": "Pour cette option, le PC client doit installer le navigateur de verrouillage ULearning avant l’examen. Le navigateur de verrouillage ULearning ne prend actuellement en charge que le système Win7 ou supérieur, ne prend pas en charge Mac. Pour vous assurer que le système fonctionne, il est recommandé de tester le système avant l’examen formel.",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration": {
+    "message": "Durée de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "resultPublic": {
+    "message": "Portée de la publication",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorItem": {
+    "message": "Activez la surveillance de la caméra, y compris la prise d’instantanés, la détection des gestes et l’enregistrement des comportements suspects. ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorTips": {
+    "message": "Les étudiants sont tenus d’allumer la caméra frontale de leur appareil et de la garder stable - ne prend en charge que les examens via PC.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent": {
+    "message": "La surveillance par caméra comprend : ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent1": {
+    "message": "1. Instantanés : Prendre la photo de l’élève et/ou de l’environnement devant l’appareil photo toutes les 1 minute.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent2": {
+    "message": "2.Detection des gestes par l'usage de l'intelligence artificiel: surveiller les gestes des étudiants » et prendre des notes sur le bien-être des gens, des focalises oculaires déviées de longue date, parler avec les autres, etc.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent3": {
+    "message": "3. Enregistrement des comportements suspects: Enregistrement des comportements suspects et téléchargement de la vidéo pour un examen ultérieur.",
+    "description": "2.0 exam.js"
+  },
+  "cameraMonitor": {
+    "message": "Surveillance par caméra",
+    "description": "2.0 exam.js"
+  },
+  "PCExe1": {
+    "message": "Navigateur de verouillage ULearning",
+    "description": "2.0 exam.js"
+  },
+  "PCweb": {
+    "message": "Web",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips5": {
+    "message": "Voici tous les examens publiés par l’enseignant, veuillez regarder de plus près les détails de chaque examen avant d’entrer dans l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "downloadPCExe": {
+    "message": "Télécharger le navigateur de verrouillage ULearning",
+    "description": "2.0 exam.js"
+  },
+  "webEnvTest": {
+    "message": "Vérification de la conformité de l’ordinateur",
+    "description": "2.0 exam.js"
+  },
+  "examFaceVerification": {
+    "message": "Vérification de la face de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeBtnTips": {
+    "message": "Veuillez passer l’examen via le navigateur de verrouillage ULearning",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWebBtnTips": {
+    "message": "Veuillez passer l’examen via le navigateur Web de votre appareil",
+    "description": "2.0 exam.js"
+  },
+  "monitorRecords": {
+    "message": "Enregistrements de surveillance",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminder": {
+    "message": "Notifications de comportement suspect",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderFilter": {
+    "message": "Filtrer les comportements suspects",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle1": {
+    "message": "Modèles de réponse aux examens suspects",
+    "description": "2.0 exam.js"
+  },
+  "mobileExam": {
+    "message": "Examen via l’application ULearning",
+    "description": "2.0 exam.js"
+  },
+  "exception1": {
+    "message": "La durée de sortie de l’écran d’examen > 5 secondes ",
+    "description": "2.0 exam.js"
+  },
+  "exception2": {
+    "message": "L’examen sera soumis involontairement par le système",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle2": {
+    "message": "Gestes suspects",
+    "description": "2.0 exam.js"
+  },
+  "leaveSeat": {
+    "message": "Quitter le siège",
+    "description": "2.0 exam.js"
+  },
+  "deviation": {
+    "message": "La durée de la mise au point des yeux déviée > 2 secondes",
+    "description": "2.0 exam.js"
+  },
+  "deviation1": {
+    "message": "Déviation du regard",
+    "description": "2.0 exam.js"
+  },
+  "talk": {
+    "message": "Parler avec les autres",
+    "description": "2.0 exam.js"
+  },
+  "examMonitorRecords": {
+    "message": "Dossiers de surveillance des examens",
+    "description": "2.0 exam.js"
+  },
+  "answerTrack": {
+    "message": "Modèle de réponse à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "clearfixMonitorRecords": {
+    "message": "Supprimer les enregistrements de surveillance",
+    "description": "2.0 exam.js"
+  },
+  "normalState": {
+    "message": "État normal",
+    "description": "2.0 exam.js"
+  },
+  "confirmClearMonitorRecords": {
+    "message": "Voulez-vous vraiment supprimer les enregistrements de surveillance ?",
+    "description": "2.0 exam.js"
+  },
+  "timeDay": {
+    "message": "{jours} jours ",
+    "description": "2.0 exam.js"
+  },
+  "timeHour": {
+    "message": "{heures} heures ",
+    "description": "2.0 exam.js"
+  },
+  "timeSecond": {
+    "message": "{secondes} secondes",
+    "description": "2.0 exam.js"
+  },
+  "UTestName": {
+    "message": "Système d’examen U-Test",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputName": {
+    "message": "Veuillez entrer le nom d’utilisateur",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputPsd": {
+    "message": "Veuillez entrer le mot de passe",
+    "description": "2.0 exam.js"
+  },
+  "UTestLoginErr": {
+    "message": "Nom d’utilisateur et/ou mot de passe incorrect !",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogin": {
+    "message": "Connexion",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogout": {
+    "message": "Se déconnecter",
+    "description": "2.0 exam.js"
+  },
+  "UTestDesc": {
+    "message": "Remarque: Le navigateur de verouillage ULearning est utilisé pour passer l’examen uniquement. L’inscription des utilisateurs et des cours doit se faire via la plateforme ULearning ou l’application ULearning.",
+    "description": "2.0 exam.js"
+  },
+  "recoverLocalExamRecord": {
+    "message": "Récupérer les enregistrements de réponses locales",
+    "description": "2.0 exam.js"
+  },
+  "ISee": {
+    "message": "Reçus!",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips1": {
+    "message": "Aucun enregistrement de réponse local trouvé!",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips2": {
+    "message": "Remarque : Les enregistrements de réponses locaux sont des sauvegardes pour la perte des enregistrements de réponses en raison de conditions extrêmes telles que la déconnexion du réseau. Dans la plupart des cas, la récupération manuelle n’est pas nécessaire. La récupération des enregistrements de réponses locaux écrasera les enregistrements de réponses qui ont été téléchargés sur la plate-forme. Par conséquent, si la récupération de données est nécessaire, veuillez faire attention au moment où les enregistrements de réponse ont été enregistrés et procéder avec prudence.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips3": {
+    "message": "Les enregistrements de réponses de cet examen ont été soumis et les enregistrements de réponses locaux ne peuvent pas être restaurés.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips4": {
+    "message": "Les enregistrements de réponses enregistrés sur la plate-forme sont plus récents que les enregistrements de réponses locaux. Les enregistrements de réponses n’ont pas besoin d’être récupérés.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips5": {
+    "message": "La récupération des enregistrements de réponses locaux écrasera les enregistrements de réponses téléchargés et enregistrés précédemment sur la plate-forme. Êtes-vous sûr de vouloir le récupérer?",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime": {
+    "message": "Heure à laquelle les enregistrements de réponse ont été enregistrés localement ",
+    "description": "2.0 exam.js"
+  },
+  "remoteRecordTime": {
+    "message": "L’heure à laquelle les enregistrements de réponses ont été enregistrés sur la plate-forme ",
+    "description": "2.0 exam.js"
+  },
+  "confirmRecover": {
+    "message": "Confirmez",
+    "description": "2.0 exam.js"
+  },
+  "comfirmDelete": {
+    "message": "Êtes-vous sûr de vouloir supprimer ?",
+    "description": "2.0 exam.js"
+  },
+  "recover": {
+    "message": "Récupérer",
+    "description": "2.0 exam.js"
+  },
+  "recoverErrorTips": {
+    "message": "Impossible de récupérer - veuillez réessayer plus tard!",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips1": {
+    "message": "Soyez patient car le temps d’exportation peut être long.",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips2": {
+    "message": "Si votre navigateur bloque les fenêtres contextuelles, veuillez le configurer pour qu’il autorise toujours les fenêtres contextuelles.",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips3": {
+    "message": "Génération des enregistrements de réponses..., terminé ",
+    "description": "2.0 exam.js"
+  },
+  "cancelExport": {
+    "message": "Annuler l’exportation",
+    "description": "2.0 exam.js"
+  },
+  "randomTips13": {
+    "message": "Le nombre de questions à dessiner pour chaque type de question doit être un entier compris entre 1 et 100",
+    "description": "2.0 exam.js"
+  },
+  "randomTips14": {
+    "message": "Les points possibles pour chaque question doivent être compris entre 0 et 100",
+    "description": "2.0 exam.js"
+  },
+  "randomTips15": {
+    "message": "Vous ne pouvez ajouter que jusqu’à 10 sections",
+    "description": "2.0 exam.js"
+  },
+  "randomTips16": {
+    "message": "La duplication n’est pas prise en charge pour le type de question sélectionné",
+    "description": "2.0 exam.js"
+  },
+  "startCreatPaper": {
+    "message": "Générer un examen",
+    "description": "2.0 exam.js"
+  },
+  "autoPaperSettings": {
+    "message": "Paramètres de génération d’examen",
+    "description": "2.0 exam.js"
+  },
+  "paperNum": {
+    "message": "Nombre d’examens",
+    "description": "2.0 exam.js"
+  },
+  "paperTip": {
+    "message": "Génération d’examen, veuillez patienter...",
+    "description": "2.0 exam.js"
+  },
+  "paperTip1": {
+    "message": "L’examen est généré avec succès et enregistré dans le répertoire actuel de la banque d’examens",
+    "description": "2.0 exam.js"
+  },
+  "goView": {
+    "message": "Aller à Vérifier",
+    "description": "2.0 exam.js"
+  },
+  "continueCreate": {
+    "message": "Continuer à générer un examen",
+    "description": "2.0 exam.js"
+  },
+  "oralSubject": {
+    "message": "Langue - Oral",
+    "description": "2.0 exam.js"
+  },
+  "oralReading": {
+    "message": "Langue - Lire à haute voix",
+    "description": "2.0 exam.js"
+  },
+  "blankChoice": {
+    "message": "Banque de mots",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips3": {
+    "message": "Activer la surveillance de l’écran",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips4": {
+    "message": "Si vous vous éloignez de l’écran d’examen plus de {n}, soumettez l’examen involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips5": {
+    "message": "Si vous vous éloignez de l’écran d’examen pendant plus de {s} secondes, soumettez l’examen involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips6": {
+    "message": "(Peut être réglé sur 5-300 secondes)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips7": {
+    "message": "Choisissez au moins une des deux méthodes de surveillance d’écran",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips8": {
+    "message": "Méthodes de surveillance d’écran - Sélectionnez au moins une",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips9": {
+    "message": "S’est éloigné de l’écran d’examen plus de fois que permis et l’examen a été soumis involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips10": {
+    "message": "S’est éloigné de l’écran d’examen plus longtemps que le temps autorisé et l’examen a été soumis involontairement.",
+    "description": "2.0 exam.js"
+  },
+  "remark": {
+    "message": "Re-noter",
+    "description": "2.0 exam.js"
+  },
+  "remarkingTip": {
+    "message": "La dernière tâche de notation est toujours en cours de traitement, veuillez vérifier plus tard.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip1": {
+    "message": "Si vous modifiez les réponses aux questions de l’examen après le début de l’examen, utilisez cette fonction pour reclasser automatiquement l’examen.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip2": {
+    "message": "La re-notation ne concerne que les questions qui sont notées automatiquement par le système et n’affectera pas les résultats des questions qui sont notées manuellement.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip3": {
+    "message": "Êtes-vous sûr de vouloir reclasser?",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip4": {
+    "message": "La notation peut prendre un certain temps et sera traitée en arrière-plan. Veuillez vérifier les résultats de la re-notation plus tard.",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersion": {
+    "message": "Version Windows",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersionDesc": {
+    "message": "Prend en charge Windows 7 et versions système supérieures",
+    "description": "2.0 exam.js"
+  },
+  "macVersion": {
+    "message": "Version Mac",
+    "description": "2.0 exam.js"
+  },
+  "macVersionDesc": {
+    "message": "Prend en charge macOS10.11 et versions système supérieures",
+    "description": "2.0 exam.js"
+  },
+  "shareExamUrl": {
+    "message": "Partager l’URL de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "shareExamDesc": {
+    "message": "Partagez le lien de l’examen (URL) avec les preneurs de l’examen. Les personnes qui passent l’examen peuvent cliquer sur le lien pour commencer l’examen directement (si elles sont déjà connectées) ou cliquer sur le lien pour se connecter, puis démarrer l’examen automatiquement (si elles ne sont pas encore connectées).",
+    "description": "2.0 exam.js"
+  },
+  "examUrl": {
+    "message": "URL de l’examen",
+    "description": "2.0 exam.js"
+  },
+  "copy": {
+    "message": "Copier",
+    "description": "2.0 exam.js"
+  },
+  "noBatchDesc": {
+    "message": "Cet examen n’a pas de session qui n’est pas commencée.",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip": {
+    "message": "Lors de la planification d’une reprise, vous pouvez uniquement ajouter l’étudiant à une session qui n’a pas commencé.",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip1": {
+    "message": "Voulez-vous ajouter une nouvelle session?",
+    "description": "2.0 exam.js"
+  },
+  "toAddBatch": {
+    "message": "Ajouter une session",
+    "description": "2.0 exam.js"
+  },
+  "startTimeErrorTip": {
+    "message": "L’heure de début ne peut pas être antérieure à l’heure actuelle.",
+    "description": "2.0 exam.js"
+  },
+  "editBatchTimeTip": {
+    "message": "Remarque: Cette session est en cours, l’heure de début ne peut pas être modifiée, l’heure de fin peut être reportée mais ne peut pas être avancée.",
+    "description": "2.0 exam.js"
+  },
+  "addAnswerTime": {
+    "message": "Prolonger le temps de réponse",
+    "description": "2.0 exam.js"
+  },
+  "batchExpandNew": {
+    "message": "Ajouter {count} minutes",
+    "description": "2.0 exam.js"
+  },
+  "addTimeTip": {
+    "message": "(Entrez une intégrale entre 1 ~ 100)",
+    "description": "2.0 exam.js"
+  },
+  "addBatchLabel": {
+    "message": "Prolonger l’heure de fin de cette session en même temps",
+    "description": "2.0 exam.js"
+  },
+  "addTimeDesc": {
+    "message": "Avec cette fonction, vous pouvez prolonger le temps de réponse en vrac pour tous les étudiants qui passent l’examen lors de cette session. Remarque : {br1}1. Valide uniquement pour les étudiants qui répondent à des questions. Les étudiants qui n’ont pas commencé et ceux qui ont déjà soumis ne sont pas affectés. {br2} 2. Après l’opération, le compte à rebours des étudiants sera mis à jour en quelques secondes. {br3} 3. Si le temps restant de cette session est déjà inférieur au temps que vous devez augmenter, veuillez prolonger l’heure de fin de la session en même temps.",
+    "description": "2.0 exam.js"
+  },
+  "cannotAddTip": {
+    "message": "Le temps restant de cette séance est inférieur à 1 minute. Pour éviter toute confusion, vous ne pouvez pas prolonger le temps de réponse.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips15": {
+    "message": "La durée de prolongation devrait être comprise entre 1 et 100.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips16": {
+    "message": "La session en cours est terminée",
+    "description": "2.0 exam.js"
+  },
+  "exportAnalysisExcelreport": {
+    "message": "Exporter le rapport d’analyse",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysisExcel": {
+    "message": "Exporter Excel",
+    "description": "2.0 exam.js"
+  },
+  "waitExeclDownload": {
+    "message": "Veuillez patienter, exporter...",
+    "description": "2.0 exam.js"
+  },
+  "donwloadFalse": {
+    "message": "Échec de l’export",
+    "description": "2.0 exam.js"
+  },
+  "excelMsg": {
+    "message": "Cette fonctionnalité vous permet d’exporter les données principales du rapport d’analyse vers le tableau Excel. Veuillez sélectionner la plage de classes qui doit être comptée en premier.",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysis": {
+    "message": "Exporté le rapport d’analyse",
+    "description": "2.0 exam.js"
+  },
+  "activeExam": {
+    "message": "Activer l’examen",
+    "description": "2.0 exam.js"
+  },
+  "randomQuestion": {
+    "message": "Mélanger les questions",
+    "description": "2.0 exam.js"
+  },
+  "randomItem": {
+    "message": "Mélanger les réponses",
+    "description": "2.0 exam.js"
+  },
+  "randomItemTip": {
+    "message": "Comprend des questions à choix unique et à choix multiple",
+    "description": "2.0 exam.js"
+  },
+  "waterMark": {
+    "message": "Activer le filigrane de réponse",
+    "description": "2.0 exam.js"
+  },
+  "waterMarkTip": {
+    "message": "Il peut être utilisé pour empêcher les captures d’écran de fuiter",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips1": {
+    "message": "Entrez un maximum de {n} caractères",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswer": {
+    "message": "Il est interdit de sauter des questions",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswerTip": {
+    "message": "Après l’ouverture, une seule question sera affichée sur chaque page lorsque les candidats répondront aux questions, et elles ne pourront être répondues que dans l’ordre",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip6": {
+    "message": "Veuillez sélectionner la gamme de types de questions qui doivent être remarquées :",
+    "description": "2.0 exam.js"
+  },
+  "radio1": {
+    "message": "Questions objectives uniquement",
+    "description": "2.0 exam.js"
+  },
+  "radio2": {
+    "message": "Tous les types de questions qui prennent en charge la notation du système (y compris les questions objectives, les questions à compléter, les questions de calcul de formule et les questions de lecture orale)",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip7": {
+    "message": "Remarque : La renotation n’affectera pas les notes des questions notées manuellement telles que les questions à réponse courte. Si le type de question qui prend en charge la notation du système, comme les questions à remplir en blanc, a été examiné manuellement, la nouvelle notation du système écrasera l’enregistrement de révision manuelle, veuillez faire preuve de prudence.",
+    "description": "2.0 exam.js"
+  },
+  "gradingAgain": {
+    "message": "Commencer à marquer",
+    "description": "2.0 exam.js"
+  },
+  "radio1Msg": {
+    "message": "Questions objectives uniquement (y compris les questions à choix unique, à choix multiples, le jugement, le tri, les choix déroulants, les questions à compléter, les questions à clos, les questions à compléter)",
+    "description": "2.0 exam.js"
+  },
+  "radio2Msg": {
+    "message": "Tous les types de questions qui prennent en charge le remarquage (y compris les types de questions objectives mentionnés ci-dessus, ainsi que les questions à trous et les questions orales à voix haute)",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltag": {
+    "message": "Il suffit de regarder le nombre de classes dans lesquelles se trouve ma classe",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltagMsg": {
+    "message": "Seul le créateur de l’examen peut le faire",
+    "description": "2.0 exam.js"
+  },
+  "teacherexamListNone": {
+    "message": "Il n’y a pas d’heure prévue pour l’examen",
+    "description": "2.0 exam.js"
+  },
+  "PCExeOrAppTips": {
+    "message": "Veuillez utiliser l’application ULearning APP/Exam pour passer l’examen",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips12": {
+    "message": "Le système constituera automatiquement la soumission",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip5": {
+    "message": "Si vous modifiez les réponses aux questions ou aux points d’une épreuve après le début de l’examen, vous pouvez utiliser cette fonction pour corriger automatiquement la copie notée.",
+    "description": "2.0 exam.js"
+  },
+  "textCount": {
+    "message": "{n} mot",
+    "description": "2.0 exam.js"
+  },
+  "newOpenMonitorTips": {
+    "message": "Les candidats doivent allumer l’appareil photo et garder l’image stable à tout moment, et il n’est pas recommandé de l’utiliser pour les tests mobiles",
+    "description": "2.0 exam.js"
+  },
+  "choiceExamTypeTips": {
+    "message": "Veuillez sélectionner au moins une méthode d’essai",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl1": {
+    "message": "Le test prend en charge une variété de méthodes de participation, et les exigences en matière d’équipement et les différences dans les niveaux de triche sont les suivantes.",
+    "description": "2.0 exam.js"
+  },
+  "systemRequire": {
+    "message": "Configuration système requise",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequire": {
+    "message": "Exigences en matière d’équipement :",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevel": {
+    "message": "Indice anti-triche",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc1": {
+    "message": "- Windows 7 et versions ultérieures{br} - macOS 14 et versions ultérieures",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc2": {
+    "message": "- Navigateur : Google Chrome/Edge/Safari",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc3": {
+    "message": "- iOS 9.0 et versions ultérieures {br} - Android 6.0 et versions ultérieures",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequireDesc": {
+    "message": "- Des écouteurs intégrés/externes sont requis si les questions du test incluent de l’audio et de la vidéo. {br}- Des microphones intégrés/externes sont nécessaires si les questions d’examen contiennent des questions audio. {br1}- Si la reconnaissance faciale/la surveillance par caméra est activée pour l’examen, elle doit être équipée d’une caméra intégrée/externe.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc1": {
+    "message": "Relativement lâche. {br} prend en charge toutes les méthodes de surveillance de base, mais il ne peut pas empêcher complètement les candidats de partir au milieu du processus.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc2": {
+    "message": "Strictes. En plus de toutes les méthodes de surveillance de base, l’application dispose également de mesures anti-triche intégrées telles que l’interdiction de l’écran partagé et de l’enregistrement d’écran, et la détection du changement d’écran est également plus stricte.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc3": {
+    "message": "Le plus strict. Les candidats doivent installer un client d’examen indépendant et, après avoir participé à l’examen, ils ne peuvent pas quitter l’interface de l’examen au milieu du test et ne peuvent quitter qu’après avoir soumis le document.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe2": {
+    "message": "Client de l’écran de verrouillage",
+    "description": "2.0 exam.js"
+  },
+  "questionLevel": {
+    "message": "Difficulté:",
+    "description": "2.0 exam.js"
+  },
+  "subQuestionLevel": {
+    "message": "Difficulté de chaque question :",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[0]": {
+    "message": "Facile",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[1]": {
+    "message": "Facile",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[2]": {
+    "message": "Moyenne",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[3]": {
+    "message": "Plus dur",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[4]": {
+    "message": "Dur",
+    "description": "2.0 exam.js"
+  },
+  "selectLevelip": {
+    "message": "Choisissez au moins une difficulté",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime1": {
+    "message": "L’heure à laquelle le registre local a été conservé",
+    "description": "2.0 exam.js"
+  },
+  "PCexeType": {
+    "message": "Navigateur de verrouillage ULearning",
+    "description": "2.0 exam.js"
+  },
+  "appType": {
+    "message": "ULearning APP",
+    "description": "2.0 exam.js"
+  },
+  "PCType": {
+    "message": "Portail Web ULearning",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCType": {
+    "message": "ULearning APP / Portail Web",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCexeType": {
+    "message": "ULearning APP / Navigateur de verrouillage",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips": {
+    "message": "Veuillez utiliser {type} pour passer le test",
+    "description": "2.0 exam.js"
+  },
+  "examSignIn": {
+    "message": "Enregistrement à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "enableSignIn": {
+    "message": "Activer le code de connexion à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInTip": {
+    "message": "Il ne s’applique qu’au test mobile, et lorsque cet élément est activé, les candidats ne peuvent accéder à l’examen qu’après avoir scanné le code QR et s’être connectés",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInIntro": {
+    "message": "L’inscription à l’examen s’applique aux examens qui se déroulent dans des salles de classe ou dans d’autres lieux désignés. {br} Lorsque la connexion à l’examen est activée, les candidats ne peuvent accéder à l’examen qu’après s’être connectés en scannant le code de connexion. {br1} Avant le début de l’examen, les enseignants peuvent afficher et présenter le code de connexion via l’application ULearning.",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInNote": {
+    "message": "Note:",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInDesc": {
+    "message": "1. L’heure de début de l’enregistrement est basée sur l’heure à laquelle l’enseignant présente le code d’inscription et n’est pas limitée par l’heure de début du test. {br} 2. Si vous avez commencé le test d’enregistrement, il est recommandé de réserver le temps nécessaire à l’enregistrement sur place lors de l’organisation de la session de test afin d’éviter toute confusion. {br1} 3. S’il y a plusieurs tentatives pour répondre aux questions de l’examen, vous n’avez besoin de vous connecter qu’une seule fois. {br2} 4. Après l’enregistrement, les candidats ne peuvent utiliser l’appareil d’enregistrement que pour entrer dans le test et répondre aux questions. Si vous devez changer d’appareil dans des circonstances particulières, vous pouvez demander un code de vérification au surveillant.",
+    "description": "2.0 exam.js"
+  },
+  "signInCode": {
+    "message": "Code d’inscription à l’examen",
+    "description": "2.0 exam.js"
+  },
+  "facePhotoVerify": {
+    "message": "Examen des photos du visage",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTitle": {
+    "message": "Console de surveillance mobile",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeIntro": {
+    "message": "Le code d’inscription à l’examen est un code QR dynamique, veuillez utiliser l’application [U-Academy 2.0] pour accéder à la vue de l’examen, ou utilisez votre téléphone portable pour scanner le code QR ci-dessous pour entrer dans la station de surveillance mobile à visualiser.",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTip": {
+    "message": "Conseils : Les professeurs qui ne font pas partie de l’équipe de cours peuvent également scanner ce code QR pour accéder à l’écran mobile. Lorsque vous utilisez le navigateur mobile pour y accéder, vous devez saisir le code de vérification de rechange.",
+    "description": "2.0 exam.js"
+  },
+  "refresh": {
+    "message": "Actualiser",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "Les candidats peuvent utiliser ce code de vérification pour participer à l’examen dans des circonstances particulières, notamment : {br}- Si la surveillance de l’appareil/de l’adresse IP est activée pour le test, le candidat doit changer d’appareil ou d’adresse IP au milieu du test. {br1}- Examens avec la reconnaissance faciale activée, les candidats ne peuvent pas réussir la vérification faciale",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "Le code de vérification est valide en {minute}, veuillez le rafraîchir pour l’obtenir à nouveau après son expiration.",
+    "description": "2.0 exam.js"
+  },
+  "signedIn": {
+    "message": "Connecté",
+    "description": "2.0 exam.js"
+  },
+  "notSignIn": {
+    "message": "Non connecté",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes1": {
+    "message": "Tentative {n}  ",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration1": {
+    "message": "Temps d’examen utilisé : {count} ",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcel": {
+    "message": "Exporter l’enregistrement de connexion",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcelDesc": {
+    "message": "Grâce à cette fonctionnalité, vous pouvez exporter les enregistrements d’enregistrement pour les sessions et les cours actuellement sélectionnés.",
+    "description": "2.0 exam.js"
+  },
+  "exportInfo": {
+    "message": "Informations sur l’exportation :",
+    "description": "2.0 exam.js"
+  },
+  "courseClass": {
+    "message": "Section du cours",
+    "description": "2.0 exam.js"
+  },
+  "college": {
+    "message": "Collège",
+    "description": "2.0 exam.js"
+  },
+  "naturalClass": {
+    "message": "Classe Affaires/Classe Nature",
+    "description": "2.0 exam.js"
+  },
+  "exportType": {
+    "message": "Exportation",
+    "description": "2.0 exam.js"
+  },
+  "exportType1": {
+    "message": "Exporter un fichier Excel avec toutes les classes dans une seule feuille de calcul",
+    "description": "2.0 exam.js"
+  },
+  "exportType2": {
+    "message": "Exporter un fichier Excel avec une feuille de calcul par classe",
+    "description": "2.0 exam.js"
+  },
+  "exportType3": {
+    "message": "Exporter un fichier Excel par classe",
+    "description": "2.0 exam.js"
+  },
+  "startExport": {
+    "message": "Commencer à exporter",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmit": {
+    "message": "Bobinage précoce",
+    "description": "2.0 exam.js"
+  },
+  "answerNums": {
+    "message": "Nombre de personnes ayant répondu : {num}",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip1": {
+    "message": "Avec cette fonctionnalité, la session en cours se terminera plus tôt et tous les étudiants qui répondent à la question seront obligés de récupérer les documents. Il peut y avoir un délai d’environ 10 secondes ~ 1 minute pour l’enroulement. Cette action est irréversible et doit être utilisée avec prudence.",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip3": {
+    "message": "Êtes-vous sûr de l’enroulement précoce ?",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip4": {
+    "message": "Le candidat répond à la question et, à l’aide de cette fonction, le papier du candidat sera recyclé de force. Il peut y avoir un délai d’environ 10 secondes ~ 1 minute pour l’enroulement. Cette action est irréversible et doit être utilisée avec prudence.",
+    "description": "2.0 exam.js"
+  },
+  "answerUsedTime": {
+    "message": "Le temps passé à répondre à la question est révolu",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips11": {
+    "message": "Les enseignants récupèrent les devoirs à l’avance",
+    "description": "2.0 exam.js"
+  },
+  "submitSuccess": {
+    "message": "La demande a été envoyée avec succès",
+    "description": "2.0 exam.js"
+  },
+  "submitFail": {
+    "message": "Échec du remontage précoce",
+    "description": "2.0 exam.js"
+  },
+  "student": {
+    "message": "Candidat:",
+    "description": "2.0 exam.js"
+  },
+  "submitStatus": {
+    "message": "Rembobinage",
+    "description": "2.0 exam.js"
+  },
+  "remarkSetting": {
+    "message": "Paramètres de notation",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingDesc": {
+    "message": "Des demi-points sont attribués pour la bonne partie à choix multiples",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingTip": {
+    "message": "Aucun point ne sera attribué pour le mauvais choix",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitor": {
+    "message": "Activer la surveillance des captures d’écran",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorDesc": {
+    "message": "Il ne s’applique qu’au test du téléphone portable, et lorsqu’une capture d’écran est détectée, un avertissement sera donné pour la première fois et une soumission obligatoire de l’article sera imposée pour la deuxième fois",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorTip": {
+    "message": "En raison des caractéristiques du système de téléphonie mobile, cette fonction n’est valable que pour les téléphones mobiles Apple, et les téléphones Android ont directement interdit les captures d’écran pendant l’examen",
+    "description": "2.0 exam.js"
+  },
+  "screenshot": {
+    "message": "Capture d'écran",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips13": {
+    "message": "Captures d’écran des violations, soumission forcée par le système",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom": {
+    "message": "Salle d’examen : {n}",
+    "description": "2.0 exam.js"
+  },
+  "questionTrain": {
+    "message": "Formation à la banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "questionBankManage": {
+    "message": ">> de gestion de la banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "openQuestion": {
+    "message": "Commencer la formation de la banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestion": {
+    "message": "Fermer la formation de la banque de questions",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg1": {
+    "message": "Cette fonctionnalité doit être activée/désactivée par l’administrateur du cours.",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg2": {
+    "message": "Après l’ouverture, les étudiants peuvent entrer dans la banque de questions pour pratiquer le Xi, êtes-vous sûr de l’activer ?",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestionMsg": {
+    "message": "Après la fermeture, les étudiants ne peuvent pas entrer dans la banque de questions pour pratiquer le Xi, êtes-vous sûr qu’elle est fermée ?",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg1": {
+    "message": "À l’aide de la fonction [Formation à la banque de questions], vous pouvez ouvrir la banque de questions désignée pour que les étudiants puissent rafraîchir leurs questions avant l’examen et pratiquer le xi. Cette fonctionnalité doit être activée par l’administrateur du cours. Avant l’examen officiel, il est recommandé de fermer le portail de formation de la banque de questions.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg2": {
+    "message": "Module de formation de la banque de questions :",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg3": {
+    "message": "1. Tous les étudiants du cours peuvent entrer dans la banque de questions pour pratiquer le Xi et ne prennent en charge que l’accès à l’ordinateur pour le moment.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg4": {
+    "message": "2. La banque de questions de formation ne prend en charge que l’importation de questions objectives et de questions à compléter.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg5": {
+    "message": "3. Une fois chaque question soumise, vous pouvez afficher la bonne réponse et l’analyse, et il n’y a pas de limite au nombre de réponses.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg6": {
+    "message": "Note spéciale : La formation à la banque de questions est actuellement une fonction expérimentale, et les entrées et fonctions subséquentes peuvent changer.",
+    "description": "2.0 exam.js"
+  },
+  "getInToqueBank": {
+    "message": "Accéder à la banque de questions >>",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesNew": {
+    "message": "Nombre de soumissions",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimesNew": {
+    "message": "Nombre de soumissions/dénombrements autorisés",
+    "description": "2.0 exam.js"
+  },
+  "studentBatch": {
+    "message": "Session : {startTime} - {endTime}",
+    "description": "2.0 exam.js"
+  },
+  "studentSeatNumber": {
+    "message": "Nombre de places assises : {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentExamStudentOf": {
+    "message": "Candidat(e) : {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentRemainSeat": {
+    "message": "Disponible : {n}",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboard": {
+    "message": "Activer le clavier sécurisé",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip": {
+    "message": "Uniquement pour les téléphones mobiles, prend en charge le chinois et l’anglais, les chiffres et la ponctuation commune",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip1": {
+    "message": "Le clavier de sécurité peut être utilisé pour empêcher la tricherie à l’aide des fonctions spéciales de la méthode de saisie du téléphone portable, mais l’expérience de saisie n’est pas aussi fluide que le clavier intégré du téléphone, et il n’est pas recommandé de l’activer s’il y a des questions dans le papier de test qui nécessitent une grande quantité de texte.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips14": {
+    "message": "À la fin du temps imparti, le système soumet automatiquement les documents",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOfNew": {
+    "message": "Nombre de commits : {count}",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDesc": {
+    "message": "Les pièces jointes prennent en charge les formats courants tels que les images, les documents, les vidéos et les audios. {lien} {br} Téléchargez un maximum de 10 pièces jointes par question. {br1} Upload côté ordinateur, un seul fichier ne doit pas dépasser 500M ; Téléchargez sur les téléphones mobiles, et un seul fichier ne doit pas dépasser 200M. {br2} La réponse côté ordinateur peut être sélectionnée localement ou scanner le code QR avec le téléphone portable pour prendre une photo et la télécharger.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpLink": {
+    "message": "Cliquez sur Afficher les formats de fichiers autorisés à télécharger",
+    "description": "2.0 exam.js"
+  },
+  "deleteExam": {
+    "message": "Supprimer l’examen",
+    "description": "2.0 exam.js"
+  },
+  "exportLayout": {
+    "message": "Formule lead-to-book",
+    "description": "2.0 exam.js"
+  },
+  "standardType": {
+    "message": "Édition Standard",
+    "description": "2.0 exam.js"
+  },
+  "compactType": {
+    "message": "Version compacte (permet d’économiser du papier d’impression)",
+    "description": "2.0 exam.js"
+  },
+  "attachments": {
+    "message": "Exporter des pièces jointes",
+    "description": "2.0 exam.js"
+  },
+  "yes": {
+    "message": "être",
+    "description": "2.0 exam.js"
+  },
+  "no": {
+    "message": "non",
+    "description": "2.0 exam.js"
+  },
+  "moreOperation": {
+    "message": "Actions",
+    "description": "2.0 exam.js"
+  }
+}

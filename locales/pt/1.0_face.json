@@ -1,0 +1,50 @@
+{
+    "didNotPass": {
+        "message": "Reconhecimento facial reprovado.",
+        "description": ""
+    },
+    "show-captcha": {
+        "message": "Por favor, solicite o código de verificação ao Fiscal de Exame e digite-o",
+        "description": ""
+    },
+    "captcha": {
+        "message": "Falha na validação de rosto? Clique para validar usando Código de Verificação>",
+        "description": ""
+    },
+    "face-verify": {
+        "message": "Fazendo Verificação de rosto...",
+        "description": ""
+    },
+    "exam-captcha": {
+        "message": "Código de Validação da Avaliação",
+        "description": ""
+    },
+    "captcha-error": {
+        "message": "Erro de código de verificação",
+        "description": ""
+    },
+    "pass": {
+        "message": "Autenticação aprovada, Entrar na Avaliação em 3 Segundos",
+        "description": ""
+    },
+    "page-title": {
+        "message": "Reconhecimento facial",
+        "description": ""
+    },
+    "title": {
+        "message": "Reconhecimento facial",
+        "description": ""
+    },
+    "close": {
+        "message": "Fechar",
+        "description": ""
+    },
+    "notice": {
+        "message": "Alinhe-se com a câmera, certifique-se de que a iluminação está boa",
+        "description": ""
+    },
+    "retry": {
+        "message": "Tentar novamente",
+        "description": ""
+    }
+}

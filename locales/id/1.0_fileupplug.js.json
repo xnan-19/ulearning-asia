@@ -1,0 +1,130 @@
+{
+  "uploadFile": {
+    "message": "Unggah dokumen",
+    "description": "1.0 fileupplug.js"
+  },
+  "referenceFile": {
+    "message": "Dokumen referensi",
+    "description": "1.0 fileupplug.js"
+  },
+  "selectFile": {
+    "message": "Pilih dokumen",
+    "description": "1.0 fileupplug.js"
+  },
+  "attachment": {
+    "message": "Lampiran",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileProcess": {
+    "message": "Dokumen sedang ditangani, silahkan menunggu...",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploading": {
+    "message": "Sedang diunggah",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileLessThan": {
+    "message": "Dokumen yang diunggah harus kurang dari {size}",
+    "description": "注意：花括号( 即 {} ) 里面的值是插值，不要改，大小写也不能变化"
+  },
+  "netError": {
+    "message": "Terjadi kesalahan pada jaringan, silahkan periksa jaringan internet",
+    "description": "1.0 fileupplug.js"
+  },
+  "failText": {
+    "message": "Gagal mengunggah dokumen",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancel": {
+    "message": "Batal",
+    "description": "1.0 fileupplug.js"
+  },
+  "Delete": {
+    "message": "Hapus",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancelUpload": {
+    "message": "Batal mengunggah",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileCountLimit": {
+    "message": "Unggah maksimal {count} lampiran",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr1": {
+    "message": "Dokumen yang sama tidak dapat diunggah!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr2": {
+    "message": "Ukuran dokumen melebihi batas.",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr3": {
+    "message": "Terjadi kesalahan pada saat mengunggah, silahkan periksa dokumen atau kondisi jaringan internet anda, kemudian coba kembali!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadFileLimit": {
+    "message": "Unggah maksimal {count} lampiran",
+    "description": "1.0 fileupplug.js"
+  },
+  "docFailText": {
+    "message": "Penggantian dokumen gagal",
+    "description": "1.0 fileupplug.js"
+  },
+  "docConversionErrorText": {
+    "message": "Format penggantian dokumen salah",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoFailText": {
+    "message": "Penggantian video gagal!",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoConversionErrorText": {
+    "message": "Format penggantian video salah",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadingStr": {
+    "message": "Ada dokumen yang sedang diunggah",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadComplete": {
+    "message": "Berhasil diunggah",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFail": {
+    "message": "Unggahan gagal",
+    "description": "1.0 fileupplug.js"
+  },
+  "onlyUpload": {
+    "message": "Hanya bisa mengunggah {file} dokumen ",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadcomponentFail": {
+    "message": "Gagal mengunggah inisialisasi komponen, silahkan ganti browser, sedang ditangani.",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFileFail": {
+    "message": "Dokumen gagal diunggah",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile": {
+    "message": "Jangan unggah dokumen yang sama",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile2": {
+    "message": "Tidak dapat mengunggah dokumen yang sama",
+    "description": "1.0 fileupplug.js"
+  },
+  "addSubtitles": {
+    "message": "Tambah subtitle",
+    "description": "1.0 fileupplug.js"
+  },
+  "confirmDelete": {
+    "message": "Yakin untuk hapus?",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadAttach": {
+    "message": "Unggah Lampiran",
+    "description": "1.0 fileupplug.js"
+  }
+}

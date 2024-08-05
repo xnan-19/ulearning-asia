@@ -1,0 +1,22 @@
+{
+  "selectCourseFirst": {
+    "message": "โปรดเลือกหลักสูตร",
+    "description": "1.0 unitSelector.js"
+  },
+  "loadCourse": {
+    "message": "กำลังโหลดหลักสูตร",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnit": {
+    "message": "โปรดเลือกหน่วย",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnitTip": {
+    "message": "เลือกหน่วยรับหลักสูตรจากด้านซ้าย",
+    "description": "1.0 unitSelector.js"
+  },
+  "pleaseSelect": {
+    "message": "โปรดเลือกหลักสูตรและหน่วยที่เกี่ยวข้อง",
+    "description": "1.0 unitSelector.js"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "createLive": {
+    "message": "Create Live Session",
+    "description": "1.0 live.json"
+  },
+  "requiredVal": {
+    "message": "{0} cannot be empty!",
+    "description": "1.0 live.json"
+  },
+  "maxlengthVal": {
+    "message": "Cannot exceed {0} characters!",
+    "description": "1.0 live.json"
+  },
+  "regVal": {
+    "message": "The content cannot contain special characters /:*”<>|&[]#",
+    "description": "1.0 live.json"
+  },
+  "classNameTxt": {
+    "message": "Live Session Name",
+    "description": "1.0 live.json"
+  },
+  "startTimeTxt": {
+    "message": "Start Time",
+    "description": "1.0 live.json"
+  },
+  "chooseClassTxt": {
+    "message": "Select class",
+    "description": "1.0 live.json"
+  },
+  "modSuccess": {
+    "message": "Modified successfully!",
+    "description": "1.0 live.json"
+  },
+  "modFail": {
+    "message": "Failed to modify!",
+    "description": "1.0 live.json"
+  },
+  "createSuccess": {
+    "message": "Created successfully!",
+    "description": "1.0 live.json"
+  },
+  "createFail": {
+    "message": "Failed to create!",
+    "description": "1.0 live.json"
+  },
+  "selectClassTxt": {
+    "message": "Select class",
+    "description": "1.0 live.json"
+  },
+  "liveIntroTxt": {
+    "message": "Live Session Description",
+    "description": "1.0 live.json"
+  },
+  "speakerTxt": {
+    "message": "Host Name",
+    "description": "1.0 live.json"
+  },
+  "submitingTxt": {
+    "message": "Submitting...",
+    "description": "1.0 live.json"
+  },
+  "timeText": {
+    "message": "The start time can not be earlier than the current time",
+    "description": "1.0 live.json"
+  },
+  "errTip1": {
+    "message": "There are still live sessions in progress - Create a live session after all sessions end!",
+    "description": "1.0 live.json"
+  },
+  "errorTip2": {
+    "message": "The cost of the last live session has not been settled - Create a new session later!",
+    "description": "1.0 live.json"
+  },
+  "errorTip3": {
+    "message": "The account balance is less than 0 dollar, not enough to support the cost for 1 live session - Top up your account!",
+    "description": "1.0 live.json"
+  },
+  "saveStr": {
+    "message": "Save",
+    "description": "1.0 live.json"
+  },
+  "createStr": {
+    "message": "Create",
+    "description": "1.0 live.json"
+  },
+  "notSupport": {
+    "message": "The live session name cannot contain symbols!",
+    "description": "1.0 live.json"
+  }
+}

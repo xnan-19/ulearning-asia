@@ -1,0 +1,466 @@
+{
+  "useControlText": {
+    "message": " Silahkan  gunakan kontrol untuk merekam jawaban anda ",
+    "description": "此翻译文件隶属于exam.js和questionNew.js 被考试试题预览页面、布置个人作业所用到，"
+  },
+  "reDoRecord": {
+    "message": " Rekam ulang ",
+    "description": "1.0 questionNew.json"
+  },
+  "videoText": {
+    "message": " Video ",
+    "description": "1.0 questionNew.json"
+  },
+  "audioText": {
+    "message": " Audio ",
+    "description": "1.0 questionNew.json"
+  },
+  "clickPlayText": {
+    "message": " Klik dan mainkan {video} ",
+    "description": "1.0 questionNew.json"
+  },
+  "CollapseText": {
+    "message": " Simpan {video} ",
+    "description": "1.0 questionNew.json"
+  },
+  "reloadText": {
+    "message": " Memuat ulang ",
+    "description": "1.0 questionNew.json"
+  },
+  "netErrorText": {
+    "message": " Mungkin terjadi masalah pada jaringan internet, silahkan {reload} ",
+    "description": "1.0 questionNew.json"
+  },
+  "setScoreText": {
+    "message": "Atur nilai: ",
+    "description": "1.0 questionNew.json"
+  },
+  "scoreText": {
+    "message": " {score} poin ",
+    "description": "1.0 questionNew.json"
+  },
+  "playTimes": {
+    "message": "Jumlah pemutaran: ",
+    "description": "1.0 questionNew.json"
+  },
+  "noLimit": {
+    "message": "Tidak terbatas",
+    "description": "1.0 questionNew.json"
+  },
+  "enterAnswerText": {
+    "message": " Masukkan jawaban di sini... ",
+    "description": "1.0 questionNew.json"
+  },
+  "dragSortText": {
+    "message": " Perhatian: Urutan pilihan bisa digeser ",
+    "description": "1.0 questionNew.json"
+  },
+  "answerText": {
+    "message": " Jawaban ",
+    "description": "1.0 questionNew.json"
+  },
+  "oralLanguageText": {
+    "message": " Contoh suara percakapan ",
+    "description": "1.0 questionNew.json"
+  },
+  "pleaseSelectAnswer": {
+    "message": " Silahkan pilih jawaban ",
+    "description": "1.0 questionNew.json"
+  },
+  "attachmentUploadText": {
+    "message": " Lampiran hanya dapat diunggah dari platform mahasiswa",
+    "description": "1.0 questionNew.json"
+  },
+  "studentAnswerText": {
+    "message": " Jawaban mahasiswa ",
+    "description": "1.0 questionNew.json"
+  },
+  "uploadCompleteText": {
+    "message": " Unggahan berhasil ",
+    "description": "1.0 questionNew.json"
+  },
+  "newQParse": {
+    "message": " Jenis soal baru belum dianalisa ",
+    "description": "1.0 questionNew.json"
+  },
+  "correctAnswerText": {
+    "message": "Jawaban tepat",
+    "description": "1.0 questionNew.json"
+  },
+  "getScoreText": {
+    "message": "Nilai soal ini",
+    "description": "1.0 questionNew.json"
+  },
+  "teacherCommentText": {
+    "message": "Komen dosen",
+    "description": "1.0 questionNew.json"
+  },
+  "commentText": {
+    "message": "Komen",
+    "description": "1.0 questionNew.json"
+  },
+  "noSelectText": {
+    "message": "Belum pilih",
+    "description": "1.0 questionNew.json"
+  },
+  "answerParseText": {
+    "message": "Analisa jawaban",
+    "description": "1.0 questionNew.json"
+  },
+  "getQScoreText": {
+    "message": "Nilai",
+    "description": "1.0 questionNew.json"
+  },
+  "noFoundPathText": {
+    "message": "Belum ditemukan cara mengunggah audio",
+    "description": "1.0 questionNew.json"
+  },
+  "completeText": {
+    "message": "Berhasil",
+    "description": "1.0 questionNew.json"
+  },
+  "enterCommentContentText": {
+    "message": "Masukkan komen di sini",
+    "description": "1.0 questionNew.json"
+  },
+  "markSkipText": {
+    "message": "Notifikasi: Soal yang bisa anda periksa sebanyak {questions} Soal ",
+    "description": "1.0 questionNew.json"
+  },
+  "noMarkText": {
+    "message": "Kertas ujian ini tidak ada soal yang bisa anda periksa, tulislah komentar untuk mahasiswa",
+    "description": "1.0 questionNew.json"
+  },
+  "answerRightText": {
+    "message": "Jawaban benar.",
+    "description": "1.0 questionNew.json"
+  },
+  "answerErrorText": {
+    "message": "Jawaban salah.",
+    "description": "1.0 questionNew.json"
+  },
+  "clickSelectText": {
+    "message": "Klik untuk pilih jawaban",
+    "description": "1.0 questionNew.json"
+  },
+  "uploadFailText": {
+    "message": " Unggahan gagal ",
+    "description": "1.0 questionNew.json"
+  },
+  "checkPaperText": {
+    "message": "Kertas ujian yang dicari tidak ada, browser akan ditutup!",
+    "description": "1.0 exam.js"
+  },
+  "checkPaperText2": {
+    "message": "Kertas ujian yang anda cari tidak ada!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "submitAnswerText": {
+    "message": "Akun dosen tidak bisa mengumpulkan catatan jawaban!",
+    "description": "1.0 exam.js"
+  },
+  "lastPartText": {
+    "message": "Bagian sebelumnya",
+    "description": "1.0 exam.js"
+  },
+  "nextPartText": {
+    "message": "Bagian setelahnya",
+    "description": "1.0 exam.js"
+  },
+  "putIllegalText": {
+    "message": "Input anda terdapat karakter ilegal, telah dihapus",
+    "description": "1.0 exam.js"
+  },
+  "autoClearText": {
+    "message": "Tanda sensitif telah diinput, sistem telah menghapusnya secara otomatis guna menjamin keamanan layanan",
+    "description": "1.0 exam.js"
+  },
+  "inputIgnoredText": {
+    "message": "Batas jumlah kata yang diinput adalah 200 karakter (termasuk tanda baca), jawaban anda telah melewati batas, sistem akan mengabaikan bagian yang berlebih",
+    "description": "1.0 exam.js"
+  },
+  "answerCardText": {
+    "message": "Kartu jawaban",
+    "description": "1.0 exam.js"
+  },
+  "enterColumn": {
+    "message": "Jawab di layar terpisah",
+    "description": "1.0 exam.js"
+  },
+  "exitColumn": {
+    "message": "Keluar dari layar terpisah",
+    "description": "1.0 exam.js"
+  },
+  "columnDragTip": {
+    "message": "Geser untuk mengubah ketinggian",
+    "description": "1.0 exam.js"
+  },
+  "recordTip": {
+    "message": "Perhatian: Audio soal ini hanya bisa diputar {count} kali",
+    "description": "1.0 exam.js"
+  },
+  "timesOverTip": {
+    "message": "Perhatian: Jumlah pemutaran soal ini telah habis",
+    "description": "1.0 exam.js"
+  },
+  "played": {
+    "message": "Telah diputar {count} kali",
+    "description": "1.0 exam.js"
+  },
+  "jquizMaxFileTips": {
+    "message": "Tambah maksimum 10 dokumen",
+    "description": "1.0 exam.js"
+  },
+  "uploadAttachment": {
+    "message": "Unggah lampiran",
+    "description": "1.0 exam.js"
+  },
+  "recordText": {
+    "message": "Ada rekaman yang sedang berlangsung, silahkan selesaikan terlebih dahulu! ",
+    "description": "1.0 questionNew.js"
+  },
+  "loadingText": {
+    "message": "Sedang memuat kertas ujian… ",
+    "description": "1.0 questionNew.js"
+  },
+  "unknowText": {
+    "message": "Terjadi kesalahan pada server, silahkan coba kembali!",
+    "description": "1.0 questionNew.js"
+  },
+  "examNetErrorTitle": {
+    "message": "Pengecualian jaringan",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examNetErrorMsg": {
+    "message": "Jaringan saat ini tidak normal, tidak dapat memuat kertas dengan benar, silakan periksa jaringan lokal, tunggu jaringan pulih setelah mencoba memasuki ujian.",
+    "description": "1.0 questionNew.json.js"
+  },
+  "processText": {
+    "message": "Sedang memuat catatan jawaban yang terputus sebelumnya ... ",
+    "description": "1.0 questionNew.js"
+  },
+  "inText": {
+    "message": "Catatan jawaban telah disimpan pada {time}",
+    "description": "1.0 questionNew.js"
+  },
+  "systemText": {
+    "message": "Sistem telah mengembalikan catatan jawaban ujian anda yang terputus pada {time} ",
+    "description": "1.0 questionNew.js"
+  },
+  "examPaperText": {
+    "message": "Kertas ujian gagal dikumpul, mohon untuk tidak menutup halaman web, karena sistem sedang mencoba kembali… ",
+    "description": "1.0 questionNew.js"
+  },
+  "notCloseText": {
+    "message": "Mohon untuk tidak menutup halaman web, sistem sedang mengumpulkan kertas ujian… ",
+    "description": "1.0 questionNew.js"
+  },
+  "errorOccurText": {
+    "message": "Sistem terjadi kesalahan pada saat mengunggah jawaban anda secara otomatis, silahkan periksa koneksi internet anda, atau keluar dan login kembali, supaya catatan jawaban tidak hilang ",
+    "description": "1.0 questionNew.js"
+  },
+  "examAutoSaveError": {
+    "message": "Anomali jaringan! Sistem sedang terhubung kembali, tidak meninggalkan atau menutup halaman, sampai jaringan dipulihkan, sistem akan secara otomatis mengunggah catatan jawaban.",
+    "description": "1.0 questionNew.json.js"
+  },
+  "guaranteeText": {
+    "message": "Guna menjamin supaya anda dapat melaksanakan ujian dengan lancar, silahkan periksa jaringan internet anda terlebih dahulu! ",
+    "description": "1.0 questionNew.js"
+  },
+  "browserText": {
+    "message": "Sedang mengunggah audio percakapan yang anda rekam, mohon untuk tidak menutup browser. Apabila browser ditutup, rekaman anda mungkin tidak terkumpul. Mohon menunggu ... ",
+    "description": "1.0 questionNew.js"
+  },
+  "recordSaveText": {
+    "message": "Catatan lainnya telah disimpan, namun terjadi kesalahan pada saat mengunggah percakapan. Silahkan periksa lingkungan ujian dan coba kembali ",
+    "description": "1.0 questionNew.js"
+  },
+  "haveText": {
+    "message": "Masih ada {no} soal yang belum anda kerjakan, anda tetap ingin mengumpulnya?",
+    "description": "1.0 questionNew.js"
+  },
+  "examEndText": {
+    "message": "Akhiri ujian ",
+    "description": "1.0 questionNew.js"
+  },
+  "continueText": {
+    "message": "Lanjut menjawab ",
+    "description": "1.0 questionNew.js"
+  },
+  "sureSubmitText": {
+    "message": "Anda yakin untuk kumpul?  ",
+    "description": "1.0 questionNew.js"
+  },
+  "systemSubmitText": {
+    "message": "Sistem sedang mengumpulkan jawaban ...",
+    "description": "1.0 questionNew.js"
+  },
+  "submissionText": {
+    "message": "Berhasil dikumpul! ",
+    "description": "1.0 questionNew.js"
+  },
+  "tryText": {
+    "message": "Gagal dikumpul, sedang mencoba lagi! ",
+    "description": "1.0 questionNew.js"
+  },
+  "checkText": {
+    "message": "Gagal dikumpul, silahkan periksa jaringan internet anda!  ",
+    "description": "1.0 questionNew.js"
+  },
+  "examFiailSubmitTitle": {
+    "message": "Gagal dikumpul",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examFiailSubmitMsg1": {
+    "message": "Anomali jaringan, pengiriman kertas uji gagal!",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examFiailSubmitMsg2": {
+    "message": "Sistem untuk sementara menempatkan catatan jawaban secara lokal dan akan mengirimkannya secara otomatis setelah pemulihan jaringan, jadi jangan meninggalkan atau menutup halaman. Anda juga dapat menutup jendela pop-up dan mencoba mengirimkan secara manual lagi nanti.",
+    "description": "1.0 questionNew.json.js"
+  },
+  "examTimeText": {
+    "message": "Waktu ujian telah selesai, sistem akan mengumpulkan kertas ujian anda secara otomatis dan menutup browser!  ",
+    "description": "1.0 questionNew.js"
+  },
+  "examSearchText": {
+    "message": "Ujian yang anda cari tidak ada! ",
+    "description": "1.0 questionNew.js"
+  },
+  "saveSuccessText": {
+    "message": "Catatan jawaban berhasil disimpan! ",
+    "description": "1.0 questionNew.js"
+  },
+  "examOver": {
+    "message": "Ujian telah selesai",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip1": {
+    "message": "Anda telah meninggalkan ujian sebanyak {count} kali, maka kertas ujian anda akan secara otomatis dikumpulkan.",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip2": {
+    "message": "Sistem menemukan bahwa anda telah meninggalkan ujian. {limitCount} kali meninggalkan ujian, kertas ujian akan secara otomatis dikumpulkan, anda masih tersisa {count} kali kesempatan.",
+    "description": "1.0 questionNew.js"
+  },
+  "leaveLimitTip3": {
+    "message": "Sistem menemukan bahwa anda telah meninggalkan ujian pada {time}. {limitCount} kali meninggalkan ujian, kertas ujian akan secara otomatis dikumpulkan, anda masih tersisa {count} kali kesempatan.",
+    "description": "1.0 questionNew.js"
+  },
+  "highlightBtn": {
+    "message": "Highlight",
+    "description": "1.0 questionNew.js"
+  },
+  "clearBtn": {
+    "message": "Hapus",
+    "description": "1.0 questionNew.js"
+  },
+  "abnormalDetect": {
+    "message": "Telah ditemukan bahwa anda tidak bertindak selama {count1} detik, dalam waktu {count2} detik apabila masih tidak ada tindakan, maka akan dianggap bahwa anda telah pergi tanpa alasan.",
+    "description": "1.0 questionNew.js"
+  },
+  "startPaperText": {
+    "message": "Mulai menjawab",
+    "description": "1.0 backwards.jsp"
+  },
+  "invalidIp": {
+    "message": "IP saat ini: {ip} tidak ada akses ke ujian, silahkan gunakan komputer yang ditentukan untuk ujian",
+    "description": "1.0 backwards.jsp"
+  },
+  "invalidExamCount": {
+    "message": "Anda sudah melewati batas ujian ini, ujian tidak dapat dilaksanakan!\nBatasan: {count} kali",
+    "description": "1.0 backwards.jsp"
+  },
+  "noAnswer": {
+    "message": "Mahasiswa belum menjawab",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "inputContent": {
+    "message": "Masukkan ulasan di sini",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "noQuestion": {
+    "message": "Tidak ada topik yang dapat anda koreksi di kertas ini, tulislah ulasan untuk mahasiswa!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "downloadStuAttach": {
+    "message": "Klik untuk unduh lampiran mahasiswa",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "downloadStuAttach2": {
+    "message": "Klik untuk unduh lampiran saya",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "lookExit": {
+    "message": "Catatan jawaban yang anda cari tidak ada!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "loadRecord": {
+    "message": "Sedang memuat catatan jawaban mahasiswa...",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "networkAbnormal": {
+    "message": "Jaringan internet anda bermasalah!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "unenableViewRecord": {
+    "message": "Saat ini anda belum bisa melihat catatan jawaban!",
+    "description": "1.0 correctPaper.jsp"
+  },
+  "nilText": {
+    "message": "Tidak",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "mayHaveText": {
+    "message": "Catatan jawaban tidak bisa dilihat karena catatan jawaban anda hilang atau anda belum menjawabnya.",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "notCheckText": {
+    "message": "Tidak bisa dilihat untuk saat ini",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "coursePaperText": {
+    "message": "Kertas ujian mata kuliah yang anda cari tidak ada!",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "totalText": {
+    "message": "Total {count} soal",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "scoreValueText": {
+    "message": "Nilai",
+    "description": "1.0 viewpaperanswer.jsp 用在表格的表头"
+  },
+  "getScoreText2": {
+    "message": "Nilai yang didapat",
+    "description": "1.0 viewpaperanswer.jsp 用在表格的表头"
+  },
+  "unableText": {
+    "message": "Catatan jawaban kali ini untuk sementara tidak bisa dilihat!",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "toBeGraded": {
+    "message": "Akan dikoreksi ",
+    "description": "1.0 viewpaperanswer.jsp"
+  },
+  "plzInputScore": {
+    "message": "Silahkan masukkan nilai {range}",
+    "description": "range插值是一个范围，例如，请输入0-50的分数"
+  },
+  "photoNotChecked": {
+    "message": "Foto bersertifikat belum ditinjau",
+    "description": "1.0 questionNew.js"
+  },
+  "photoNotPass": {
+    "message": "Peninjauan foto yang diverifikasi gagal",
+    "description": "1.0 questionNew.js"
+  },
+  "photoConfirm": {
+    "message": "Anda belum menyelesaikan sertifikasi foto untuk pengenalan wajah dan tidak bisa mengikuti ujian. Mau sertifikasi sekarang?",
+    "description": "1.0 questionNew.js"
+  },
+  "commitLimitTimeTips": {
+    "message": "Setelah ujian dimulai selama {time} menit, Anda dapat mengirimkan kertas uji.",
+    "description": "1.0 questionNew.json.js"
+  }
+}

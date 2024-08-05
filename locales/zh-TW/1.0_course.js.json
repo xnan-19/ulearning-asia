@@ -1,0 +1,98 @@
+{
+  "previewCourse": {
+    "message": "預覽課程",
+    "description": "网页的标题"
+  },
+  "startStudy": {
+    "message": "開始學習",
+    "description": "一个按钮"
+  },
+  "joinCourse": {
+    "message": "本課程為您本校教師開課，為避免成績統計問題，請掃描老師分享的二維碼或通過班級編碼加入。",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "logintitle": {
+    "message": "登錄",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "username": {
+    "message": "用戶名",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "usernameOrPhoneNo": {
+    "message": "用戶名/手機號",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "password": {
+    "message": "密碼",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordtile": {
+    "message": "請輸入密碼",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "forgetPassword": {
+    "message": "忘記密碼？",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "register": {
+    "message": "立即註冊",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "wxLogin": {
+    "message": "微信登錄",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "errorTitle": {
+    "message": "用戶名或密碼錯誤",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginMsg": {
+    "message": "用戶名是必填的",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordMsg": {
+    "message": "密碼是必填的",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "confirm": {
+    "message": "知道了",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputTip": {
+    "message": "請輸入用戶名/手機號",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "inputLimitTip": {
+    "message": "您已經連續輸錯5次，3分鐘後重試",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "dynamicCode": {
+    "message": "6位動態安全碼",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtect": {
+    "message": "登錄保護",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtectTip": {
+    "message": "當前賬號已開啟登錄保護，請查收手機短信",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputCode": {
+    "message": "請輸入動態驗證碼",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "codeError": {
+    "message": "動態安全碼錯誤",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "sendCode": {
+    "message": "發送驗證碼",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "reSendCode": {
+    "message": "重新發送",
+    "description": "1.0 umooc-web courseDetail"
+  }
+}

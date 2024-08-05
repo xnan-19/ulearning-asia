@@ -1,0 +1,3870 @@
+{
+  "manageCenter": {
+    "message": "ركن المشرف",
+    "description": "2.0 admin.js"
+  },
+  "teachingManagement": {
+    "message": "إدارة التدريس",
+    "description": "2.0 admin.js"
+  },
+  "dataAnalysis": {
+    "message": "تحليل البيانات",
+    "description": "2.0 admin.js"
+  },
+  "subsystemText": {
+    "message": "النظام الفرعي",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamicText": {
+    "message": "عرض البيانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenterText": {
+    "message": "التقارير و البيانات",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdminText": {
+    "message": "إدارة تخصيص الدورة التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "liveManagement": {
+    "message": "الفصول الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdminText": {
+    "message": "إعدادات النظام",
+    "description": "2.0 admin.js"
+  },
+  "close": {
+    "message": "اغلاق",
+    "description": "2.0 admin.js"
+  },
+  "totalOfItems": {
+    "message": "المجموع: {n} ",
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/notDeclared 同上 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/pending 同上 \n 管理员账号 -> 系统管理 -> 管理员设置 https://courseweb.tongshike.cn/admin/#/main/system/administrator \n https://courseweb.tongshike.cn/admin/#/check \n 管理员账号 -> 课程管理 -> 本校自建MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/local \n 管理员账号 -> 课程管理 -> 外部引用MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/foreign \n 管理员账号 -> 课程管理 -> 本校课程 https://courseweb.tongshike.cn/admin/#/main/teaching/course/school \n 管理员账号 -> 课程管理 -> 本校自建MOOC -> 选课名单 \n 管理员账号 -> 考试管理 https://courseweb.tongshike.cn/admin/#/main/teaching/exam \n 管理员账号 -> 教师管理 https://courseweb.tongshike.cn/admin/#/main/teaching/teacher \n 管理员账号 -> 学生管理 https://courseweb.tongshike.cn/admin/#/main/teaching/student \n 管理员账号 -> 自然班级 https://courseweb.tongshike.cn/admin/#/main/teaching/naturalClass \n 管理员账号 -> 通知公告 https://courseweb.tongshike.cn/admin/#/main/teaching/notice"
+  },
+  "totalOfVideo": {
+    "message": "إجمالي {n} مقاطع الفيديو",
+    "description": "https://courseweb.tongshike.cn/admin/#/main/dataCenter/interactionTextbook \n https://courseweb.tongshike.cn/admin/#/main/uaDataAnalysis"
+  },
+  "numberOf": {
+    "message": "{n} ",
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了"
+  },
+  "search": {
+    "message": "بحث",
+    "description": "2.0 admin.js"
+  },
+  "clickUnfold": {
+    "message": "تمديد",
+    "description": "2.0 admin.js"
+  },
+  "clickFold": {
+    "message": "تقليص",
+    "description": "2.0 admin.js"
+  },
+  "ranking": {
+    "message": "التصنيف",
+    "description": "2.0 admin.js"
+  },
+  "fullName": {
+    "message": "الاسم الكامل",
+    "description": "2.0 admin.js"
+  },
+  "userName": {
+    "message": "اسم المستخدم",
+    "description": "2.0 admin.js"
+  },
+  "college": {
+    "message": "الكلية",
+    "description": "2.0 admin.js"
+  },
+  "organization": {
+    "message": "المعهد",
+    "description": "2.0 admin.js"
+  },
+  "teacher": {
+    "message": "المعلم",
+    "description": "2.0 admin.js"
+  },
+  "student": {
+    "message": "الطالب",
+    "description": "2.0 admin.js"
+  },
+  "orderNumber": {
+    "message": "#",
+    "description": "2.0 admin.js"
+  },
+  "operation": {
+    "message": "الإجراءات",
+    "description": "2.0 admin.js"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "2.0 admin.js"
+  },
+  "confirm2": {
+    "message": "تأكيد",
+    "description": "2.0 admin.js"
+  },
+  "cancel": {
+    "message": "إلغاء الأمر",
+    "description": "2.0 admin.js"
+  },
+  "modify": {
+    "message": "تعديل",
+    "description": "2.0 admin.js"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "2.0 admin.js"
+  },
+  "add": {
+    "message": "إضافة",
+    "description": "2.0 admin.js"
+  },
+  "login": {
+    "message": "تسجيل الدخول",
+    "description": "2.0 admin.js"
+  },
+  "openedStudentNum": {
+    "message": "مجموع ما تم الانضمام له",
+    "description": "2.0 admin.js"
+  },
+  "videoAllDuration": {
+    "message": "إجمالي طول الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "averageWatchVideoDuration": {
+    "message": "متوسط وقت مشاهدة الفيديو من قبل الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "exerciseCompletionRate": {
+    "message": "معدل إكمال التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "exerciseAverageAccuracyRate": {
+    "message": "معدل دقة التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "exerciseTotalNum": {
+    "message": "مجموع # من التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "totalAnswerTimes": {
+    "message": "مجموع محاولات القيام بالتدريبات",
+    "description": "2.0 admin.js"
+  },
+  "interExerAverCompletionRate": {
+    "message": "معدل إكمال التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "interExerAccuracyRate": {
+    "message": "معدل دقة التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "exerciseStatisticAnalysis": {
+    "message": "تفاصيل بيانات التدريب",
+    "description": "2.0 admin.js"
+  },
+  "videoStatisticAnalysis": {
+    "message": "تفاصيل بيانات الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "chapterName": {
+    "message": "اسم الوحدة ",
+    "description": "2.0 admin.js"
+  },
+  "exerciseNum": {
+    "message": "# من التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "exerciseTotalTimes": {
+    "message": "مجموع محاولات إتمام التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "averageAnswerTime": {
+    "message": "متوسط وقت إتمام التدريب",
+    "description": "2.0 admin.js"
+  },
+  "videoName": {
+    "message": "اسم الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "videoDuration": {
+    "message": "مدة الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "averageWatchDuration": {
+    "message": "متوسط وقت مشاهدة الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "watchVideoAverCompletionRate": {
+    "message": "متوسط معدل إنجاز الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "nearly15days": {
+    "message": "آخر 15 يوما",
+    "description": "2.0 admin.js"
+  },
+  "nearly30days": {
+    "message": "آخر 30 يوم",
+    "description": "2.0 admin.js"
+  },
+  "lastMonth": {
+    "message": "الشهر الماضي",
+    "description": "2.0 admin.js"
+  },
+  "mobileTerminal": {
+    "message": "تطبيق الجوال",
+    "description": "2.0 admin.js"
+  },
+  "computerTerminal": {
+    "message": "إصدار الكمبيوتر",
+    "description": "2.0 admin.js"
+  },
+  "teacherNum": {
+    "message": "المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "studentNum": {
+    "message": "الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "publishTime": {
+    "message": "وقت النشر",
+    "description": "2.0 admin.js"
+  },
+  "course": {
+    "message": "الدورة التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "view": {
+    "message": "عرض",
+    "description": "2.0 admin.js"
+  },
+  "all": {
+    "message": "الجميع",
+    "description": "2.0 admin.js"
+  },
+  "allTeacher": {
+    "message": "جميع المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "allStudent": {
+    "message": "جميع الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "role": {
+    "message": "الأدوار",
+    "description": "2.0 admin.js"
+  },
+  "responsibleCollege": {
+    "message": "الكلية المسؤولة",
+    "description": "2.0 admin.js"
+  },
+  "checkAll": {
+    "message": "إختيار الكل",
+    "description": "2.0 admin.js"
+  },
+  "addRole": {
+    "message": "إضافة دور",
+    "description": "2.0 admin.js"
+  },
+  "editRole": {
+    "message": "تحرير الدور",
+    "description": "2.0 admin.js"
+  },
+  "module": {
+    "message": "وحدات",
+    "description": "2.0 admin.js"
+  },
+  "permission": {
+    "message": "الامتيازات",
+    "description": "2.0 admin.js"
+  },
+  "rolePermissionSetting": {
+    "message": "إعدادات الامتياز",
+    "description": "2.0 admin.js"
+  },
+  "changePermissionTips": {
+    "message": "بعد تحرير امتيازات الدور، انقر فوق حفظ التغييرات لكي يتم تفعيلها.",
+    "description": "2.0 admin.js"
+  },
+  "inputRoleName": {
+    "message": "أدخل اسم الدور",
+    "description": "2.0 admin.js"
+  },
+  "systemAdministrator": {
+    "message": "مسؤول الموقع",
+    "description": "2.0 admin.js"
+  },
+  "deleteRoleTips": {
+    "message": "هل تريد بالتأكيد حذف الدور؟ لن يؤدي حذف الدور إلى حذف حساب المستخدم. يمكنك تعيين دور آخر للمستخدم.",
+    "description": "2.0 admin.js"
+  },
+  "onlySystemTips": {
+    "message": "لمسؤولي الموقع فقط",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips1": {
+    "message": "إدارة الدورة: إدارة المقررات الدراسية (دورات دمج/ دورة نقل، دورة مفتوحة، عرض تحليل الدورة)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips2": {
+    "message": "إدارة الدورات : الدورات الداخلية MOOCs (مراجعة النشر، تحرير الفئة، إعدادات عرض الويب)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips3": {
+    "message": "إدارة الدورات : الدورات الخارجية MOOCs (مراجعة النشر، تحرير الفئة، إعدادات عرض الويب)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips4": {
+    "message": "إدارة المعلمين (إضافة / تحرير / حذف المعلم ، والتصرف كمدرس)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips5": {
+    "message": "إدارة الطلاب (إضافة/تحرير/حذف طالب، التصرف كطالب)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips6": {
+    "message": "التحكم الإداري في الفصل الدراسي (إضافة/تحرير/حذف الفصل الدراسي)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips7": {
+    "message": "الإعلانات (نشر / تحرير / حذف الإعلان)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips8": {
+    "message": "إعدادات امتيازات الدور (إضافة/تحرير/حذف دور، تعيين امتيازات الدور)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips9": {
+    "message": "إعدادات المشرف (إضافة /تحرير/ حذف المسؤول، تعيين دور)",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips10": {
+    "message": "عرض وإدارة النظام الفرعي",
+    "description": "2.0 admin.js"
+  },
+  "addAdminTips1": {
+    "message": "تحديد دور",
+    "description": "2.0 admin.js"
+  },
+  "addAdminTips2": {
+    "message": "اختر كلية واحدة على الأقل",
+    "description": "2.0 admin.js"
+  },
+  "saveSuccess": {
+    "message": "تم الحفظ بنجاح!",
+    "description": "2.0 admin.js"
+  },
+  "saveFailed": {
+    "message": "لم نتمكن من الحفظ",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.mobileEvaluation": {
+    "message": "تقييم التدريس المتنقل",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.wordSpelling": {
+    "message": "إملاء الكلمات الإنجليزية",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.oralTest": {
+    "message": "اختبار اللغة الإنجليزية المنطوقة",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.excellentCourses": {
+    "message": "موقع المقرر الدراسي المحدد",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.DigitalMarx": {
+    "message": "كلية ماركس الرقمية",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.mobileTest": {
+    "message": "امتحان الجوال",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.live": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.competitionActivities": {
+    "message": "أنشطة تنافسية",
+    "description": "2.0 admin.js"
+  },
+  "subsystem.practiceTeaching": {
+    "message": "تدريس عملي",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.semesterActiveUsers": {
+    "message": "المستخدمين النشطين في هذا الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.weekLoginUsers": {
+    "message": "تسجيل دخول المستخدمين هذا الأسبوع",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.todayLoginUsers": {
+    "message": "مستخدمون تسجيل الدخول اليوم",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.thisSemester": {
+    "message": "الفصل الدراسي الحالي",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activityRanking": {
+    "message": "أعلي 10 الأكثر نشاطا",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.thisWeek": {
+    "message": "هذا الأسبوع",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeOrganizationTop": {
+    "message": "أعلي 10 معاهد نشطاً",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeTeacherTop": {
+    "message": "أعلي 10 معلمين أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "screenDynamic.activeCourseClassTop": {
+    "message": "أعلي 10 دورات أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceTotalNum": {
+    "message": "أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteTotalNum": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerTotalNum": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceAnalysis": {
+    "message": "تحليل أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteAnalysis": {
+    "message": "تحليل استطلاعات الرأي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerAnalysis": {
+    "message": "تحليل التنافس على الإجابة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsTeacherNum": {
+    "message": "المعلمين المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsTeacherRate": {
+    "message": "النسبة المئوية للمعلمين المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsstudentNum": {
+    "message": "الطلاب المشاركون",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsstudentRate": {
+    "message": "النسبة المئوية للطلاب المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendancePublishRankingTop": {
+    "message": "أعلى 10 أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.votePublishRankingTop": {
+    "message": "أعلى 10 استطلاعات للرأي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerPublishRankingTop": {
+    "message": "أعلي 10 متنافسين على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishNum": {
+    "message": "رقم النشر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPeopleNum": {
+    "message": "رقم الناشر ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.attendanceNum": {
+    "message": " أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteNum": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.answerNum": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTotalNum": {
+    "message": "مجموع عدد المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTotalNum": {
+    "message": "مجموع عدد الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseTotalNum": {
+    "message": "مجموع عدد المقررات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareTotalNum": {
+    "message": "إجمالي عدد البرامج التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.classTotalNum": {
+    "message": "مجموع عدد الفصول الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.platformActivityAnalysis": {
+    "message": "تحليل نشط للمنصة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachContentAnalysis": {
+    "message": "تحليل محتوى المقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachActivitiesAnalysis": {
+    "message": "تحليل نشاط الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.classroomInteractionAnalysis": {
+    "message": "تحليل التفاعل في الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareStudyAnalysis": {
+    "message": "تحليل تعلم البرامج الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "تسجيل الدخول باستخدام حساب المشرف",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.selectCourseware": {
+    "message": "إختيار المنهج الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.currentOverallLearningProgress": {
+    "message": "التقدم الحالي الإجمالي في التعلم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chapterDetailedStatistics": {
+    "message": "تفاصيل إحصائيات الوحدة الدراسية ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.progress": {
+    "message": "مستوى التقدم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoStudyTime": {
+    "message": "زمن تعلم من خلال الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAccuracyRate": {
+    "message": "معدل دقة التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAverAnswerTime": {
+    "message": "متوسط وقت الإجابة لكل سؤال في التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exerAverCompletionRate": {
+    "message": "متوسط معدل إكمال التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewarevideoDuration": {
+    "message": "إجمالي طول فيديوهات البرامج التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoNum": {
+    "message": "عدد الفيديوهات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.videoAverageDuration": {
+    "message": "متوسط زمن الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.longestVideoDuration": {
+    "message": "أطول زمن فيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.shortestVideoDuration": {
+    "message": "أقصر زمن فيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalLoginTimes": {
+    "message": "إجمالي تسجيلات الدخول",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginNumTips": {
+    "message": "إجمالي عمليات تسجيل الدخول منذ 2018-6-8",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherLoginTrend": {
+    "message": "سلوك تسجيل دخول المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalTeacherNum": {
+    "message": "مجموع عدد المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalTeacherTimes": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "سلوك تسجيل دخول الطالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalStudentNum": {
+    "message": "مجموع عدد الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalStudentTimes": {
+    "message": "إجمالي تسجيلات دخول الطالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayLogin": {
+    "message": "تسجيلات الدخول اليوم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.refreshTip": {
+    "message": "يتم تحديث البيانات كل 5 دقائق من 0 إلى 24.00.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityRankingTop": {
+    "message": "أعلي 30 دورة أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherActivityRankingTop": {
+    "message": "أعلي 30 معلم أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentActivityRankingTop": {
+    "message": "أعلي 30 طالب أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.comeInCourseAsViewed": {
+    "message": "يتم احتساب فتح صفحة المقرر الدراسي كمشاهدة واحدة للمقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseName": {
+    "message": "إسم الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chargeTeacher": {
+    "message": "المعلم المسؤول",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentViewTimes": {
+    "message": "مشاهدات الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.chargeCourse": {
+    "message": "مسؤول عن الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginTimes": {
+    "message": "تسجيلات الدخول",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.loginPeople": {
+    "message": "إجمالي تسجيلات الدخول",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "تسجيلات دخول للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementNum": {
+    "message": "إجمالي الإعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "مجموع المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTopic": {
+    "message": "مجموع المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exam": {
+    "message": "الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementPublishAnalysis": {
+    "message": "تحليل الإعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTotalNum": {
+    "message": "إجمالي الإعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.deleteAnnouncementTotalNum": {
+    "message": "إجمالي الإعلانات المحذوفة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTeacherNum": {
+    "message": "عدد المدرسين الذين نشروا إعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncementTeacherRate": {
+    "message": "النسبة المئوية للمعلمين الذين نشروا إعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementPublishRankingTop": {
+    "message": "أعلي 10 معلمين نشرو إعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.currentAnnouncementNum": {
+    "message": "عدد الإعلانات الحالية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkPublishAnalysis": {
+    "message": "تحليل المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTotalNum": {
+    "message": "إجمالي عدد المهام المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeacherNum": {
+    "message": "عدد المدرسين الذين نشروا مهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeacherRate": {
+    "message": "النسبة المئوية للمعلمين الذين نشروا مهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageTestNum": {
+    "message": "متوسط عدد أسئلة الاختبار",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkType": {
+    "message": "نوع المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.personalHomework": {
+    "message": "المهام الفردية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.groupHomework": {
+    "message": "مهام جماعيه",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTest": {
+    "message": "اختبار",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkRankingTop": {
+    "message": "أعلي 10 معلمين نشرو مهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTopicAnalysis": {
+    "message": "تحليل المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTotalNum": {
+    "message": "مجموع المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussTeacherNum": {
+    "message": "عدد المعلمين المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherParticipantionRate": {
+    "message": "النسبة المئوية للمعلمين المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherRaplyDiscussNum": {
+    "message": "عدد ردود المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussStudentNum": {
+    "message": "عدد الطلاب المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.participantsDiscussStudentRate": {
+    "message": "النسبة المئوية للطلاب المشاركين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentRaplyDiscussNum": {
+    "message": "عدد ردود الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussAnalysis": {
+    "message": "تحليل موضوع المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussNum": {
+    "message": "عدد مواضيع المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussPublishRankingTop": {
+    "message": "أعلى 10 المعلمين في نشر المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeReplyTeacherRankingTop": {
+    "message": "أعلي 10 ردود للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeReplyStudentRankingTop": {
+    "message": "أعلي 10 ردود للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.replyNum": {
+    "message": "مجموع الردود",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examAnalysis": {
+    "message": "تحليلات امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalExamPeople": {
+    "message": "مجموع عدد الممتحنين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.totalPublishPeople": {
+    "message": "مجموع رقم المعلمين الذين نشروا امتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageBatchPeople": {
+    "message": "متوسط عدد الممتحنين لكل جلسة امتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averagePassRate": {
+    "message": "متوسط معدل النجاح في الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageExerNum": {
+    "message": "متوسط عدد الأسئلة لكل امتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPublishRankingTop": {
+    "message": "أعلي 10 معلمين نشرو امتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.announcementNumber": {
+    "message": "عدد الإعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkNum": {
+    "message": "عدد المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.topic": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.topicNum": {
+    "message": "عدد المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examNum": {
+    "message": "عدد الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadResource": {
+    "message": "رفع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPractice": {
+    "message": "إنشاء تمرين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessment": {
+    "message": "قواعد التقدير",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSetAnalysis": {
+    "message": "تحليل خطة تعلم البرامج الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips1": {
+    "message": "يتم احتساب إعداد/تحديث خطة التعلم كتحديث برامج دراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips2": {
+    "message": "النسبة المئوية للمعلمين الذين يضعون خطة التعلم ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips3": {
+    "message": "رقم المعلمين الذين يضعون خطة التعلم ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.updateCoursewareNum": {
+    "message": "عدد المقررات الدراسية المحدثة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.updateCoursewareTimes": {
+    "message": "عدد تحديثات البرامج الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareOperationTop": {
+    "message": "اعلي 10 برامج دراسية من حيث التحديثات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.coursewareSaveTips4": {
+    "message": "أعلي البرامج التدريبية من حيث عدد مرات إعداد خطة التعلم وفحص التقدم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.setStudyPlan": {
+    "message": "إعداد خطة التعلم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.viewScoreProgress": {
+    "message": "فحص التقدم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceUploadAnalysis": {
+    "message": "تحليل المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadResourceTotalNum": {
+    "message": "إجمالي عدد الموارد التي تم رفعها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadTeacherTotalNum": {
+    "message": "إجمالي عدد المعلمين الذين قاموا برفع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "توزيع نوع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.file": {
+    "message": "الملفات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.richtext": {
+    "message": "المحتوى الغني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.link": {
+    "message": "الروابط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceContributionTop": {
+    "message": "أعلي 10 معلمين من حيث مساهمات المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadNum": {
+    "message": "عدد مرات الرفع",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceCreateAnalysis": {
+    "message": "تحليل التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPracticeTotalNum": {
+    "message": "إجمالي عدد أسئلة التدريبات التي تم إنشاؤها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPracticeTeacherNum": {
+    "message": "مجموع عدد المعلمين الذين قاموا بإنشاء تدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceTypeDistribution": {
+    "message": "توزيع نوع الأسئلة التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceContributionTop": {
+    "message": "أعلي 10 معلمين من حيث مساهمة في اسئلة التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createNum": {
+    "message": "عدد التدريبات التي تم إنشاؤها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentAnalysis": {
+    "message": "تحليل قواعد التقدير",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAssessmentTotalNum": {
+    "message": "إجمالي عدد قواعد التقدير التي تم إنشاؤها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAssessmentTeacherNum": {
+    "message": "عدد المعلمين الذين نشروا قواعد التقدير ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentPublishRankingTop": {
+    "message": "أعلي 10 معلمين من حيث إعداد قواعد التقدير ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceType": {
+    "message": "أنواع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceNum": {
+    "message": "عدد المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.uploadPeopleNum": {
+    "message": "رقم  المعلمين الذين يقومون برفع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.practiceNum": {
+    "message": "عدد التدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.createPeopleNum": {
+    "message": "مجموع عدد المعلمين الذين قاموا بإنشاء تدريبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.assessmentNum": {
+    "message": "عدد قواعد تقدير الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingDynamic": {
+    "message": "لقطات البيانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseWorking": {
+    "message": "تحليلات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "تحليلات النشاط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.collegeCompare": {
+    "message": "مقارنة الكلية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.semester": {
+    "message": "تواريخ من",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "لقطة اليوم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "أعِد التحميل كل 5 دقائق",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "معلم سجلوا دخولهم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "طالب سجلوا دخولهم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "تسجيلات دخول للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": "الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "امتحانات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": " أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "اختيارات عشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "لقطة الأسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "صدر التقارير للحصول على بيانات أكثر تفصيلاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "التقرير اليومي عن الأسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport2": {
+    "message": "تقرير أسبوعي عن الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "تقرير الفصل الدراسي الشهري",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.date": {
+    "message": "التاريخ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[0]": {
+    "message": "الأحد",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[1]": {
+    "message": "الاثنين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[2]": {
+    "message": "الثلاثاء",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[3]": {
+    "message": "الأربعاء",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[4]": {
+    "message": "الخميس",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[5]": {
+    "message": "الجمعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.weeksArray[6]": {
+    "message": "السبت",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activeCourseNum": {
+    "message": "الدورات التدريبية النشطة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.visitCourseTips": {
+    "message": "الدورات التي تمت زيارتها مرة واحدة على الأقل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveCourseNum": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.averageClassRate": {
+    "message": "متوسط. معدل الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips1": {
+    "message": "متوسط معدل حضور المحاضرات الحية و اسماء الحضور مجتمعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "أعلي الأنشطة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "الاسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "أعلي 5 دورات أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "أعلي 5 معلمين أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": "أعلي 5 طلاب أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.generalStatistics": {
+    "message": "‏‏نظرة عامة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runCourseNum": {
+    "message": "الدورات التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.useCoursewareTotalNum": {
+    "message": "البرامج الدراسية المستخدمة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaAverageTeachCourseNum": {
+    "message": "المقررات التي تدرس لكل معلم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseNum": {
+    "message": "المقررات الدراسية المقيدة لكل طالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseCount": {
+    "message": "مجموع ما تم الانضمام له",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseSizeDistribution": {
+    "message": "حجم الدورة التدريبية والتوزيع",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips2": {
+    "message": "البيانات المستندة إلى المقررات التي تم إنشاؤها في تواريخ محددة، باستثناء المقررات التي تضم 10- تسجيلات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips3": {
+    "message": "دورات مع 1000+ تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips4": {
+    "message": "دورات مع 201-1000 تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips5": {
+    "message": "دورات مع 51-200 تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips6": {
+    "message": "دورات مع 50- تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingModeAnalysis": {
+    "message": "تحليل وضع التدريس",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips7": {
+    "message": "دورات الدراسة الذاتية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips8": {
+    "message": "الأنشطة (بخلاف الإعلانات والبرامج الدراسية و المصادر) أقل من 5",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips9": {
+    "message": "الدورات التي يقودها المعلمون",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips10": {
+    "message": "الأنشطة (المهام والمناقشات والمحاضرات الحية و أنشطة الفصول الدراسية) أكثر من 20 و80٪ منها هي محاضرات حية وأنشطة الفصول الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips11": {
+    "message": "دورات دراسية مدمجة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips12": {
+    "message": "الأنشطة (على الأقل 3 أنواع مختلفة من المهام والمناقشات والمحاضرات الحية و انشطة الفصول الدراسية) أكثر من 20، في حين أن الجلسات الحية وانشطة الفصول الدراسية أقل من 50٪",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips13": {
+    "message": "أنواع أخرى من المقررات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips14": {
+    "message": "الدورات غير المدرجة في الفئات الثلاث الأولى",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseEvaluationAnalysis": {
+    "message": "تحليل تقدير الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips15": {
+    "message": "البيانات المستندة إلى المقررات التي تم إنشاؤها في تواريخ محددة، باستثناء المقررات التي تضم 10- تسجيلات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips16": {
+    "message": "النسبة المئوية للدورات التي تحتوي على امتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips17": {
+    "message": "النسبة المئوية من المقررات الدراسية التي لها قواعد تقدير",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips18": {
+    "message": "ومن بينها:",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips19": {
+    "message": "يعد تعلم المناهج التعليمية  فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips20": {
+    "message": "يتضمن اسماء الحضور والمشاركة (اختيار عشوائي والتنافس على الإجابة)",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips21": {
+    "message": "يتضمن الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityTotalNum": {
+    "message": "مجموع الأنشطة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips22": {
+    "message": "حساب الأنشطة المنشورة ضمن تواريخ محددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityAnalysis": {
+    "message": "تحليل بيانات نشاط الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pickTotalNum": {
+    "message": "عدد الاختيارات العشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.responderTotalNum": {
+    "message": "عدد التنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.scoreTotalNum": {
+    "message": "عدد مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendanceTeaNum": {
+    "message": "المعلمون الذين أطلقوا اسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVoteTeaNum": {
+    "message": "المعلمون الذين أطلقوا استطلاع الرأي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPickTeaNum": {
+    "message": "المعلمون الذين أطلقوا اختيار عشوائي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswerTeaNum": {
+    "message": "المعلمون الذين أطلقوا المنافسة على الإجابة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScoreTeaNum": {
+    "message": "المعلمون الذين أطلقوا مراجعة الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuSignStatusDistribution": {
+    "message": "توزيع حضور الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips23": {
+    "message": "حساب قوائم نسبة الحضور مع معدل الحضور 80٪+ فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips24": {
+    "message": "أعلي 5 معلمين من حيث الأنشطة المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips25": {
+    "message": "أعلي 5 دورات من حيث الأنشطة الصفية التي تم إطلاقها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceAnalysis": {
+    "message": "تحليل المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips26": {
+    "message": "المصادر التي تم رفعها إلى مكتبة المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips27": {
+    "message": "المصادر المنشورة في المقررات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips28": {
+    "message": "المعلمون الذين نشروا المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips29": {
+    "message": "مشاهدة المصادر من الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips30": {
+    "message": "حساب المصادر التي تم رفعها من قبل المعلمين فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips31": {
+    "message": "أفضل 5 معلمين - من حيث المصادر المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips32": {
+    "message": "أعلي 5 دورات - من حيث المصادر المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkAnalysis": {
+    "message": "تحليل المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeaNum": {
+    "message": "المعلمون الذين نشروا المهمة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuCommitHomeworkNum": {
+    "message": "عمليات تسليم الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaMarkHomeworkNum": {
+    "message": "الواجبات التي تم تقديرها من قبل المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTypeDistribution": {
+    "message": "توزيع نوع المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips33": {
+    "message": "أعلي 5 معلمين من حيث المهام المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips34": {
+    "message": "أعلي 5 دورات من حيث المهام المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionAnalysis": {
+    "message": "تحليل المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTotalNum": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTeaNum": {
+    "message": "المعلمون الذين نشروا المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuReplyTotalNum": {
+    "message": "ردود الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaReplyTotalNum": {
+    "message": "ردود المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTypeDistribution": {
+    "message": "توزيع نوع المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips35": {
+    "message": "أعلي 5 معلمين - معظم المناقشات المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips36": {
+    "message": "أعلي 5 دورات من حيث المناقشات المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveAnalysis": {
+    "message": "تحليل محاضره مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTotalNum": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTeaNum": {
+    "message": "المعلمون الذين قدّم محاضرة مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleLiveViewNum": {
+    "message": "المشاركون المتزامنون في المحاضرات التي حضرها أعلى الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveViewNum": {
+    "message": "مجموع المشاركين في جميع المحاضرات الحية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.hour": {
+    "message": "ساعات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveDuration": {
+    "message": "إجمالي مدة زمن جميع الجلسات المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveDuration": {
+    "message": "مدة المحاضرة المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips37": {
+    "message": "أعلي 5 معلمين من حيث المحاضرات المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips38": {
+    "message": "أعلي 5 دورات - من حيث جلسات البث المباشر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips39": {
+    "message": "عدد امتحانات الدورة التي يتم نشرها خلال تواريخ محددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTotalNum": {
+    "message": "امتحانات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examBatch": {
+    "message": "محاضرات اختبار الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleExamPeopleNum": {
+    "message": "الممتحنون من الجلسة الأعلى حضورا",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeExamPeopleNum": {
+    "message": "مجموع الممتحنون لجميع الدورات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExamTeaNum": {
+    "message": "المعلمون الذين نشروا امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.questionTotalNum": {
+    "message": "أسئلة الامتحان في بنك السؤال",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips40": {
+    "message": "العدد الإجمالي لأسئلة الامتحانات التي تم إنشاؤها من قبل المعلمين في بنك الأسئلة - غير مقيد بالتواريخ التي حددتها.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPaperTotalNum": {
+    "message": "الامتحانات المستخدمة في امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips41": {
+    "message": "العدد الإجمالي للامتحانات التي تم إنشاؤها من قبل المعلمين في بنك الامتحان - غير مقيد بالتواريخ التي حددتها.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeDistribution": {
+    "message": "توزيع نوع الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceDistribution": {
+    "message": "توزيع جهاز الوصول إلى الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips42": {
+    "message": "أعلي 5 جلسات امتحان نمن حيث الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData0": {
+    "message": "اعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData1": {
+    "message": "المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData2": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData3": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData4": {
+    "message": "الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData5": {
+    "message": " أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData6": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData7": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData8": {
+    "message": "اختيارات عشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData9": {
+    "message": "مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData0": {
+    "message": "غائب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData1": {
+    "message": "متأخرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData2": {
+    "message": "الإجازة المبكرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData3": {
+    "message": "إجازة معذورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData4": {
+    "message": "إجازة مرضية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData5": {
+    "message": "حاضر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData0": {
+    "message": "الروابط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData1": {
+    "message": "دورات صغيرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData2": {
+    "message": "الصور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData3": {
+    "message": "المحتوى الغني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData4": {
+    "message": "أخرى",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData5": {
+    "message": "المستندات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData6": {
+    "message": "مقاطع صوت",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData7": {
+    "message": "مقاطع الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData0": {
+    "message": "مناقشة - الحد الزمني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData1": {
+    "message": "المناقشة - لا يوجد حد زمني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData0": {
+    "message": "خلال 1 ساعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData1": {
+    "message": "1-2 ساعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData2": {
+    "message": "أكثر من ساعتين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData0": {
+    "message": "امتحانات محددة مسبقا",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData1": {
+    "message": "الامتحانات العشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData0": {
+    "message": "أجهزة كمبيوتر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData1": {
+    "message": "الأجهزة المحمولة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.collegeCumulativeLoginNum": {
+    "message": "إجمالي تسجيلات الدخول",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips43": {
+    "message": "حساب عمليات تسجيل الدخول ضمن التواريخ المحددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips44": {
+    "message": "مجموع الدورات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips45": {
+    "message": "حساب المقرر الدراسي الذي تم إنشاؤه ضمن تواريخ محددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runningCourseNum": {
+    "message": "دورات الكلية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runningCoursewareNum": {
+    "message": "المقرر الدراسية للكلية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.schoolCreatedCourse": {
+    "message": "الدورات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.externalIntroduction": {
+    "message": "الدورات الخارجية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCExe": {
+    "message": "ULearning تأمين متصفح",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCweb": {
+    "message": "الموقع",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.ulearningCourseDeclarationInfoAdmin": {
+    "message": "إدارة معلومات إعلان دورة Ulearning",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.selectDeclaredCourse": {
+    "message": "تحديد إعلان الدورة التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undeclaredCourses": {
+    "message": "دورة غير معلنة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undeterminedCourse": {
+    "message": "دورة غير محددة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseDeclarationInfoAdmin": {
+    "message": "إدارة معلومات إعلان الدورة التدريبية ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo1": {
+    "message": "تصدير البيانات في [table01] (الرجاء تصدير وعرض البيانات كاملة)",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo2": {
+    "message": "بيانات التصدير في [table04]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo3": {
+    "message": "تصدير البيانات في[table05]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.exportDeclarationInfo4": {
+    "message": "تصدير البيانات في[table06]",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseID": {
+    "message": "كود المقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseName": {
+    "message": "اسم الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCourseSchool": {
+    "message": "معهد افتتاح الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseManager": {
+    "message": "مدير الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCoursePlatform": {
+    "message": "منصة افتتاح الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.subordinateProfessionalCode": {
+    "message": "رمز رئيسي",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.onlineYear": {
+    "message": "السنة على الانترنت",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.provincialProjectNotes": {
+    "message": "ملاحظات المشاريع الإقليمية (اختياري)",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseLevel": {
+    "message": "مستوى الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseType": {
+    "message": "فئة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseCategory": {
+    "message": "فئة الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.openCoursePeriod": {
+    "message": "عدد مرات فتح الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.selectedCourseTotalNum": {
+    "message": "عدد الطلاب المسجلين في الدورة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relevantSubcourses": {
+    "message": "رابط إلى الدورة الفرعية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.yes": {
+    "message": "نعم",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.vocationalSchool": {
+    "message": "كلية مهنية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.undergraduate": {
+    "message": "طالب جامعي",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.modifyInfo": {
+    "message": "تعديل المعلومات",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToNondeclaration": {
+    "message": "تغيير غير معلن",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.homePage": {
+    "message": "الصفحة الأولى",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.lastPage": {
+    "message": "آخر صفحة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.frontPage": {
+    "message": "الصفحة السابقة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.backPage": {
+    "message": "الصفحة التالية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.skip": {
+    "message": "‏‏تخطي",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.noSearchCourse": {
+    "message": "لم يتم العثور على دورات",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.modifyCourseDeclarationInfo": {
+    "message": "تعديل معلومات إعلان الدورة التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.subcourseAdmin": {
+    "message": "إدارة الدورة الفرعية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.currentDeclaredCourse": {
+    "message": "الدورة الرئيسية المعلنة حاليا :",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedSubcourses": {
+    "message": "الدورات الفرعية ذات الصلة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.editAccount": {
+    "message": "محررون مشاركون",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relieveAssociation": {
+    "message": "فك الارتباط",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips1": {
+    "message": "سيتم دمج معلومات الدورة الفرعية في الدورة الرئيسية المعلنة الحالية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips2": {
+    "message": "هل أنت متأكد من أن فصل الارتباط؟",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relieveSuccess": {
+    "message": "تم فك الارتباط بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips3": {
+    "message": "هل أنت متأكد من أن تذهب غير معلن؟",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.convToNondeclSuccess": {
+    "message": "التحويل إلى غير معلن بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.convToNondeclFailed": {
+    "message": "التحويل إلى معلن بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.coreCurriculum": {
+    "message": "الدورات العامة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publicBasicCourses": {
+    "message": "الدورات التأسيسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.professionalCourse": {
+    "message": "الدورات الاحترافية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips4": {
+    "message": "لا يمكن أن يكون الرقم الذي تم إدخاله أكبر من",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips5": {
+    "message": "الرجاء إدخال عدد صحيح موجب",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips6": {
+    "message": "البحث عن البيانات، الرجاء المحاولة مرة أخرى لاحقاً",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchRelatedMainCourse": {
+    "message": "دفعة ربط الدورة الرئيسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publishOrg": {
+    "message": "معهد النشر",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.publishWebsite": {
+    "message": "موقع ويب النشر ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.ulearningSubjectClassification": {
+    "message": "تصنيف الموضوع في الـ Ulearning",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedMainCourseId": {
+    "message": "كود الدورة الرئيسية المرتبطة به ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relatedMainCourseName": {
+    "message": "اسم الدورة الرئيسية المرتبطة به ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelRelateMainCourse": {
+    "message": "إلغاء ربط الدورة الرئيسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relateMainCourse": {
+    "message": "ربط الدورة الدراسية الرئيسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToDeclaration": {
+    "message": "تحويل إلى معلن",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.conversionToDeclarationCourse": {
+    "message": "تحويل إلى مقرر دراسي معلن",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.currentCourse": {
+    "message": "الدورة الحالية:",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.willRelateMainCourse": {
+    "message": "الدورة الرئيسيةالتي يتم الارتباط بها:",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips7": {
+    "message": "الرجاء إدخال اسم الدورة التدريبية أو الكود الخاص للاستعلام",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.confirmRelate": {
+    "message": "تأكيد للربط",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.allOrganization": {
+    "message": "جميع المعاهد",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips8": {
+    "message": "هل أنت متأكد من إلغاء ربط الدورة الدراسية الرئيسية؟",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelSuccess": {
+    "message": "تم الإلغاء بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips9": {
+    "message": "لا يمكن أن تكون الدورة الدراسية الرئيسية المرتبط بها فارغًا",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.relateSuccess": {
+    "message": "تم الارتباط بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.cancelRelateMainCourseSuccess": {
+    "message": "إلغاء ربط الدورة الدراسية الرئيسية بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips10": {
+    "message": "الدورة الدراسية التي تم فحصها بالفعل تحتوي علي الدورة الدراسية اساسية متصلة بها ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips11": {
+    "message": "الرجاء اختيار الدورة للربط مع الدورة الرئيسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchConvToNondecl": {
+    "message": "تحويل الدفعة إلى غير معلن",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.batchConvToNondeclSuccess": {
+    "message": "تحويل الدفعة إلى غير معلن بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.declaredCourseTips12": {
+    "message": "الرجاء اختيار الدورة ليتم تحويلها إلى مقرر دراسي غير معلن",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.addAdministrator": {
+    "message": "إضافة مشرف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.accountOpendTime": {
+    "message": "تم الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.superAdministrator": {
+    "message": "سوبر مشرف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.modifyAdministrator": {
+    "message": "تعديل المشرف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips1": {
+    "message": "انقر لإدخال الاسم الكامل",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.password": {
+    "message": "كلمه المرور",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips2": {
+    "message": "انقر لإدخال كلمة المرور",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.confirmPassword": {
+    "message": "تأكيد كلمة المرور",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips3": {
+    "message": "ستتم إزالة المستخدم. هل تريد بالتأكيد حذف هذا المستخدم؟",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips4": {
+    "message": " كلمتي المرور المدخلتين لا تتطابق",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips5": {
+    "message": "الرجاء إدخال اسم القسم",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips6": {
+    "message": "هل أنت متأكد من حذف القسم؟",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.classificationName": {
+    "message": "اسم الفئة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.addClassification": {
+    "message": "إضافة فئة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.deleteClassification": {
+    "message": "حذف التصنيف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips7": {
+    "message": "هل أنت متأكد من حذف هذا التصنيف؟",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips8": {
+    "message": "الرجاء إدخال اسم التصنيف.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.courseClassification": {
+    "message": "تصنيف الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.departmentsSetting": {
+    "message": "الكليات",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.wensiteManage": {
+    "message": "إعدادات الموقع",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.administratorManage": {
+    "message": "المشرفين",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.courseClassificationSetting": {
+    "message": "فئات الدورات الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteName": {
+    "message": "اسم الموقع",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips9": {
+    "message": "الرجاء إدخال اسم الموقع.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips10": {
+    "message": "لا يمكن أن يكون اسم موقع الويب فارغاً.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteDomain": {
+    "message": "رابط عنوان الموقع",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips11": {
+    "message": "لا يمكن أن يكون اسم موقع الويب فارغاً.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteLanguage": {
+    "message": "لغة الموقع",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteLanguageTip": {
+    "message": "لا يمكن أن تكون لغة موقع الويب فارغاً.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.default": {
+    "message": "افتراضي",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.supportOtherLanguages": {
+    "message": "لغات أخرى للدعم",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteTemplate": {
+    "message": "قالب موقع ويب",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteTemplateTip": {
+    "message": "تحديد نمط قالب موقع الويب",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.menuTypeTemplate": {
+    "message": "نمط القائمة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips12": {
+    "message": "يوصى به إذا كنت تريد تخصيص قائمة ومحتوى الصفحة الرئيسية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.loginTypeTemplate": {
+    "message": "نمط تسجيل الدخول",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips13": {
+    "message": "تم استخدام اختصار اسم الويب.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips14": {
+    "message": "هل تريد بالتأكيد حذفه؟",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips15": {
+    "message": "اسم الفصل الدراسي طويل جداً",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips16": {
+    "message": "الرجاء اختيار الصف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips17": {
+    "message": "اسم الفصل الدراسي موجود بالفعل",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips18": {
+    "message": "الحساب موجود بالفعل",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips19": {
+    "message": "يوصى بهذا القالب إذا كنت تريد فقط أن يكون لدى الطلاب إدخال تسجيل دخول منفصل",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips20": {
+    "message": "يوصى إذا كنت ترغب في الحفاظ على الصفحة الرئيسية نظيفة مع مربع تسجيل الدخول",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.passwordLengthTips": {
+    "message": "الرجاء إدخال كلمة مرور من ستة أرقام وما فوق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inSchoolCourse": {
+    "message": "الدورات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openCourse": {
+    "message": "دورات مفتوحة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCourse": {
+    "message": "جميع الدورات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolCourse": {
+    "message": "الدورات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.nonschoolCourse": {
+    "message": "الدورات الخارجية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allState": {
+    "message": "كافة الحالات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.showInWebsite": {
+    "message": "مفتوح للجمهور",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noShowInWebsite": {
+    "message": "داخلي فقط",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips1": {
+    "message": "أدخل اسم المقرر الدراسي أو اسم المعلم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.classification": {
+    "message": "فئة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.source": {
+    "message": "مصدر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseCreator": {
+    "message": "المالك",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.createTime": {
+    "message": "تم الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishDate": {
+    "message": "تاريخ النشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.websiteShow": {
+    "message": "الوصول",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.thisSchool": {
+    "message": "مدرستنا",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.show": {
+    "message": "مفتوح للجمهور",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noShow": {
+    "message": "داخلي فقط",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyClassification": {
+    "message": "تحرير الفئة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.displayOnWebsite": {
+    "message": "العرض على الموقع",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notDisplayOnWebsite": {
+    "message": "عدم العرض على الموقع",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips2": {
+    "message": "حدد ما يصل إلى ثلاثة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips3": {
+    "message": "التصنيف الثانوي (يمكنك اختيار أكثر من خيار)",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyCourseShow": {
+    "message": "تحرير الوصول",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips4": {
+    "message": "هل أنت متأكد من أنك تريد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips5": {
+    "message": "هذه الدورة الدراسية؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allYears": {
+    "message": "جميع السنوات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notStart": {
+    "message": "لم يبدأ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.onGoing": {
+    "message": "في تقدم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.hasEnded": {
+    "message": "تم الإنهاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.mergeCourse": {
+    "message": "دمج الدورات الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.state": {
+    "message": "الحالة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.classNum": {
+    "message": "الفصول الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inToCourse": {
+    "message": "دورة مفتوحة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.transferCourse": {
+    "message": "تحويل الدورة ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips6": {
+    "message": "اتبع العملية أدناه لإضافة حسابات معلم متعددة في لقطة واحدة:",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.downloadTemplate": {
+    "message": "تنزيل قالب مستورد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadFile": {
+    "message": "رفع ملف مستورد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips7": {
+    "message": "جاري الاستيراد، لا تغلق النافذة …",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips8": {
+    "message": "تغيير [{courseName}] منشئ المقرر الدراسي من [{creator}] إلى:",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips10": {
+    "message": "أدخل اسم المعلم/اسم المستخدم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "جميع الكليات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips11": {
+    "message": "الرجاء تحديد المقرر الدراسي الذي تريد استيراده أولاً.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips12": {
+    "message": "يمكن تحديد دورة واحدة فقط",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips13": {
+    "message": "تحديد دورتين على الأقل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.confirmMerge": {
+    "message": "تأكيد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips14": {
+    "message": "دمج المقرر الدراسي يجمع بين الدورات وجميع الكائنات المرتبطة بهذه المقررات في مقرر دراسي يتم إنشاؤه حديثًا.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips15": {
+    "message": "بعد الدمج، يمكن إعادة تعيين مالك المقرر الدراسي عبر \"نقل الدورة الدراسية\".",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips16": {
+    "message": "كن حذراً: لا يمكنك التراجع عن دمج المقرر الدراسي.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips17": {
+    "message": "دمج الدورات، يرجى الانتظار…",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allExam": {
+    "message": "جميع الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputExanNameTeaNameSearch": {
+    "message": "أدخل اسم المقرر الدراسي أو اسم المعلم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.examName": {
+    "message": "اسم الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publisher": {
+    "message": "المنشئ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateCourse": {
+    "message": "دورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.expiryDate": {
+    "message": "توافر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.participantsNumber": {
+    "message": "الممتحنين",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "{startTime} إلى {endTime} ",
+    "description": "管理员账号 -> 数据中心 -> 教学动态 \n 管理员账号 -> 考试管理"
+  },
+  "teachingAdmin.viewScore": {
+    "message": "عرض النتائج",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputKeywordSearch": {
+    "message": "أدخل كلمة رئيسية للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishAnnouncement": {
+    "message": "نشر إعلان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.publishAnnouncement2": {
+    "message": "نشر الإعلان",
+    "description": "在教学活动页面，不要与上面的publishAnnouncement共享"
+  },
+  "teachingAdmin.announcementName": {
+    "message": "عنوان الإعلان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inputAnnouncementName": {
+    "message": "انقر لإدخال عنوان الإعلان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.announcementContent": {
+    "message": "محتوى الإعلان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadAttachments": {
+    "message": "رفع المرفقات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.receiver": {
+    "message": "نشر إلى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips18": {
+    "message": "هل تريد بالتأكيد حذف هذا الإعلان ؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips19": {
+    "message": "لا يمكن أن يكون حجم الملف أكبر 1 غيغابايت",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.announcementPublisher": {
+    "message": "تم الإنشاء بواسطة:",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.attachments": {
+    "message": "المرفقات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips20": {
+    "message": "إدخال الاسم أو كود الطالب أو اسم المستخدم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenStuAccount": {
+    "message": "استيراد طلاب الدفعات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addStudent": {
+    "message": "إضافة طالب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.inToAccount": {
+    "message": "العمل كمستخدم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyStudent": {
+    "message": "تحرير الطالب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentNO": {
+    "message": "كود الطالب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips21": {
+    "message": "انقر لإدخال كود الطالب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips22": {
+    "message": "انقر لإدخال اسم المستخدم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.email": {
+    "message": "البريد الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips23": {
+    "message": "انقر لإدخال بريدك الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips24": {
+    "message": "البريد الإلكتروني غير صالح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.gender": {
+    "message": "‏‏النوع",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.male": {
+    "message": "ذكر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.female": {
+    "message": "أنثى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.phoneNumber": {
+    "message": "الهاتف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips25": {
+    "message": "انقر لإدخال رقم الهاتف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips26": {
+    "message": "رقم هاتف غير صالح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateDepartment": {
+    "message": "الكلية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips27": {
+    "message": "أدخل اسم المعلم/اسم المستخدم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenTeaAccount": {
+    "message": "استيراد الدفعة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addTeacher": {
+    "message": "إضافة معلم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teacherName": {
+    "message": "اسم المعلم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.phoneNum": {
+    "message": "الهاتف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.subordinateCollege": {
+    "message": "الكلية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.modifyTeahcer": {
+    "message": "تحرير المعلم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.examManage": {
+    "message": "الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teacherManage": {
+    "message": "المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentManage": {
+    "message": "الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noticeAnnouncement": {
+    "message": "اعلانات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.check": {
+    "message": "مراجعة النشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.agree": {
+    "message": "موافقة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.refuse": {
+    "message": "رفض",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.agreed": {
+    "message": "تمت الموافقة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.refused": {
+    "message": "تم الرفض",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.reCheck": {
+    "message": "معاينة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.setTypeTip": {
+    "message": "انقر على \"فئات المقرر الدراسي\" لإعداد/تعديل نظام تصنيف المقرر الدراسي في مدرستك. لإضافة فئة بسرعة، انقر على \"إضافة فئة\".",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.toSet": {
+    "message": "إضافة فئة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.setType": {
+    "message": "إضافة/تحرير فئات المقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.add": {
+    "message": "إضافة فئة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeEg": {
+    "message": "مثال: دورة تأسيسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolMooc": {
+    "message": "الدورات الداخلية \"MOOCs\"",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.otherMooc": {
+    "message": "الدورات الخارجية \"MOOCs\"",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.confirmDelete": {
+    "message": "هل تريد بالتأكيد حذفه؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip1": {
+    "message": "لا يمكن أن يكون حقل اسم الفئة فارغاً",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip2": {
+    "message": "يجب ألا يزيد اسم الفئة عن 50 حرفًا",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip3": {
+    "message": "فئة بهذا الاسم موجودة مسبقاً",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.typeTip4": {
+    "message": "اسم الفئة المكرر غير مسموح به",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuNum": {
+    "message": "التسجيلات الداخلية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuList": {
+    "message": "الكشف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.moocPageTip": {
+    "message": "MOOCs (دورات واسعة النطاق على الانترنت المفتوحة) التي نشرها معلمي المدارس داخليا.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.checkTip1": {
+    "message": "حاليا ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.checkTip2": {
+    "message": " دورة او دورات تحتاج إلى مراجعة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.otherMoocPageTip": {
+    "message": "MOOCs (دورات واسعة النطاق على الانترنت المفتوحة) خارجية ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterName": {
+    "message": "أدخل اسم الدورة الدراسية للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allSchools": {
+    "message": "جميع الكليات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.excellenceCertificate": {
+    "message": "شهادة التفوق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.passCertificate": {
+    "message": "شهادة الإنجاز",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.notGet": {
+    "message": "لم يتم منحها",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.joinNum": {
+    "message": "عمليات التسجيل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noStuJoin": {
+    "message": "لا توجد تسجيلات داخلية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuDistribution": {
+    "message": "توزيع الطلاب على مستوى الكليات/الأقسام",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noStu": {
+    "message": "لا توجد تسجيلات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.studentSource": {
+    "message": "إحصائيات مصادر الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.certificateRate": {
+    "message": "النسبة المئوية للشهادات الممنوحة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuRate": {
+    "message": "النسبة المئوية للطلاب الداخليين",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuJoinNum": {
+    "message": "التسجيلات الداخلية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.schoolStuJoinStatistics": {
+    "message": "إحصائيات التسجيل الداخلي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseStatistics": {
+    "message": "إحصائيات الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noData": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.loading": {
+    "message": "جارٍ التحميل...",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuJoinList": {
+    "message": "الكشف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportList": {
+    "message": "قائمة التصدير",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.staticTable": {
+    "message": "مخطط الإحصاءات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.school": {
+    "message": "المدرسة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.joinDate": {
+    "message": "تاريخ التسجيل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.certificate": {
+    "message": "شهادة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.grade": {
+    "message": "الدرجة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByName": {
+    "message": "أدخل الاسم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportData": {
+    "message": "تصدير",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.exportDataDesc": {
+    "message": "للاطلاع على بيانات الدورة التدريبية التفصيلية، انقر على \"تصدير\"",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.courseAnalysis": {
+    "message": "تحليلات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.naturalClass": {
+    "message": "التصنيف الإداري",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.relateTextbook": {
+    "message": "المناهج التعليمية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByClass": {
+    "message": "أدخل اسم الفصل الدراسي للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importClass": {
+    "message": "استيراد فصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addClass": {
+    "message": "إضافة فصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.className": {
+    "message": "اسم الفصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.stuNameList": {
+    "message": "الكشف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.editClass": {
+    "message": "تحرير الفصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addClass2": {
+    "message": "إضافة فصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.plzInputClassName": {
+    "message": "انقر لإدخال اسم الفصل دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.grade2": {
+    "message": "سنة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allGrade": {
+    "message": "جميع السنوات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allClass": {
+    "message": "كل الفصول",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importSuccess": {
+    "message": "تم استيرادها بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.downloadImportResult": {
+    "message": " تنزيل نتائج الاستيراد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip1": {
+    "message": "  بعض حسابات الطلاب موجودة بالفعل. حدد خيار الإجراء.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip2": {
+    "message": " تخطي الطلاب الذين لهم حسابات موجودة ومتابعة الاستيراد ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip3": {
+    "message": " تحديث بعض المعلومات الأساسية (مثل السنة، الكلية، الخ) للطلاب الذين ينتفون على حسابات موجودة دون تغيير اسم المستخدم وكلمة المرور.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip4": {
+    "message": "إلغاء هذا الاستيراد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip5": {
+    "message": " انقر لتنزيل قائمة الطلاب الذين لهم حسابات موجودة ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip6": {
+    "message": " منجز! مستورد ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip7": {
+    "message": " حسابات الطلاب وتخطي ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.importTip8": {
+    "message": " الطلاب الذين لديهم حسابات موجودة.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.updateStudents": {
+    "message": "تحديث طلاب الدفعات",
+    "description": "2.0 admin.js"
+  },
+  "inputCourseName": {
+    "message": "انقر لإدخال اسم الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenSchool": {
+    "message": "أدخل المدرسة التي قدمت الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "editInfoTips": {
+    "message": "ملاحظات: كن حذرا! تحديث هذين البندين في نفس الوقت سيؤدي الي تحديث معلومات المقرر الدراسي في النظام.",
+    "description": "2.0 admin.js"
+  },
+  "inputCourseManager": {
+    "message": "أدخل مدير الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePlatform": {
+    "message": "أدخل منصة الدورة التي تقدم هذه الدورة",
+    "description": "2.0 admin.js"
+  },
+  "onlineTime": {
+    "message": "تاريخ متاح",
+    "description": "2.0 admin.js"
+  },
+  "inputOnlineTime": {
+    "message": "أدخل التاريخ/الوقت المتاح",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePeriod": {
+    "message": "أدخل عددما يقدمه المقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "professionalCode": {
+    "message": "كود رئيسي",
+    "description": "2.0 admin.js"
+  },
+  "inputProfessionalCode": {
+    "message": "أدخل الكود الرئيسي",
+    "description": "2.0 admin.js"
+  },
+  "saveModify": {
+    "message": "حفظ التغييرات",
+    "description": "2.0 admin.js"
+  },
+  "exit": {
+    "message": "خروج",
+    "description": "2.0 admin.js"
+  },
+  "teachingTeacher": {
+    "message": "معلم الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "department": {
+    "message": "الكلية/ القسم",
+    "description": "2.0 admin.js"
+  },
+  "classes": {
+    "message": "الصف الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "courseCode": {
+    "message": "كود الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "courseManage": {
+    "message": "الدورات الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "backToCustomerService": {
+    "message": "العودة إلى خدمة العملاء",
+    "description": "2.0 admin.js"
+  },
+  "courseUnit": {
+    "message": "{courseCount}",
+    "description": "2.0 admin.js"
+  },
+  "appCenter": {
+    "message": "التطبيقات",
+    "description": "2.0 admin.js"
+  },
+  "internalApp": {
+    "message": "التطبيقات الداخلية",
+    "description": "2.0 admin.js"
+  },
+  "ltiApp": {
+    "message": "تطبيقات LTI أدوات التعلم إمكانية التشغيل البيني",
+    "description": "2.0 admin.js"
+  },
+  "installed": {
+    "message": "تمكين",
+    "description": "2.0 admin.js"
+  },
+  "unInstalled": {
+    "message": "غير ممكّنة",
+    "description": "2.0 admin.js"
+  },
+  "viewMore": {
+    "message": "تفاصيل",
+    "description": "2.0 admin.js"
+  },
+  "appManage": {
+    "message": "إدارة التطبيقات",
+    "description": "2.0 admin.js"
+  },
+  "installed2": {
+    "message": "مثبت",
+    "description": "2.0 admin.js"
+  },
+  "addApp": {
+    "message": "إضافة تطبيق",
+    "description": "2.0 admin.js"
+  },
+  "name": {
+    "message": "اسم",
+    "description": "2.0 admin.js"
+  },
+  "consumerKey": {
+    "message": "مفتاح المستهلك",
+    "description": "2.0 admin.js"
+  },
+  "sharedSecret": {
+    "message": "سر مشترك",
+    "description": "2.0 admin.js"
+  },
+  "configURL": {
+    "message": "دليل التثبيت محدد الموقع ",
+    "description": "2.0 admin.js"
+  },
+  "deleteApp": {
+    "message": "حذف التطبيق",
+    "description": "2.0 admin.js"
+  },
+  "confirmDelete": {
+    "message": "هل تريد بالتأكيد حذف هذا التطبيق؟",
+    "description": "2.0 admin.js"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "2.0 admin.js"
+  },
+  "description": {
+    "message": "وصف",
+    "description": "2.0 admin.js"
+  },
+  "seats": {
+    "message": "# من المقاعد",
+    "description": "2.0 admin.js"
+  },
+  "expireTime": {
+    "message": "تاريخ انتهاء الصلاحية",
+    "description": "2.0 admin.js"
+  },
+  "assignTeacher": {
+    "message": "تعيين المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "modifyMeeting": {
+    "message": "تعديل غرفة المؤتمرات السحابية",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameTip": {
+    "message": "الرجاء إدخال اسم غرفة المؤتمرات السحابية",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameInvalid": {
+    "message": "أطوال من 1 إلى 30 حرفا",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescTip": {
+    "message": "يرجى إدخال وصف غرفة المؤتمرات السحابية",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescInvalid": {
+    "message": "الطول ليس أكبر من 100 حرف",
+    "description": "2.0 admin.js"
+  },
+  "assignTo": {
+    "message": "تم تعيينه إلى:",
+    "description": "2.0 admin.js"
+  },
+  "addTeacher": {
+    "message": "إضافة معلم",
+    "description": "2.0 admin.js"
+  },
+  "searchTeacherTip": {
+    "message": "أدخل اسم المستخدم/ اسم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teacherStats": {
+    "message": "إجمالي عدد المعلمين {n}",
+    "description": "2.0 admin.js"
+  },
+  "selectedTeacher": {
+    "message": "معلمون مختارون:",
+    "description": "2.0 admin.js"
+  },
+  "settings": {
+    "message": "نصب",
+    "description": "2.0 admin.js"
+  },
+  "meetingNormal": {
+    "message": "عادي",
+    "description": "2.0 admin.js"
+  },
+  "meetingExpire": {
+    "message": "انها على وشك أن تنتهي",
+    "description": "2.0 admin.js"
+  },
+  "meetingDisable": {
+    "message": "الغاء تنشيط",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoom": {
+    "message": "غرفة الاجتماعات السحابية",
+    "description": "2.0 admin.js"
+  },
+  "modifySuccess": {
+    "message": "التعديل كان ناجحاً",
+    "description": "2.0 admin.js"
+  },
+  "modifyFailed": {
+    "message": "فشل التعديل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.memo": {
+    "message": "ملاحظات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.memoPlaceholder": {
+    "message": " يرجى إدخال الملاحظة ",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoomManagement": {
+    "message": "غرفة اجتماعات كلاود\n",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingCalendar": {
+    "message": "تقويم التدريس",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.listView": {
+    "message": "طريقة عرض القائمة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.chartView": {
+    "message": "طريقة عرض التقويم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.clearFilter": {
+    "message": "مسح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityName": {
+    "message": "اسم النشاط",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityType": {
+    "message": "نوع",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.startTime": {
+    "message": "وقت البدء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.endTime": {
+    "message": "وقت الانتهاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterTeacher": {
+    "message": "أدخل معلما",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.enterCourse": {
+    "message": "إدخال مقرر دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.withoutCourse": {
+    "message": "لا توجد دورات اختيارية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeType": {
+    "message": "اضغط على وقت البدء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityDetail": {
+    "message": "تفاصيل الحدث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.activityAuthor": {
+    "message": "المنشئ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType1": {
+    "message": "منهج دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType2": {
+    "message": "الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType3": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType4": {
+    "message": "بث مباشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.actType5": {
+    "message": "الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.searchByClassification": {
+    "message": "حسب النوع",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterTitle": {
+    "message": "تصفية المهام",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.missionBegin": {
+    "message": "إبدأ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.missionEnd": {
+    "message": "‏‏النهاية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterByStart": {
+    "message": "اضغط على وقت البدء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.filterByEnd": {
+    "message": "وقت الانتهاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.startTimeTOendTime": {
+    "message": "وَصَلَ",
+    "description": "2.0 admin.js"
+  },
+  "necessary": {
+    "message": "لا يمكن أن تكون الحقول المطلوبة فارغة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programAdmin": {
+    "message": "الإدارة المهنية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programList": {
+    "message": "قائمة الايجابيات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programClass": {
+    "message": "التصنيف المهني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.applyInfo": {
+    "message": "معلومات التطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgram": {
+    "message": "إنشاء تخصص جديد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.editProgram": {
+    "message": "تحرير مهنيا",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.language": {
+    "message": "اللغة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programName": {
+    "message": "اسم مهني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programCompany": {
+    "message": "منظم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programStatus": {
+    "message": "حالة النشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allowApply": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatTime": {
+    "message": "تاريخ الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programAction": {
+    "message": "الإجراءات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.updatedProgram": {
+    "message": "تم النشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.newProgram": {
+    "message": "لم يتم نشره",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.ableApply": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.disableAlliy": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.readingLanguage": {
+    "message": "أنت الآن تعرض محتوى {language}",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.whritingLanguage": {
+    "message": "تقوم الآن بتحرير محتوى {language} المبسط",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.baseInfo": {
+    "message": "المعلومات الأساسية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programLogo": {
+    "message": "الصور المصغرة الاحترافية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.detailInfo": {
+    "message": "قائمة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder1": {
+    "message": "الرجاء إدخال اسم احترافي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder2": {
+    "message": "الرجاء إدخال المحتوى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection1": {
+    "message": "اسم مهني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection2": {
+    "message": "وصف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection3": {
+    "message": "منظم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection4": {
+    "message": "وقت الدراسة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection5": {
+    "message": "الرسوم الدراسيه",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection6": {
+    "message": "نقاط الائتمان",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection7": {
+    "message": "شهادة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection8": {
+    "message": "أسلوب التعلم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.pragramFormSection9": {
+    "message": "التصنيف المهني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadmsg": {
+    "message": "دعم jpg / jpeg / png تنسيق الصور ، لا يزيد عن 2M ، الحجم الموصى به 1280px * 720px (16:9) ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadTip": {
+    "message": "انقر فوق تحميل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programSave": {
+    "message": "حفظ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.noSave": {
+    "message": "عدم الحفظ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programPreview": {
+    "message": "معاينة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.formErrTitle": {
+    "message": "النصائح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.formErrTip1": {
+    "message": "تم تعديل البيانات، هل تم حفظها؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg1": {
+    "message": "تعديل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg2": {
+    "message": "الإعدادات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.btnMsg3": {
+    "message": "حذف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.ProgramDelTip": {
+    "message": "هل أنت متأكد من أنك تريد إزالة هذا المهنية؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.fonfirm": {
+    "message": "تأكيد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.cancel": {
+    "message": "إلغاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle": {
+    "message": "إعدادات احترافية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.sendSetting": {
+    "message": "إعدادات الاختبار",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip1": {
+    "message": "النشر إلى موقع المدخل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.applySetting": {
+    "message": "إعدادات الطلب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip2": {
+    "message": "مفتوح للتطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle2": {
+    "message": "فترات فتح التطبيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingsTip3": {
+    "message": "من وقت البدء 0:00 إلى تاريخ الانتهاء 24:00",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.settingTitle3": {
+    "message": "التسجيل:",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.deltoast": {
+    "message": "تم الحذف بنجاح!",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.detailInfoTitle1": {
+    "message": "مقدمة مهنية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.programNameErr": {
+    "message": "تكرار الاسم المهني",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openStatus1": {
+    "message": "فتح",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.openStatus2": {
+    "message": "غير مفتوح",
+    "description": "2.0 admin.js"
+  },
+  "settingErr1": {
+    "message": "يرجى ملء وقت البدء ووقت الانتهاء\n",
+    "description": "2.0 admin.js"
+  },
+  "settingErr2": {
+    "message": "يرجى ملء وقت البدء ووقت الانتهاء\n",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.uploadFileTips1": {
+    "message": "لا يمكن أن تتجاوز الملفات 2 متر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.maxlengthTip1": {
+    "message": "لا يمكن أن تتجاوز التفاصيل 5000 حرف",
+    "description": "2.0 admin.js"
+  },
+  "settingErr3": {
+    "message": "يرجى ملء رقم التسجيل\n",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder3": {
+    "message": "الرجاء تحديد الفئة\n",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteicon": {
+    "message": "Favico",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImage": {
+    "message": "اختر صورة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageLoading": {
+    "message": "جارٍ التحميل...",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageTips1": {
+    "message": "يجب أن يكون ملف ICO أقل من 500kb",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.uploadTip": {
+    "message": "استخدم ملف 48 * 48 ico\n",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSetting": {
+    "message": "وحدة زمنية\n",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSettingTip": {
+    "message": "يرجى تعيين المنطقة الزمنية",
+    "description": "2.0 admin.js"
+  },
+  "majorType": {
+    "message": "الفئة المهنية",
+    "description": "2.0 admin.js"
+  },
+  "applicationName": {
+    "message": "مقدم الطلب",
+    "description": "2.0 admin.js"
+  },
+  "email": {
+    "message": "بريد",
+    "description": "2.0 admin.js"
+  },
+  "phone": {
+    "message": "الهاتف",
+    "description": "2.0 admin.js"
+  },
+  "applyTime": {
+    "message": "وقت التقديم:",
+    "description": "2.0 admin.js"
+  },
+  "applyOther": {
+    "message": "معلومات الملاحظات",
+    "description": "2.0 admin.js"
+  },
+  "isreply": {
+    "message": "اجاب",
+    "description": "2.0 admin.js"
+  },
+  "isreply2": {
+    "message": "لا يوجد رد",
+    "description": "2.0 admin.js"
+  },
+  "copy": {
+    "message": "نسخ",
+    "description": "2.0 admin.js"
+  },
+  "allMajor": {
+    "message": "جميع التخصصات",
+    "description": "2.0 admin.js"
+  },
+  "copySuccess": {
+    "message": "تم التكرار بنجاح!",
+    "description": "2.0 admin.js"
+  },
+  "deleteApplyMsg": {
+    "message": "هل أنت متأكد من أنك تريد حذف هذا الطلب؟",
+    "description": "2.0 admin.js"
+  },
+  "deleteFail": {
+    "message": "فشل الحذف",
+    "description": "2.0 admin.js"
+  },
+  "inputNameEmail": {
+    "message": "أدخل اسم مقدم الطلب أو عنوان بريده الإلكتروني للاستفسارات",
+    "description": "2.0 admin.js"
+  },
+  "changeMajor": {
+    "message": "مشارك مهني",
+    "description": "2.0 admin.js"
+  },
+  "majorName": {
+    "message": "التخصص",
+    "description": "2.0 admin.js"
+  },
+  "deleteCategoryTip": {
+    "message": "بعد حذف فئة، سيتم تعيين المقررات الدراسية والتخصصات المرتبطة بهذه الفئة إلى غير مفرزة، هل أنت متأكد من أنك تريد حذفها؟",
+    "description": "2.0 admin.js"
+  },
+  "multilingual": {
+    "message": "تحرير متعدد اللغات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeNumberOfEntrants": {
+    "message": "العدد التراكمي للوافدين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataDisplay": {
+    "message": "بيانات الزيارة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips21": {
+    "message": "تم إلغاء الحساب ، هل أنت متأكد من استعادته؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.cancelled": {
+    "message": "تسجيل الخروج",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.restoreAccount": {
+    "message": "استرداد حسابك",
+    "description": "2.0 admin.js"
+  },
+  "teachersWorkNumber": {
+    "message": "رقم وظيفة المعلم",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips22": {
+    "message": "تم تجميد الحساب ، هل أنت متأكد من إلغاء تجميده؟",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips28": {
+    "message": "لا يمكن تحليل تنسيق ترميز الملف ، يرجى محاولة تحويل الترميز إلى MP4 قبل التحميل.",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.freeze": {
+    "message": "مجمد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.thawAccount": {
+    "message": "إلغاء تجميد حسابك",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips29": {
+    "message": "الرجاء إدخال رقم المعلم",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.fileUploadingTip": {
+    "message": "تحميل المرفقات",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.choose": {
+    "message": "الرجاء الاختيار",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis1": {
+    "message": "نوع SIS",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2": {
+    "message": "SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2Tip": {
+    "message": "الرجاء إدخال معرف SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3": {
+    "message": "SISUالاسم السري",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3Tip": {
+    "message": "الرجاء إدخال اسم SISUsername",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4": {
+    "message": "سيف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4Tip": {
+    "message": "الرجاء إدخال سيف SISPassword",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5": {
+    "message": "SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5Tip": {
+    "message": "الرجاء إدخال SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSync": {
+    "message": "مزامنة SIS",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSyncLoading": {
+    "message": "مزامنة SIS...",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisErrorTip": {
+    "message": "فشلت مزامنة SIS ، انتقل إلى إدارة موقع الويب لتكوين معلومات SIS؟",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI1": {
+    "message": "إضافة تطبيق مخصص",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI2": {
+    "message": "الإعدادات الأساسية",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI3": {
+    "message": "اسم",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI4": {
+    "message": "رمز",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI5": {
+    "message": "رابط المساعدة",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI6": {
+    "message": "إعدادات التكامل",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI7": {
+    "message": "نطاق التطبيق",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI8": {
+    "message": "اعرضه للطلاب على تطبيق الهاتف المحمول",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI9": {
+    "message": "اعرضه على المعلمين على تطبيق جوال",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI10": {
+    "message": "تقديمه للطلاب على تطبيق الويب",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI11": {
+    "message": "تقديمه للمعلمين على تطبيق الويب",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI12": {
+    "message": "تطبيق التكوين",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI13": {
+    "message": "إصدار LTI",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI14": {
+    "message": "تعديل التطبيق المخصص",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI15": {
+    "message": "الرجاء إدخال {label}",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI16": {
+    "message": "يرجى تحميل الرمز",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI17": {
+    "message": "الرجاء إدخال عنوان URL صحيح",
+    "description": "2.0 admin.js"
+  },
+  "customizeLTI18": {
+    "message": "لا يمكن أن تتجاوز {num} الأحرف",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.orgResource": {
+    "message": "الموارد المؤسسية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetbutton": {
+    "message": "اعاده تعيين",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettiptitle": {
+    "message": "إعادة تعيين الرمز المميز",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettipbody": {
+    "message": "تعيد هذه العملية تعيين رمز مزامنة SIS ، هل يجب علي المتابعة؟",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resourcestatus": {
+    "message": "حالة المورد",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.site": {
+    "message": "موقع",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.instnum": {
+    "message": "عدد المؤسسات",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota1": {
+    "message": "إجمالي الحصة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.usernum": {
+    "message": "عدد المستخدمين",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota2": {
+    "message": "إجمالي الحصة",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.effecttime": {
+    "message": "صالحة حتى",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.over": {
+    "message": "‏‏النهاية",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetsuccess": {
+    "message": "إعادة تعيين بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.LVCMax": {
+    "message": "توافق LVC",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.forever": {
+    "message": "صالح إلى الأبد",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.concurrencyNum": {
+    "message": "توافق",
+    "description": "2.0 admin.js"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "createLive": {
+    "message": "สร้างสตรีมแบบสด",
+    "description": "1.0 live.json"
+  },
+  "requiredVal": {
+    "message": "{0}ห้ามว่างเว้น",
+    "description": "1.0 live.json"
+  },
+  "maxlengthVal": {
+    "message": "ต้องไม่เกิน{0}ตัวอักษร",
+    "description": "1.0 live.json"
+  },
+  "regVal": {
+    "message": "เนื้อหาต้องไม่มีอักขระพิเศษ/:*”<>|&[]#",
+    "description": "1.0 live.json"
+  },
+  "classNameTxt": {
+    "message": "ชื่อสตรีมแบบสด",
+    "description": "1.0 live.json"
+  },
+  "startTimeTxt": {
+    "message": "เวลาเริ่มต้น",
+    "description": "1.0 live.json"
+  },
+  "chooseClassTxt": {
+    "message": "โปรดเลือกชั้นเรียน",
+    "description": "1.0 live.json"
+  },
+  "modSuccess": {
+    "message": "การปรับเปลี่ยนเสร็จเรียบร้อยแล้ว",
+    "description": "1.0 live.json"
+  },
+  "modFail": {
+    "message": "การปรับเปลี่ยนล้มเหลว",
+    "description": "1.0 live.json"
+  },
+  "createSuccess": {
+    "message": "สร้างเสร็จเรียบร้อยแล้ว",
+    "description": "1.0 live.json"
+  },
+  "createFail": {
+    "message": "การสร้างล้มเหลว",
+    "description": "1.0 live.json"
+  },
+  "selectClassTxt": {
+    "message": "เลือกชั้นเรียน",
+    "description": "1.0 live.json"
+  },
+  "liveIntroTxt": {
+    "message": "การแนะนำสตรีมแบบสด",
+    "description": "1.0 live.json"
+  },
+  "speakerTxt": {
+    "message": "ชื่อของผู้บรรยาย",
+    "description": "1.0 live.json"
+  },
+  "submitingTxt": {
+    "message": "กําลังส่ง...",
+    "description": "1.0 live.json"
+  },
+  "timeText": {
+    "message": "เวลาเริ่มต้นต้องไม่เร็วกว่าเวลาปัจจุบัน",
+    "description": "1.0 live.json"
+  },
+  "errTip1": {
+    "message": "มีการถ่ายทอดสดที่ยังไม่เสร็จ โปรดสร้างหลังจากเสร็จสิ้น",
+    "description": "1.0 live.json"
+  },
+  "errorTip2": {
+    "message": "ค่าใช้จ่ายของการไลฟ์สดครั้งล่าสุดยังไม่ได้รับการชำระ โปรดสร้างในภายหลัง",
+    "description": "1.0 live.json"
+  },
+  "errorTip3": {
+    "message": "ยอดคงเหลือต่ํากว่า 0 หยวน ไม่เพียงพอที่จะสนับสนุนการไลฟ์สด 1 ครั้ง โปรดเติมเงิน",
+    "description": "1.0 live.json"
+  },
+  "saveStr": {
+    "message": "บันทึก",
+    "description": "1.0 live.json"
+  },
+  "createStr": {
+    "message": "สร้าง",
+    "description": "1.0 live.json"
+  },
+  "notSupport": {
+    "message": "สัญลักษณ์ไม่สามารถปรากฏในชื่อสตรีมแบบสดได้",
+    "description": "1.0 live.json"
+  }
+}

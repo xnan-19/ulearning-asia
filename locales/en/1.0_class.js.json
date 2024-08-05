@@ -1,0 +1,42 @@
+{
+  "exportClassData": {
+    "message": "Export Classroom Activity Data",
+    "description": "1.0 class.json"
+  },
+  "Year": {
+    "message": "Year",
+    "description": "1.0 class.json"
+  },
+  "selectClass": {
+    "message": "Select Class",
+    "description": "1.0 class.json"
+  },
+  "searchClass": {
+    "message": "Search by class",
+    "description": "1.0 class.json"
+  },
+  "continueSelect": {
+    "message": "Add More",
+    "description": "1.0 class.json"
+  },
+  "pleaseSelect": {
+    "message": "Please select class",
+    "description": "1.0 class.json"
+  },
+  "expotTip": {
+    "message": "When you export data, only the data for the ended activity is exported. If you want to export data for all activities, first end an active activity.",
+    "description": "1.0 class.json"
+  },
+  "remind": {
+    "message": "Reminder",
+    "description": "1.0 class.json"
+  },
+  "endAndExport": {
+    "message": "End an in-progress activity and export the data",
+    "description": "1.0 class.json"
+  },
+  "exportBtnFont": {
+    "message": "Export data",
+    "description": "1.0 class.json"
+  }
+}

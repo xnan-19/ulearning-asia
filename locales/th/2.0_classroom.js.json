@@ -1,0 +1,330 @@
+{
+  "exportDetails": {
+    "message": "ส่งออกรายละเอียด",
+    "description": "2.0 classroom.js"
+  },
+  "classAlign": {
+    "message": "เรียนอีกครั้ง",
+    "description": "2.0 classroom.js"
+  },
+  "classroomReport": {
+    "message": "รายงานชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "attendance": {
+    "message": "การเข้างาน",
+    "description": "2.0 classroom.js"
+  },
+  "interactionInClass": {
+    "message": "ปฏิสัมพันธ์ในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "participationPoints": {
+    "message": "คะแนนเข้าร่วมกิจกรรม",
+    "description": "2.0 classroom.js"
+  },
+  "integralInClass": {
+    "message": "คะแนนสะสมในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "comprehensivePerformance": {
+    "message": "ประสิทธิภาพโดยรวมของนักเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "more": {
+    "message": "เพิ่มเติม",
+    "description": "2.0 classroom.js"
+  },
+  "summary": {
+    "message": "สรุปชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip": {
+    "message": "คุณสามารถเขียนบทสรุปของชั้นเรียนได้ที่นี่",
+    "description": "2.0 classroom.js"
+  },
+  "reStartFail": {
+    "message": "เข้าเรียนอีกครั้งล้มเหลว",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip1": {
+    "message": "ต้องไม่เกิน 2000 อักขระ",
+    "description": "2.0 classroom.js"
+  },
+  "rankList": {
+    "message": "การจัดอันดับคะแนน",
+    "description": "2.0 classroom.js"
+  },
+  "rankListInClass": {
+    "message": "การจัดอันดับคะแนนของห้องเรียนในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "viewClassStatistics": {
+    "message": "ดูสถิติชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "myRate": {
+    "message": "อันดับของฉัน",
+    "description": "2.0 classroom.js"
+  },
+  "myPerformance": {
+    "message": "ประสิทธิภาพการทํางานในชั้นเรียนของฉัน",
+    "description": "2.0 classroom.js"
+  },
+  "scoreInClass": {
+    "message": "คะแนนสําหรับกิจกรรมในชั้นเรียนครั้งนี้",
+    "description": "2.0 classroom.js"
+  },
+  "totalScore": {
+    "message": "คะแนนรวม: {count}คะแนน",
+    "description": "2.0 classroom.js"
+  },
+  "rankInClass": {
+    "message": "การจัดอันดับชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "interaction": {
+    "message": "ปฏิสัมพันธ์ในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "answered": {
+    "message": "ได้ชิงตอบคำถามแล้ว",
+    "description": "2.0 classroom.js"
+  },
+  "notAnswer": {
+    "message": "ยังไม่ได้ชิงตอบคำถาม",
+    "description": "2.0 classroom.js"
+  },
+  "selected": {
+    "message": "ถูกเลือก",
+    "description": "2.0 classroom.js"
+  },
+  "joined": {
+    "message": "เข้าร่วมแล้ว",
+    "description": "2.0 classroom.js"
+  },
+  "notJoin": {
+    "message": "ยังไม่ได้เข้าร่วม",
+    "description": "2.0 classroom.js"
+  },
+  "score": {
+    "message": "คะแนน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomCount": {
+    "message": "จํานวนชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "activity": {
+    "message": "กิจกรรม",
+    "description": "2.0 classroom.js"
+  },
+  "classroomList": {
+    "message": "บันทึกการเข้าเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "createClassroom": {
+    "message": "สร้างชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "studentPerformance": {
+    "message": "ประสิทธิภาพการทํางานของนักเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStatistics": {
+    "message": "สถิติห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomName": {
+    "message": "ชื่อชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classTime": {
+    "message": "เวลาเข้าเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classesInClassroom": {
+    "message": "ชั้นเรียนที่เข้าเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "inClass": {
+    "message": "กำลังเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroom": {
+    "message": "เข้าห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroom": {
+    "message": "คัดลอกชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "noClassroom": {
+    "message": "ไม่มีห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroomName": {
+    "message": "โปรดป้อนชื่อชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "noClass1": {
+    "message": "ไม่มีชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "lastClass": {
+    "message": "ชั้นเรียนครั้งที่แล้ว",
+    "description": "2.0 classroom.js"
+  },
+  "startClass": {
+    "message": "เริ่มเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "notClass": {
+    "message": "ไม่เข้าเรียนชั่วคราว",
+    "description": "2.0 classroom.js"
+  },
+  "allClassroom": {
+    "message": "ห้องเรียนทั้งหมด",
+    "description": "2.0 classroom.js"
+  },
+  "deleteClassroom": {
+    "message": "ลบห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "confirmDeleteClassroom": {
+    "message": "แน่ใจว่าต้องการลบห้องเรียนนี้?",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomToClass": {
+    "message": "คัดลอกห้องเรียนไปยังชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip": {
+    "message": "(กิจกรรมจะไม่เริ่มหลังจากการคัดลอก คุณสามารถเริ่มกิจกรรมเหล่านี้ได้หลังเข้าเรียน กิจกรรมการเช็คชื่อ/การคัดเลือกคนไม่สามารถคัดลอกได้)",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip1": {
+    "message": "หลังจากคัดลอกชั้นเรียนแล้ว กิจกรรมต่างๆ เช่น การลงคะแนนเสียงและการชิงคําตอบจะไม่เริ่มต้น และคุณสามารถเริ่มกิจกรรมเหล่านั้นหลังเลิกเรียนได้",
+    "description": "2.0 classroom.js"
+  },
+  "copySuccess": {
+    "message": "คัดลอกสำเร็จ",
+    "description": "2.0 classroom.js"
+  },
+  "copyFailed": {
+    "message": "คัดลอกล้มเหลว",
+    "description": "2.0 classroom.js"
+  },
+  "editClassroom": {
+    "message": "แก้ไขห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classErrorTip": {
+    "message": "ชั้นเรียนห้ามเว้นว่าง",
+    "description": "2.0 classroom.js"
+  },
+  "faceAuthentication": {
+    "message": "การยืนยันตัวตนด้วยใบหน้า",
+    "description": "2.0 classroom.js"
+  },
+  "auditTips2": {
+    "message": "การยืนยันตัวตนด้วยใบหน้าได้เปิดใช้งานการตรวจสอบการจดจำใบหน้า จำเป็นต้องอัปโหลดรูปถ่ายการรับรองความถูกต้องของผู้สมัครล่วงหน้า ครูสามารถนำเข้ารูปภาพเป็นกลุ่ม หรือนักเรียนอัปโหลดเองก็ได้ ครูสามารถตรวจสอบรูปภาพที่นักเรียนอัปโหลดเองได้",
+    "description": "2.0 classroom.js"
+  },
+  "classroomOverview": {
+    "message": "ภาพรวมของชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomAttendance": {
+    "message": "อัตราการเข้าเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomInteractionTimes": {
+    "message": "จํานวนการโต้ตอบในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomLikeNumber": {
+    "message": "จํานวนการกดถูกใจที่ได้รับ",
+    "description": "2.0 classroom.js"
+  },
+  "classroomQuestionNumber": {
+    "message": "จํานวนคําถาม",
+    "description": "2.0 classroom.js"
+  },
+  "classroomTeachingContent": {
+    "message": "เนื้อหาการบรรยาย",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStuQuestionNumber": {
+    "message": "จํานวนคําถามของนักเรียน:",
+    "description": "2.0 classroom.js"
+  },
+  "questionNumber": {
+    "message": "จํานวนคําถาม:",
+    "description": "2.0 classroom.js"
+  },
+  "curPageQuestionNumber": {
+    "message": "นักเรียนที่มีคําถามเกี่ยวกับหน้านี้:",
+    "description": "2.0 classroom.js"
+  },
+  "curClassroomQuestionNumber": {
+    "message": "คำถามในชั้นเรียนนี้{N}ครั้ง",
+    "description": "2.0 classroom.js"
+  },
+  "classroomInteraction": {
+    "message": "การมีส่วนร่วมในชั้นเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomScore": {
+    "message": "คะแนนนักเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomLikeDesc": {
+    "message": "ชั้นเรียนนี้ได้รับการถูกใจ {n} ครั้งจากนักเรียนทั้งหมด มาสรุปชั้นเรียนนี้สำหรับนักเรียนกันเถอะ!",
+    "description": "2.0 classroom.js"
+  },
+  "noQues": {
+    "message": "ไม่มีคำถามจากนักเรียนในชั้นเรียนนี้",
+    "description": "2.0 classroom.js"
+  },
+  "classroomShared": {
+    "message": "การแชร์ในห้องเรียน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomSharedNumber": {
+    "message": "จํานวนการแชร์คลาส:",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStuQuestion": {
+    "message": "นักเรียนมีคําถาม",
+    "description": "2.0 classroom.js"
+  },
+  "hasUpload": {
+    "message": "ส่งแล้ว",
+    "description": "2.0 classroom.js"
+  },
+  "dontUpload": {
+    "message": "ไม่ได้ส่ง",
+    "description": "2.0 classroom.js"
+  },
+  "remind": {
+    "message": "แจ้งเตือน",
+    "description": "2.0 classroom.js"
+  },
+  "areyousuredelete": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบการแชร์รูปภาพ",
+    "description": "2.0 classroom.js"
+  },
+  "netWOrkError": {
+    "message": "ข้อผิดพลาดของเครือข่าย",
+    "description": "2.0 classroom.js"
+  },
+  "classroomResources": {
+    "message": "ทรัพยากรเซสชัน",
+    "description": "2.0 classroom.js"
+  },
+  "classroomResourcesNum": {
+    "message": "จํานวนทรัพยากรเซสชัน: ",
+    "description": "2.0 classroom.js"
+  }
+}

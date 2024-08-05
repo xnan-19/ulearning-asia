@@ -1,0 +1,330 @@
+{
+    "reStartFail": {
+        "message": "Falha ao ingressar novamente na aula",
+        "description": ""
+    },
+    "summaryTip": {
+        "message": "Você pode escrever o resumo da aula aqui",
+        "description": ""
+    },
+    "myPerformance": {
+        "message": "Meu Desempenho em Sala",
+        "description": ""
+    },
+    "exportDetails": {
+        "message": "Exportar detalhes",
+        "description": ""
+    },
+    "participationPoints": {
+        "message": "Pontos por participar da atividade",
+        "description": ""
+    },
+    "integralInClass": {
+        "message": "Pontos da aula atual",
+        "description": ""
+    },
+    "viewClassStatistics": {
+        "message": "Ver estatísticas da sala de aula",
+        "description": ""
+    },
+    "interaction": {
+        "message": "Dinâmica de sala de aula",
+        "description": ""
+    },
+    "scoreInClass": {
+        "message": "Pontos para esta atividade em sala de aula",
+        "description": ""
+    },
+    "classAlign": {
+        "message": "Reingressar na aula",
+        "description": ""
+    },
+    "rankInClass": {
+        "message": "Ranking da turma",
+        "description": ""
+    },
+    "rankListInClass": {
+        "message": "Ranking Pontos Turma na Sala de Aula",
+        "description": ""
+    },
+    "rankList": {
+        "message": "Ranking de Pontos",
+        "description": ""
+    },
+    "myRate": {
+        "message": "Minha Classificação",
+        "description": ""
+    },
+    "joined": {
+        "message": "Participação encerrada",
+        "description": ""
+    },
+    "summaryTip1": {
+        "message": "Não pode exceder 2000 caracteres",
+        "description": ""
+    },
+    "notJoin": {
+        "message": "Não participar",
+        "description": ""
+    },
+    "interactionInClass": {
+        "message": "Interação da Aula atual",
+        "description": ""
+    },
+    "comprehensivePerformance": {
+        "message": "Desempenho geral do aluno",
+        "description": ""
+    },
+    "noQues": {
+        "message": "A Aula atual não teve questionamentos de Aluno",
+        "description": ""
+    },
+    "classroomTeachingContent": {
+        "message": "Conteúdo da aula",
+        "description": ""
+    },
+    "classroomQuestionNumber": {
+        "message": "Número de dúvidas",
+        "description": ""
+    },
+    "curPageQuestionNumber": {
+        "message": "Alunos com dúvidas sobre esta página:",
+        "description": ""
+    },
+    "classroomInteraction": {
+        "message": "Dinâmica de sala de aula",
+        "description": ""
+    },
+    "classroomAttendance": {
+        "message": "Assiduidade em sala de aula",
+        "description": ""
+    },
+    "curClassroomQuestionNumber": {
+        "message": "Dúvidas da aula atual: {n} vez",
+        "description": ""
+    },
+    "classroomStuQuestionNumber": {
+        "message": "Número de Dúvidas do Aluno:",
+        "description": ""
+    },
+    "classroomScore": {
+        "message": "Pontuação do Aluno",
+        "description": ""
+    },
+    "classroomOverview": {
+        "message": "Visão geral da sala de aula",
+        "description": ""
+    },
+    "classroomLikeDesc": {
+        "message": "Esta sala de aula recebeu um total de {n} elogios dos Alunos. Vamos resumir a Aula atual para os Alunos!",
+        "description": ""
+    },
+    "classroomInteractionTimes": {
+        "message": "Número de Interações em sala de aula",
+        "description": ""
+    },
+    "classroomLikeNumber": {
+        "message": "Número de elogios recebidos",
+        "description": ""
+    },
+    "areyousuredelete": {
+        "message": "Confirmar exclusão do compartilhamento da imagem?",
+        "description": ""
+    },
+    "classroomStuQuestion": {
+        "message": "Dúvidas do Aluno",
+        "description": ""
+    },
+    "classroomSharedNumber": {
+        "message": "Quantidade de compartilhamentos da sala de aula:",
+        "description": ""
+    },
+    "netWOrkError": {
+        "message": "Erro de rede",
+        "description": ""
+    },
+    "dontUpload": {
+        "message": "Pendente",
+        "description": ""
+    },
+    "hasUpload": {
+        "message": "Submetido",
+        "description": ""
+    },
+    "classroomShared": {
+        "message": "Partilhando a sala de Aula",
+        "description": ""
+    },
+    "classroomResourcesNum": {
+        "message": "Número de recursos da sala de aula:",
+        "description": ""
+    },
+    "classroomResources": {
+        "message": "Recursos da sala de aula",
+        "description": ""
+    },
+    "classroomReport": {
+        "message": "Relatório da aula",
+        "description": ""
+    },
+    "notClass": {
+        "message": "Suspender as aulas",
+        "description": ""
+    },
+    "editClassroom": {
+        "message": "Modificar turma",
+        "description": ""
+    },
+    "lastClass": {
+        "message": "Turma anterior",
+        "description": ""
+    },
+    "classTime": {
+        "message": "Horário da aula",
+        "description": ""
+    },
+    "enterClassroom": {
+        "message": "Entrar na sala de aula",
+        "description": ""
+    },
+    "studentPerformance": {
+        "message": "Desempenho do aluno",
+        "description": ""
+    },
+    "createClassroom": {
+        "message": "Criar sala de aula",
+        "description": ""
+    },
+    "classroomList": {
+        "message": "Registro de Assistência às Aulas",
+        "description": ""
+    },
+    "activity": {
+        "message": "atividade",
+        "description": ""
+    },
+    "selected": {
+        "message": "foi selecionado",
+        "description": ""
+    },
+    "classesInClassroom": {
+        "message": "Turma em aula",
+        "description": ""
+    },
+    "more": {
+        "message": "Mais",
+        "description": ""
+    },
+    "startClass": {
+        "message": "Iniciar aula",
+        "description": ""
+    },
+    "classroomCount": {
+        "message": "Número de aulas",
+        "description": ""
+    },
+    "copyClassroomToClass": {
+        "message": "Duplicar turma em turma",
+        "description": ""
+    },
+    "noClassroom": {
+        "message": "ainda não há sala de aula",
+        "description": ""
+    },
+    "attendance": {
+        "message": "Frequência",
+        "description": ""
+    },
+    "answered": {
+        "message": "Respondeu primeiro",
+        "description": ""
+    },
+    "copyClassroom": {
+        "message": "Duplicar turma",
+        "description": ""
+    },
+    "summary": {
+        "message": "Resumo da aula",
+        "description": ""
+    },
+    "enterClassroomName": {
+        "message": "Digite o nome da turma",
+        "description": ""
+    },
+    "allClassroom": {
+        "message": "Todas as salas de aula",
+        "description": ""
+    },
+    "copyFailed": {
+        "message": "Falha ao copiar",
+        "description": ""
+    },
+    "faceAuthentication": {
+        "message": "Reconhecimento facial",
+        "description": ""
+    },
+    "deleteClassroom": {
+        "message": "Excluir sala de aula",
+        "description": ""
+    },
+    "noClass1": {
+        "message": "Ainda não há turma",
+        "description": ""
+    },
+    "inClass": {
+        "message": "Durante a aula",
+        "description": ""
+    },
+    "copyClassroomTip": {
+        "message": "(Após cópia, as atividades permanecem no estado não iniciado. Pode iniciar as atividades depois de comparecer às aulas. Atividades de chamada/seleção não podem ser copiadas.)",
+        "description": ""
+    },
+    "classroomName": {
+        "message": "Nome da turma",
+        "description": ""
+    },
+    "score": {
+        "message": "pontos",
+        "description": ""
+    },
+    "classroomStatistics": {
+        "message": "Estatísticas da sala de aula",
+        "description": ""
+    },
+    "copySuccess": {
+        "message": "Copiado com sucesso",
+        "description": ""
+    },
+    "totalScore": {
+        "message": "Pontuação total: {count} Nota",
+        "description": ""
+    },
+    "confirmDeleteClassroom": {
+        "message": "Confirmar a exclusão da sala de aula?",
+        "description": ""
+    },
+    "auditTips2": {
+        "message": "O reconhecimento facial foi ativado e a foto de identificação do candidato deve ser enviada antecipadamente. A foto pode ser importada em massa pelo professor ou enviada pelo próprio aluno. O professor pode analisar as fotos enviadas pelos alunos.",
+        "description": ""
+    },
+    "notAnswer": {
+        "message": "Sem resposta rápida",
+        "description": ""
+    },
+    "classErrorTip": {
+        "message": "Turma Campo obrigatório",
+        "description": ""
+    },
+    "questionNumber": {
+        "message": "Dúvidas:",
+        "description": ""
+    },
+    "copyClassroomTip1": {
+        "message": "Após duplicar a sala de aula, atividades como votação e pergunta rápida ficam em estado não iniciado. Você pode iniciar essas atividades após assistir à aula.",
+        "description": ""
+    },
+    "remind": {
+        "message": "Lembrete",
+        "description": ""
+    }
+}

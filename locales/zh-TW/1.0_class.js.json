@@ -1,0 +1,42 @@
+{
+  "exportClassData": {
+    "message": "課堂活動數據導出",
+    "description": "1.0 class.json"
+  },
+  "Year": {
+    "message": "年份",
+    "description": "1.0 class.json"
+  },
+  "selectClass": {
+    "message": "選擇班級",
+    "description": "1.0 class.json"
+  },
+  "searchClass": {
+    "message": "按班級搜索",
+    "description": "1.0 class.json"
+  },
+  "continueSelect": {
+    "message": "繼續選擇",
+    "description": "1.0 class.json"
+  },
+  "pleaseSelect": {
+    "message": "請選擇班級",
+    "description": "1.0 class.json"
+  },
+  "expotTip": {
+    "message": "匯出數據時，只匯出已結束活動的數據。 如需匯出全部活動的數據，請先結束正在進行中的活動。",
+    "description": "1.0 class.json"
+  },
+  "remind": {
+    "message": "提醒",
+    "description": "1.0 class.json"
+  },
+  "endAndExport": {
+    "message": "結束進行中的活動並匯出數據",
+    "description": "1.0 class.json"
+  },
+  "exportBtnFont": {
+    "message": "匯出數據",
+    "description": "1.0 class.json"
+  }
+}

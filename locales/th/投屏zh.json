@@ -1,0 +1,498 @@
+{
+  "_name": {
+    "message": "ภาษาจีนแบบตัวย่อ",
+    "description": "投屏"
+  },
+  "system.welcome": {
+    "message": "ยินดีต้อนรับสู่การใช้ระบบแคสต์หน้าจอของULearning ",
+    "description": "投屏"
+  },
+  "system.screenGuide": {
+    "message": "เปิดแอป ULearning และคลิกที่ปุ่ม \"โยนหน้าจอ\" ในหน้ารายละเอียดกิจกรรม / ทรัพยากรเพื่อรับรหัสหน้าจอและป้อนด้านล่าง",
+    "description": "投屏"
+  },
+  "system.scanCode": {
+    "message": "สแกนรหัสเพื่อเข้าร่วมกิจกรรม",
+    "description": "投屏"
+  },
+  "system.remind": {
+    "message": "แจ้งเตือน",
+    "description": "投屏"
+  },
+  "system.confirm": {
+    "message": "ตกลง",
+    "description": "投屏"
+  },
+  "system.cancel": {
+    "message": "ยกเลิก",
+    "description": "投屏"
+  },
+  "system.previousPage": {
+    "message": "ก่อนหน้า",
+    "description": "投屏"
+  },
+  "system.nextPage": {
+    "message": "ถัดไป",
+    "description": "投屏"
+  },
+  "system.allClasses": {
+    "message": "ชั้นเรียนทั้งหมด",
+    "description": "投屏"
+  },
+  "system.back": {
+    "message": "กลับ",
+    "description": "投屏"
+  },
+  "system.teacher": {
+    "message": "ครู",
+    "description": "投屏"
+  },
+  "system.waiting": {
+    "message": "รออยู่",
+    "description": "投屏"
+  },
+  "system.guide1": {
+    "message": "เริ่มหรือเข้าร่วมกิจกรรมบนโทรศัพท์เพื่อแคสต์หน้าจอ",
+    "description": "投屏"
+  },
+  "system.viewCode": {
+    "message": "คลิกเพื่อดูคิวอาร์โค้ด",
+    "description": "投屏"
+  },
+  "system.followTip1": {
+    "message": "กดติดตามบัญชีทางการของ \"ULearning\" เพื่อรับการแจ้งเตือนข่าวสารกิจกรรมอย่างทันท่วงที",
+    "description": "投屏"
+  },
+  "system.quitScreen": {
+    "message": "ออกจากแคสต์หน้าจอ",
+    "description": "投屏"
+  },
+  "system.followTip2": {
+    "message": "ติดตามบัญชีทางการ เพื่อรับ/เข้าร่วมกิจกรรม",
+    "description": "投屏"
+  },
+  "system.title": {
+    "message": "หัวข้อ",
+    "description": "投屏"
+  },
+  "system.class": {
+    "message": "ชั้นเรียน",
+    "description": "投屏"
+  },
+  "system.chooseClass": {
+    "message": "เลือกชั้นเรียน",
+    "description": "投屏"
+  },
+  "system.tip1": {
+    "message": "... เท่ากับ {num} คลาสชั้นเรียน",
+    "description": "投屏"
+  },
+  "system.tip2": {
+    "message": "ไม่มีชั้นเรียน โปรดไปเพิ่มชั้นเรียนก่อน",
+    "description": "投屏"
+  },
+  "system.peopleNum": {
+    "message": "จํานวนคน",
+    "description": "投屏"
+  },
+  "system.peopleOf": {
+    "message": "{n} คน",
+    "description": "发起活动 -> 抢答 -> 人数 \n 发起活动 -> 选人 \n 发起活动 -> 投票"
+  },
+  "system.option": {
+    "message": "ตัวเลือก",
+    "description": "投屏"
+  },
+  "system.tip3": {
+    "message": "เลือกได้สูงสุด {num} รายการ",
+    "description": "投屏"
+  },
+  "system.tip4": {
+    "message": "โปรดใส่ตัวเลือกหรือเขียนตามคำบอกของอาจารย์",
+    "description": "投屏"
+  },
+  "system.object": {
+    "message": "วัตถุของการประเมินผล",
+    "description": "投屏"
+  },
+  "system.scoreSubitem": {
+    "message": "การให้คะแนนตามรายการ",
+    "description": "投屏"
+  },
+  "system.enterPoint": {
+    "message": "กรุณาใส่คะแนนประเมิน",
+    "description": "投屏"
+  },
+  "system.score": {
+    "message": "สัดส่วนคะแนน",
+    "description": "投屏"
+  },
+  "system.addPoint": {
+    "message": "เพิ่มคะแนน",
+    "description": "投屏"
+  },
+  "system.tips5": {
+    "message": "คะแนนเต็ม 100 คะแนน คะแนนที่เหลือ{score}",
+    "description": "发起活动 -> 打分 -> 分项打分"
+  },
+  "system.startNow": {
+    "message": "เริ่มทันที",
+    "description": "投屏"
+  },
+  "system.student": {
+    "message": "นักเรียน",
+    "description": "投屏"
+  },
+  "system.group": {
+    "message": "กลุ่มย่อย",
+    "description": "投屏"
+  },
+  "system.other": {
+    "message": "อื่น ๆ",
+    "description": "投屏"
+  },
+  "system.tip6": {
+    "message": "ตัวเลือกสูงสุดคือ 10 ตัวเลือก",
+    "description": "投屏"
+  },
+  "system.tip7": {
+    "message": "กรุณาใส่คะแนนที่ถูกต้อง",
+    "description": "投屏"
+  },
+  "system.tip8": {
+    "message": "คะแนนรวมต้องไม่เกินคะแนนเต็ม",
+    "description": "投屏"
+  },
+  "system.tip9": {
+    "message": "ชื่อเรื่องต้องไม่เกิน 200 ตัวอักษร",
+    "description": "投屏"
+  },
+  "system.startFail": {
+    "message": "การเริ่มต้นล้มเหลว",
+    "description": "投屏"
+  },
+  "system.tip10": {
+    "message": "คะแนนรวมต้องไม่น้อยกว่าคะแนนเต็ม",
+    "description": "投屏"
+  },
+  "system.tip11": {
+    "message": "เนื้อหาของแต่ละรายการไม่สามารถเว้นว่างได้",
+    "description": "投屏"
+  },
+  "system.codeError": {
+    "message": "รหัสการแคสต์หน้าจอไม่ถูกต้อง",
+    "description": "投屏"
+  },
+  "system.success": {
+    "message": "สําเร็จ",
+    "description": "投屏"
+  },
+  "system.xpeople": {
+    "message": "รอ {num} คน",
+    "description": "投屏"
+  },
+  "system.ulearningScreen": {
+    "message": "การแคสต์หน้าจอของULearning",
+    "description": "投屏"
+  },
+  "screen.cancelScreen": {
+    "message": "ยกเลิกการแคสต์หน้าจอ",
+    "description": "投屏"
+  },
+  "screen.endActivity": {
+    "message": "สิ้นสุดกิจกรรม",
+    "description": "投屏"
+  },
+  "screen.scoreAgain": {
+    "message": "เริ่มทําคะแนนอีกครั้ง",
+    "description": "投屏"
+  },
+  "screen.activityQrcode": {
+    "message": "คิวอาร์โค้ดกิจกรรม",
+    "description": "投屏"
+  },
+  "screen.startActivity": {
+    "message": "เริ่มกิจกรรม",
+    "description": "投屏"
+  },
+  "screen.actGrade": {
+    "message": "ให้คะแนน",
+    "description": "投屏"
+  },
+  "screen.actDiss": {
+    "message": "อภิปราย",
+    "description": "投屏"
+  },
+  "screen.actResp": {
+    "message": "ชิงตอบคำถาม",
+    "description": "投屏"
+  },
+  "screen.actPick": {
+    "message": "เลือกคน",
+    "description": "投屏"
+  },
+  "screen.actVote": {
+    "message": "ลงคะแนนเสียง",
+    "description": "投屏"
+  },
+  "screen.actSign": {
+    "message": "เช็คชื่อ",
+    "description": "投屏"
+  },
+  "screen.scanTip": {
+    "message": "รองรับแอป ULearning และรหัสสแกน WeChat",
+    "description": "投屏"
+  },
+  "screen.tip1": {
+    "message": "มีนักเรียนบางคนที่ยังไม่ได้คะแนน หลังจากเสร็จสิ้นนักเรียนคนดังกล่าวจะได้รับ 0 คะแนน หลังจากเสร็จสิ้นจะไม่สามารถแก้ไขได้อีก ยืนยันการสิ้นสุดของกาชิงตอบคำถาม?",
+    "description": "投屏"
+  },
+  "screen.tip2": {
+    "message": "ยืนยันการเสร็จสิ้น",
+    "description": "投屏"
+  },
+  "screen.tip3": {
+    "message": "เมื่อกิจกรรมสิ้นสุดลง นักเรียนที่ยังไม่ได้คะแนนจะไม่สามารถทําคะแนนต่อไปได้ ยืนยันสิ้นสุด",
+    "description": "投屏"
+  },
+  "screen.randomAdd": {
+    "message": "เพิ่มแบบสุ่ม",
+    "description": "投屏"
+  },
+  "screen.selectAdd": {
+    "message": "ระบุเพิ่ม",
+    "description": "投屏"
+  },
+  "screen.addGroup": {
+    "message": "เพิ่มกลุ่มย่อย",
+    "description": "投屏"
+  },
+  "screen.addObject": {
+    "message": "เพิ่มวัตถุการประเมิน",
+    "description": "投屏"
+  },
+  "screen.actGradeDetail": {
+    "message": "รายละเอียดคะแนน",
+    "description": "投屏"
+  },
+  "screen.resource": {
+    "message": "ทรัพยากร",
+    "description": "投屏"
+  },
+  "sign.sign": {
+    "message": "เช็คชื่อ",
+    "description": "投屏"
+  },
+  "sign.back": {
+    "message": "ย้อนกลับการเช็คชื่อ",
+    "description": "投屏"
+  },
+  "sign.alreadySign": {
+    "message": "เช็คอินแล้ว",
+    "description": "投屏"
+  },
+  "sign.notSign": {
+    "message": "ไม่ได้เช็คอิน",
+    "description": "投屏"
+  },
+  "sign.noOne": {
+    "message": "ไม่มีนักเรียนคนใดเช็คอินในขณะนี้",
+    "description": "投屏"
+  },
+  "sign.allIn": {
+    "message": "นักเรียนทั้งหมดได้เช็คอินแล้ว",
+    "description": "投屏"
+  },
+  "sign.scanSign": {
+    "message": "สแกนรหัสเพื่อเช็คอิน",
+    "description": "投屏"
+  },
+  "sign.enlarge": {
+    "message": "ขยาย",
+    "description": "投屏"
+  },
+  "sign.signNum": {
+    "message": "จํานวนคนเช็คอิน",
+    "description": "投屏"
+  },
+  "sign.viewDetail": {
+    "message": "คลิกเพื่อดูรายละเอียด",
+    "description": "投屏"
+  },
+  "sign.supportAPP": {
+    "message": "รองรับแอป ULearning",
+    "description": "投屏"
+  },
+  "vote.all": {
+    "message": "ทั้งหมด",
+    "description": "投屏"
+  },
+  "vote.tickets": {
+    "message": "{n}คะแนนเสียง",
+    "description": "发起活动 -> 投票"
+  },
+  "vote.notVote": {
+    "message": "ยังไม่โหวต",
+    "description": "投屏"
+  },
+  "vote.source": {
+    "message": "แหล่งที่มาของการเข้าถึง",
+    "description": "投屏"
+  },
+  "grade.points": {
+    "message": "{n}คะแนน",
+    "description": "发起活动 -> 选人 -> 打分 \n 发起活动 -> 打分 -> 指定添加(或随机添加) -> 右上角 \n 发起活动 -> 打分 -> 指定添加(或随机添加) -> 未评价(或已评价) \n 发起活动 -> 打分 -> 指定添加(或随机添加) -> 请输入正确的分数 \n 发起活动 -> 打分 -> 指定添加(或随机添加) -> 右上角"
+  },
+  "grade.randomChooseInput": {
+    "message": "เลือกแบบสุ่ม {input} คน",
+    "description": "发起活动 -> 打分 -> 随机添加"
+  },
+  "grade.chooseStu": {
+    "message": "เลือกนักเรียน",
+    "description": "投屏"
+  },
+  "grade.stuNum": {
+    "message": "รหัสนักเรียน:",
+    "description": "投屏"
+  },
+  "grade.noStu": {
+    "message": "ไม่มีนักเรียนในขณะนี้",
+    "description": "投屏"
+  },
+  "grade.chooseGroup": {
+    "message": "เลือกกลุ่มย่อย",
+    "description": "投屏"
+  },
+  "grade.member": {
+    "message": "สมาชิก:",
+    "description": "投屏"
+  },
+  "grade.classes": {
+    "message": "ชั้นเรียน:{className}",
+    "description": "发起活动 -> 打分"
+  },
+  "grade.noClass": {
+    "message": "ไม่มีกลุ่มย่อย",
+    "description": "投屏"
+  },
+  "grade.enterObject": {
+    "message": "กรุณาใส่วัตถุการให้คะแนน",
+    "description": "投屏"
+  },
+  "grade.addObject": {
+    "message": "เพิ่มวัตถุการให้คะแนน",
+    "description": "投屏"
+  },
+  "grade.tip1": {
+    "message": "ส่วนที่เหลือ",
+    "description": "投屏"
+  },
+  "grade.tip2": {
+    "message": "คน กรุณาเลือกจํานวนคนใหม่",
+    "description": "投屏"
+  },
+  "grade.noMember": {
+    "message": "ไม่มีสมาชิก",
+    "description": "投屏"
+  },
+  "grade.gradeNum": {
+    "message": "ประเมิน {num} คน",
+    "description": "投屏"
+  },
+  "grade.tip3": {
+    "message": "กรุณาใส่จํานวนเต็มบวก",
+    "description": "投屏"
+  },
+  "grade.tip4": {
+    "message": "ข้อมูลที่ป้อนต้องไม่น้อยกว่า",
+    "description": "投屏"
+  },
+  "grade.tip5": {
+    "message": "ข้อมูลที่ป้อนต้องไม่มากกว่า",
+    "description": "投屏"
+  },
+  "grade.tip6": {
+    "message": "คลิกปุ่มทางด้านขวาเพื่อเพิ่มวัตถุรีวิว",
+    "description": "投屏"
+  },
+  "grade.tip7": {
+    "message": "การประเมินที่สิ้นสุดลงแล้ว",
+    "description": "投屏"
+  },
+  "grade.evaluated": {
+    "message": "ประเมินแล้ว",
+    "description": "投屏"
+  },
+  "grade.unevaluated": {
+    "message": "ยังไม่ประเมิน",
+    "description": "投屏"
+  },
+  "grade.startEva": {
+    "message": "เริ่มการประเมิน",
+    "description": "投屏"
+  },
+  "grade.stopEva": {
+    "message": "สิ้นสุดการประเมิน",
+    "description": "投屏"
+  },
+  "grade.noEva": {
+    "message": "ไม่มีความคิดเห็นของนักเรียน",
+    "description": "投屏"
+  },
+  "grade.noUneva": {
+    "message": "ไม่มีนักเรียนคนไหนที่ยังไม่ได้ประเมิน",
+    "description": "投屏"
+  },
+  "grade.tip8": {
+    "message": "ยืนยันสิ้นสุดการประเมิน",
+    "description": "投屏"
+  },
+  "grade.tip9": {
+    "message": "การประเมินได้สิ้นสุดลงแล้ว",
+    "description": "投屏"
+  },
+  "grade.noEndEva": {
+    "message": "ไม่มีการประเมินที่ปิดแล้ว",
+    "description": "投屏"
+  },
+  "grade.evaDetail": {
+    "message": "รายละเอียดการประเมิน",
+    "description": "投屏"
+  },
+  "grade.reMark": {
+    "message": "เริ่มทําคะแนนอีกครั้ง",
+    "description": "投屏"
+  },
+  "discuss.anonymous": {
+    "message": "ไม่ระบุชื่อ",
+    "description": "投屏"
+  },
+  "discuss.goodNum": {
+    "message": "คนที่รู้สึกยอดเยี่ยม {num} คน",
+    "description": "投屏"
+  },
+  "discuss.noAnswer": {
+    "message": "ยังไม่มีการตอบกลับจากนักเรียน",
+    "description": "投屏"
+  },
+  "pick.setScore": {
+    "message": "ทําคะแนน",
+    "description": "投屏"
+  },
+  "pick.choosePeople": {
+    "message": "เลือกคน",
+    "description": "投屏"
+  },
+  "pick.noAnswer": {
+    "message": "จํานวนคนที่เหลือ {num} คน โปรดเลือกจํานวนคนอีกครั้ง",
+    "description": "投屏"
+  },
+  "resource.notSupport": {
+    "message": "ไม่รองรับการแคสต์หน้าจอของทรัพยากรดังกล่าว",
+    "description": "投屏"
+  },
+  "responder.wait": {
+    "message": "รอเข้าร่วม",
+    "description": "投屏"
+  }
+}

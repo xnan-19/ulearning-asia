@@ -1,0 +1,98 @@
+{
+  "welcome": {
+    "message": "Bienvenido a iniciar sesión",
+    "description": "1.0 portal.js"
+  },
+  "tip": {
+    "message": "¿Aún no tienes una cuenta con You Academy?",
+    "description": "1.0 portal.js"
+  },
+  "register": {
+    "message": "Registrarse",
+    "description": "1.0 portal.js"
+  },
+  "loginName": {
+    "message": "Nombre de usuario / número de móvil",
+    "description": "1.0 portal.js"
+  },
+  "loginPlaceholder": {
+    "message": "Por favor ingrese su nombre de usuario o número de teléfono móvil",
+    "description": "1.0 portal.js"
+  },
+  "loginTip": {
+    "message": "Ingrese nombre de usuario y contraseña",
+    "description": "1.0 portal.json.js"
+  },
+  "loginErrorTip": {
+    "message": "Nombre de usuario o contraseña incorrectos",
+    "description": "1.0 portal.json.js"
+  },
+  "loginTryLimit": {
+    "message": "\"Ingresó el número incorrecto 5 veces seguidas, intente nuevamente en 3 minutos\"",
+    "description": "1.0 portal.json.js"
+  },
+  "password": {
+    "message": "Contraseña",
+    "description": "1.0 portal.js"
+  },
+  "passwordPlaceholder": {
+    "message": "Tu contraseña",
+    "description": "1.0 portal.js"
+  },
+  "login": {
+    "message": "Iniciar sesión",
+    "description": "1.0 portal.js"
+  },
+  "forgotPassword": {
+    "message": "¿Olvidó su contraseña?",
+    "description": "1.0 portal.js"
+  },
+  "userAndPasswordTip": {
+    "message": "Nombre de usuario y contraseña no pueden ser iguales",
+    "description": "insureance.jsp"
+  },
+  "passwordTip": {
+    "message": "8-16 bits, deben contener letras y números (con mayúsculas y minúsculas)",
+    "description": "insureance.jsp"
+  },
+  "plzOldPassword": {
+    "message": "Por favor ingrese la contraseña anterior",
+    "description": "insureance.jsp"
+  },
+  "plzRightOldPassword": {
+    "message": "Por favor ingrese la contraseña anterior correcta",
+    "description": "insureance.jsp"
+  },
+  "plzNewPassword": {
+    "message": "Por favor ingrese una nueva contraseña",
+    "description": "insureance.jsp"
+  },
+  "confirmPassword": {
+    "message": "Por favor ingrese la contraseña de confirmación",
+    "description": "insureance.jsp"
+  },
+  "passwordNotSame": {
+    "message": "Dos contraseñas son inconsistentes",
+    "description": "insureance.jsp"
+  },
+  "modifySuccessed": {
+    "message": "Modificado exitosamente",
+    "description": "insureance.jsp"
+  },
+  "modifyFailed": {
+    "message": "Su modificación de contraseña falló. Por favor compruebe su contraseña anterior para intentarlo de nuevo.",
+    "description": "insureance.jsp"
+  },
+  "modifyError": {
+    "message": "Algo salió mal.",
+    "description": "insureance.jsp"
+  },
+  "copySuccess": {
+    "message": "copia exitosa",
+    "description": "1.0 portal.json.js"
+  },
+  "copyFailed": {
+    "message": "copia fallida",
+    "description": "1.0 portal.json.js"
+  }
+}

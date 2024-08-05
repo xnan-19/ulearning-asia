@@ -1,0 +1,250 @@
+{
+  "qLibrary": {
+    "message": "คลังคําถาม",
+    "description": "1.0 public.js"
+  },
+  "singleQ": {
+    "message": "คําถามตัวเลือกเดียว",
+    "description": "1.0 public.js"
+  },
+  "moreQ": {
+    "message": "คำถามปรนัย",
+    "description": "1.0 public.js"
+  },
+  "yesNoQ": {
+    "message": "คำถามถูก-ผิด",
+    "description": "1.0 public.js"
+  },
+  "fillQ": {
+    "message": "คำถามแบบเติมคำลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "JQuiz": {
+    "message": "คำถามคำตอบแบบสั้น",
+    "description": "1.0 public.js"
+  },
+  "SequenceQ": {
+    "message": "คำถามแบบจัดเรียงลำดับ",
+    "description": "1.0 public.js"
+  },
+  "vocabularyTest": {
+    "message": "คำถามประเภทเลือกคำเติมคำลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "writeEnglish": {
+    "message": "การเขียนบทความเป็นภาษาอังกฤษ",
+    "description": "1.0 public.js"
+  },
+  "drop": {
+    "message": "คําถามตัวเลือกแบบเลื่อนลง",
+    "description": "1.0 public.js"
+  },
+  "clozeTest": {
+    "message": "คำถามเลือกข้อที่ถูกเติมลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "spokenReadQ": {
+    "message": "คำถามการอ่านปากเปล่า",
+    "description": "1.0 public.js"
+  },
+  "subOral": {
+    "message": "คำถามปากเปล่าแบบอัตนัย",
+    "description": "1.0 public.js"
+  },
+  "formulaCalc": {
+    "message": "คําถามการคํานวณสูตร",
+    "description": "1.0 public.js"
+  },
+  "synthesis": {
+    "message": "คําถามประมวลความรู้",
+    "description": "1.0 public.js"
+  },
+  "single": {
+    "message": "ตัวเลือกเดียว",
+    "description": "1.0 public.js"
+  },
+  "multiple": {
+    "message": "หลายตัวเลือก",
+    "description": "1.0 public.js"
+  },
+  "judge": {
+    "message": "วิเคราะห์ตัดสิน",
+    "description": "1.0 public.js"
+  },
+  "fill": {
+    "message": "เติมลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "shortAnswer": {
+    "message": "ตอบแบบสั้น",
+    "description": "1.0 public.js"
+  },
+  "sort": {
+    "message": "เรียงลําดับ",
+    "description": "1.0 public.js"
+  },
+  "fillBlank": {
+    "message": "เลือกคําเพื่อเติมลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "dropDown": {
+    "message": "เลือกแบบเลื่อนลง",
+    "description": "1.0 public.js"
+  },
+  "cloze": {
+    "message": "เลือกข้อที่ถูกเติมลงในช่องว่าง",
+    "description": "1.0 public.js"
+  },
+  "spokenRead": {
+    "message": "การอ่านปากเปล่า",
+    "description": "1.0 public.js"
+  },
+  "subSpoken": {
+    "message": "การพูดเชิงอัตนัย",
+    "description": "1.0 public.js"
+  },
+  "saveText": {
+    "message": "บันทึก",
+    "description": "1.0 public.js"
+  },
+  "deleteText": {
+    "message": "ลบ",
+    "description": "1.0 public.js"
+  },
+  "edit": {
+    "message": "แก้ไข",
+    "description": "1.0 public.js"
+  },
+  "cancelText": {
+    "message": "ยกเลิก",
+    "description": "1.0 public.js"
+  },
+  "OK": {
+    "message": "ตกลง",
+    "description": "1.0 public.js"
+  },
+  "submitText": {
+    "message": "ส่ง",
+    "description": "1.0 public.js"
+  },
+  "tag": {
+    "message": "แท็ก",
+    "description": "1.0 public.js"
+  },
+  "upload": {
+    "message": "อัปโหลด",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "คําตอบ",
+    "description": "1.0 public.js"
+  },
+  "analysis": {
+    "message": "แยกวิเคราะห์",
+    "description": "1.0 public.js"
+  },
+  "appointedTeacher": {
+    "message": "ครูที่ได้รับมอบหมาย",
+    "description": "1.0 public.js"
+  },
+  "schoolTeacher": {
+    "message": "ครูของโรงเรียนเรา",
+    "description": "1.0 public.js"
+  },
+  "allTeacher": {
+    "message": "อาจารย์ทุกคน",
+    "description": "1.0 public.js"
+  },
+  "scoreUnit": {
+    "message": "{count}คะแนน",
+    "description": "1.0 public.js"
+  },
+  "selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "1.0 public.js"
+  },
+  "all": {
+    "message": "ทั้งหมด",
+    "description": "1.0 public.js"
+  },
+  "uploadFile": {
+    "message": "อัปโหลดไฟล์",
+    "description": "1.0 public.js"
+  },
+  "addAttachment": {
+    "message": "เพิ่มสิ่งที่แนบมา",
+    "description": "1.0 public.js"
+  },
+  "uploading": {
+    "message": "กําลังอัปโหลด...",
+    "description": "1.0 public.js"
+  },
+  "size": {
+    "message": "ขนาด",
+    "description": "1.0 public.js"
+  },
+  "selectClass": {
+    "message": "เลือกชั้นเรียน",
+    "description": "1.0 public.js"
+  },
+  "point": {
+    "message": "เคล็ดลับ",
+    "description": "1.0 public.js"
+  },
+  "know": {
+    "message": "ฉันเข้าใจแล้ว",
+    "description": "1.0 public.js"
+  },
+  "checkNoResult": {
+    "message": "ไม่มีผลลัพธ์ โปรดตรวจสอบเงื่อนไขการค้นหา!",
+    "description": "1.0 public.js"
+  },
+  "pleaseInput": {
+    "message": "กรุณาใส่",
+    "description": "1.0 public.js"
+  },
+  "gotoTop": {
+    "message": "กลับไปที่ด้านบน",
+    "description": "1.0 public.js"
+  },
+  "preview": {
+    "message": "แสดงตัวอย่าง",
+    "description": "1.0 public.js"
+  },
+  "dialogDefaultContent": {
+    "message": "การแก้ไขข้อมูลสําเร็จ",
+    "description": "1.0 public.js"
+  },
+  "close": {
+    "message": "ปิด",
+    "description": "1.0 public.js"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "1.0 public.js"
+  },
+  "paste": {
+    "message": "วาง",
+    "description": "1.0 public.js"
+  },
+  "flashVersionTip": {
+    "message": "ตรวจสอบให้แน่ใจว่าเวอร์ชัน FLASH ของเบราว์เซอร์ของคุณมากกว่าหรือเท่ากับ 11.1.0!",
+    "description": "1.0 public.js"
+  },
+  "getFlash": {
+    "message": "รับ Adobe Flash Player",
+    "description": "1.0 public.js"
+  },
+  "recordTime": {
+    "message": "เวลาในการบันทึกเสียง: {duration} วินาที",
+    "description": "recorde.js"
+  },
+  "initializing": {
+    "message": "กำลังเริ่มต้น โปรดรอสักครู่ ...",
+    "description": "recorde.js"
+  },
+  "recordError": {
+    "message": "การบันทึกเสียงล้มเหลว",
+    "description": "recorde.js"
+  }
+}

@@ -1,0 +1,1266 @@
+{
+  "_name": {
+    "message": "Bahasa Indonesia",
+    "description": "手机考试zh.json"
+  },
+  "mobileExam": {
+    "message": "Ujian melalui telepon seluler",
+    "description": "这个会显示在页面上方的一个导航条，建议尽量翻译的短一些"
+  },
+  "expand": {
+    "message": "Perluas",
+    "description": "手机考试zh.json"
+  },
+  "collapse": {
+    "message": "Simpan",
+    "description": "手机考试zh.json"
+  },
+  "answerRecord": {
+    "message": "Catatan jawaban",
+    "description": "手机考试zh.json"
+  },
+  "highestScore": {
+    "message": "Nilai paling tinggi",
+    "description": "手机考试zh.json"
+  },
+  "points": {
+    "message": "{n} poin",
+    "description": "手机考试 -> 考试详情 -> 及格分数 \n 手机考试 -> 考试详情 -> 进入考试 -> 滑动到第一页 -> 奖杯图标右侧 \n 手机考试 -> 交卷后 -> 考试详情 -> 用户头像右侧 \n 手机考试 -> 交卷后 -> 考试详情 -> 答题记录列表 (需要用户有多个答题记录，才会弹出答题记录列表)"
+  },
+  "examTime": {
+    "message": "Waktu ujian",
+    "description": "手机考试zh.json"
+  },
+  "examLimitTime": {
+    "message": "Batas waktu ujian",
+    "description": "手机考试zh.json"
+  },
+  "minutes": {
+    "message": "{n} menit",
+    "description": "手机考试 -> 考试详情 -> 考试限时"
+  },
+  "answerTime": {
+    "message": "Jumlah menjawab",
+    "description": "手机考试zh.json"
+  },
+  "unlimited": {
+    "message": "Jumlah tidak terbatas",
+    "description": "手机考试zh.json"
+  },
+  "unlimited2": {
+    "message": "Tidak terbatas",
+    "description": "手机考试zh.json"
+  },
+  "timesOf": {
+    "message": "{current}/{total} kali",
+    "description": "手机考试 -> 考试详情 -> 答题次数"
+  },
+  "passingScore": {
+    "message": "Nilai standar",
+    "description": "手机考试zh.json"
+  },
+  "lateTime": {
+    "message": "Waktu telat",
+    "description": "手机考试zh.json"
+  },
+  "betweenTime": {
+    "message": "{startTime} - {endTime}",
+    "description": "手机考试 -> 考试详情 -> 考试时间"
+  },
+  "clickUpload": {
+    "message": "Klik untuk mengunggah foto verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "lookOut": {
+    "message": "Perhatian",
+    "description": "手机考试zh.json"
+  },
+  "faceTip1": {
+    "message": "Foto verifikasi digunakan untuk scan wajah pada saat ujian, mohon untuk mengunggah foto asli. Setelah foto diunggah, dosen dapat melaksanakan pemeriksaan, apabila foto tidak sesuai, maka akan dianggap sebagai kecurangan, dan mungkin akan bisa menyebabkan pembatalan pada nilai ujian. ",
+    "description": "手机考试zh.json"
+  },
+  "faceTip2": {
+    "message": "Foto verifikasi tidak dapat diubah setelah diunggah",
+    "description": "手机考试zh.json"
+  },
+  "faceTip3": {
+    "message": ", silahkan pastikan terlebih dahulu sebelum mengunggahnya.",
+    "description": "手机考试zh.json"
+  },
+  "authPhoto": {
+    "message": "Foto verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "faceTip4": {
+    "message": "Foto verifikasi tidak dapat diubah setelah diunggah, silahkan tes scan wajah terlebih dahulu sebelum mengunggahnya.",
+    "description": "手机考试zh.json"
+  },
+  "testFace": {
+    "message": "Tes apakah scan wajah berhasil",
+    "description": "手机考试zh.json"
+  },
+  "reUpload": {
+    "message": "Unggah ulang",
+    "description": "手机考试zh.json"
+  },
+  "confirmPhoto": {
+    "message": "Konfirmasi untuk menggunakan foto ini",
+    "description": "手机考试zh.json"
+  },
+  "auditor": {
+    "message": "Pemeriksa",
+    "description": "手机考试zh.json"
+  },
+  "auditTime": {
+    "message": "Waktu pemeriksaan",
+    "description": "手机考试zh.json"
+  },
+  "refuseReason": {
+    "message": "Alasan ditolak",
+    "description": "手机考试zh.json"
+  },
+  "faceNotPass": {
+    "message": "Verifikasi wajah tidak diterima.",
+    "description": "手机考试zh.json"
+  },
+  "retry": {
+    "message": "Coba ulang",
+    "description": "手机考试zh.json"
+  },
+  "faceTip5": {
+    "message": "Verifikasi wajah gagal? Klik dan gunakan nomor verifikasi untuk melakukan verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "faceTip6": {
+    "message": "Verifikasi telah diterima, silahkan tunggu 3 menit dan anda dapat masuk ujian",
+    "description": "手机考试zh.json"
+  },
+  "authPass": {
+    "message": "Verifikasi telah diterima",
+    "description": "手机考试zh.json"
+  },
+  "enterCode": {
+    "message": "Silahkan masukkan nomor verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "enterCodeTip": {
+    "message": "Silahkan minta nomor verifikasi dari dosen pengawas",
+    "description": "手机考试zh.json"
+  },
+  "faceAuth": {
+    "message": "Verifikasi wajah",
+    "description": "手机考试zh.json"
+  },
+  "codeWrong": {
+    "message": "Nomor verifikasi salah",
+    "description": "手机考试zh.json"
+  },
+  "waitAuth": {
+    "message": "Menunggu pemeriksaan dari dosen",
+    "description": "手机考试zh.json"
+  },
+  "authPass2": {
+    "message": "Telah disetujui",
+    "description": "手机考试zh.json"
+  },
+  "authNotPass": {
+    "message": "Belum disetujui",
+    "description": "手机考试zh.json"
+  },
+  "uploading": {
+    "message": "Sedang mengunggah",
+    "description": "手机考试zh.json"
+  },
+  "uploadError": {
+    "message": "Terjadi kesalahan pada pengunggahan",
+    "description": "手机考试zh.json"
+  },
+  "faceTip7": {
+    "message": "Untuk saat ini tidak mendukung verifikasi wajah, silahkan unduh aplikasi versi terbaru",
+    "description": "手机考试zh.json"
+  },
+  "authing": {
+    "message": "Sedang dalam proses verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "faceTip8": {
+    "message": "Silahkan verifikasi foto ini terlebih dahulu dan pastikan scan wajah berhasil",
+    "description": "手机考试zh.json"
+  },
+  "examCode": {
+    "message": "Nomor verifikasi ujian",
+    "description": "手机考试zh.json"
+  },
+  "faceTip9": {
+    "message": "Saat ini dosen tidak mengatur nomor verifikasi atau nomor verifikasi telah kadaluarsa",
+    "description": "手机考试zh.json"
+  },
+  "examTip": {
+    "message": "Pemberitahuan mengenai ujian",
+    "description": "手机考试zh.json"
+  },
+  "examTip1": {
+    "message": "Sedang dalam proses ujian",
+    "description": "手机考试zh.json"
+  },
+  "examTip2": {
+    "message": "Mohon untuk tidak pergi dari ujian aplikasi ULearn",
+    "description": "手机考试zh.json"
+  },
+  "examTip3": {
+    "message": ", setiap pergi dari ujian akan dicatat.",
+    "description": "手机考试zh.json"
+  },
+  "examTip4": {
+    "message": "Sistem menemukan bahwa anda telah meninggalkan ujian di tengah ujian sebanyak {num} kali, kertas ujian akan secara otomatis dikumpulkan",
+    "description": "手机考试zh.json"
+  },
+  "examTip6": {
+    "message": "Apabila diperbolehkan untuk ujian ulang, maka nilai anda yang paling tinggi yang akan menjadi acuannya. ",
+    "description": "手机考试zh.json"
+  },
+  "examTip7": {
+    "message": "Setelah ujian dimulai, para murid harus membaca soal dengan teliti, mohon untuk tidak klik “Kumpul kertas ujian” apabila belum menjawab pertanyaan. ",
+    "description": "手机考试zh.json"
+  },
+  "examTip8": {
+    "message": "Kertas ujian mungkin dibagi menjadi banyak bagian, silahkan periksa kertas ujian dengan teliti, sebelum mengumpulkan kertas ujian, silahkan periksa kartu jawaban anda untuk menghindari terjadinya jawaban yang kosong.",
+    "description": "手机考试zh.json"
+  },
+  "examTip9": {
+    "message": "Bagian atas kertas ujian akan menampilkan waktu yang tersisa untuk mengumpulkan kertas ujian, apabila sisa waktu adalah 0, maka sistem akan secara otomatis mengumpulkan kertas jawaban.",
+    "description": "手机考试zh.json"
+  },
+  "cancel": {
+    "message": "Batalkan",
+    "description": "手机考试zh.json"
+  },
+  "confirm": {
+    "message": "OK",
+    "description": "手机考试zh.json"
+  },
+  "startExam": {
+    "message": "Segera ujian",
+    "description": "手机考试zh.json"
+  },
+  "startExam2": {
+    "message": "Ujian dimulai",
+    "description": "手机考试zh.json"
+  },
+  "reExam": {
+    "message": "Ujian ulang",
+    "description": "手机考试zh.json"
+  },
+  "examNotExist": {
+    "message": "Ujian tidak ada",
+    "description": "手机考试zh.json"
+  },
+  "noAnswerRecord": {
+    "message": "Tidak ada catatan jawaban",
+    "description": "手机考试zh.json"
+  },
+  "scoreFailed": {
+    "message": "Gagal member nilai",
+    "description": "手机考试zh.json"
+  },
+  "submitFailed": {
+    "message": "Gagal mengumpulkan kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "examDetailTip1": {
+    "message": "Menemukan bahwa anda memiliki ujian yang belum dikumpulkan, saat ini ujian telah selesai, mohon untuk mengumpulkan catatan ujian.",
+    "description": "手机考试zh.json"
+  },
+  "submitExam": {
+    "message": "Kumpul kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "photoNotAuthYet": {
+    "message": "Foto verifikasi belum diperiksa",
+    "description": "手机考试zh.json"
+  },
+  "photoNotPassAuth": {
+    "message": "Pemeriksaan foto verifikasi belum disetujui",
+    "description": "手机考试zh.json"
+  },
+  "authTip1": {
+    "message": "Anda belum menyelesaikan verifikasi foto wajah, maka dari itu tidak dapat masuk ujian",
+    "description": "手机考试zh.json"
+  },
+  "goAuth": {
+    "message": "Verifikasi",
+    "description": "手机考试zh.json"
+  },
+  "plzExitScreen": {
+    "message": "Silahkan keluar dari layar terpisah",
+    "description": "手机考试zh.json"
+  },
+  "noExamTip1": {
+    "message": "Waktu saat ini tidak dapat ikut serta dalam ujian",
+    "description": "手机考试zh.json"
+  },
+  "noExamTip2": {
+    "message": "Waktu telat telah melebihi waktu yang ditentukan, sehingga tidak dapat masuk ujian",
+    "description": "手机考试zh.json"
+  },
+  "noExamTip3": {
+    "message": "Lebih dari jumlah yang dibatasi",
+    "description": "手机考试zh.json"
+  },
+  "examTip10": {
+    "message": "Ujian sedang berlangsung, mohon untuk tidak meninggalkan halaman ujian aplikasi",
+    "description": "手机考试zh.json"
+  },
+  "examTip11": {
+    "message": " Ujian sedang berlangsung, mohon untuk tidak meninggalkan halaman ujian aplikasi, karena setiap meninggalkan halaman ujian, akan dicatat.",
+    "description": "手机考试zh.json"
+  },
+  "examTip12": {
+    "message": "Mohon untuk memperhatikan sisa waktu pada saat menjawab pertanyaan, setelah waktu habis, kertas ujian akan secara otomatis dikumpulkan.",
+    "description": "手机考试zh.json"
+  },
+  "examTip13": {
+    "message": "Sebelum mengumpulkan kertas ujian, mohon periksa dengan teliti apakah sudah dijawab semuanya, untuk menghindari adanya jawaban yang kosong.",
+    "description": "手机考试zh.json"
+  },
+  "examTip14": {
+    "message": "Apabila pada saat ujian diperbolehkan untuk menjawab pertanyaan banyak kali, nilai yang paling tinggi akan menjadi acuannya.",
+    "description": "手机考试zh.json"
+  },
+  "examTip15": {
+    "message": "Ujian kali ini telah mengaktifkan verifikasi wajah",
+    "description": "手机考试zh.json"
+  },
+  "examTip16": {
+    "message": "Tidak bisa scan wajah untuk verifikasi?",
+    "description": "手机考试zh.json"
+  },
+  "examTip17": {
+    "message": "Gunakan nomor verifikasi untuk masuk ujian",
+    "description": "手机考试zh.json"
+  },
+  "examTip18": {
+    "message": "Untuk mencegah kecurangan dalam ujian, sistem akan merekam peralatan yang digunakan untuk mengikuti ujian, alamat IP, jalur perilaku memasuki / meninggalkan halaman, dll. Harap jangan login di area non-ujian.",
+    "description": "手机考试zh.json"
+  },
+  "error": {
+    "message": "Terjadi kesalahan",
+    "description": "手机考试zh.json"
+  },
+  "examEnd": {
+    "message": "Ujian telah selesai",
+    "description": "手机考试zh.json"
+  },
+  "notJoined": {
+    "message": "Anda belum ikut serta dalam ujian kali ini",
+    "description": "手机考试zh.json"
+  },
+  "finishExam": {
+    "message": "Selamat telah menyelesaikan ujian kali ini",
+    "description": "手机考试zh.json"
+  },
+  "viewScore": {
+    "message": "Publikasi nilai ujian",
+    "description": "手机考试zh.json"
+  },
+  "notViewScore": {
+    "message": "Ujian kali ini tidak mempublikasi nilai ujian",
+    "description": "手机考试zh.json"
+  },
+  "scoring": {
+    "message": "Sedang memeriksa pertanyaan subjektif, silahkan menunggu",
+    "description": "手机考试zh.json"
+  },
+  "notViewAnswer": {
+    "message": "Ujian kali ini tidak menampilkan catatan jawaban",
+    "description": "手机考试zh.json"
+  },
+  "refreshSuccess": {
+    "message": "Berhasil refresh",
+    "description": "手机考试zh.json"
+  },
+  "refreshFailed": {
+    "message": "Gagal refresh",
+    "description": "手机考试zh.json"
+  },
+  "error2": {
+    "message": "Terjadi kesalahan",
+    "description": "手机考试zh.json"
+  },
+  "teaNoExam": {
+    "message": "Dosen belum merilis ujian",
+    "description": "手机考试zh.json"
+  },
+  "viewOnPC": {
+    "message": "Silahkan kerjakan ujian di komputer dan lihat nilai ujian",
+    "description": "手机考试zh.json"
+  },
+  "enterExamTip": {
+    "message": "Menemukan bahwa anda memiliki ujian yang belum dikumpul, anda bisa terus ikut serta dalam ujian dan mengumpulkan kertas ujian.",
+    "description": "手机考试zh.json"
+  },
+  "enterExam": {
+    "message": "Masuk ujian",
+    "description": "手机考试zh.json"
+  },
+  "pcExam": {
+    "message": "Ujian melalui komputer",
+    "description": "手机考试zh.json"
+  },
+  "pcMobileExam": {
+    "message": "Telepon seluler/komputer",
+    "description": "手机考试zh.json"
+  },
+  "ing": {
+    "message": "Sedang berlangsung",
+    "description": "手机考试zh.json"
+  },
+  "notStart": {
+    "message": "Belum dimulai",
+    "description": "手机考试zh.json"
+  },
+  "end": {
+    "message": "Telah selesai",
+    "description": "手机考试zh.json"
+  },
+  "notJoined2": {
+    "message": "Tidak ikut ujian",
+    "description": "手机考试zh.json"
+  },
+  "endSubmit": {
+    "message": "Waktu ujian selesai, sedang mengumpulkan kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "lateExam": {
+    "message": "Telat mengikuti ujian, tidak diperbolehkan untuk ikut ujian",
+    "description": "手机考试zh.json"
+  },
+  "enterPage": {
+    "message": "Masuk halaman",
+    "description": "手机考试zh.json"
+  },
+  "exception": {
+    "message": "Terjadi kesalahan",
+    "description": "手机考试zh.json"
+  },
+  "autoSaveFailed": {
+    "message": "Gagal menyimpan secara otomatis, silahkan periksa jaringan internet",
+    "description": "手机考试zh.json"
+  },
+  "savingAnswer": {
+    "message": "Sedang menyimpan jawaban",
+    "description": "手机考试zh.json"
+  },
+  "exitPage": {
+    "message": "Tinggalkan halaman",
+    "description": "手机考试zh.json"
+  },
+  "submitSuccess": {
+    "message": "Berhasil mengumpulkan kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "reSubmit": {
+    "message": "Kumpul ulang kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "submitTip1": {
+    "message": "Anda memiliki {num} soal yang belum dijawab, apakah anda yakin untuk mengumpulkannya?",
+    "description": "手机考试zh.json"
+  },
+  "continueExam": {
+    "message": "Lanjut menjawab pertanyaan",
+    "description": "手机考试zh.json"
+  },
+  "submitting": {
+    "message": "Sedang mengumpulkan kertas ujian",
+    "description": "手机考试zh.json"
+  },
+  "unusualLeave": {
+    "message": "Meninggalkan ujian dalam kondisi yang tidak biasa",
+    "description": "手机考试zh.json"
+  },
+  "hintTip1": {
+    "message": "Sistem menemukan bahwa anda telah meninggalkan ujian.",
+    "description": "手机考试zh.json"
+  },
+  "hintTip2": {
+    "message": "Sistem menemukan bahwa anda telah meninggalkan ujian pada <strong>{time}</strong>.",
+    "description": "手机考试zh.json"
+  },
+  "hintTip3": {
+    "message": "Anda telah meninggalkan ujian sebanyak {totalCount} kali, maka kertas ujian anda akan secara otomatis dikumpulkan.",
+    "description": "手机考试zh.json"
+  },
+  "hintTip4": {
+    "message": "{totalCount} kali meninggalkan ujian, kertas ujian akan secara otomatis dikumpulkan, anda masih tersisa {count} kali kesempatan.",
+    "description": "手机考试zh.json"
+  },
+  "submitSeconds": {
+    "message": "Mengumpulkan kertas ujian ({seconds})",
+    "description": "手机考试zh.json"
+  },
+  "continueExam2": {
+    "message": "Ujian diteruskan",
+    "description": "手机考试zh.json"
+  },
+  "exitExamTip": {
+    "message": "Tips meninggalkan ujian",
+    "description": "手机考试zh.json"
+  },
+  "correctAnswer": {
+    "message": "Jawaban tepat",
+    "description": "手机考试zh.json"
+  },
+  "userAnswer": {
+    "message": "Jawaban anda",
+    "description": "手机考试zh.json"
+  },
+  "noAnswer": {
+    "message": "Belum menjawab pertanyaan",
+    "description": "手机考试zh.json"
+  },
+  "analysis": {
+    "message": "Analisa",
+    "description": "手机考试zh.json"
+  },
+  "answerScore1": {
+    "message": "Skor: untuk diperiksa {num} poin",
+    "description": "手机考试 -> 交卷后 -> 考试详情 -> 答题记录 (需要考试设置为显示答案)"
+  },
+  "answerScore2": {
+    "message": "Skor: {n} poin, skor penuh {num} poin",
+    "description": "手机考试 -> 交卷后 -> 考试详情 -> 答题记录 (需要考试设置为显示答案)"
+  },
+  "teaComment": {
+    "message": "Komen dosen",
+    "description": "手机考试zh.json"
+  },
+  "empty": {
+    "message": "Tidak ada",
+    "description": "手机考试zh.json"
+  },
+  "correctAnswer2": {
+    "message": "Jawaban referensi",
+    "description": "手机考试zh.json"
+  },
+  "answerAnalysis": {
+    "message": "Analisa jawaban",
+    "description": "手机考试zh.json"
+  },
+  "useUp": {
+    "message": "Jumlah tampilan soal ini telah habis digunakan",
+    "description": "手机考试zh.json"
+  },
+  "useTimes": {
+    "message": "Telah dimainkan {count}/{limitCount} kali",
+    "description": "手机考试zh.json"
+  },
+  "playTip": {
+    "message": "Perhatian: Rekaman soal ini hanya dapat dimainkan {num} kali",
+    "description": "手机考试zh.json"
+  },
+  "inputAnswer": {
+    "message": "Silahkan masukkan jawaban anda",
+    "description": "手机考试zh.json"
+  },
+  "totalNum": {
+    "message": "Total {num} soal",
+    "description": "手机考试zh.json"
+  },
+  "question1": {
+    "message": "Soal pilihan ganda",
+    "description": "手机考试zh.json"
+  },
+  "question2": {
+    "message": "Soal pilihan dengan beberapa jawaban",
+    "description": "手机考试zh.json"
+  },
+  "question3": {
+    "message": "Soal isian",
+    "description": "手机考试zh.json"
+  },
+  "question4": {
+    "message": "Soal benar atau salah",
+    "description": "手机考试zh.json"
+  },
+  "question5": {
+    "message": "Soal menjawab singkat",
+    "description": "手机考试zh.json"
+  },
+  "question6": {
+    "message": "Soal pengurutan",
+    "description": "手机考试zh.json"
+  },
+  "question7": {
+    "message": "Pertanyaan subjektif percakapan",
+    "description": "手机考试zh.json"
+  },
+  "question8": {
+    "message": "Soal memilih kata",
+    "description": "手机考试zh.json"
+  },
+  "question9": {
+    "message": "Pertanyaan objektif percakapan",
+    "description": "手机考试zh.json"
+  },
+  "question10": {
+    "message": "Dropdown",
+    "description": "手机考试zh.json"
+  },
+  "question11": {
+    "message": "Soal komprehensif",
+    "description": "手机考试zh.json"
+  },
+  "question12": {
+    "message": "Soal mengisi kata",
+    "description": "手机考试zh.json"
+  },
+  "question25": {
+    "message": "Rumus",
+    "description": "手机考试zh.json"
+  },
+  "exitScreen": {
+    "message": "Keluar dari layar terpisah",
+    "description": "手机考试zh.json"
+  },
+  "enterScreen": {
+    "message": "Mode layar terpisah",
+    "description": "手机考试zh.json"
+  },
+  "option": {
+    "message": "Pilihan",
+    "description": "手机考试zh.json"
+  },
+  "dragTip": {
+    "message": "Tekan dan tarik pilihan",
+    "description": "手机考试zh.json"
+  },
+  "example": {
+    "message": "Contoh",
+    "description": "手机考试zh.json"
+  },
+  "replay": {
+    "message": "Putar kembali",
+    "description": "手机考试zh.json"
+  },
+  "record": {
+    "message": "Rekaman",
+    "description": "手机考试zh.json"
+  },
+  "recordUploadFailed": {
+    "message": "Gagal mengunggah rekaman, silahkan periksa jaringan internet",
+    "description": "手机考试zh.json"
+  },
+  "recording": {
+    "message": "Sedang merekam",
+    "description": "手机考试zh.json"
+  },
+  "stopRecord": {
+    "message": "Sedang merekam, klik untuk berhenti",
+    "description": "手机考试zh.json"
+  },
+  "reRecordTip": {
+    "message": "Setelah direkam ulang, rekaman awal akan terhapus, apakah yakin untuk rekam ulang?",
+    "description": "手机考试zh.json"
+  },
+  "speakTip1": {
+    "message": "Silahkan baca isi konten di bawah ini,",
+    "description": "手机考试zh.json"
+  },
+  "speakTip2": {
+    "message": "Dalam waktu 3 menit",
+    "description": "手机考试zh.json"
+  },
+  "speakTip3": {
+    "message": "selesai",
+    "description": "手机考试zh.json"
+  },
+  "recordTip1": {
+    "message": "Sedang merekam... Apakah ingin mengganti tema",
+    "description": "手机考试zh.json"
+  },
+  "exitTip1": {
+    "message": "Apakah anda yakin untuk keluar?",
+    "description": "手机考试zh.json"
+  },
+  "saveAndExit": {
+    "message": "Simpan draft dan keluar",
+    "description": "手机考试zh.json"
+  },
+  "preview": {
+    "message": "Lihat",
+    "description": "手机考试zh.json"
+  },
+  "delete": {
+    "message": "Hapus",
+    "description": "手机考试zh.json"
+  },
+  "retryUpload": {
+    "message": "Unggah ulang",
+    "description": "手机考试zh.json"
+  },
+  "stuFilesMaxTips": {
+    "message": "Tambah maksimum 10 dokumen",
+    "description": "手机考试zh.json"
+  },
+  "examSubmitConfirm": {
+    "message": "Yakin untuk kumpul?",
+    "description": "手机考试zh.json"
+  },
+  "fromCamera": {
+    "message": "Ambil foto",
+    "description": "手机考试zh.json"
+  },
+  "fromAlbum": {
+    "message": "Pilih dari album",
+    "description": "手机考试zh.json"
+  },
+  "examInfo": {
+    "message": "Informasi ujian",
+    "description": "手机考试zh.json"
+  },
+  "lateLimit": {
+    "message": "Batas waktu terlambat:",
+    "description": "手机考试zh.json"
+  },
+  "lateLimitTips": {
+    "message": "Entri tidak diperbolehkan setelah {time} beberapa menit setelah ujian dimulai",
+    "description": "手机考试zh.json"
+  },
+  "submitLimit": {
+    "message": "Batas waktu untuk pengiriman:",
+    "description": "手机考试zh.json"
+  },
+  "submitLimitTips": {
+    "message": "Makalah tidak diperbolehkan dalam waktu {time} menit dari dimulainya ujian",
+    "description": "手机考试zh.json"
+  },
+  "securitySettings": {
+    "message": "Pengaturan keamanan",
+    "description": "手机考试zh.json"
+  },
+  "IPMonitor": {
+    "message": "Pemantauan IP",
+    "description": "手机考试zh.json"
+  },
+  "IPMonitorTip": {
+    "message": "{ip} diaktifkan, jangan beralih jaringan di tengah",
+    "description": "{ip} 指的是 IP监控"
+  },
+  "deviceMonitor": {
+    "message": "Pengawasan perangkat",
+    "description": "手机考试zh.json"
+  },
+  "deviceMonitorTip": {
+    "message": "{device} diaktifkan, jangan mengubah perangkat atau browser di tengah",
+    "description": "{device} 指的是设备监控"
+  },
+  "photoMonitor": {
+    "message": "Penangkapan pengawasan",
+    "description": "手机考试zh.json"
+  },
+  "photoMonitorTip": {
+    "message": "{photo} dinyalakan, harap tetap menyala di kamera depan",
+    "description": "{photo} 指的是抓拍监控"
+  },
+  "faceRecognition": {
+    "message": "Identifikasi wajah",
+    "description": "手机考试zh.json"
+  },
+  "faceRecognitionTip": {
+    "message": "{face} diaktifkan dan verifikasi wajah diperlukan untuk mengikuti ujian",
+    "description": "{face} 指的是人脸识别"
+  },
+  "unOpened": {
+    "message": "Belum diaktifkan",
+    "description": "手机考试zh.json"
+  },
+  "IPException": {
+    "message": "IP bermasalah",
+    "description": "手机考试zh.json"
+  },
+  "IPExceptionTips1": {
+    "message": "Ujian kali ini telah mengaktifkan pemantauan IP, tidak boleh mengganti alamat IP saat ujian berlangsung. Penggantian jaringan internet mungkin akan menyebabkan perubahan pada alamat IP.",
+    "description": "手机考试zh.json"
+  },
+  "IPExceptionTips2": {
+    "message": "Jika keadaan khusus perlu mengubah jaringan, silakan minta proctor untuk kode verifikasi, gunakan kode verifikasi untuk mengikuti ujian.",
+    "description": "手机考试zh.json"
+  },
+  "deviceException": {
+    "message": "Perangkat bermasalah",
+    "description": "手机考试zh.json"
+  },
+  "deviceExceptionTips1": {
+    "message": "Pemantauan perangkat diaktifkan untuk ujian ini, dan penggantian perangkat atau browser tidak diperbolehkan di tengah, silakan gunakan perangkat atau browser yang memasuki ujian untuk pertama kalinya untuk menjawab pertanyaan.",
+    "description": "手机考试zh.json"
+  },
+  "deviceExceptionTips2": {
+    "message": "Jika terjadi keadaan khusus, Anda perlu mengubah peralatan, silakan minta proctor untuk kode verifikasi, gunakan kode verifikasi untuk mengikuti ujian.",
+    "description": "手机考试zh.json"
+  },
+  "commitLimitTimeTips": {
+    "message": "Ujian dimulai {time} beberapa menit sebelum Anda dapat menyerahkan kertas Anda!",
+    "description": "手机考试zh.json"
+  },
+  "examTip20": {
+    "message": "Di tengah ujian {count} kali",
+    "description": "手机考试zh.json"
+  },
+  "screenMonitor": {
+    "message": "Pemantauan layar",
+    "description": "手机考试zh.json"
+  },
+  "screenMonitorTips": {
+    "message": "{screen} telah dinyalakan, dan meninggalkan {num} kali di tengah akan memaksa rollover",
+    "description": "{screen} 指的是切屏监控"
+  },
+  "recordShowAfterSubmit": {
+    "message": "Segera tampilkan setelah kumpul",
+    "description": "手机考试zh.json"
+  },
+  "leaveExamTimesTips": {
+    "message": "Di tengah ujian {count} kali",
+    "description": "手机考试zh.json"
+  },
+  "cameraAccess": {
+    "message": "Jangan mengaktifkan izin kamera, ujian ini mengaktifkan pengenalan wajah atau menangkap pemantauan, silakan aktifkan izin kamera untuk berpartisipasi dalam ujian!",
+    "description": "手机考试zh.json"
+  },
+  "selectFile": {
+    "message": "Pilih dokumen",
+    "description": "手机考试zh.json"
+  },
+  "fromAlbum1": {
+    "message": "Pilih dari album",
+    "description": "手机考试zh.json"
+  },
+  "showAfterBatchEnd": {
+    "message": "Pemeriksaan akan diumumkan pada akhir pemeriksaan.",
+    "description": "手机考试zh.json"
+  },
+  "versionLowerTips": {
+    "message": "Versi saat ini terlalu rendah, silakan tingkatkan dan kemudian ikuti ujian!",
+    "description": "手机考试zh.json"
+  },
+  "monitoring": {
+    "message": "Sedang dipantau",
+    "description": "手机考试zh.json"
+  },
+  "photoCountDown": {
+    "message": "Mulai mengambil gambar setelah {n} detik",
+    "description": "手机考试zh.json"
+  },
+  "onlyPCWeb": {
+    "message": "Hanya web komputer",
+    "description": "手机考试zh.json"
+  },
+  "onlyPCExe": {
+    "message": "Akun pelanggan komputer",
+    "description": "手机考试zh.json"
+  },
+  "onlyMobile": {
+    "message": "Hanya telepon",
+    "description": "手机考试zh.json"
+  },
+  "unlimitType": {
+    "message": "Seluler/web/klien",
+    "description": "手机考试zh.json"
+  },
+  "viewOnPCExe": {
+    "message": "Silakan gunakan ujian Klien Ujian Perguruan Tinggi AS di komputer Anda",
+    "description": "手机考试zh.json"
+  },
+  "swipeTip": {
+    "message": "Gesek ke kiri dan kanan untuk beralih halaman",
+    "description": "手机考试zh.json"
+  },
+  "mobilePermissionTip1": {
+    "message": "Anda telah menonaktifkan izin kamera dan tidak dapat menggunakan fitur ini, silakan buka Pengaturan ponsel Anda untuk mengotorisasi",
+    "description": "手机考试zh.json"
+  },
+  "mobilePermissionTip2": {
+    "message": "Anda telah menonaktifkan izin mikrofon dan tidak dapat menggunakan fungsi ini, silakan buka [Pengaturan] telepon untuk mengotorisasi",
+    "description": "手机考试zh.json"
+  },
+  "screenMonitorTips1": {
+    "message": "{screen} telah diaktifkan, meninggalkan ujian untuk satu kali lebih dari {num1} detik, atau meninggalkan {num} kali secara total akan memaksa kertas untuk diserahkan",
+    "description": "手机考试zh.json"
+  },
+  "screenMonitorTips2": {
+    "message": "{screen} telah dinyalakan, dan meninggalkan setengah jalan selama lebih dari {num} detik akan memaksa rollover",
+    "description": "手机考试zh.json"
+  },
+  "examMonitor": {
+    "message": "Pengawasan ujian",
+    "description": "手机考试zh.json"
+  },
+  "exitTip2": {
+    "message": "Ujian ini telah diaktifkan {screen}, tolong jangan pergi di tengah jalan, Anda hanya dapat keluar setelah menyerahkan kertas Anda.",
+    "description": "{screen} 插值处的内容，见 exitTip2Interpolation 字段"
+  },
+  "screenInterpolation": {
+    "message": "Pemantauan layar",
+    "description": "此字段作为 exitTip2 字段插值处的内容"
+  },
+  "hintTip5": {
+    "message": "Sistem telah memaksa menyerahkan kertas setelah pergi selama lebih dari {s} detik.",
+    "description": "手机考试zh.json"
+  },
+  "getIt": {
+    "message": "Saya tahu",
+    "description": "手机考试zh.json"
+  },
+  "netWorkError": {
+    "message": "Jaringan tidak normal dan operasi telah gagal, silakan coba lagi setelah koneksi jaringan dipulihkan.",
+    "description": "手机考试zh.json"
+  },
+  "agreenInstructions": {
+    "message": "Saya telah membaca dan setuju dengan hal-hal dalam catatan ujian",
+    "description": "手机考试zh.json"
+  },
+  "agreenTip": {
+    "message": "Silakan periksa dulu",
+    "description": "手机考试zh.json"
+  },
+  "activeBook": {
+    "message": "Aktivasi",
+    "description": "手机考试zh.json"
+  },
+  "screenRecordTips": {
+    "message": "Perekaman layar atau berbagi layar dilarang untuk ujian.",
+    "description": "手机考试zh.json"
+  },
+  "screenRecordTips1": {
+    "message": "Jika perekaman atau berbagi layar diaktifkan, matikan sebelum memasuki ujian.",
+    "description": "手机考试zh.json"
+  },
+  "inExam": {
+    "message": "Ujian sedang berlangsung",
+    "description": "手机考试zh.json"
+  },
+  "forbidScreenRecord": {
+    "message": "Nonaktifkan perekaman layar / berbagi layar",
+    "description": "手机考试zh.json"
+  },
+  "screenRecordTips2": {
+    "message": "Jika Anda merekam atau berbagi layar, tutup sebelum kembali ke ujian untuk melanjutkan menjawab pertanyaan",
+    "description": "手机考试zh.json"
+  },
+  "textCount": {
+    "message": "{n} kata",
+    "description": "手机考试zh.json"
+  },
+  "question9New": {
+    "message": "Membaca",
+    "description": "手机考试zh.json"
+  },
+  "noSkippingTips": {
+    "message": "Tips",
+    "description": "手机考试zh.json"
+  },
+  "noSkippingMsg": {
+    "message": "Melewatkan pertanyaan dilarang untuk ujian ini, jadi harap jawab secara berurutan.",
+    "description": "手机考试zh.json"
+  },
+  "netWorkErrorNew": {
+    "message": "Kelainan jaringan, silakan periksa koneksi jaringan",
+    "description": "手机考试zh.json"
+  },
+  "netWorkErrorMsg": {
+    "message": "Jaringan saat ini tidak stabil, dan terus menjawab pertanyaan dapat menyebabkan catatan jawaban hilang. Jika jaringan tidak dapat dipulihkan sementara, disarankan untuk mundur dari ujian setelah mendapatkan persetujuan dari guru, dan kemudian mengatur pengambilan ulang di kemudian hari.",
+    "description": "手机考试zh.json"
+  },
+  "quiteExam": {
+    "message": "Keluar dari ujian",
+    "description": "手机考试zh.json"
+  },
+  "quiteExamAgain": {
+    "message": "Apakah Anda yakin ingin berhenti sekarang?",
+    "description": "手机考试zh.json"
+  },
+  "submitPaperErrorMsg": {
+    "message": "Kelainan jaringan, gagal mengirimkan file!<br/>Anda dapat mencoba mengirim ulang. Jika jaringan terus menjadi tidak normal dan tidak dapat dipulihkan sementara, disarankan untuk mundur dari ujian dengan persetujuan guru.",
+    "description": "手机考试zh.json"
+  },
+  "deviceSupportTip": {
+    "message": "Silakan ikuti ujian di ponsel Anda",
+    "description": "手机考试zh.json"
+  },
+  "examType1": {
+    "message": "Web",
+    "description": "手机考试zh.json"
+  },
+  "examType2": {
+    "message": "Hanya telepon",
+    "description": "手机考试zh.json"
+  },
+  "examType3": {
+    "message": "Seluler/web/klien",
+    "description": "手机考试zh.json"
+  },
+  "examType4": {
+    "message": "Klien PC",
+    "description": "手机考试zh.json"
+  },
+  "examType5": {
+    "message": "Seluler/Web",
+    "description": "手机考试zh.json"
+  },
+  "examType6": {
+    "message": "Web/klien",
+    "description": "手机考试zh.json"
+  },
+  "examType7": {
+    "message": "Seluler/klien",
+    "description": "手机考试zh.json"
+  },
+  "examTypeTip": {
+    "message": "Silakan ikuti ujian dengan {examType}",
+    "description": "手机考试zh.json"
+  },
+  "cameraMonitor": {
+    "message": "Pemantauan kamera",
+    "description": "手机考试zh.json"
+  },
+  "cameraMonitorTip": {
+    "message": "{camera} dihidupkan, silakan nyalakan dan menghadap kamera",
+    "description": "手机考试zh.json"
+  },
+  "checkCamera": {
+    "message": "Debug kamera",
+    "description": "手机考试zh.json"
+  },
+  "cameraMonitorTip1": {
+    "message": "Jika pemantauan kamera dihidupkan untuk ujian, sistem akan mendeteksi dan merekam perilaku abnormal seperti kandidat yang meninggalkan tempat duduk mereka, penyimpangan jangka panjang mata mereka, dan menyentuh kepala dan telinga mereka.",
+    "description": "手机考试zh.json"
+  },
+  "cameraMonitorTip2": {
+    "message": "Sebelum memasuki ujian, disarankan untuk memperbaiki ponsel, menyesuaikan sudut kamera dan postur duduk, dan menjaga stabilitas selama proses penjawaban.",
+    "description": "手机考试zh.json"
+  },
+  "leaveSeat": {
+    "message": "Meninggalkan kursi",
+    "description": "手机考试zh.json"
+  },
+  "manualRefresh": {
+    "message": "Pemuatan manual",
+    "description": "手机考试zh.json"
+  },
+  "normal": {
+    "message": "Normal",
+    "description": "手机考试zh.json"
+  },
+  "multiPerson": {
+    "message": "Bisik",
+    "description": "手机考试zh.json"
+  },
+  "statusNormal": {
+    "message": "Status normal",
+    "description": "手机考试zh.json"
+  },
+  "deviatedSight": {
+    "message": "Penyimpanan pandangan",
+    "description": "手机考试zh.json"
+  },
+  "selectFileTip": {
+    "message": "Jenis file ini tidak didukung",
+    "description": "手机考试zh.json"
+  },
+  "filePlayTip": {
+    "message": "Transcoding file gagal",
+    "description": "手机考试zh.json"
+  },
+  "examSignin": {
+    "message": "Ujian masuk",
+    "description": "手机考试zh.json"
+  },
+  "examSigninTip": {
+    "message": "Ujian tidak check-in dan tidak dapat dimasukkan.",
+    "description": "手机考试zh.json"
+  },
+  "examSigninTip1": {
+    "message": "Jika perangkat saat ini tidak cocok dengan yang digunakan untuk check-in, gunakan perangkat yang Anda check-in untuk mengikuti ujian.",
+    "description": "手机考试zh.json"
+  },
+  "faceTip10": {
+    "message": "Ujian ini sudah mulai pengenalan wajah, Anda belum menyelesaikan otentikasi wajah dan tidak dapat memasuki ujian.",
+    "description": "手机考试zh.json"
+  },
+  "faceTip11": {
+    "message": "Tidak bisa mengenali?",
+    "description": "手机考试zh.json"
+  },
+  "exam": {
+    "message": "Ujian",
+    "description": "手机考试zh.json"
+  },
+  "student": {
+    "message": "Peserta ujian",
+    "description": "手机考试zh.json"
+  },
+  "signin": {
+    "message": "Absensi",
+    "description": "手机考试zh.json"
+  },
+  "signedIn": {
+    "message": "Sudah absen",
+    "description": "手机考试zh.json"
+  },
+  "signTime": {
+    "message": "Waktu Check-in:",
+    "description": "手机考试zh.json"
+  },
+  "signLocation": {
+    "message": "Lokasi Check-in:",
+    "description": "手机考试zh.json"
+  },
+  "signTip": {
+    "message": "Ujian selesai dan Anda tidak check-in tepat waktu",
+    "description": "手机考试zh.json"
+  },
+  "scanSignIn": {
+    "message": "Absen scan",
+    "description": "手机考试zh.json"
+  },
+  "scanSignTip": {
+    "message": "Ujian ini membuka check-in ujian, dan Anda hanya dapat mengikuti ujian setelah menyelesaikan check-in.",
+    "description": "手机考试zh.json"
+  },
+  "scanSignTip1": {
+    "message": "Harap dicatat bahwa setelah check-in, Anda hanya dapat menggunakan perangkat yang Anda check-in untuk mengakses pertanyaan ujian.",
+    "description": "手机考试zh.json"
+  },
+  "scanTip": {
+    "message": "Tidak dikenali, silakan pindai kode QR yang benar",
+    "description": "手机考试zh.json"
+  },
+  "scanTip1": {
+    "message": "Anda tidak ada dalam daftar untuk ujian ini dan tidak dapat masuk",
+    "description": "手机考试zh.json"
+  },
+  "scanTip2": {
+    "message": "Kode QR telah kedaluwarsa, silakan pindai kodenya lagi",
+    "description": "手机考试zh.json"
+  },
+  "signPosition": {
+    "message": "Lokasi check-in",
+    "description": "手机考试zh.json"
+  },
+  "surround": {
+    "message": "Lokasi terdekat",
+    "description": "手机考试zh.json"
+  },
+  "locationWrong": {
+    "message": "Lokasi tidak akurat",
+    "description": "手机考试zh.json"
+  },
+  "posTitle": {
+    "message": "Penyimpangan pemosisian besar",
+    "description": "手机考试zh.json"
+  },
+  "posMsg1": {
+    "message": "Konfirmasikan bahwa izin Baca Lokasi dari ULearning tidak dilarang",
+    "description": "手机考试zh.json"
+  },
+  "posMsg2": {
+    "message": "Jika Anda terhubung ke hotspot publik, coba matikan Wi-Fi, nyalakan data seluler, lalu temukan lagi.",
+    "description": "手机考试zh.json"
+  },
+  "getPos": {
+    "message": "Sedang dalam pemosisian",
+    "description": "手机考试zh.json"
+  },
+  "getPosAgain": {
+    "message": "Reposisi",
+    "description": "手机考试zh.json"
+  },
+  "openPos": {
+    "message": "Mengaktifkan lokasi telepon",
+    "description": "手机考试zh.json"
+  },
+  "requestFail": {
+    "message": "Permintaan gagal",
+    "description": "手机考试zh.json"
+  },
+  "signinSuccess": {
+    "message": "Check-in berhasil",
+    "description": "手机考试zh.json"
+  },
+  "signinFail": {
+    "message": "Check-in gagal",
+    "description": "手机考试zh.json"
+  },
+  "signinFail1": {
+    "message": "Harap lengkapi pemosisian sebelum check-in",
+    "description": "手机考试zh.json"
+  },
+  "signingIn": {
+    "message": "Melakukan check-in",
+    "description": "手机考试zh.json"
+  },
+  "mobilePluginTips1": {
+    "message": "Izinkan ULearning untuk menggunakan layanan lokasi, lalu coba lagi.",
+    "description": "手机考试zh.json"
+  },
+  "mobilePluginTips2": {
+    "message": "Aktifkan layanan lokasi dalam pengaturan sistem ponsel, dan izinkan ULearning untuk menggunakan layanan lokasi.",
+    "description": "手机考试zh.json"
+  },
+  "mobilePluginTips3": {
+    "message": "Layanan lokasi tidak stabil, tidak bisa mendapatkan informasi lokasi Anda, Anda bisa mencoba lagi nanti.",
+    "description": "手机考试zh.json"
+  },
+  "versionLowerTips1": {
+    "message": "Versi saat ini terlalu rendah, harap tingkatkan APP Anda terlebih dahulu.",
+    "description": "手机考试zh.json"
+  },
+  "forceSubmit": {
+    "message": "Bungkus terlebih dahulu",
+    "description": "手机考试zh.json"
+  },
+  "forceSubmitTip": {
+    "message": "Guru mengakhiri ujian terlebih dahulu, itu akan diserahkan secara otomatis setelah 5 detik, tolong jangan tinggalkan atau tutup halaman.",
+    "description": "手机考试zh.json"
+  },
+  "forceSubmitting": {
+    "message": "Mengirimkan...",
+    "description": "手机考试zh.json"
+  },
+  "forbitScreenShot": {
+    "message": "Tangkapan layar dilarang",
+    "description": "手机考试zh.json"
+  },
+  "forbitScreenShotTip": {
+    "message": "Tangkapan layar dilarang untuk ujian ini, harap patuhi disiplin ujian dengan ketat.",
+    "description": "手机考试zh.json"
+  },
+  "forbitScreenShotTip1": {
+    "message": "Tangkapan layar ini telah dilaporkan kepada guru, {forbitScreenShotTi2}",
+    "description": "手机考试zh.json"
+  },
+  "forbitScreenShotTi2": {
+    "message": "Jika sistem mendeteksi perilaku tangkapan layar lagi, itu akan memaksa volume untuk diserahkan",
+    "description": "手机考试zh.json"
+  },
+  "forceSumitTitle": {
+    "message": "Kumpul otomatis",
+    "description": "手机考试zh.json"
+  },
+  "forbitScreenShotSubmitTip": {
+    "message": "Tangkapan layar dilarang untuk ujian ini, Anda telah melanggar hukum lagi, dan sistem akan memaksa kertas untuk diserahkan.",
+    "description": "手机考试zh.json"
+  },
+  "studentExamRoom": {
+    "message": "Ruang Ujian: {n}",
+    "description": "手机考试zh.json"
+  },
+  "uploadFileType": {
+    "message": "Unggah lampiran",
+    "description": "手机考试zh.json"
+  },
+  "answerTime1": {
+    "message": "Jumlah pengajuan",
+    "description": "手机考试zh.json"
+  }
+}

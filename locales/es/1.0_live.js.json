@@ -1,0 +1,90 @@
+{
+  "createLive": {
+    "message": "Crear transmisión en vivo",
+    "description": "1.0 live.json"
+  },
+  "requiredVal": {
+    "message": "{0} no puede estar vacío",
+    "description": "1.0 live.json"
+  },
+  "maxlengthVal": {
+    "message": "No puede exceder {0} caracteres",
+    "description": "1.0 live.json"
+  },
+  "regVal": {
+    "message": "El contenido no puede contener caracteres especiales /: *\" <> | & [] # ",
+    "description": "1.0 live.json"
+  },
+  "classNameTxt": {
+    "message": "Nombre de transmisión en vivo",
+    "description": "1.0 live.json"
+  },
+  "startTimeTxt": {
+    "message": "Tiempo de empezar",
+    "description": "1.0 live.json"
+  },
+  "chooseClassTxt": {
+    "message": "Por favor seleccione una clase",
+    "description": "1.0 live.json"
+  },
+  "modSuccess": {
+    "message": "Modificado con éxito",
+    "description": "1.0 live.json"
+  },
+  "modFail": {
+    "message": "no se puede editar",
+    "description": "1.0 live.json"
+  },
+  "createSuccess": {
+    "message": "Creado con éxito",
+    "description": "1.0 live.json"
+  },
+  "createFail": {
+    "message": "Creación fallida",
+    "description": "1.0 live.json"
+  },
+  "selectClassTxt": {
+    "message": "Elige una clase",
+    "description": "1.0 live.json"
+  },
+  "liveIntroTxt": {
+    "message": "Introducción en vivo",
+    "description": "1.0 live.json"
+  },
+  "speakerTxt": {
+    "message": "Nombre del orador",
+    "description": "1.0 live.json"
+  },
+  "submitingTxt": {
+    "message": "sumisión...",
+    "description": "1.0 live.json"
+  },
+  "timeText": {
+    "message": "La hora de inicio no puede ser anterior a la hora actual",
+    "description": "1.0 live.json"
+  },
+  "errTip1": {
+    "message": "Todavía hay transmisiones en vivo sin terminar, créalos después del final",
+    "description": "1.0 live.json"
+  },
+  "errorTip2": {
+    "message": "El costo de la última transmisión en vivo no se ha liquidado, créelo más tarde",
+    "description": "1.0 live.json"
+  },
+  "errorTip3": {
+    "message": "El saldo es inferior a 0 yuanes, no es suficiente para soportar 1 transmisión en vivo, recargue",
+    "description": "1.0 live.json"
+  },
+  "saveStr": {
+    "message": "salvar",
+    "description": "1.0 live.json"
+  },
+  "createStr": {
+    "message": "crear",
+    "description": "1.0 live.json"
+  },
+  "notSupport": {
+    "message": "No pueden aparecer símbolos en el nombre de la transmisión en vivo",
+    "description": "1.0 live.json"
+  }
+}

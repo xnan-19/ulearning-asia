@@ -1,0 +1,114 @@
+{
+    "discount": {
+        "message": "Оферта:",
+        "description": ""
+    },
+    "cancelOrder": {
+        "message": "Отменить заказ",
+        "description": ""
+    },
+    "placeAnOrder": {
+        "message": "Разместить заказ",
+        "description": ""
+    },
+    "unpaid": {
+        "message": "Не оплачено",
+        "description": ""
+    },
+    "orderCode2": {
+        "message": "Номер заказа:",
+        "description": ""
+    },
+    "myOrder": {
+        "message": "Мои заказы",
+        "description": ""
+    },
+    "unpaidOrder": {
+        "message": "Неоплаченные заказы:",
+        "description": ""
+    },
+    "orderCode": {
+        "message": "Номер заказа:",
+        "description": ""
+    },
+    "orderTips3": {
+        "message": "(Код активации отправляется одновременно на этот Адрес электронной почты)",
+        "description": ""
+    },
+    "cancelOrderCl": {
+        "message": "Отменить заказ:",
+        "description": ""
+    },
+    "finishedOrder": {
+        "message": "Выполненные заказы:",
+        "description": ""
+    },
+    "orderTips1": {
+        "message": "Вы еще не покупали учебный материал на веб-сайте",
+        "description": ""
+    },
+    "close": {
+        "message": "Закрывать",
+        "description": ""
+    },
+    "viewActivationcode": {
+        "message": "Просмотр кода активации",
+        "description": ""
+    },
+    "goToPay": {
+        "message": "Оплатить",
+        "description": ""
+    },
+    "orderTotalNum": {
+        "message": "Общее количество заказов:",
+        "description": ""
+    },
+    "deleteSuccess": {
+        "message": "Удаление прошло успешно",
+        "description": ""
+    },
+    "orderProduct": {
+        "message": "Товары заказа:",
+        "description": ""
+    },
+    "delete": {
+        "message": "удалить",
+        "description": ""
+    },
+    "orderMoney": {
+        "message": "Сумма заказа:",
+        "description": ""
+    },
+    "contactEmail": {
+        "message": "Способ связи: Адрес электронной почты",
+        "description": ""
+    },
+    "finished": {
+        "message": "выполненный",
+        "description": ""
+    },
+    "recipient": {
+        "message": "Получатель:",
+        "description": ""
+    },
+    "deleteFailed": {
+        "message": "Не удалось удалить",
+        "description": ""
+    },
+    "used": {
+        "message": "использованный",
+        "description": ""
+    },
+    "productNumber": {
+        "message": "Количество товаров:",
+        "description": ""
+    },
+    "canceled": {
+        "message": "Отменить",
+        "description": ""
+    },
+    "orderTips2": {
+        "message": "Код активации можно активировать только один раз, лично в своей учетной записи. Не передавайте его другим для использования",
+        "description": ""
+    }
+}

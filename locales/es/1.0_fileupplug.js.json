@@ -1,0 +1,130 @@
+{
+  "uploadFile": {
+    "message": "subir archivos",
+    "description": "1.0 fileupplug.js"
+  },
+  "referenceFile": {
+    "message": "materiales de referencia",
+    "description": "1.0 fileupplug.js"
+  },
+  "selectFile": {
+    "message": "Seleccione el archivo",
+    "description": "1.0 fileupplug.js"
+  },
+  "attachment": {
+    "message": "anexo",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileProcess": {
+    "message": "El archivo se está procesando, espere ...",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploading": {
+    "message": "cargando ...",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileLessThan": {
+    "message": "El archivo cargado debe ser más pequeño que {size}",
+    "description": "注意：花括号( 即 {} ) 里面的值是插值，不要改，大小写也不能变化"
+  },
+  "netError": {
+    "message": "Se produjo un error de red, verifique la red",
+    "description": "1.0 fileupplug.js"
+  },
+  "failText": {
+    "message": "Error al cargar el archivo",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancel": {
+    "message": "cancelar",
+    "description": "1.0 fileupplug.js"
+  },
+  "Delete": {
+    "message": "Eliminar",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancelUpload": {
+    "message": "cancelar carga",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileCountLimit": {
+    "message": "El número de archivos no puede exceder {count}",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr1": {
+    "message": "Se produjo un error durante la carga, ¡no se puede cargar el mismo archivo!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr2": {
+    "message": "¡El tamaño del archivo excede el límite!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr3": {
+    "message": "Se produjo un error durante la carga, verifique el archivo o el estado de la red y vuelva a intentarlo más tarde",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadFileLimit": {
+    "message": "Sube hasta {count} archivos adjuntos",
+    "description": "1.0 fileupplug.js"
+  },
+  "docFailText": {
+    "message": "¡Conversión de documentos fallida!",
+    "description": "1.0 fileupplug.js"
+  },
+  "docConversionErrorText": {
+    "message": "Error de formato de conversión de documentos!",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoFailText": {
+    "message": "¡La conversión de video falló!",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoConversionErrorText": {
+    "message": "Error de formato de conversión de video!",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadingStr": {
+    "message": "Se están cargando archivos",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadComplete": {
+    "message": "carga completada",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFail": {
+    "message": "subida fallida",
+    "description": "1.0 fileupplug.js"
+  },
+  "onlyUpload": {
+    "message": "Solo se pueden cargar archivos de {file}",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadcomponentFail": {
+    "message": "El componente de carga no se pudo inicializar, intente con otro navegador y se está resolviendo.",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFileFail": {
+    "message": "Error al cargar el archivo",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile": {
+    "message": "No cargue el mismo archivo",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile2": {
+    "message": "No se puede subir el mismo archivo",
+    "description": "1.0 fileupplug.js"
+  },
+  "addSubtitles": {
+    "message": "Agregar subtítulos",
+    "description": "1.0 fileupplug.js"
+  },
+  "confirmDelete": {
+    "message": "¿Está seguro de que desea eliminarlo?",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadAttach": {
+    "message": "Subir archivos adjuntos",
+    "description": "1.0 fileupplug.js"
+  }
+}

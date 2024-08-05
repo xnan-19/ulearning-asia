@@ -1,0 +1,106 @@
+{
+  "allCourse": {
+    "message": "All courses",
+    "description": "1.0 questionIndex.js"
+  },
+  "allUnit": {
+    "message": "All modules",
+    "description": "1.0 questionIndex.js"
+  },
+  "getUnitError": {
+    "message": "Module loading error...",
+    "description": "1.0 questionIndex.js"
+  },
+  "serialNo": {
+    "message": "No.: {id}",
+    "description": "1.0 questionIndex.js"
+  },
+  "difficulty": {
+    "message": "Difficulty: ",
+    "description": "1.0 questionIndex.js"
+  },
+  "unitEtc": {
+    "message": " and other modules",
+    "description": "1.0 questionIndex.js"
+  },
+  "creator": {
+    "message": "Creator: {creator}",
+    "description": "1.0 questionIndex.js"
+  },
+  "lastModifyTime": {
+    "message": "Last Updated: {time}",
+    "description": "1.0 questionIndex.js"
+  },
+  "details": {
+    "message": "Details",
+    "description": "1.0 questionIndex.js"
+  },
+  "modify": {
+    "message": "Edit",
+    "description": "1.0 questionIndex.js"
+  },
+  "move": {
+    "message": "Move",
+    "description": "1.0 questionIndex.js"
+  },
+  "copy": {
+    "message": "Duplicate",
+    "description": "1.0 questionIndex.js"
+  },
+  "share": {
+    "message": "Share",
+    "description": "1.0 questionIndex.js"
+  },
+  "rename": {
+    "message": "Rename",
+    "description": "1.0 questionIndex.js"
+  },
+  "selectPage": {
+    "message": "Select all on this page",
+    "description": "1.0 questionIndex.js"
+  },
+  "selected": {
+    "message": "{count} items selected",
+    "description": "1.0 questionIndex.js"
+  },
+  "cancelSelect": {
+    "message": "Unselect All",
+    "description": "1.0 questionIndex.js"
+  },
+  "examQues": {
+    "message": "Questions",
+    "description": "1.0 questionIndex.js"
+  },
+  "parseError": {
+    "message": "Parsing error!",
+    "description": "1.0 questionIndex.js"
+  },
+  "checkDetailText": {
+    "message": "Details",
+    "description": "1.0 questionIndex.js"
+  },
+  "editQ": {
+    "message": "Edit Question",
+    "description": "1.0 questionIndex.js"
+  },
+  "personal": {
+    "message": "Private",
+    "description": "1.0 questionIndex.js"
+  },
+  "lackQTip": {
+    "message": "No relevant questions found in the current directory!",
+    "description": "1.0 questionIndex.js"
+  },
+  "clickAddTip": {
+    "message": "Click the Add Question button to open the Question Editor screen",
+    "description": "1.0 questionIndex.js"
+  },
+  "checkDetail2": {
+    "message": "Details",
+    "description": "1.0 questionIndex.js"
+  },
+  "collapseDetail": {
+    "message": "Collapse",
+    "description": "1.0 questionIndex.js"
+  }
+}

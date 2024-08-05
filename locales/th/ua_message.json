@@ -1,0 +1,382 @@
+{
+  "loading": {
+    "message": "กำลังโหลด...",
+    "description": "UA播放器内层"
+  },
+  "backToCourse": {
+    "message": "กลับไปที่บทของหลักสูตร",
+    "description": "UA播放器内层"
+  },
+  "exit": {
+    "message": "ออก",
+    "description": "UA播放器内层"
+  },
+  "close": {
+    "message": "ปิด",
+    "description": "UA播放器内层"
+  },
+  "hideCatalog": {
+    "message": "ยุบสารบัญ",
+    "description": "UA播放器内层"
+  },
+  "showCatalog": {
+    "message": "ขยายสารบัญ",
+    "description": "UA播放器内层"
+  },
+  "previousPage": {
+    "message": "หน้าก่อน",
+    "description": "UA播放器内层"
+  },
+  "nextPage": {
+    "message": "หน้าถัดไป",
+    "description": "UA播放器内层"
+  },
+  "noMore": {
+    "message": "ไม่มีแล้ว",
+    "description": "UA播放器内层"
+  },
+  "quizGuide": {
+    "message": "กฎการฝึกหัด",
+    "description": "UA播放器内层"
+  },
+  "quizGuideP1": {
+    "message": "เพื่อเสริมสร้างความรู้และความเข้าใจได้อย่างลึกซึ้ง ทุกท่านโปรดตอบคำถามอย่างจริงจัง！",
+    "description": "UA播放器内层"
+  },
+  "quizUlLi1": {
+    "message": "โปรดสังเกตดูข้อกำหนดจำนวนครั้งการตอบคำถามและเวลาจำกัด หากมีการจำกัดเวลา โปรดกรอกคำตอบให้ครบถ้วนภายในเวลาที่กำหนด",
+    "description": "UA播放器内层"
+  },
+  "quizUlLi2": {
+    "message": "หลังจากตอบคำถามแต่ละข้อแล้ว ระบบจะแจ้งว่าถูก/ผิดในวงกลมด้านบน คลิกที่วงกลมเล็กๆ แต่ละวงเพื่อข้ามไปยังคำถามนี้โดยตรง",
+    "description": "UA播放器内层"
+  },
+  "videoQuizUlLi1": {
+    "message": "วิดีโอจะเปิดอัตโนมัติหลังจากทำแบบฝึกหัดเรียบร้อย",
+    "description": "UA播放器内层"
+  },
+  "beginQuiz": {
+    "message": "เริ่มตอบคำถาม",
+    "description": "UA播放器内层"
+  },
+  "totalQuestions": {
+    "message": "รวม{n}คําถาม",
+    "description": "学生 -> 作答练习题"
+  },
+  "oneChance": {
+    "message": "จำกัดการตอบ 1 ตรั้ง",
+    "description": "UA播放器内层"
+  },
+  "manyChance": {
+    "message": "ตอบคำถามซ้ำ",
+    "description": "UA播放器内层"
+  },
+  "answerTimeLimit": {
+    "message": "จํากัด {time}",
+    "description": "学生 -> 作答练习题"
+  },
+  "score": {
+    "message": "{n}คะแนน",
+    "description": "UA播放器内层"
+  },
+  "submit": {
+    "message": "ส่ง",
+    "description": "UA播放器内层"
+  },
+  "nextQuestion": {
+    "message": "คำถามถัดไป",
+    "description": "UA播放器内层"
+  },
+  "theEnd": {
+    "message": "ไม่มีแล้ว",
+    "description": "UA播放器内层"
+  },
+  "redo": {
+    "message": "ทำใหม่",
+    "description": "UA播放器内层"
+  },
+  "answerRecord": {
+    "message": "บันทึกของการตอบคำถาม",
+    "description": "UA播放器内层"
+  },
+  "answerRight": {
+    "message": "ตอบถูกต้อง!",
+    "description": "UA播放器内层"
+  },
+  "oneChanceWrong": {
+    "message": "ตอบผิด!",
+    "description": "UA播放器内层"
+  },
+  "answered": {
+    "message": "ส่งคำตอบเรียบร้อย！",
+    "description": "UA播放器内层"
+  },
+  "oneChancePartialWrong": {
+    "message": "คำตอบบางข้อถูกต้อง！",
+    "description": "UA播放器内层"
+  },
+  "manyChanceWrong": {
+    "message": "ตอบผิด ลองทำอีกครั้ง！",
+    "description": "UA播放器内层"
+  },
+  "manyChancePartialWrong": {
+    "message": "คำตอบบางข้อถูกต้อง ลองทำอีกครั้ง！",
+    "description": "UA播放器内层"
+  },
+  "viewAnalysis": {
+    "message": "ดูการวิเคราะห์คำตอบ",
+    "description": "UA播放器内层"
+  },
+  "correctAnswer": {
+    "message": "คำตอบที่ถูกต้อง：",
+    "description": "UA播放器内层"
+  },
+  "right": {
+    "message": "ถูกต้อง",
+    "description": "UA播放器内层"
+  },
+  "wrong": {
+    "message": "ผิด",
+    "description": "UA播放器内层"
+  },
+  "unviewed": {
+    "message": "ไม่ได้ดู",
+    "description": "UA播放器内层"
+  },
+  "watching": {
+    "message": "กำลังรับชมอยู่",
+    "description": "UA播放器内层"
+  },
+  "viewed": {
+    "message": "รับชมแล้ว",
+    "description": "UA播放器内层"
+  },
+  "finished": {
+    "message": "ดูเสร็จเรียบร้อย",
+    "description": "UA播放器内层"
+  },
+  "videoTip": {
+    "message": "ระยะเวลาการรับชมวิดีโอมากกว่าหรือเท่ากับระยะเวลาของวิดีโอที่ถือว่าสมบูรณ์",
+    "description": "UA播放器内层"
+  },
+  "openSubtitle": {
+    "message": "เปิดคำบรรยาย",
+    "description": "UA播放器内层"
+  },
+  "closeSubtitle": {
+    "message": "ปิดคำบรรยาย",
+    "description": "UA播放器内层"
+  },
+  "finishVideoQuestion": {
+    "message": "คำตอบจบลงแล้ว วิดีโอจะเล่นต่อหลังจาก 3 วินาที",
+    "description": "UA播放器内层"
+  },
+  "hiddenPage": {
+    "message": "เนื้อหาถูกครูซ่อนไว้ ไม่สามารถเรียนได้ในขณะนี้",
+    "description": "UA播放器内层"
+  },
+  "notAuditionPage": {
+    "message": "หน้านี้ไม่ใช่เนื้อหาสาธิต ไม่สามารถแสดงตัวอย่างได้ชั่วคราว",
+    "description": "UA播放器内层"
+  },
+  "emptyPage": {
+    "message": "อ๊ะ หน้านี้ไม่มีเนื้อหา ดูหน้าอื่นกันดีกว่า",
+    "description": "UA播放器内层"
+  },
+  "sectionSummary": {
+    "message": "สถิติในส่วนนี้",
+    "description": "UA播放器内层"
+  },
+  "completeSection": {
+    "message": "ขอแสดงความยินดีกับการเสร็จสิ้นการเรียนบทนี้！",
+    "description": "UA播放器内层"
+  },
+  "incompleteSection1": {
+    "message": "ยังมีบางหน้าที่ยังไม่เสร็จในส่วนนี้!",
+    "description": "UA播放器内层"
+  },
+  "incompleteSection2": {
+    "message": "เพื่อไม่ให้กระทบกับคะแนนผลการเรียนของคุณ ขอแนะนำให้คุณตรวจสอบที่หน้าสารบัญว่าหน้าใดยังไม่เสร็จสมบูรณ์ แล้วเรียนรู้หน้าเหล่านี้ต่อไป",
+    "description": "UA播放器内层"
+  },
+  "nextSection": {
+    "message": "ส่วนถัดไป：",
+    "description": "UA播放器内层"
+  },
+  "reviewSection": {
+    "message": "กลับไปที่ส่วนนี้",
+    "description": "UA播放器内层"
+  },
+  "goNextSection": {
+    "message": "ดำเนินการต่อส่วนถัดไป",
+    "description": "UA播放器内层"
+  },
+  "studyProgress": {
+    "message": "ความก้าวหน้าในการเรียนรู้",
+    "description": "UA播放器内层"
+  },
+  "sectionScore": {
+    "message": "คะแนนผลการเรียนส่วนนี้",
+    "description": "UA播放器内层"
+  },
+  "studyTime": {
+    "message": "เวลาเรียน",
+    "description": "UA播放器内层"
+  },
+  "totalStudyTime": {
+    "message": "เวลาเรียนสะสม",
+    "description": "UA播放器内层"
+  },
+  "chapterSummary": {
+    "message": "สถิติในบทนี้",
+    "description": "UA播放器内层"
+  },
+  "completeChapter1": {
+    "message": "ขอแสดงความยินดีที่คุณเสร็จสิ้นการเรียนบทนี้ ฉันอดไม่ได้ที่จะยกนิ้วให้!",
+    "description": "UA播放器内层"
+  },
+  "completeChapter2": {
+    "message": "ถัดไปคุณสามารถคลิก\"ไปยังบทต่อไป\"เพื่อเริ่มการเรียนรู้ใหม่ หรือทบทวนเนื้อหาของบทนี้",
+    "description": "UA播放器内层"
+  },
+  "completeChapter3": {
+    "message": "ขอแสดงความยินดีที่คุณเรียนบทนี้เสร็จ ฉันอดไม่ได้ที่จะยกนิ้วให้!",
+    "description": "UA播放器内层"
+  },
+  "incompleteChapter": {
+    "message": "บางส่วนของหน้านี้ยังไม่เสร็จสมบูรณ์, เพื่อที่จะไม่ส่งผลกระทบต่อคะแนนผลการเรียนของคุณ ขอแนะนำให้คุณตรวจสอบที่หน้าสารบัญว่าหน้าใดยังไม่เสร็จสมบูรณ์ แล้วเรียนรู้หน้าเหล่านี้อีกครั้ง สู้ๆน๊า~",
+    "description": "UA播放器内层"
+  },
+  "incompleteChapter2": {
+    "message": "บางส่วนของหน้านี้ยังไม่เสร็จสมบูรณ์, เพื่อที่จะไม่ส่งผลกระทบต่อคะแนนผลการเรียนของคุณ แนะนำให้คุณตรวจสอบที่หน้าสารบัญว่าหน้าใดที่ยังไม่เสร็จสมบูรณ์ แล้วเรียนรู้หน้าเหล่านี้อีกครั้ง  สู้ๆน๊า~",
+    "description": "UA播放器内层"
+  },
+  "reviewChapter": {
+    "message": "กลับไปที่บทนี้",
+    "description": "UA播放器内层"
+  },
+  "stayHere": {
+    "message": "อยู่ที่หน้านี้",
+    "description": "UA播放器内层"
+  },
+  "nextChapter": {
+    "message": "ดำเนินการต่อในบทถัดไป",
+    "description": "UA播放器内层"
+  },
+  "chapterScore": {
+    "message": "คะแนนบทนี้",
+    "description": "UA播放器内层"
+  },
+  "quizArea": {
+    "message": "ต่อไปนี้คือการฝึกหัด",
+    "description": "UA播放器内层"
+  },
+  "timeLeft": {
+    "message": "เวลาที่เหลือ：",
+    "description": "UA播放器内层"
+  },
+  "singleChoiceQuestion": {
+    "message": "คำถามทางเลือกเดียว",
+    "description": "UA播放器内层"
+  },
+  "multipleChoiceQuestion": {
+    "message": "คำถามหลายทางเลือก",
+    "description": "UA播放器内层"
+  },
+  "judgeQuestion": {
+    "message": "คำถามแบบถูกหรือผิด",
+    "description": "UA播放器内层"
+  },
+  "blankQuestion": {
+    "message": "คำถามประเภทเติมคำลงในช่องว่าง",
+    "description": "UA播放器内层"
+  },
+  "shortAnswerQuestion": {
+    "message": "คำถามแบบตอบโดยสังเขป",
+    "description": "UA播放器内层"
+  },
+  "sequencingQuestion": {
+    "message": "คำถามแบบเรียงลำดับ",
+    "description": "UA播放器内层"
+  },
+  "chooseFillBlankQuestion": {
+    "message": "เลือกคำที่ถูกต้องใส่ในช่องว่าง",
+    "description": "UA播放器内层"
+  },
+  "dropDownQuestion": {
+    "message": "เลือกแบบเลื่อนลง",
+    "description": "UA播放器内层"
+  },
+  "clozeQuestion": {
+    "message": "การเลือกคำตอบที่ถูกต้องมาเติมในช่องว่าง",
+    "description": "UA播放器内层"
+  },
+  "oralResponseQuestion": {
+    "message": "การพูดเชิงอัตนัย",
+    "description": "UA播放器内层"
+  },
+  "readMaterialQuestion": {
+    "message": "การอ่านปากเปล่า",
+    "description": "UA播放器内层"
+  },
+  "comprehensiveQuestion": {
+    "message": "คำถามประมวลความรู้",
+    "description": "UA播放器内层"
+  },
+  "oralRecordingTips": {
+    "message": "ต้องอ่านทุกคำ/ประโยค/ย่อหน้า",
+    "description": "UA播放器内层"
+  },
+  "oralRecording": {
+    "message": "กำลังบันทึกเสียง คลิกเพื่อหยุด",
+    "description": "UA播放器内层"
+  },
+  "exercise": {
+    "message": "ฝึกหัด",
+    "description": "UA播放器内层"
+  },
+  "exerciseScore": {
+    "message": "ได้คะแนน",
+    "description": "UA播放器内层"
+  },
+  "yourAnswer": {
+    "message": "คำตอบของคุณ：",
+    "description": "UA播放器内层"
+  },
+  "explanation": {
+    "message": "วิเคราะห์คำตอบ：",
+    "description": "UA播放器内层"
+  },
+  "dropPCTip": {
+    "message": "ลากตัวเลือกเพื่อปรับลำดับ",
+    "description": "UA播放器内层"
+  },
+  "dropMobileTip1": {
+    "message": "คลิกเลือก 2 ตัวเลือกเพื่อปรับลำดับของพวกเขา",
+    "description": "UA播放器内层"
+  },
+  "dropMobileTip2": {
+    "message": "เลือกตัวเลือกที่คุณต้องการสลับ",
+    "description": "UA播放器内层"
+  },
+  "catalog1": {
+    "message": "สารบัญ:",
+    "description": "UA播放器内层"
+  },
+  "unanswered": {
+    "message": "ไม่มีคำตอบ",
+    "description": "UA播放器内层"
+  },
+  "enterAnswer": {
+    "message": "กรุณาใส่คําตอบ",
+    "description": "UA播放器内层"
+  },
+  "inputedText": {
+    "message": "เขียนแล้ว {count} อักษร",
+    "description": "UA播放器内层"
+  },
+  "logTip": {
+    "message": "ลงชื่อเข้าใช้ในเทอร์มินัลอื่นแล้ว",
+    "description": "UA播放器内层"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "saveOutText": {
+    "message": " Ada soal yang belum disimpan, yakin untuk keluar?",
+    "description": "1.0 editor.js"
+  },
+  "CreatedText": {
+    "message": "Sudah buat {count} soal",
+    "description": "1.0 editor.js"
+  },
+  "returnListText": {
+    "message": "Kembali ke daftar",
+    "description": "1.0 editor.js"
+  },
+  "haveText": {
+    "message": "Anda memiliki {n} soal belum disimpan",
+    "description": "1.0 editor.js"
+  },
+  "goToCheck": {
+    "message": "Cek",
+    "description": "1.0 editor.js"
+  },
+  "quesParseError": {
+    "message": "Analisa soal {title} terjadi kesalahan",
+    "description": "1.0 editor.js"
+  },
+  "batchCreate": {
+    "message": "Pembuatan batch",
+    "description": "1.0 editor.js"
+  },
+  "createQues": {
+    "message": "Pilih dan buat soal",
+    "description": "1.0 editor.js"
+  },
+  "allTypeQues": {
+    "message": "Semua jenis soal",
+    "description": "1.0 editor.js"
+  },
+  "gotoSubQues": {
+    "message": "Klik untuk lompat langsung ke soal terkait",
+    "description": "1.0 editor.js"
+  },
+  "changeScoreText": {
+    "message": "Yakin untuk revisi nilai secara batch?",
+    "description": "1.0 editor.js"
+  },
+  "scoreTips": {
+    "message": "Silahkan masukkan nilai yang valid",
+    "description": "1.0 editor.js"
+  },
+  "setScoreTips": {
+    "message": "Buat soal terlebih dahulu",
+    "description": "1.0 editor.js"
+  },
+  "questionTitle": {
+    "message": "Pilih jenis soal",
+    "description": "1.0 editor.js"
+  },
+  "questionDetailDesc": {
+    "message": "Rincian",
+    "description": "1.0 editor.js"
+  },
+  "questionReferenceAnswerText": {
+    "message": "Jawaban referensi: {content}",
+    "description": "1.0 editor.js"
+  },
+  "analysis": {
+    "message": "Analisis: {content}",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "Jawaban: {content}",
+    "description": "1.0 public.js"
+  },
+  "completionAnswerTips": {
+    "message": "Perhatian: Setiap jawaban kosong di soal ini bersifat fleksibel, jawaban tetap dinyatakan benar asalkan konten sesuai",
+    "description": "1.0 editor.js"
+  },
+  "batchSetScoreText": {
+    "message": "Revisi nilai secara batch",
+    "description": "1.0 editor.js"
+  },
+  "scoreText": {
+    "message": "{score} poin",
+    "description": "注意，这个指的是某道题目的分值，不是得了多少分，在试题编辑器 -> 批量导入 -> 导入习题后，每个习题的标题的左侧有一个括号，括号内标有题目的分值"
+  },
+  "correct": {
+    "message": "Benar",
+    "description": "指判断题的答案，如果答案是true，则显示“正确”"
+  },
+  "incorrect": {
+    "message": "Salah",
+    "description": "指判断题的答案，如果答案是false，则显示“错误”"
+  },
+  "singleQ2": {
+    "message": " Pilihan ganda",
+    "description": "1.0 editor.js"
+  },
+  "moreQ2": {
+    "message": "Pilih lebih dari 1",
+    "description": "1.0 editor.js"
+  },
+  "yesNoQ2": {
+    "message": "Benar atau salah",
+    "description": "1.0 editor.js"
+  },
+  "fillQ2": {
+    "message": "Isian",
+    "description": "1.0 editor.js"
+  },
+  "JQuiz2": {
+    "message": "Uraian",
+    "description": "1.0 editor.js"
+  },
+  "analysisTit": {
+    "message": "Input analisa di sini, tidak harus diisi",
+    "description": "1.0 editor.js"
+  },
+  "saveSuccessTips": {
+    "message": "Berhasil disimpan",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips": {
+    "message": "Gagal menyimpan",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips2": {
+    "message": "Sebagian soal gagal disimpan",
+    "description": "1.0 editor.js"
+  },
+  "numExceededTips": {
+    "message": "Sekali input harus kurang dari 200 soal",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage1": {
+    "message": "Soal tidak boleh kosong",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage2": {
+    "message": "Pilihan kurang dari 2",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage3": {
+    "message": "Pilihan tidak boleh lebih dari 20 buah",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage4": {
+    "message": "Jawaban tepat tidak boleh kosong",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage5": {
+    "message": "Konten jawaban tepat tidak boleh kosong",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage6": {
+    "message": "Silahkan isi konten pilihan, atau hapus pilihan yang tidak perlu",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage7": {
+    "message": "Jumlah jawaban tepat tidak boleh lebih dari jumlah pilihan",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage8": {
+    "message": "Hanya poin pilihan yang bisa tertera pada jawaban tepat",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage9": {
+    "message": "Terdapat pengulangan pada jawaban tepat",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage10": {
+    "message": "Konten jawaban referensi tidak boleh kosong",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage11": {
+    "message": "Jumlah jawaban tepat tidak boleh kurang dari jumlah kosong",
+    "description": "1.0 editor.js"
+  },
+  "quesOrder": {
+    "message": "Soal ke {n}, ",
+    "description": "1.0 editor.js"
+  }
+}

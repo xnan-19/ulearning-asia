@@ -1,0 +1,2194 @@
+{
+  "route.dashboard": {
+    "message": "Home",
+    "description": "data-center-web 项目"
+  },
+  "route.documentation": {
+    "message": "Documents",
+    "description": "data-center-web 项目"
+  },
+  "route.guide": {
+    "message": "Landing Page",
+    "description": "data-center-web 项目"
+  },
+  "route.permission": {
+    "message": "Permission Test Page",
+    "description": "data-center-web 项目"
+  },
+  "route.rolePermission": {
+    "message": "Role Permissions",
+    "description": "data-center-web 项目"
+  },
+  "route.pagePermission": {
+    "message": "Page permissions",
+    "description": "data-center-web 项目"
+  },
+  "route.directivePermission": {
+    "message": "Command Permissions",
+    "description": "data-center-web 项目"
+  },
+  "route.icons": {
+    "message": "Icons",
+    "description": "data-center-web 项目"
+  },
+  "route.components": {
+    "message": "Components",
+    "description": "data-center-web 项目"
+  },
+  "route.tinymce": {
+    "message": "Rich Text Editor",
+    "description": "data-center-web 项目"
+  },
+  "route.jsonEditor": {
+    "message": "JSON Editor",
+    "description": "data-center-web 项目"
+  },
+  "route.analysisAndWarning": {
+    "message": "Analysis and Alerts",
+    "description": "data-center-web 项目"
+  },
+  "route.studentsAttendanceRecord": {
+    "message": "Student Attendance Records",
+    "description": "data-center-web 项目"
+  },
+  "route.warningSetting": {
+    "message": "Alert Settings",
+    "description": "data-center-web 项目"
+  },
+  "route.teachingDynamic": {
+    "message": "Data Snapshots",
+    "description": "data-center-web 项目"
+  },
+  "route.curseAnalysis": {
+    "message": "Course Analytics",
+    "description": "data-center-web 项目"
+  },
+  "route.activityAnalysis": {
+    "message": "Activity Analytics",
+    "description": "data-center-web 项目"
+  },
+  "route.instituteContrast": {
+    "message": "College Comparison",
+    "description": "data-center-web 项目"
+  },
+  "route.classPortrait": {
+    "message": "Log Out",
+    "description": "data-center-web 项目"
+  },
+  "route.portraiTeacher": {
+    "message": "Teacher's Snapchat",
+    "description": "data-center-web 项目"
+  },
+  "route.studentPortrait": {
+    "message": "Student's Snapchat",
+    "description": "data-center-web 项目"
+  },
+  "route.groupDiscussion": {
+    "message": "Group Discussion",
+    "description": "data-center-web 项目"
+  },
+  "route.wisdomClassroom": {
+    "message": "Smart Classroom",
+    "description": "data-center-web 项目"
+  },
+  "route.classroomActivity": {
+    "message": "Classroom Participation",
+    "description": "data-center-web 项目"
+  },
+  "navbar.logOut": {
+    "message": "Log Out",
+    "description": "data-center-web 项目"
+  },
+  "documentation.documentation": {
+    "message": "Documents",
+    "description": "data-center-web 项目"
+  },
+  "permission.cancel": {
+    "message": "Cancel",
+    "description": "data-center-web 项目"
+  },
+  "components.documentation": {
+    "message": "Documents",
+    "description": "data-center-web 项目"
+  },
+  "table.id": {
+    "message": "Ranking",
+    "description": "data-center-web 项目"
+  },
+  "table.date": {
+    "message": "Time",
+    "description": "data-center-web 项目"
+  },
+  "table.status": {
+    "message": "Status",
+    "description": "data-center-web 项目"
+  },
+  "table.actions": {
+    "message": "Actions",
+    "description": "data-center-web 项目"
+  },
+  "common.title": {
+    "message": "Smart Teaching Analytics",
+    "description": "data-center-web 项目"
+  },
+  "common.logOut": {
+    "message": "Log Out",
+    "description": "data-center-web 项目"
+  },
+  "common.dataBoard": {
+    "message": "Dashboard",
+    "description": "data-center-web 项目"
+  },
+  "common.dataCenter": {
+    "message": "Data Center",
+    "description": "data-center-web 项目"
+  },
+  "common.fullScreen": {
+    "message": "Full Screen",
+    "description": "data-center-web 项目"
+  },
+  "common.cancelFullScreen": {
+    "message": "Exit Full Screen",
+    "description": "data-center-web 项目"
+  },
+  "common.candidates": {
+    "message": "Random Pick",
+    "description": "data-center-web 项目"
+  },
+  "common.answer": {
+    "message": "Compete to Answer",
+    "description": "data-center-web 项目"
+  },
+  "common.vote": {
+    "message": "Poll",
+    "description": "data-center-web 项目"
+  },
+  "common.photoUpload": {
+    "message": "Image Upload",
+    "description": "data-center-web 项目"
+  },
+  "common.score": {
+    "message": "Peer Review",
+    "description": "data-center-web 项目"
+  },
+  "common.classDisc": {
+    "message": "Discussion",
+    "description": "data-center-web 项目"
+  },
+  "common.discuss": {
+    "message": "Discussions",
+    "description": "data-center-web 项目"
+  },
+  "common.exam": {
+    "message": "Exams",
+    "description": "data-center-web 项目"
+  },
+  "common.live": {
+    "message": "Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "common.all": {
+    "message": "All ",
+    "description": "data-center-web 项目"
+  },
+  "common.inClass": {
+    "message": "In Use",
+    "description": "data-center-web 项目"
+  },
+  "common.loading": {
+    "message": "Loading...",
+    "description": "data-center-web 项目"
+  },
+  "common.attendance": {
+    "message": "Present",
+    "description": "data-center-web 项目"
+  },
+  "common.absenteeism": {
+    "message": "Absent",
+    "description": "data-center-web 项目"
+  },
+  "common.late": {
+    "message": "Tardy",
+    "description": "data-center-web 项目"
+  },
+  "common.leaveEarly": {
+    "message": "Early Leave",
+    "description": "data-center-web 项目"
+  },
+  "common.affairLeave": {
+    "message": "Excused Leave",
+    "description": "data-center-web 项目"
+  },
+  "common.sickLeave": {
+    "message": "Sick Leave",
+    "description": "data-center-web 项目"
+  },
+  "common.number": {
+    "message": "Counts",
+    "description": "data-center-web 项目"
+  },
+  "common.video": {
+    "message": "Videos",
+    "description": "data-center-web 项目"
+  },
+  "common.document": {
+    "message": "Documents",
+    "description": "data-center-web 项目"
+  },
+  "common.image": {
+    "message": "Images",
+    "description": "data-center-web 项目"
+  },
+  "common.noData": {
+    "message": "No data found",
+    "description": "data-center-web 项目"
+  },
+  "common.noClass": {
+    "message": "No classrooms in use",
+    "description": "data-center-web 项目"
+  },
+  "common.arranging": {
+    "message": "Scheduled sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.Today": {
+    "message": "Today's Snapshot",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.Visiting": {
+    "message": "Platform Visits",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.RollCall": {
+    "message": "Attendance",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.Classroom": {
+    "message": "Smart Classroom",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.UClass": {
+    "message": "UClass Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.Interaction": {
+    "message": "Classroom Interactions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.Activities": {
+    "message": "Instructional Activities",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.todayAttendance": {
+    "message": "Today's Attendance",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.averageAttendance": {
+    "message": "Average Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.callNum": {
+    "message": "Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.courseWarn": {
+    "message": "Course Attendance Alerts",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.attendanceRate": {
+    "message": "Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.time": {
+    "message": "Time",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.grade": {
+    "message": "Class",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.info": {
+    "message": "Details",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.onlineUser": {
+    "message": "Today‘s Online Users",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.hours": {
+    "message": "Hours",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.todayLive": {
+    "message": "Today's Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activitiesNum": {
+    "message": "Activities",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.recordedClassroom": {
+    "message": "Recording Classrooms",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.building": {
+    "message": "Building",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.course": {
+    "message": "Course",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.attendance": {
+    "message": "Present",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activityRanking": {
+    "message": "Most Active",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teacher": {
+    "message": "Teacher",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.tea": {
+    "message": "Teacher",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.student": {
+    "message": "Student",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.liveness": {
+    "message": "Active Level",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.participation": {
+    "message": "Attendance Leaderboard",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.nums": {
+    "message": "Counts",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.name": {
+    "message": "Name",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.college": {
+    "message": "College",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.semester": {
+    "message": "Semester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.dayArrangement": {
+    "message": "Today's Scheduling",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.campus": {
+    "message": "Campus",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg1": {
+    "message": "Data is refreshed every 5 minutes. Last updated: ",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg2": {
+    "message": "Teacher Logins",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg3": {
+    "message": "Student Logins",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg4": {
+    "message": "Teachers Logged In",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg5": {
+    "message": "Students Logged In",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg6": {
+    "message": "Total Online Time",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg7": {
+    "message": "Total Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg8": {
+    "message": "Live Sessions in Progress",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg9": {
+    "message": "Total Live Session Time",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg10": {
+    "message": "Live Session Classes",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg13": {
+    "message": "Teachers Who Used UClass",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg14": {
+    "message": "Student Participation Rate",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg15": {
+    "message": "Activity Participations",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg16": {
+    "message": "Teacher Login Trends",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg17": {
+    "message": "Logins",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg18": {
+    "message": "Login Duration",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg19": {
+    "message": "Student Login Trends",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg20": {
+    "message": "Login Devices",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg22": {
+    "message": "Views",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.msg23": {
+    "message": "Data is refreshed every 5 minutes",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess1": {
+    "message": "Teachers Logged in",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess2": {
+    "message": "Teacher Logins",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess3": {
+    "message": "Students Logged in",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess4": {
+    "message": "Student Logins",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess5": {
+    "message": "Active Courses",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess6": {
+    "message": "Average Session Duration",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAccess7": {
+    "message": "Total Session Duration",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.trendAtt": {
+    "message": "Attendance Trends",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.rate": {
+    "message": "Attendance Rate Distribution",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt00": {
+    "message": "Semester Attendance Data",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt0": {
+    "message": "30 Days' Attendance Data",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt1": {
+    "message": "7 Days' Attendance Data",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt2": {
+    "message": "Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt3": {
+    "message": "Teachers Who Posted Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt4": {
+    "message": "Absent Students",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt5": {
+    "message": "Absences",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt6": {
+    "message": "Student Perfect Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.sevenAtt7": {
+    "message": "Attendance Distribution (% of Counts)",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.stuWarning1": {
+    "message": "Student Attendance Alerts",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback1": {
+    "message": "Lecture Recordings",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback2": {
+    "message": "Cumulative Recordings",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback3": {
+    "message": "Cumulative recording duration",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback4": {
+    "message": "Recordings This Semester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback5": {
+    "message": "Recording Duration This Semester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.playback6": {
+    "message": "Total Recording Playbacks",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.statistics1": {
+    "message": "Recordings",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.statistics2": {
+    "message": "Recording Duration",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass00": {
+    "message": "7 Days' Classroom Interaction Data",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass0": {
+    "message": "30 Days' Classroom Interaction Data",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse0": {
+    "message": "Classroom Scheduling",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse1": {
+    "message": "Teachers’ UClass Usage Ratio",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse2": {
+    "message": "Cumulative Courses Scheduled ",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse3": {
+    "message": "Cumulative Sessions Scheduled",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse4": {
+    "message": "Courses Scheduled This Semester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.teaUse5": {
+    "message": "Sessions Scheduled This Semester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass1": {
+    "message": "Interactive Engagement",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass2": {
+    "message": "Participation",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass3": {
+    "message": "Activity Participations by Students",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass4": {
+    "message": "Activities",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass5": {
+    "message": "Used",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass6": {
+    "message": "Didn't Use",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass7": {
+    "message": "Classroom Interaction Data This Smester",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass9": {
+    "message": "Teachers Who Used UClass",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass10": {
+    "message": "Usage Top 5 Colleges",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass11": {
+    "message": "College/Department",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass12": {
+    "message": "Teachers Who Used UClass",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass13": {
+    "message": "UClass Usage Trends",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.uclass14": {
+    "message": "Total UClass Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities1": {
+    "message": "Total Discussions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities2": {
+    "message": "Teachers Who Published Discussion",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities3": {
+    "message": "Student Replies",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities4": {
+    "message": "Teacher Replies",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities5": {
+    "message": "Discussion - Time Limit",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities6": {
+    "message": "Discussion - No Time Limit",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities7": {
+    "message": "Total Course Exams",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities8": {
+    "message": "Participants of Highest-Attended Session",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities9": {
+    "message": "Course Exam Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities10": {
+    "message": "Cumulative Exam Participants",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities11": {
+    "message": "Pre-defined Exam",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities12": {
+    "message": "Random Exam",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities13": {
+    "message": "Assignments",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities14": {
+    "message": "Total Assignments",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities15": {
+    "message": "Teachers Who Posted Assignments",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities16": {
+    "message": "Assignments Submitted",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities17": {
+    "message": "Assignments Graded",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities18": {
+    "message": "Individual Assignment",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities19": {
+    "message": "Group Assignment",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities20": {
+    "message": "Quiz",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities21": {
+    "message": "Total Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities22": {
+    "message": "Total Length of All Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities25": {
+    "message": "< 1 Hour",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities26": {
+    "message": "1-2 Hours",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities27": {
+    "message": "> 2 Hours",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities28": {
+    "message": "Leaderboard",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities30": {
+    "message": "Posts",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.activities32": {
+    "message": "Excludes exams with less than 10 participants",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources1": {
+    "message": "Course Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources2": {
+    "message": "Resources Published",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources3": {
+    "message": "Teachers Who Published Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources4": {
+    "message": "Resource Views by Students",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources5": {
+    "message": "Exam Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources6": {
+    "message": "School Exam Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources7": {
+    "message": "Teacher Personal Exam Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources8": {
+    "message": "Total Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources9": {
+    "message": "Newly Added Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources10": {
+    "message": "MOOC Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources11": {
+    "message": "Total MOOC Courses",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources12": {
+    "message": "Question Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources13": {
+    "message": "School Question Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources14": {
+    "message": "Teacher Personal Question Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources15": {
+    "message": "Resources Leaderboard",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources16": {
+    "message": "Course Creator",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources19": {
+    "message": "Resource Library",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources20": {
+    "message": "School Resource Library",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources21": {
+    "message": "Teacher Personal Resource Library",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources22": {
+    "message": "Most Viewed Resources",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources23": {
+    "message": "Count course resources posted within the selected time period only",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources24": {
+    "message": "Name",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources25": {
+    "message": "Posted by",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources26": {
+    "message": "Views",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources29": {
+    "message": "Newly Added Questions",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources30": {
+    "message": "Pre-defined Exams in Exam Bank",
+    "description": "data-center-web 项目"
+  },
+  "dataBoard.resources31": {
+    "message": "Newly Added Exams",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.courseWarnRules": {
+    "message": "Course Attendance Alert Rules",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg1": {
+    "message": "Attendance Alert Threshold",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg2": {
+    "message": "An alert will be issued when the class attendance rate is lower than the alert threshold",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg3": {
+    "message": "1. If the attendance rate In a class roll call is lower than the alert threshold, an alert will be issued. If the attendance rate for multiple roll calls is lower than this value, multiple alerts will be issued.",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg4": {
+    "message": "2. Changing the alert rules will not affect historical data, and the generated alert records will not be changed.",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg5": {
+    "message": "3. A course being alerted only means that the attendance rate of the course needs the attention of the school administration and does not serve as a basis for the evaluation of teaching.",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.stuWarningRules": {
+    "message": "Student Attendance Alert Rules",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg6": {
+    "message": "Absence Alert Threshold",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg7": {
+    "message": "An alert will be issued to the student whose number of cumulative absences reaches the alert threshold",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg8": {
+    "message": "An alert will be issued to the student whose number of cumulative absences reaches the alert value. If the number of absences reaches 2 times or 3 times the early warning value, the second and third alerts will be issued.",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.msg9": {
+    "message": "2. Changing the alert rules will not affect historical data, and the generated alert records will not be changed.",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.instructions": {
+    "message": "Instructions: ",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.attendanceRecord": {
+    "message": "Attendance Records",
+    "description": "data-center-web 项目"
+  },
+  "managMent.announcement": {
+    "message": "Announcements",
+    "description": "data-center-web 项目"
+  },
+  "managMent.publishJob": {
+    "message": "Assignments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releasedDiscuss": {
+    "message": "Discussions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseLive": {
+    "message": "Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseTest": {
+    "message": "Course Exams",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseNamed": {
+    "message": "Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseVote": {
+    "message": "Polls",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseCandidate": {
+    "message": "Random Picks",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseAnswer": {
+    "message": "Compete to Answers",
+    "description": "data-center-web 项目"
+  },
+  "managMent.releaseRate": {
+    "message": "Peer Reviews",
+    "description": "data-center-web 项目"
+  },
+  "managMent.towWeeksDynamic": {
+    "message": "Past 2 Weeks' Snapshot",
+    "description": "data-center-web 项目"
+  },
+  "managMent.exportDaily": {
+    "message": "Daily Report of Past 2 Weeks",
+    "description": "data-center-web 项目"
+  },
+  "managMent.exportWeekly": {
+    "message": "Semester Weekly Report",
+    "description": "data-center-web 项目"
+  },
+  "managMent.exportMonthlyReport": {
+    "message": "Semester Monthly Report",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Monday": {
+    "message": "Mon",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Tuesday": {
+    "message": "Tue",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Wednesday": {
+    "message": "Wed",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Thursday": {
+    "message": "Thu",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Friday": {
+    "message": "Fri",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Saturday": {
+    "message": "Sat",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Sunday": {
+    "message": "Sun",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberLiveClasses": {
+    "message": "Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.averageAttendance": {
+    "message": "Avg. Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberTeachers": {
+    "message": "Teachers",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Teachersm": {
+    "message": "Teacher Logins",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberStudents": {
+    "message": "Students",
+    "description": "data-center-web 项目"
+  },
+  "managMent.studentsm": {
+    "message": "Students Logins",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Twoweeks": {
+    "message": "Past 2 Weeks",
+    "description": "data-center-web 项目"
+  },
+  "managMent.semester": {
+    "message": "This Semester",
+    "description": "data-center-web 项目"
+  },
+  "managMent.mostActiveCourseTop5": {
+    "message": "Top 5 Most Active Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.mostActiveTeachersTop5": {
+    "message": "Top 5 Most Active Teachers",
+    "description": "data-center-web 项目"
+  },
+  "managMent.mostActiveStudentsTop5": {
+    "message": "Top 5 Most Active Students",
+    "description": "data-center-web 项目"
+  },
+  "managMent.summaryStatistics": {
+    "message": "Summary Data",
+    "description": "data-center-web 项目"
+  },
+  "managMent.summaryStatistics1": {
+    "message": "Only newly created courses within the selected time range are counted, excluding the ones with less than 10 students.",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberCoursesRun": {
+    "message": "Total Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.totalCoursewareUsed": {
+    "message": "Courseware Used",
+    "description": "data-center-web 项目"
+  },
+  "managMent.schoolBuild": {
+    "message": "Internal courseware",
+    "description": "data-center-web 项目"
+  },
+  "managMent.externalReferences": {
+    "message": "External Courseware",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberLecturesTeacher": {
+    "message": "Avg. Courses Taught per Teacher",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberCourseStudent": {
+    "message": "Avg. Courses Enrolled per Student",
+    "description": "data-center-web 项目"
+  },
+  "managMent.studentsChoosingCourses": {
+    "message": "Total Course Enrollments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.courseSizeDistribution": {
+    "message": "Course Size & Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.moreThan1000": {
+    "message": "Courses with 1000+ Enrollments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.courseStudents": {
+    "message": "Courses with 201-1000 Enrollments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.courseStudents1": {
+    "message": "Courses with 51-200 Enrollments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.courseStudents2": {
+    "message": "Courses with 50- Enrollments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale": {
+    "message": "Teaching Mode Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale1": {
+    "message": "Self-Study Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale2": {
+    "message": "Activities (other than announcements, courseware, and resources) are less than 5",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale3": {
+    "message": "Teacher-Led Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale4": {
+    "message": "Activities (assignments, discussions, live sessions, and classroom activities) are more than 20 and 80%+ of them are live sessions and classroom activities",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale5": {
+    "message": "Hybrid Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale6": {
+    "message": "Activities (at least 3 different types from assignments, discussions, live sessions, and classroom activities) are more than 20, while live sessions and classroom activities are less than 50%",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale7": {
+    "message": "Other Types of Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisTeachingScale8": {
+    "message": "Courses not included in the first three categories",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisCurriculumEvaluation": {
+    "message": "Course Grading Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.examCourseProportion": {
+    "message": "% of Courses with Exams",
+    "description": "data-center-web 项目"
+  },
+  "managMent.assessment": {
+    "message": "% of Courses with Grading Rules",
+    "description": "data-center-web 项目"
+  },
+  "managMent.amongThem": {
+    "message": "Details",
+    "description": "data-center-web 项目"
+  },
+  "managMent.learningStatusCourseware": {
+    "message": " counts courseware learning only",
+    "description": "data-center-web 项目"
+  },
+  "managMent.classroomAssessment": {
+    "message": " includes roll calls and participation (Random Pick and Compete to Answer)",
+    "description": "data-center-web 项目"
+  },
+  "managMent.examinationResultAssessment": {
+    "message": " includes exams",
+    "description": "data-center-web 项目"
+  },
+  "managMent.Number": {
+    "message": " ",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberInteractions": {
+    "message": "Total Activities",
+    "description": "data-center-web 项目"
+  },
+  "managMent.timeRangeActivity": {
+    "message": "Counts activities published within selected dates only",
+    "description": "data-center-web 项目"
+  },
+  "managMent.announcements": {
+    "message": "Announcements",
+    "description": "data-center-web 项目"
+  },
+  "managMent.callRoll": {
+    "message": "Roll Call",
+    "description": "data-center-web 项目"
+  },
+  "managMent.analysisClassroomActivities": {
+    "message": "Classroom Activity Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.studentSign": {
+    "message": "Student Attendance Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.classroomTeacher": {
+    "message": "Top 5 Teachers - Most Activities Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.classroomCourse": {
+    "message": "Top 5 Courses - Most Classroom Activities Launched",
+    "description": "data-center-web 项目"
+  },
+  "managMent.teachersUploadResources": {
+    "message": "Counts only the resources uploaded by teachers",
+    "description": "data-center-web 项目"
+  },
+  "managMent.resourceAnalysis": {
+    "message": "Resource Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.resourceSign": {
+    "message": "Resource Type Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.resourceTeacher": {
+    "message": "Top 5 Teachers - Most Resources Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.resourceCourse": {
+    "message": "Top 5 Courses - Most Resources Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.homeWorkAnalysis": {
+    "message": "Assignment Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.homeWorkSign": {
+    "message": "Assignment Type Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.homeWorkTeacher": {
+    "message": "Top 5 Teachers - Most Assignments Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.homeWorkCourse": {
+    "message": "Top 5 Courses - Most Assignments Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.discussAnalysis": {
+    "message": "Discussion Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.discussSign": {
+    "message": "Discussion Type Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.discussTeacher": {
+    "message": "Top 5 Teachers - Most Discussions Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.discussCourse": {
+    "message": "Top 5 Courses - Most Discussions Published",
+    "description": "data-center-web 项目"
+  },
+  "managMent.liveAnalysis": {
+    "message": "Live Session Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.liveSign": {
+    "message": "Live Session Duration Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.liveTeacher": {
+    "message": "Top 5 Teachers - Most Live Sessions Delivered",
+    "description": "data-center-web 项目"
+  },
+  "managMent.liveCourse": {
+    "message": "Top 5 Courses - Most Live Sessions Delivered",
+    "description": "data-center-web 项目"
+  },
+  "managMent.examAnalysis": {
+    "message": "Exam Analytics",
+    "description": "data-center-web 项目"
+  },
+  "managMent.examSign": {
+    "message": "Exam Type Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.equipmentDistribution": {
+    "message": "Exam Access Device Distribution",
+    "description": "data-center-web 项目"
+  },
+  "managMent.singleNumber": {
+    "message": "Top 5 Highest-Attended Exam Sessions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.callRollNumber": {
+    "message": "Total Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "managMent.voteNumber": {
+    "message": "Total Polls",
+    "description": "data-center-web 项目"
+  },
+  "managMent.candidatesNumber": {
+    "message": "Total Random Picks",
+    "description": "data-center-web 项目"
+  },
+  "managMent.answerNumber": {
+    "message": "Total Compete to Answers",
+    "description": "data-center-web 项目"
+  },
+  "managMent.scoreNumber": {
+    "message": "Total Peer Reviews",
+    "description": "data-center-web 项目"
+  },
+  "managMent.callRollTeacher": {
+    "message": "Teachers Who Launched Roll Call",
+    "description": "data-center-web 项目"
+  },
+  "managMent.voteTeacher": {
+    "message": "Teachers Who Launched Poll",
+    "description": "data-center-web 项目"
+  },
+  "managMent.candidatesTeacher": {
+    "message": "Teachers Who Launched Random Pick",
+    "description": "data-center-web 项目"
+  },
+  "managMent.answerTeacher": {
+    "message": "Teachers Who Launched Compete to Answer",
+    "description": "data-center-web 项目"
+  },
+  "managMent.scoreTeacher": {
+    "message": "Teachers Who Launched Peer Review",
+    "description": "data-center-web 项目"
+  },
+  "managMent.libraryNumberResources": {
+    "message": "Resources Uploaded to Resource Library",
+    "description": "data-center-web 项目"
+  },
+  "managMent.totalCourseResources": {
+    "message": "Resources Published to Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberResourceTeachers": {
+    "message": "Teachers Who Published Resources",
+    "description": "data-center-web 项目"
+  },
+  "managMent.graphic": {
+    "message": "Rich Content",
+    "description": "data-center-web 项目"
+  },
+  "managMent.link": {
+    "message": "Links",
+    "description": "data-center-web 项目"
+  },
+  "managMent.other": {
+    "message": "Others",
+    "description": "data-center-web 项目"
+  },
+  "managMent.smallClass": {
+    "message": "Micro-course",
+    "description": "data-center-web 项目"
+  },
+  "managMent.audio": {
+    "message": "Audios",
+    "description": "data-center-web 项目"
+  },
+  "managMent.homeWorkNumber": {
+    "message": "Total Assignments",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberHomeworkTeachers": {
+    "message": "Teachers Who Published Assignment",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberAssignmentsStudents": {
+    "message": "Assignments Submitted",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberAssignmentsTeachers": {
+    "message": "Assignments Graded",
+    "description": "data-center-web 项目"
+  },
+  "managMent.test": {
+    "message": "Quiz",
+    "description": "data-center-web 项目"
+  },
+  "managMent.groupWork": {
+    "message": "Group Assignment",
+    "description": "data-center-web 项目"
+  },
+  "managMent.individualWork": {
+    "message": "Individual Assignment",
+    "description": "data-center-web 项目"
+  },
+  "managMent.discussNumberTeachers": {
+    "message": "Teachers Who Published Discussion",
+    "description": "data-center-web 项目"
+  },
+  "managMent.openDiscussion": {
+    "message": "Discussion - No Time Limit",
+    "description": "data-center-web 项目"
+  },
+  "managMent.iphone": {
+    "message": "ULearning App",
+    "description": "data-center-web 项目"
+  },
+  "managMent.pc": {
+    "message": "Lockdown Browser",
+    "description": "data-center-web 项目"
+  },
+  "managMent.web": {
+    "message": "Web",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberLiveTeachers": {
+    "message": "Teachers Who Delivered Live Session",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberPeopleLive": {
+    "message": "Participants of Highest-Attended Session",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberLiveViewers": {
+    "message": "Total Participants of All Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.cumulativeBroadcastDuration": {
+    "message": "Total Length of All Live Sessions",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberExaminations": {
+    "message": "Cumulative Exam Participants",
+    "description": "data-center-web 项目"
+  },
+  "managMent.examinationTeachers": {
+    "message": "Teachers Who Published Course Exam",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberQuestionBank": {
+    "message": "Total Questions in Question Bank",
+    "description": "data-center-web 项目"
+  },
+  "managMent.coursesOperation": {
+    "message": "College Courses",
+    "description": "data-center-web 项目"
+  },
+  "managMent.coursewareOperation": {
+    "message": "College Courseware",
+    "description": "data-center-web 项目"
+  },
+  "managMent.schoolLogins": {
+    "message": "Cumulative Logins",
+    "description": "data-center-web 项目"
+  },
+  "managMent.timeRangeLogin": {
+    "message": "Counts the logins within selected dates only",
+    "description": "data-center-web 项目"
+  },
+  "managMent.numberSchoolCourses": {
+    "message": "Courses by College",
+    "description": "data-center-web 项目"
+  },
+  "managMent.timeRangeCourse": {
+    "message": "Counts the courses created within selected dates only",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.sorting": {
+    "message": "Sort by",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.sortByTime": {
+    "message": "Account Creation Time",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.name": {
+    "message": "Name/Student ID",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.quantity": {
+    "message": "Counts",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.college": {
+    "message": "College: ",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.telephone": {
+    "message": "Phone: ",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.mailbox": {
+    "message": "Email: ",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.youxueyuan": {
+    "message": " joined ULearning",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.leijichuangjian": {
+    "message": "cumulatively created/joined ",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.curriculum": {
+    "message": " courses",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.daile": {
+    "message": "taught ",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.gebanji": {
+    "message": " classes",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.student": {
+    "message": " students",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.statistics": {
+    "message": "Logins",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.day": {
+    "message": "Daily",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.week": {
+    "message": "Weekly",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.month": {
+    "message": "Monthly",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.recentTwoWeeks": {
+    "message": "In the last two weeks",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.zhi": {
+    "message": "to",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.totalLoginTimes": {
+    "message": "Total Logins",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.evaluation": {
+    "message": "Instructional Evaluation",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate1": {
+    "message": "You can access the course homepage as an admin and click \"Open Course\" to access",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate2": {
+    "message": "Open Course",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.attendance": {
+    "message": "Attendance Records",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.rollCallTimes": {
+    "message": "Roll Calls",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate3": {
+    "message": "Cumulative Absences",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate4": {
+    "message": "Total Activities",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate5": {
+    "message": "Assignment Types",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate56": {
+    "message": "Resource Types",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate57": {
+    "message": "Student ID",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate8": {
+    "message": "Name",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate9": {
+    "message": "Interaction-Based",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate10": {
+    "message": "Activity types >= 3",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate11": {
+    "message": "Number of activities >= 5",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate12": {
+    "message": "Includes the Random Pick activity",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate13": {
+    "message": "Group-Based",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate14": {
+    "message": "Class students were divided into groups",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate15": {
+    "message": "Posted 1 or more group assignments",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate16": {
+    "message": "Discussion-Based",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate17": {
+    "message": "Posted 1 discussion",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate18": {
+    "message": "Total number of discussions > = 3",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate19": {
+    "message": "Liked students' replies",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate20": {
+    "message": "Resource-Based",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate21": {
+    "message": "Published resources in course resource folder",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate22": {
+    "message": "Resource types >= 3",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.translate23": {
+    "message": "Number of resources >= 5",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.grade": {
+    "message": "Year: ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.studentId": {
+    "message": "Student ID: ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.cumulative": {
+    "message": "cumulatively enrolled ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.submit": {
+    "message": "submitted ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.participate": {
+    "message": " assignments, participated in ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.discuss": {
+    "message": "topic discussions, participated in ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.interaction": {
+    "message": " classroom activities, took  ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.leiji": {
+    "message": "Total Online Time",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.gaitongxue": {
+    "message": "The student studied ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.material": {
+    "message": "courseware; cumulative learning time ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.completion": {
+    "message": "; completion ",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.attendance": {
+    "message": "Present",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.absence": {
+    "message": "Absences",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.ketang": {
+    "message": "Attendance",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.learningRecords": {
+    "message": "Courseware Learning Records",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.courseware": {
+    "message": "Courseware",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.wancheng": {
+    "message": "Completion",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.speed": {
+    "message": "Progress",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.leijixuexi": {
+    "message": "Cumulative Learning Time",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.lastLearningTime": {
+    "message": "Last Accessed",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.achievement": {
+    "message": "Grade",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.operation": {
+    "message": "Assignment Records",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.participate1": {
+    "message": "Assignments Participated",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.discussion": {
+    "message": "Discussion Records",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.reply": {
+    "message": "Replies",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.integral": {
+    "message": "Score",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.examination": {
+    "message": "Exam Records",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.number": {
+    "message": "Exams Taken",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.total": {
+    "message": "Total Course Exams",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.total1": {
+    "message": "Activities Participated",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.activityType": {
+    "message": "Activity Type",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.textbook": {
+    "message": "Courseware Learning",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.completeRate": {
+    "message": "Completion >= 60%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.completeRate1": {
+    "message": "Completion >= 80%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.completeRate2": {
+    "message": "Completion = 100%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.post": {
+    "message": "Made 1 post",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.post1": {
+    "message": "Replied to a classmate's post",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.post2": {
+    "message": "Like classmates' posts",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.participation": {
+    "message": "Participation >= 60%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.participation1": {
+    "message": "Participation >= 80%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.participation2": {
+    "message": "Participation = 100%",
+    "description": "data-center-web 项目"
+  },
+  "newStudentPortrait.fieldExamination": {
+    "message": "exams",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.proportionAttendance": {
+    "message": "Attendance Distribution (% of Counts)",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.lastTwoWeeks": {
+    "message": "Attendance trends in the past two weeks",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.alertRecord": {
+    "message": "Alert Records",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.curriculum": {
+    "message": "Cumulative Course Attendance Alerts",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.warnStuNum": {
+    "message": "Students Alerted",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.classAttendance": {
+    "message": "An alert will be issued when the class attendance rate is lower than the alert threshold",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.stuWarntip": {
+    "message": "An alert will be issued to the student whose number of cumulative absences reaches the alert threshold",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.rollCallRecord": {
+    "message": "Roll Call Records",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.ranking": {
+    "message": "Top Alerts",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.warningTimes": {
+    "message": "Alerts",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.cumulativeAbsence": {
+    "message": "Cumulative Absences",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.semester": {
+    "message": "Semester Absences",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.lastlertTime": {
+    "message": "Last Alert Time",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.institutions": {
+    "message": "All",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.callTeacher": {
+    "message": "Roll Call Teachers",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.callCourse": {
+    "message": "Roll Call Courses",
+    "description": "data-center-web 项目"
+  },
+  "analysisAndWarning.attendanceRate": {
+    "message": "Perfect Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.year": {
+    "message": "Year",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.courseName": {
+    "message": "Course Name",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.curriculum": {
+    "message": "Course ID",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.created": {
+    "message": "Creator",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.teams": {
+    "message": "Teaching Team Members",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.courses": {
+    "message": "Number of Courses",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.cumulative": {
+    "message": "Cumulative Absences",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.modify": {
+    "message": "Edit",
+    "description": "data-center-web 项目"
+  },
+  "attendanceRecords.preservation": {
+    "message": "Save",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.overview": {
+    "message": "Overview",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.usageTrends": {
+    "message": "Usage Trends",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.twoWeek": {
+    "message": "Usage trends in the past two weeks",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.classroom": {
+    "message": "Teachers Who Used UClass",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.classroom1": {
+    "message": "Teachers Who Didn't Use UClass",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.colleges": {
+    "message": "Usage Top 5 Colleges",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.teachersUsing": {
+    "message": "Teachers Who Used UClass",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.preferences": {
+    "message": "Preferred Activities",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.popular": {
+    "message": "Most Popular (based on the number of teachers using this activity)",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.frequently": {
+    "message": "Most Used (based on the number of that activity used)",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.colleges1": {
+    "message": "Most Active Top 10 Courses",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.beEqualTo": {
+    "message": "Classroom participation = total number of UClass activity participations",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.courseLeader": {
+    "message": "Course Manager",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.participating": {
+    "message": "Students Who Participated in UClass Activities",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.today": {
+    "message": "Today",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.playback": {
+    "message": "Recording Playbacks",
+    "description": "data-center-web 项目"
+  },
+  "classActivity.occupiedSpace": {
+    "message": "Storage",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.management": {
+    "message": "Seminar Classroom Device Management",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.doNot": {
+    "message": "Changing the pre-assigned IP address for a smart screen here only will cause the connection between a teacher screen and a group screen to fail. If you really need to change it, please change the IP for the device both here and on that smart screen to ensure two are consistent.",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.equipment": {
+    "message": "A device with * is not designated as part of the multi-screen interaction system. It may serve other purposes in the classroom.",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.modifyName": {
+    "message": "Rename",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.equipment11": {
+    "message": "Device",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.address": {
+    "message": "MAC Address",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.networking": {
+    "message": "Pre-Assigned IP",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.equipmentModel": {
+    "message": "Device Model",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.modifyClassroomName": {
+    "message": "Rename Classroom",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.modifyDeviceInformation": {
+    "message": "Edit Device Info",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.classroomNmae": {
+    "message": "Classroom Name",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.letter": {
+    "message": "Only letters, numbers and \"-\" are supported and no more than 20 characters",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.classroom": {
+    "message": "Classroom",
+    "description": "data-center-web 项目"
+  },
+  "groupDiscussion.groupSerial": {
+    "message": "Group number",
+    "description": "data-center-web 项目"
+  },
+  "classroomAnalysis.dialogueType": {
+    "message": "Dialogue type",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.month": {
+    "message": "Monthly",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.hour": {
+    "message": "hours ",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.minutes": {
+    "message": "minutes ",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.seconds": {
+    "message": "seconds",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.allColleges": {
+    "message": "All",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.allTeachers": {
+    "message": "All Teachers",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.classAttendance": {
+    "message": "Attendance Rate",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.activityRichness": {
+    "message": "Activity Richness",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.activityParticipation": {
+    "message": "Activity Participation",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.allGrades": {
+    "message": "All",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.allClasses": {
+    "message": "All",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.teacherBoard": {
+    "message": "Teacher Writing",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.the7th": {
+    "message": "7 Days",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.thirtyDays": {
+    "message": "30 Days",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.tardinessRate": {
+    "message": "Tardy Rate",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.getNod": {
+    "message": "Selected",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.notSelected": {
+    "message": "Not Selected",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.grade": {
+    "message": "Year",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.sessionProportion": {
+    "message": "Dialogue type {num}%",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.publishResource": {
+    "message": "Resources Posted",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.correctHomework": {
+    "message": "Assignment Grading",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.replyPost": {
+    "message": "Discussion Replies",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.scheduleExam": {
+    "message": "Exams Scheduled",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.markPapers": {
+    "message": "Exam Grading",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.onlineTime": {
+    "message": "Online Time",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.minute": {
+    "message": "minutes",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.teacherAttendance": {
+    "message": "UClass Uses by Teacher",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.durationUse": {
+    "message": "Duration of Use",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.teacherScreen": {
+    "message": "Teacher Screen",
+    "description": "data-center-web 项目"
+  },
+  "collationTranslation.group": {
+    "message": "Group ",
+    "description": "data-center-web 项目"
+  },
+  "managMent.exportReport": {
+    "message": "Export Report",
+    "description": "data-center-web 项目"
+  },
+  "managMent.allColleges": {
+    "message": "All",
+    "description": "data-center-web 项目"
+  },
+  "teacherPortrait.portraitTeacher": {
+    "message": "Teacher's Snapchat",
+    "description": "data-center-web 项目"
+  }
+}

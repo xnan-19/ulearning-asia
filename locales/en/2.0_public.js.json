@@ -1,0 +1,2490 @@
+{
+  "homePage": {
+    "message": "Home",
+    "description": "2.0 public.js"
+  },
+  "lastPage": {
+    "message": "Last Page",
+    "description": "2.0 public.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 public.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 public.js"
+  },
+  "jumpPage": {
+    "message": "Jump",
+    "description": "2.0 public.js"
+  },
+  "search": {
+    "message": "Search",
+    "description": "2.0 public.js"
+  },
+  "friendshipLink": {
+    "message": "Links",
+    "description": "2.0 public.js"
+  },
+  "ulearning": {
+    "message": "ULearning",
+    "description": "2.0 public.js"
+  },
+  "peopleMooc": {
+    "message": "People.cn Open Courses",
+    "description": "2.0 public.js"
+  },
+  "leiClass": {
+    "message": "Leiketang Portal",
+    "description": "2.0 public.js"
+  },
+  "helpCenter": {
+    "message": "Help Center",
+    "description": "2.0 public.js"
+  },
+  "signin": {
+    "message": "Log In",
+    "description": "2.0 public.js"
+  },
+  "signup": {
+    "message": "Register",
+    "description": "2.0 public.js"
+  },
+  "signout": {
+    "message": "Log Out",
+    "description": "2.0 public.js"
+  },
+  "myHomePage": {
+    "message": "My Homepage",
+    "description": "2.0 public.js"
+  },
+  "backToHomePage": {
+    "message": "Back to portal",
+    "description": "2.0 public.js"
+  },
+  "personalPage": {
+    "message": "My profile",
+    "description": "2.0 public.js"
+  },
+  "signupNow": {
+    "message": "Register now",
+    "description": "2.0 public.js"
+  },
+  "username": {
+    "message": "Username/Email",
+    "description": "2.0 public.js"
+  },
+  "password": {
+    "message": "Password",
+    "description": "2.0 public.js"
+  },
+  "forgetPassword": {
+    "message": "Forgot password?",
+    "description": "2.0 public.js"
+  },
+  "usernameNotExist": {
+    "message": "Username doesn’t exist",
+    "description": "2.0 public.js"
+  },
+  "wrongPassword": {
+    "message": "Incorrect username/password",
+    "description": "2.0 public.js"
+  },
+  "wrongCode": {
+    "message": "Incorrect verification code",
+    "description": "2.0 public.js"
+  },
+  "verificationCodePlaceholder": {
+    "message": "Please enter the 6-digit verification code",
+    "description": "2.0 public.js"
+  },
+  "sendVerificationCode": {
+    "message": "Send verification code",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterUsername": {
+    "message": "Please enter the username/Email",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterPassword": {
+    "message": "Please enter the password",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterVerificationCode": {
+    "message": "Please enter the verification code",
+    "description": "2.0 public.js"
+  },
+  "wrongToManyTimes": {
+    "message": "You have tried 5 times and the account is locked. Please retry after 3 minutes.",
+    "description": "2.0 public.js"
+  },
+  "searchCourse": {
+    "message": "Search all courses",
+    "description": "2.0 public.js"
+  },
+  "Classification": {
+    "message": "Classification",
+    "description": "2.0 public.js"
+  },
+  "defaultOrder": {
+    "message": "Comprehensive sorting",
+    "description": "2.0 public.js"
+  },
+  "mostRecent": {
+    "message": "Most recent",
+    "description": "2.0 public.js"
+  },
+  "mostPopular": {
+    "message": "Most popular",
+    "description": "2.0 public.js"
+  },
+  "all": {
+    "message": "All",
+    "description": "2.0 public.js"
+  },
+  "other": {
+    "message": "Others",
+    "description": "2.0 public.js"
+  },
+  "department": {
+    "message": "Colleges/Departments",
+    "description": "2.0 public.js"
+  },
+  "allDepartment": {
+    "message": "All ",
+    "description": "2.0 public.js"
+  },
+  "totalCourse": {
+    "message": "Total {n} courses",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "departments": {
+    "message": "Colleges/Departments",
+    "description": "2.0 public.js"
+  },
+  "moreDepartments": {
+    "message": "More colleges/departments...",
+    "description": "2.0 public.js"
+  },
+  "allDepartments": {
+    "message": "All colleges or departments",
+    "description": "2.0 public.js"
+  },
+  "announcement": {
+    "message": "Announcements",
+    "description": "2.0 public.js"
+  },
+  "moreAnnouncement": {
+    "message": "More announcements",
+    "description": "2.0 public.js"
+  },
+  "otherAnnouncement": {
+    "message": "Other announcements",
+    "description": "2.0 public.js"
+  },
+  "moreCourse": {
+    "message": "More courses",
+    "description": "2.0 public.js"
+  },
+  "joinCourseCount": {
+    "message": "Participants: {n} ",
+    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "Custom Navigation",
+    "description": "2.0 public.js"
+  },
+  "courseManager": {
+    "message": "Course Manager: ",
+    "description": "2.0 public.js"
+  },
+  "affiliatedCollege": {
+    "message": "School: ",
+    "description": "2.0 public.js"
+  },
+  "classNum": {
+    "message": "Classes: ",
+    "description": "2.0 public.js"
+  },
+  "courseStartTime": {
+    "message": "Course Start Time: ",
+    "description": "2.0 public.js"
+  },
+  "usingTextbook": {
+    "message": "Courseware ",
+    "description": "2.0 public.js"
+  },
+  "noTextbook": {
+    "message": "No courseware/textbook used",
+    "description": "2.0 public.js"
+  },
+  "courseAnnouncement": {
+    "message": "Course Announcements",
+    "description": "2.0 public.js"
+  },
+  "publisher": {
+    "message": "Publisher: ",
+    "description": "2.0 public.js"
+  },
+  "publishTime": {
+    "message": "Published on: ",
+    "description": "2.0 public.js"
+  },
+  "noCourseAnnouncement": {
+    "message": "No course announcements!",
+    "description": "2.0 public.js"
+  },
+  "teachingActivity": {
+    "message": "Teaching/Learning Activities",
+    "description": "2.0 public.js"
+  },
+  "homework": {
+    "message": "Assignments",
+    "description": "2.0 public.js"
+  },
+  "noHomework": {
+    "message": "No assignments found!",
+    "description": "2.0 public.js"
+  },
+  "no": {
+    "message": "None",
+    "description": "2.0 public.js"
+  },
+  "discussion": {
+    "message": "Discussions",
+    "description": "2.0 public.js"
+  },
+  "noDiscussion": {
+    "message": "No discussions found!",
+    "description": "2.0 public.js"
+  },
+  "exam": {
+    "message": "Exams",
+    "description": "2.0 public.js"
+  },
+  "noExam": {
+    "message": "No exams found!",
+    "description": "2.0 public.js"
+  },
+  "teachingTeam": {
+    "message": "Teaching Team",
+    "description": "2.0 public.js"
+  },
+  "noTeachingTeam": {
+    "message": "No teaching team found!",
+    "description": "2.0 public.js"
+  },
+  "joinCourse": {
+    "message": "Enroll Course",
+    "description": "2.0 public.js"
+  },
+  "searchNoCourse": {
+    "message": "No courses found!",
+    "description": "2.0 public.js"
+  },
+  "noCourse": {
+    "message": "No courses found!",
+    "description": "2.0 public.js"
+  },
+  "netError": {
+    "message": "Network error - Click the {reloadButton} button to reload the page",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "reload": {
+    "message": "Reload",
+    "description": "2.0 public.js"
+  },
+  "viewDetail": {
+    "message": "View Details",
+    "description": "2.0 public.js"
+  },
+  "contentSummary": {
+    "message": "Course Description: ",
+    "description": "2.0 public.js"
+  },
+  "studyTimesOf": {
+    "message": "{n} enrollments",
+    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+  },
+  "totalSearchResult": {
+    "message": "Total {n} search results for \"{keyword}\"",
+    "description": "自定义门户网站 -> 上方搜索框搜索"
+  },
+  "schoolCourse": {
+    "message": "School Courses",
+    "description": "2.0 public.js"
+  },
+  "openCourse": {
+    "message": "Open Courses",
+    "description": "2.0 public.js"
+  },
+  "moreSearchResult": {
+    "message": "More search results",
+    "description": "2.0 public.js"
+  },
+  "annex": {
+    "message": "Attachments",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "People.cn Open Courses",
+    "description": "2.0 public.js"
+  },
+  "personalResource": {
+    "message": "Personal Resources",
+    "description": "2.0 public.js"
+  },
+  "resourceTips1": {
+    "message": "File size cannot be larger 1 GB",
+    "description": "2.0 public.js"
+  },
+  "addResource": {
+    "message": "Add Resource",
+    "description": "2.0 public.js"
+  },
+  "modifyResource": {
+    "message": "Edit Resource",
+    "description": "2.0 public.js"
+  },
+  "modifyResourceName": {
+    "message": "Edit Resource Name",
+    "description": "2.0 public.js"
+  },
+  "myResource": {
+    "message": "My Resources",
+    "description": "2.0 public.js"
+  },
+  "courseResource": {
+    "message": "Course Resources",
+    "description": "2.0 public.js"
+  },
+  "subjectResourceLibrary": {
+    "message": "Subject Resource Library",
+    "description": "2.0 public.js"
+  },
+  "inputKeywordSearch": {
+    "message": "Enter keyword to search",
+    "description": "2.0 public.js"
+  },
+  "resourceTips2": {
+    "message": "File size up to 1 GB",
+    "description": "2.0 public.js"
+  },
+  "localUpload": {
+    "message": "Local Upload",
+    "description": "2.0 public.js"
+  },
+  "back": {
+    "message": "Back",
+    "description": "2.0 public.js"
+  },
+  "currentPosition": {
+    "message": "Current Position: ",
+    "description": "2.0 public.js"
+  },
+  "allResource": {
+    "message": "All resources",
+    "description": "2.0 public.js"
+  },
+  "resourceName": {
+    "message": "Resource Name",
+    "description": "2.0 public.js"
+  },
+  "noResource": {
+    "message": "No resources found!",
+    "description": "2.0 public.js"
+  },
+  "publisher2": {
+    "message": "Publisher ",
+    "description": "2.0 public.js"
+  },
+  "confirm": {
+    "message": "Confirm",
+    "description": "2.0 public.js"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "2.0 public.js"
+  },
+  "pleaseAddContent": {
+    "message": "Please add content",
+    "description": "2.0 public.js"
+  },
+  "resourceTips3": {
+    "message": "Rich content cannot exceed 20000 characters",
+    "description": "2.0 public.js"
+  },
+  "saveSuccess": {
+    "message": "Saved successfully!",
+    "description": "2.0 public.js"
+  },
+  "saveFailed": {
+    "message": "Failed to save!",
+    "description": "2.0 public.js"
+  },
+  "modify": {
+    "message": "Edit",
+    "description": "2.0 public.js"
+  },
+  "add": {
+    "message": "Add",
+    "description": "2.0 public.js"
+  },
+  "resource": {
+    "message": "Resource",
+    "description": "2.0 public.js"
+  },
+  "resourceTips4": {
+    "message": "Click to enter the resource name",
+    "description": "2.0 public.js"
+  },
+  "delete": {
+    "message": "Delete",
+    "description": "2.0 public.js"
+  },
+  "size": {
+    "message": "Size",
+    "description": "2.0 public.js"
+  },
+  "duration": {
+    "message": "Duration",
+    "description": "2.0 public.js"
+  },
+  "cover": {
+    "message": "Cover",
+    "description": "2.0 public.js"
+  },
+  "reUpload": {
+    "message": "Re-upload",
+    "description": "2.0 public.js"
+  },
+  "upload": {
+    "message": "Upload",
+    "description": "2.0 public.js"
+  },
+  "subtitle": {
+    "message": "Subtitle",
+    "description": "2.0 public.js"
+  },
+  "contentValidateTips5": {
+    "message": "Support srt format only",
+    "description": "2.0 public.js"
+  },
+  "linkAddress": {
+    "message": "URL",
+    "description": "2.0 public.js"
+  },
+  "resourceTips5": {
+    "message": "Click to enter the link URL",
+    "description": "2.0 public.js"
+  },
+  "content": {
+    "message": "Content",
+    "description": "2.0 public.js"
+  },
+  "resourceDescription": {
+    "message": "Description",
+    "description": "2.0 public.js"
+  },
+  "resourceTips6": {
+    "message": "Click to enter the description (not required)",
+    "description": "2.0 public.js"
+  },
+  "downloadSettings": {
+    "message": "Download Settings",
+    "description": "2.0 public.js"
+  },
+  "allowDownload": {
+    "message": "Allow downloads",
+    "description": "2.0 public.js"
+  },
+  "disallowDownload": {
+    "message": "Do not allow downloads",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "Publication Scope",
+    "description": "2.0 public.js"
+  },
+  "myClassess": {
+    "message": "My classes only",
+    "description": "2.0 public.js"
+  },
+  "courseAllClass": {
+    "message": "All classes",
+    "description": "2.0 public.js"
+  },
+  "resourceTips7": {
+    "message": "Select the resources you want to add",
+    "description": "2.0 public.js"
+  },
+  "changePassword": {
+    "message": "Change password",
+    "description": "2.0 public.js"
+  },
+  "safeguard": {
+    "message": "Security",
+    "description": "2.0 public.js"
+  },
+  "securitySetting": {
+    "message": "Security Settings",
+    "description": "2.0 public.js"
+  },
+  "welcomeUlearn": {
+    "message": "Welcome to ULearning",
+    "description": "2.0 public.js"
+  },
+  "wrongUsernamePassword": {
+    "message": "Incorrect username or password",
+    "description": "2.0 public.js"
+  },
+  "wrongDynamicCode": {
+    "message": "Incorrect verification code",
+    "description": "2.0 public.js"
+  },
+  "loginTips1": {
+    "message": "The platform is open to students for learning purpose only. Log in with your student account to start learning. You can also log in by scanning QR code using Wechat.",
+    "description": "2.0 public.js"
+  },
+  "wxLogin": {
+    "message": "WeChat Login",
+    "description": "2.0 public.js"
+  },
+  "registeredAccount": {
+    "message": "Register",
+    "description": "2.0 public.js"
+  },
+  "forgotPassword": {
+    "message": "Forgot password?",
+    "description": "2.0 public.js"
+  },
+  "userWXLogin": {
+    "message": "Log in with WeChat",
+    "description": "2.0 public.js"
+  },
+  "bindUlearnAccount": {
+    "message": "Bind ULearning account ",
+    "description": "2.0 public.js"
+  },
+  "loginTips2": {
+    "message": "Accounts can be synchronized after binding",
+    "description": "2.0 public.js"
+  },
+  "loginTips3": {
+    "message": "The platform is open to students for learning purpose only. Please bind with your student account. For the ones who do not have a student account, the binding is not required.",
+    "description": "2.0 public.js"
+  },
+  "unbound": {
+    "message": "Not to bind ",
+    "description": "2.0 public.js"
+  },
+  "unboundSkip": {
+    "message": "Not to bind - skip",
+    "description": "2.0 public.js"
+  },
+  "reSend": {
+    "message": "Resend",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips1": {
+    "message": "Crop Photo",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips2": {
+    "message": "Drag the frame/a frame border to adjust the crop",
+    "description": "2.0 public.js"
+  },
+  "save": {
+    "message": "Save",
+    "description": "2.0 public.js"
+  },
+  "baseInfo": {
+    "message": "Basic Information",
+    "description": "2.0 public.js"
+  },
+  "userName": {
+    "message": "Username",
+    "description": "2.0 public.js"
+  },
+  "headImg": {
+    "message": "Profile Photo",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImg": {
+    "message": "Upload Profile Photo",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImgTips": {
+    "message": "Formats: jpg, jpeg, or png; Size: up to 2 MB. Suggested width: 80px, height: 80 px",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber": {
+    "message": "Phone Number",
+    "description": "2.0 public.js"
+  },
+  "modifyRelatedPhone": {
+    "message": "Edit Phone",
+    "description": "2.0 public.js"
+  },
+  "relatePhone": {
+    "message": "Phone Added",
+    "description": "2.0 public.js"
+  },
+  "fullName": {
+    "message": "Name",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips1": {
+    "message": "Please enter your legal name",
+    "description": "2.0 public.js"
+  },
+  "gender": {
+    "message": "Gender",
+    "description": "2.0 public.js"
+  },
+  "male": {
+    "message": "Male",
+    "description": "2.0 public.js"
+  },
+  "female": {
+    "message": "Female",
+    "description": "2.0 public.js"
+  },
+  "email": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips2": {
+    "message": "Will be used to retrieve your password",
+    "description": "2.0 public.js"
+  },
+  "birthday": {
+    "message": "Date of Birth",
+    "description": "2.0 public.js"
+  },
+  "telphoneNum": {
+    "message": "Phone",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips3": {
+    "message": "Select your date of birth",
+    "description": "2.0 public.js"
+  },
+  "schoolInfo": {
+    "message": "School Information",
+    "description": "2.0 public.js"
+  },
+  "college": {
+    "message": "School",
+    "description": "2.0 public.js"
+  },
+  "department2": {
+    "message": "College/Department",
+    "description": "2.0 public.js"
+  },
+  "department3": {
+    "message": "College",
+    "description": "2.0 public.js"
+  },
+  "grade": {
+    "message": "Year",
+    "description": "2.0 public.js"
+  },
+  "pleaseChoose": {
+    "message": "Please select",
+    "description": "2.0 public.js"
+  },
+  "normalClass": {
+    "message": "Cohort",
+    "description": "2.0 public.js"
+  },
+  "studentNo": {
+    "message": "Student ID",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips4": {
+    "message": "Make sure you enter accurate and authentic information since It’s related to your grade/learning results.",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "Third-party account ",
+    "description": "2.0 public.js"
+  },
+  "unbind": {
+    "message": "Remove binding ",
+    "description": "2.0 public.js"
+  },
+  "bindWX": {
+    "message": "Bind WeChat",
+    "description": "2.0 public.js"
+  },
+  "phoneNum": {
+    "message": "Phone Number",
+    "description": "2.0 public.js"
+  },
+  "inputPhoneNum": {
+    "message": "Please enter the phone number",
+    "description": "2.0 public.js"
+  },
+  "inputCorrectPhoneNum": {
+    "message": "Please enter a valid phone number",
+    "description": "2.0 public.js"
+  },
+  "verificationCode": {
+    "message": "Verification Code",
+    "description": "2.0 public.js"
+  },
+  "inputVerificationCode": {
+    "message": "Please enter the verification code",
+    "description": "2.0 public.js"
+  },
+  "hanNationality": {
+    "message": "Chinese",
+    "description": "2.0 public.js"
+  },
+  "city": {
+    "message": "City",
+    "description": "2.0 public.js"
+  },
+  "town": {
+    "message": "Town",
+    "description": "2.0 public.js"
+  },
+  "countryside": {
+    "message": "Countryside",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips5": {
+    "message": "This email is already in use. Please use another one.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips6": {
+    "message": "This student ID is already in use. Please use another one.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips7": {
+    "message": "This phone number is already in use. Please use another one.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips8": {
+    "message": "Cannot be empty",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips9": {
+    "message": "Incorrect email format",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips10": {
+    "message": "The length of the input character must not exceed ",
+    "description": "2.0 public.js"
+  },
+  "modifyFailed": {
+    "message": "Failed to edit!",
+    "description": "2.0 public.js"
+  },
+  "unbindSuccess": {
+    "message": "Removed binding successfully!",
+    "description": "2.0 public.js"
+  },
+  "getVerificationCode": {
+    "message": "Send",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips11": {
+    "message": "Click to enter your phone number",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips12": {
+    "message": "Please enter a valid phone number",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips13": {
+    "message": " The phone number is already in use",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips14": {
+    "message": "Saved your phone number successfully!",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCode": {
+    "message": "Incorrect verification code!",
+    "description": "2.0 public.js"
+  },
+  "bindSuccess": {
+    "message": "Bound successfully!",
+    "description": "2.0 public.js"
+  },
+  "bindFailed": {
+    "message": "Failed to bind!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips15": {
+    "message": "This WeChat is already in use. Please use another one.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips16": {
+    "message": "Login protection is enabled. You can disable it if you do not need it.",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips17": {
+    "message": "Once enabled, your identity will be verified when you are logging in.",
+    "description": "2.0 public.js"
+  },
+  "loginProtection": {
+    "message": "Login Protection",
+    "description": "2.0 public.js"
+  },
+  "close": {
+    "message": "Disable",
+    "description": "2.0 public.js"
+  },
+  "open": {
+    "message": "Enable",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips18": {
+    "message": " Login protection for phone verification ",
+    "description": "2.0 public.js"
+  },
+  "phone": {
+    "message": "Phone",
+    "description": "2.0 public.js"
+  },
+  "thisAccount": {
+    "message": "This account",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips19": {
+    "message": " No phone number is associated,",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips20": {
+    "message": " Complete your profile with a phone number before you enable it",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "Set successfully！",
+    "description": "2.0 public.js"
+  },
+  "oldPassword": {
+    "message": "Old password",
+    "description": "2.0 public.js"
+  },
+  "newpassword": {
+    "message": "New password",
+    "description": "2.0 public.js"
+  },
+  "confirmPassword": {
+    "message": "Confirm password",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips21": {
+    "message": "The username and password cannot be the same ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips22": {
+    "message": "Please enter the old password ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips23": {
+    "message": "Please enter the correct old password ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips24": {
+    "message": "Please enter the new password",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips25": {
+    "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips26": {
+    "message": "Confirm the new password",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips27": {
+    "message": "The two passwords are not the same ",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips28": {
+    "message": "Changed password successfully!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips29": {
+    "message": "Old password is incorrect!",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips30": {
+    "message": "Failed to change password!",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText1": {
+    "message": "Download ULearning App",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText2": {
+    "message": "Scan the QR code to download",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText3": {
+    "message": "Customer Service",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText4": {
+    "message": "Help Center",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText5": {
+    "message": "Top",
+    "description": "2.0 public.js"
+  },
+  "myOrder": {
+    "message": "My Orders",
+    "description": "2.0 public.js"
+  },
+  "improveCourse": {
+    "message": "Complete Course Settings",
+    "description": "2.0 public.js"
+  },
+  "teachingProcess": {
+    "message": "Teaching Process Workflow",
+    "description": "2.0 public.js"
+  },
+  "studyPlan": {
+    "message": "Learning Plan",
+    "description": "2.0 public.js"
+  },
+  "studyProgress": {
+    "message": "Learning Progress",
+    "description": "2.0 public.js"
+  },
+  "myTextbook": {
+    "message": "My eTextbooks",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "Arranging examination room",
+    "description": "2.0 public.js"
+  },
+  "studyStatistics": {
+    "message": "Learning Results Statistics",
+    "description": "2.0 public.js"
+  },
+  "randomGroupPaper": {
+    "message": "Random Exam",
+    "description": "2.0 public.js"
+  },
+  "faceAuthentication": {
+    "message": "Face Verification",
+    "description": "2.0 public.js"
+  },
+  "questionAnalysis": {
+    "message": "Exam Question Analysis",
+    "description": "2.0 public.js"
+  },
+  "batchRemarkQue": {
+    "message": "Batch Grade",
+    "description": "2.0 public.js"
+  },
+  "examPaperLibrary": {
+    "message": "Exam Bank",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "Monitoring Station",
+    "description": "2.0 public.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "Student facial photo verification",
+    "description": "2.0 public.js"
+  },
+  "joinCourseClass": {
+    "message": "Enroll Course/Class",
+    "description": "2.0 public.js"
+  },
+  "classDivideGroup": {
+    "message": "Class Groups",
+    "description": "2.0 public.js"
+  },
+  "resourceStatistic": {
+    "message": "Resource Statistics",
+    "description": "2.0 public.js"
+  },
+  "resourcePreview": {
+    "message": "Resources Viewed",
+    "description": "2.0 public.js"
+  },
+  "resourceImport": {
+    "message": "Resources Imported",
+    "description": "2.0 public.js"
+  },
+  "publishToCourse": {
+    "message": "Resources Posted to Course",
+    "description": "2.0 public.js"
+  },
+  "resourceLibrary": {
+    "message": "Resource Library",
+    "description": "2.0 public.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "Computer Compliance Check",
+    "description": "2.0 public.js"
+  },
+  "createAssessment": {
+    "message": "Creating Grading Rules",
+    "description": "2.0 public.js"
+  },
+  "modifyAssessment": {
+    "message": "Editing Grading Rules",
+    "description": "2.0 public.js"
+  },
+  "viewScore": {
+    "message": "Viewing Grades",
+    "description": "2.0 public.js"
+  },
+  "courseAnalysis": {
+    "message": "Course Analysis",
+    "description": "2.0 public.js"
+  },
+  "coursewareContent": {
+    "message": "Courseware Content",
+    "description": "2.0 public.js"
+  },
+  "livePlayback": {
+    "message": "Live Session Playbacks",
+    "description": "2.0 public.js"
+  },
+  "liveAnalysis": {
+    "message": "Live Session Analysis",
+    "description": "2.0 public.js"
+  },
+  "live": {
+    "message": "Live Sessions",
+    "description": "2.0 public.js"
+  },
+  "semesterManagement": {
+    "message": "Semester/Term Management",
+    "description": "2.0 public.js"
+  },
+  "foreignMember": {
+    "message": "External Members",
+    "description": "2.0 public.js"
+  },
+  "copyRight": {
+    "message": "Copyright@2020 by ULearning. All rights reserved.",
+    "description": "2.0 public.js"
+  },
+  "certificateManagement": {
+    "message": "Certificate Management",
+    "description": "2.0 public.js"
+  },
+  "certificateSettings": {
+    "message": "Certificate Settings",
+    "description": "2.0 public.js"
+  },
+  "certificateTemplate": {
+    "message": "My Certificate Templates",
+    "description": "2.0 public.js"
+  },
+  "createCertificate": {
+    "message": "Create Template",
+    "description": "2.0 public.js"
+  },
+  "selectTemplate": {
+    "message": "Select Template",
+    "description": "2.0 public.js"
+  },
+  "electronicSignature": {
+    "message": "Electronic Signature",
+    "description": "2.0 public.js"
+  },
+  "liveManagement": {
+    "message": "Virtual Classroom",
+    "description": "2.0 public.js"
+  },
+  "setAssesmentRules": {
+    "message": "Set Grading Rules",
+    "description": "2.0 public.js"
+  },
+  "basicInfo": {
+    "message": "Basic Information",
+    "description": "2.0 public.js"
+  },
+  "activityCalendar": {
+    "message": "Calendar",
+    "description": "2.0 public.js"
+  },
+  "studyEportfolio": {
+    "message": "ePortfolios",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": " ",
+    "description": "2.0 public.js"
+  },
+  "ofEportfolio": {
+    "message": "’s ePortfolios",
+    "description": "2.0 public.js"
+  },
+  "myHomePage2": {
+    "message": "My Homepage",
+    "description": "2.0 public.js"
+  },
+  "eportfolio": {
+    "message": "ePortfolios",
+    "description": "2.0 public.js"
+  },
+  "folder": {
+    "message": "Folders",
+    "description": "2.0 public.js"
+  },
+  "fileSize": {
+    "message": "File Size",
+    "description": "2.0 public.js"
+  },
+  "eportfolioTips": {
+    "message": "This is a private ePortfolio - you are not permitted to access",
+    "description": "2.0 public.js"
+  },
+  "addFolder2": {
+    "message": "Add Folder",
+    "description": "2.0 public.js"
+  },
+  "inputFolderName": {
+    "message": "Click to enter the folder name",
+    "description": "2.0 public.js"
+  },
+  "addEportfolio": {
+    "message": "Create ePortfolio",
+    "description": "2.0 public.js"
+  },
+  "editEportfolio": {
+    "message": "Edit ePortfolio",
+    "description": "2.0 public.js"
+  },
+  "inputEportfolioName": {
+    "message": "Click to enter the ePortfolio name",
+    "description": "2.0 public.js"
+  },
+  "permission": {
+    "message": "Permission ",
+    "description": "2.0 public.js"
+  },
+  "private": {
+    "message": "Private",
+    "description": "2.0 public.js"
+  },
+  "notPrivate": {
+    "message": "Public",
+    "description": "2.0 public.js"
+  },
+  "tag": {
+    "message": "Tags",
+    "description": "2.0 public.js"
+  },
+  "add2": {
+    "message": "Add",
+    "description": "2.0 public.js"
+  },
+  "tagName": {
+    "message": "Tag Name",
+    "description": "2.0 public.js"
+  },
+  "inputAddTagName": {
+    "message": "Click to add the tag",
+    "description": "2.0 public.js"
+  },
+  "homePageTemplate": {
+    "message": "Homepage Template",
+    "description": "2.0 public.js"
+  },
+  "template1": {
+    "message": "Template 1",
+    "description": "2.0 public.js"
+  },
+  "template2": {
+    "message": "Template 2",
+    "description": "2.0 public.js"
+  },
+  "copyLinkTips": {
+    "message": "Copy the link for sharing",
+    "description": "2.0 public.js"
+  },
+  "copySuccess": {
+    "message": "Copied successfully!",
+    "description": "2.0 public.js"
+  },
+  "copyLink": {
+    "message": "Copy Link",
+    "description": "2.0 public.js"
+  },
+  "importHw": {
+    "message": "Import Assignment",
+    "description": "2.0 public.js"
+  },
+  "importHwTips": {
+    "message": "Select the submitted assignments you want to post on your e-portfolio. It will be saved as the formats of images and documents at the current directory.",
+    "description": "2.0 public.js"
+  },
+  "allCourses": {
+    "message": "All courses",
+    "description": "2.0 public.js"
+  },
+  "uploaded": {
+    "message": "Uploaded",
+    "description": "2.0 public.js"
+  },
+  "allEportfolio": {
+    "message": "All ePortfolios",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips1": {
+    "message": "Are you sure you want to delete this ePortfolio?",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips2": {
+    "message": "Deleting a folder will delete the ePortfolios in it. Are you sure you want to delete the folder?",
+    "description": "2.0 public.js"
+  },
+  "searchByNameAndTag": {
+    "message": "Search by name and tag",
+    "description": "2.0 public.js"
+  },
+  "noDesc": {
+    "message": "No description!",
+    "description": "2.0 public.js"
+  },
+  "previewEportfolio": {
+    "message": "Preview ePortfolio",
+    "description": "2.0 public.js"
+  },
+  "personalHomepage": {
+    "message": "Homepage",
+    "description": "2.0 public.js"
+  },
+  "accountManage": {
+    "message": "My account",
+    "description": "2.0 public.js"
+  },
+  "afterImportPerssion": {
+    "message": "ePortfolio access permission after import: ",
+    "description": "2.0 public.js"
+  },
+  "importHwTips2": {
+    "message": "Select the assignment(s) first",
+    "description": "2.0 public.js"
+  },
+  "moveFolder": {
+    "message": "Move Folder",
+    "description": "2.0 public.js"
+  },
+  "deleteFolder": {
+    "message": "Delete Folder",
+    "description": "2.0 public.js"
+  },
+  "editPhone": {
+    "message": "Edit Phone",
+    "description": "2.0 public.js"
+  },
+  "editMail": {
+    "message": "Edit email",
+    "description": "2.0 public.js"
+  },
+  "editPhone1": {
+    "message": "Edit Phone",
+    "description": "2.0 public.js"
+  },
+  "inpitMail": {
+    "message": "Click to enter the email",
+    "description": "2.0 public.js"
+  },
+  "getFail": {
+    "message": "Failed to retrieve!",
+    "description": "2.0 public.js"
+  },
+  "paramError": {
+    "message": "Invalid parameter!",
+    "description": "2.0 public.js"
+  },
+  "mailTip": {
+    "message": "Invalid email format!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip": {
+    "message": "Invalid phone number format!",
+    "description": "2.0 public.js"
+  },
+  "mailTip1": {
+    "message": "The e-mail is already bound!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip1": {
+    "message": "The phone number is already bound!",
+    "description": "2.0 public.js"
+  },
+  "mailTip2": {
+    "message": "The phone number is already in use!",
+    "description": "2.0 public.js"
+  },
+  "phoneTip2": {
+    "message": "The email is already in use!",
+    "description": "2.0 public.js"
+  },
+  "codeTip1": {
+    "message": "Please wait for 60 seconds to make another request for the verification code",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "Requesting the verification code is too frequent!",
+    "description": "2.0 public.js"
+  },
+  "codeTip3": {
+    "message": "The verification code has expired",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin": {
+    "message": "Log in via username/password",
+    "description": "2.0 public.js"
+  },
+  "account": {
+    "message": "Username/Phone/Email",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip": {
+    "message": "SMS login only supports the China mainland mobile phone numbers",
+    "description": "2.0 public.js"
+  },
+  "goRegister": {
+    "message": "Register now",
+    "description": "2.0 public.js"
+  },
+  "phoneLogin": {
+    "message": "Log in via SMS",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin1": {
+    "message": "Log in with username/password",
+    "description": "2.0 public.js"
+  },
+  "accountTip": {
+    "message": "Click to enter your username/phone/email",
+    "description": "2.0 public.js"
+  },
+  "userNotExit": {
+    "message": "The user does not exist",
+    "description": "2.0 public.js"
+  },
+  "loginFail": {
+    "message": "Failed to log in!",
+    "description": "2.0 public.js"
+  },
+  "getAgain": {
+    "message": "Re-request",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip1": {
+    "message": "The phone number is not registered",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber1": {
+    "message": "Phone number",
+    "description": "2.0 public.js"
+  },
+  "mail": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "otherTypeLogin": {
+    "message": "Log in with other methods",
+    "description": "2.0 public.js"
+  },
+  "success": {
+    "message": "Success",
+    "description": "2.0 public.js"
+  },
+  "video": {
+    "message": "Video",
+    "description": "2.0 public.js"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "2.0 public.js"
+  },
+  "picture": {
+    "message": "Image",
+    "description": "2.0 public.js"
+  },
+  "document": {
+    "message": "Document",
+    "description": "2.0 public.js"
+  },
+  "archive": {
+    "message": "Compressed file",
+    "description": "2.0 public.js"
+  },
+  "link": {
+    "message": "Link",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "Rich content",
+    "description": "2.0 public.js"
+  },
+  "microCourse": {
+    "message": "Micro course",
+    "description": "2.0 public.js"
+  },
+  "otherResource": {
+    "message": "Others",
+    "description": "2.0 public.js"
+  },
+  "allType": {
+    "message": "All types",
+    "description": "2.0 public.js"
+  },
+  "saved": {
+    "message": "Saved",
+    "description": "2.0 public.js"
+  },
+  "modifySuccess": {
+    "message": "Edited successfully!",
+    "description": "2.0 course.js"
+  },
+  "jqueryValidatorRequired": {
+    "message": "This is a required field",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRemote": {
+    "message": "Please correct this field",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEmail": {
+    "message": "Please enter a valid email address.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorUrl": {
+    "message": "Please enter a valid URL.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDate": {
+    "message": "Please enter a valid date",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDateISO": {
+    "message": "Please enter a valid date (YYYY-MM-DD)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorNumber": {
+    "message": "Please enter a valid number",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDigits": {
+    "message": "Enter digits only!",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorCreditcard": {
+    "message": "Please enter a valid credit card number",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEqualTo": {
+    "message": "Your input is not the same",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorExtension": {
+    "message": "Please enter a valid suffix",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMaxlength": {
+    "message": "You can enter up to {0} characters",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMinlength": {
+    "message": "Enter at least {0} characters",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRangelength": {
+    "message": "Enter a string between {0} and {1} characters",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRange": {
+    "message": "Enter a value between {0} and {1}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMax": {
+    "message": "Enter a value that is not greater than {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMin": {
+    "message": "Enter a value that is not less than {0}",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorLoginName": {
+    "message": "Usernames cannot contain Chinese, spaces, and special characters",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorPassWord": {
+    "message": "Must be 8-16 characters and include both letters and numbers (case-sensitive)!",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorStudentID": {
+    "message": "Please enter 4-20 letters or numbers, case sensitive.",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRealName": {
+    "message": "Cannot contain illegal characters and spaces",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsMobile": {
+    "message": "Please enter a valid phone number",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsZipCode": {
+    "message": "Please enter a valid zip code",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsEmail": {
+    "message": "Please enter a valid email",
+    "description": "2.0 public.js"
+  },
+  "identityVerification": {
+    "message": "Identity Verification",
+    "description": "2.0 public.js"
+  },
+  "selectDomain": {
+    "message": "Institutional domain name",
+    "description": "2.0 public.js"
+  },
+  "inputDomainTip": {
+    "message": "Please enter your institution's domain name",
+    "description": "2.0 public.js"
+  },
+  "networkError": {
+    "message": "Something went wrong, please try again later",
+    "description": "2.0 public.js"
+  },
+  "unopenedError": {
+    "message": "Sorry, this organization does not have the SSO login function enabled",
+    "description": "2.0 public.js"
+  },
+  "invalidDomainError": {
+    "message": "The domain was not found, please re-enter it",
+    "description": "2.0 public.js"
+  },
+  "blankError": {
+    "message": "The domain name is empty",
+    "description": "2.0 public.js"
+  },
+  "selectClassification": {
+    "message": "Select category",
+    "description": "2.0 public.js"
+  },
+  "secondClassification": {
+    "message": "Secondary classification (multiple options available)",
+    "description": "2.0 public.js"
+  },
+  "alphabeta": {
+    "message": "Sort alphabetically",
+    "description": "2.0 public.js"
+  },
+  "revevance": {
+    "message": "Sort by relevance",
+    "description": "2.0 public.js"
+  },
+  "timeSort": {
+    "message": "Sort by update time",
+    "description": "2.0 public.js"
+  },
+  "application": {
+    "message": "Open for application",
+    "description": "2.0 public.js"
+  },
+  "notApplication": {
+    "message": "Not open",
+    "description": "2.0 public.js"
+  },
+  "applicationTime": {
+    "message": "Application time:",
+    "description": "2.0 public.js"
+  },
+  "enrolment": {
+    "message": "Enrollment:",
+    "description": "2.0 public.js"
+  },
+  "tuition": {
+    "message": "Tuition",
+    "description": "2.0 public.js"
+  },
+  "credits": {
+    "message": "Credits",
+    "description": "2.0 public.js"
+  },
+  "learningStyles": {
+    "message": "Learning style",
+    "description": "2.0 public.js"
+  },
+  "studyTime": {
+    "message": "Learning Time",
+    "description": "2.0 public.js"
+  },
+  "certificate": {
+    "message": "Certificate",
+    "description": "2.0 public.js"
+  },
+  "contactUs": {
+    "message": "Contact Us",
+    "description": "2.0 public.js"
+  },
+  "noProgram": {
+    "message": "No program found.",
+    "description": "2.0 public.js"
+  },
+  "enroll": {
+    "message": "Application",
+    "description": "2.0 public.js"
+  },
+  "majorName": {
+    "message": "Program name",
+    "description": "2.0 public.js"
+  },
+  "majorName2": {
+    "message": "Program",
+    "description": "2.0 public.js"
+  },
+  "enrollEmail": {
+    "message": "Email",
+    "description": "2.0 public.js"
+  },
+  "enrollPhone": {
+    "message": "Tel",
+    "description": "2.0 public.js"
+  },
+  "enrollOther": {
+    "message": "Additional Information",
+    "description": "2.0 public.js"
+  },
+  "inputFullName": {
+    "message": "Enter your full name",
+    "description": "2.0 public.js"
+  },
+  "inputEmail": {
+    "message": "Enter your email address",
+    "description": "2.0 public.js"
+  },
+  "inputOther": {
+    "message": "Additional information about you (optional)",
+    "description": "2.0 public.js"
+  },
+  "submitApply": {
+    "message": "Submit ",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg1": {
+    "message": "Please fill in your name",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg2": {
+    "message": "Name cannot exceed 50 characters",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg1": {
+    "message": "Please fill in your email address",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg2": {
+    "message": "The email address is invalid",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg3": {
+    "message": "The email  has been submitted, cancelled or use another email.",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg4": {
+    "message": "Email should be no longer than 254 characters long",
+    "description": "2.0 public.js"
+  },
+  "errorPhoneMsg": {
+    "message": "Tel number is incorrect",
+    "description": "2.0 public.js"
+  },
+  "errorOtherMsg": {
+    "message": "Maximum 300 characters",
+    "description": "2.0 public.js"
+  },
+  "selectMajor": {
+    "message": "Select Program",
+    "description": "2.0 public.js"
+  },
+  "securityCodeExpired": {
+    "message": "The dynamic security code has expired",
+    "description": "2.0 public.js"
+  },
+  "securityCodeError": {
+    "message": "Dynamic security code error",
+    "description": "2.0 public.js"
+  },
+  "enterCourse": {
+    "message": "Enter course",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "Applied, waiting for approval",
+    "description": "2.0 public.js"
+  },
+  "newVersion": {
+    "message": "New admin site",
+    "description": "2.0 public.js"
+  },
+  "loginTip": {
+    "message": "Enter your username or password",
+    "description": "2.0 public.js"
+  },
+  "schoolBadge": {
+    "message": "Logo",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadge": {
+    "message": "Upload Logo",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip1": {
+    "message": "Format: .png, .bmp, .jpg, .jpeg, .gif; Size: no more than 2M; Recommended size: 120*120px",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip2": {
+    "message": "Only files can be uploaded in PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip3": {
+    "message": "The uploaded file should be less than 2MB",
+    "description": "2.0 public.js"
+  },
+  "uploadLogo": {
+    "message": "Upload the logo",
+    "description": "2.0 public.js"
+  },
+  "background": {
+    "message": "Background image",
+    "description": "2.0 public.js"
+  },
+  "setBackground": {
+    "message": "Site Background Images (Select one or more, up to 5)",
+    "description": "2.0 public.js"
+  },
+  "customImage": {
+    "message": "Upload Image",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip1": {
+    "message": "Image Formats: png, bmp, jpg, jpeg, gif; Size: up to 5MB; Width x Height: 1920x1080 px or larger (smaller images will be still displayed in its original dimension and placed in the center of the page).",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip2": {
+    "message": " The images will be displayed in the order you upload them.",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip3": {
+    "message": "Only files can be uploaded in PNG, BMP, JPG, JPEG, GIF",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip4": {
+    "message": "Uploaded files should be less than 1MB",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip5": {
+    "message": "No more than 5",
+    "description": "2.0 public.js"
+  },
+  "editFriendLinks": {
+    "message": "Edit Links",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder1": {
+    "message": "Click to enter the link name",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder2": {
+    "message": "Click to enter the link URL in the format of http://",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip1": {
+    "message": "Note: You can add up to 10 links; link name up to 20 characters. You can drag to move links to reorder them.",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip2": {
+    "message": "Add no more than 10",
+    "description": "2.0 public.js"
+  },
+  "addFriendLinks": {
+    "message": "Add Link",
+    "description": "2.0 public.js"
+  },
+  "resource1": {
+    "message": "Type",
+    "description": "2.0 public.js"
+  },
+  "resource2": {
+    "message": "Classification",
+    "description": "2.0 public.js"
+  },
+  "resource3": {
+    "message": "Video",
+    "description": "2.0 public.js"
+  },
+  "resource4": {
+    "message": "Audio",
+    "description": "2.0 public.js"
+  },
+  "resource5": {
+    "message": "Image",
+    "description": "2.0 public.js"
+  },
+  "resource6": {
+    "message": "Documents",
+    "description": "2.0 public.js"
+  },
+  "resource7": {
+    "message": "Link",
+    "description": "2.0 public.js"
+  },
+  "searchResource": {
+    "message": "Search resources",
+    "description": "2.0 public.js"
+  },
+  "resourceDetail": {
+    "message": " Resource details ",
+    "description": "2.0 public.js"
+  },
+  "hotResource": {
+    "message": "Popular resources",
+    "description": "2.0 public.js"
+  },
+  "uploadTime": {
+    "message": "Upload time",
+    "description": "2.0 public.js"
+  },
+  "viewCount": {
+    "message": "Browsing times",
+    "description": "2.0 public.js"
+  },
+  "downloadCount": {
+    "message": "Download times",
+    "description": "2.0 public.js"
+  },
+  "name": {
+    "message": "Name",
+    "description": "2.0 public.js"
+  },
+  "searchNoResource": {
+    "message": "No resources has been published",
+    "description": "2.0 public.js"
+  },
+  "uploadFile": {
+    "message": "Upload File",
+    "description": "2.0 public.js"
+  },
+  "addLink": {
+    "message": "Add Link",
+    "description": "2.0 public.js"
+  },
+  "addRichtext": {
+    "message": "Add Rich Content",
+    "description": "2.0 public.js"
+  },
+  "passwordRegTips": {
+    "message": "8-16 characters, containing at least 3 characters (numbers, uppercase letters, lowercase letters or special symbols)",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip3": {
+    "message": "No more than 20 characters",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus1": {
+    "message": "The course has ended.",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus2": {
+    "message": "The course did not start",
+    "description": "2.0 public.js"
+  },
+  "joinNum": {
+    "message": "Participate",
+    "description": "2.0 public.js"
+  },
+  "courseinfo1": {
+    "message": "Institute",
+    "description": "2.0 public.js"
+  },
+  "courseinfo2": {
+    "message": "Recommended learning time",
+    "description": "2.0 public.js"
+  },
+  "courseinfo3": {
+    "message": "Subject Category",
+    "description": "2.0 public.js"
+  },
+  "courseinfo4": {
+    "message": "Major",
+    "description": "2.0 public.js"
+  },
+  "coursebtn1": {
+    "message": "Try it now",
+    "description": "2.0 public.js"
+  },
+  "coursebtn2": {
+    "message": "Start learning",
+    "description": "2.0 public.js"
+  },
+  "coursebtn3": {
+    "message": "Enroll Course/Class",
+    "description": "2.0 public.js"
+  },
+  "coursebtn4": {
+    "message": "Purchase now",
+    "description": "2.0 public.js"
+  },
+  "coursebtn5": {
+    "message": "go experience",
+    "description": "2.0 public.js"
+  },
+  "coursetime": {
+    "message": "Learning hours",
+    "description": "2.0 public.js"
+  },
+  "courseTitle1": {
+    "message": "Chapter Outline",
+    "description": "2.0 public.js"
+  },
+  "courseTitle2": {
+    "message": "Course Intro",
+    "description": "2.0 public.js"
+  },
+  "courseTitle3": {
+    "message": "Course Outline",
+    "description": "2.0 public.js"
+  },
+  "courseTitle4": {
+    "message": "Course Team",
+    "description": "2.0 public.js"
+  },
+  "courseTitle5": {
+    "message": "Recommended Textbook",
+    "description": "2.0 public.js"
+  },
+  "courseTitle6": {
+    "message": "Recommend Courses",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook1": {
+    "message": "Pricing",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook2": {
+    "message": "Author",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook3": {
+    "message": "Translator",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook4": {
+    "message": "domestic",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook5": {
+    "message": "abroad",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook6": {
+    "message": "Publisher",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook7": {
+    "message": "Author Introduction ",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook8": {
+    "message": "Translator Introduction",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook9": {
+    "message": "Course Features",
+    "description": "2.0 public.js"
+  },
+  "send": {
+    "message": "Send",
+    "description": "2.0 public.js"
+  },
+  "login1": {
+    "message": "Title",
+    "description": "2.0 public.js"
+  },
+  "login2": {
+    "message": "Page layout",
+    "description": "2.0 public.js"
+  },
+  "login3": {
+    "message": "Background Image",
+    "description": "2.0 public.js"
+  },
+  "login4": {
+    "message": "Save Settings",
+    "description": "2.0 public.js"
+  },
+  "login5": {
+    "message": "Your email",
+    "description": "2.0 public.js"
+  },
+  "login6": {
+    "message": "Enter your email address",
+    "description": "2.0 public.js"
+  },
+  "login7": {
+    "message": "Remember me",
+    "description": "2.0 public.js"
+  },
+  "login8": {
+    "message": "Verify your email",
+    "description": "2.0 public.js"
+  },
+  "login9": {
+    "message": "We've sent a confirmation email to {email}, please enter the verification code below to verify your email.",
+    "description": "2.0 public.js"
+  },
+  "login10": {
+    "message": "A confirmation email has been sent, please enter the verification code below to verify your email.",
+    "description": "2.0 public.js"
+  },
+  "login11": {
+    "message": "Email not received?",
+    "description": "2.0 public.js"
+  },
+  "login12": {
+    "message": "Account suspended",
+    "description": "2.0 public.js"
+  },
+  "login13": {
+    "message": "Your account has been suspended and you will not be able to log in to the system. Contact your organization's administrator to reactivate your account.",
+    "description": "2.0 public.js"
+  },
+  "login14": {
+    "message": "Please enter your email address",
+    "description": "2.0 public.js"
+  },
+  "login15": {
+    "message": "The email format is incorrect, please enter the correct email address",
+    "description": "2.0 public.js"
+  },
+  "login16": {
+    "message": "Please enter your password",
+    "description": "2.0 public.js"
+  },
+  "login17": {
+    "message": "The password is 8-20 characters long and must contain letters and numbers",
+    "description": "2.0 public.js"
+  },
+  "login18": {
+    "message": "The incoming information is incomplete",
+    "description": "2.0 public.js"
+  },
+  "login19": {
+    "message": "The account does not exist",
+    "description": "2.0 public.js"
+  },
+  "login20": {
+    "message": "The account is pending activation",
+    "description": "2.0 public.js"
+  },
+  "login21": {
+    "message": "Account has been suspended",
+    "description": "2.0 public.js"
+  },
+  "login22": {
+    "message": "The number of errors reached five times",
+    "description": "2.0 public.js"
+  },
+  "login23": {
+    "message": "The account has been deleted",
+    "description": "2.0 public.js"
+  },
+  "login24": {
+    "message": "Wrong password",
+    "description": "2.0 public.js"
+  },
+  "login25": {
+    "message": "Sending email too frequently",
+    "description": "2.0 public.js"
+  },
+  "login26": {
+    "message": "Failed to send email",
+    "description": "2.0 public.js"
+  },
+  "login27": {
+    "message": "Information is invalid",
+    "description": "2.0 public.js"
+  },
+  "firstLogin1": {
+    "message": "Hello",
+    "description": "2.0 public.js"
+  },
+  "firstLogin2": {
+    "message": "User Consent",
+    "description": "2.0 public.js"
+  },
+  "firstLogin3": {
+    "message": "Complete your  information",
+    "description": "2.0 public.js"
+  },
+  "firstLogin4": {
+    "message": "Preferences",
+    "description": "2.0 public.js"
+  },
+  "firstLogin5": {
+    "message": "Done!",
+    "description": "2.0 public.js"
+  },
+  "firstLogin6": {
+    "message": "Please read the following agreement and privacy policy, and sign the user's consent to use",
+    "description": "2.0 public.js"
+  },
+  "firstLogin7": {
+    "message": "User Agreement",
+    "description": "2.0 public.js"
+  },
+  "firstLogin8": {
+    "message": "This User Agreement governs how users use this website. If you want to see the full User Agreement, see Full User Agreement.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin9": {
+    "message": "I agree",
+    "description": "2.0 public.js"
+  },
+  "firstLogin10": {
+    "message": "User Agreement",
+    "description": "2.0 public.js"
+  },
+  "firstLogin11": {
+    "message": "Privacy Policy",
+    "description": "2.0 public.js"
+  },
+  "firstLogin12": {
+    "message": "This privacy statement relates to user accounts created on this website. If you would like to see the full text, please refer to the full privacy statement.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin13": {
+    "message": "Cookies Policy",
+    "description": "2.0 public.js"
+  },
+  "firstLogin14": {
+    "message": "Our Cookie Policy explains what cookies are, how we use cookies, how third parties we work with may use cookies on this website and your choices regarding cookies. If you would like to see the full text, please refer to the full Cookie Policy.",
+    "description": "2.0 public.js"
+  },
+  "firstLogin15": {
+    "message": "Your full name",
+    "description": "2.0 public.js"
+  },
+  "firstLogin16": {
+    "message": "Display name",
+    "description": "2.0 public.js"
+  },
+  "firstLogin17": {
+    "message": "Change password",
+    "description": "2.0 public.js"
+  },
+  "firstLogin18": {
+    "message": "Language",
+    "description": "2.0 public.js"
+  },
+  "firstLogin19": {
+    "message": "Welcome to Ulearning and wish you all the best on your learning journey",
+    "description": "2.0 public.js"
+  },
+  "firstLogin20": {
+    "message": "Finish  settings",
+    "description": "2.0 public.js"
+  },
+  "firstLogin21": {
+    "message": "8-20 digit password, including numbers and letters",
+    "description": "2.0 public.js"
+  },
+  "firstLogin22": {
+    "message": "Please fill in your full name",
+    "description": "2.0 public.js"
+  },
+  "firstLogin23": {
+    "message": "The full name cannot be longer than 128 characters",
+    "description": "2.0 public.js"
+  },
+  "firstLogin24": {
+    "message": "Please fill in the display name",
+    "description": "2.0 public.js"
+  },
+  "firstLogin25": {
+    "message": "The display name cannot be longer than 64 characters",
+    "description": "2.0 public.js"
+  },
+  "firstLogin26": {
+    "message": "The password format is incorrect, please re-enter it",
+    "description": "2.0 public.js"
+  },
+  "firstLogin27": {
+    "message": "The passwords do not match, please re-enter",
+    "description": "2.0 public.js"
+  },
+  "firstLogin28": {
+    "message": "The original password cannot be used",
+    "description": "2.0 public.js"
+  },
+  "cookieSettings": {
+    "message": "Cookies Settings",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle1": {
+    "message": "Cookie preferences",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip1": {
+    "message": "There are three types of cookies used on our website: mandatory, functional and third parties. You can choose whether to apply functionality and turn on third-party cookies. Click on the different cookie categories to learn more about each category and change the default settings.",
+    "description": "2.0 public.js"
+  },
+  "cookiesAll": {
+    "message": "Always on",
+    "description": "2.0 public.js"
+  },
+  "cookiesMore": {
+    "message": "More information",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle2": {
+    "message": "Required Cookies",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip2": {
+    "message": "Necessary cookies are necessary for basic website functionality. Some examples include: session cookies, authentication cookies, and security cookies required to transmit websites.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle3": {
+    "message": "Functional Cookies",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip3": {
+    "message": "Functional cookies enhance the functionality, performance and services on the website. Some examples include: cookies used to analyze website traffic, cookies used for user research, and cookies used to display advertisements that are not targeted to a specific individual.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle4": {
+    "message": "Third-party cookies",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip4": {
+    "message": "In addition to our own cookies, we may use various third-party cookies to report website usage statistics and optimize marketing efforts.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle5": {
+    "message": "Tracking cookies: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip5": {
+    "message": "Track website behavior and link it with other metrics to better understand usage habits.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle6": {
+    "message": "Optimize cookies: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip6": {
+    "message": "Allows real-time tracking of user conversions from different marketing channels to evaluate their effectiveness.",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle7": {
+    "message": "Partner cookies: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip7": {
+    "message": "Provide marketing conversion metrics to our partners so they can optimize their paid marketing efforts.",
+    "description": "2.0 public.js"
+  },
+  "policies": {
+    "message": "Agreement",
+    "description": "2.0 public.js"
+  },
+  "usePolicy": {
+    "message": "User Agreement",
+    "description": "2.0 public.js"
+  },
+  "privacyPolicy": {
+    "message": "Privacy Policy",
+    "description": "2.0 public.js"
+  },
+  "cookiesPolicy": {
+    "message": "Cookies Policy",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting1": {
+    "message": "We use cookies to remember your login details, provide a secure login experience, and collect statistics to optimize website functionality.",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting2": {
+    "message": "You can find a detailed description of the types of cookies we use in our Cookie Policy. Click \"Agree\" to accept all cookies or \"Reject\" to allow only necessary cookies. Click Cookies Settings to configure cookies in detail.",
+    "description": "2.0 public.js"
+  },
+  "refuse": {
+    "message": "Reject",
+    "description": "2.0 public.js"
+  },
+  "agree": {
+    "message": "Agree",
+    "description": "2.0 public.js"
+  },
+  "userPolicy": {
+    "message": "User Agreement",
+    "description": "2.0 public.js"
+  },
+  "switchRole": {
+    "message": "Switch role",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "Select Role",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "Select the role you want to use",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "Confirm",
+    "description": "2.0 public.js"
+  },
+  "register01": {
+    "message": "Invitation to register",
+    "description": "2.0 public.js"
+  },
+  "register02": {
+    "message": "Already have an account?",
+    "description": "2.0 public.js"
+  },
+  "register03": {
+    "message": " Login ",
+    "description": "2.0 public.js"
+  },
+  "register04": {
+    "message": "By check this box, you agree",
+    "description": "2.0 public.js"
+  },
+  "register05": {
+    "message": "and",
+    "description": "2.0 public.js"
+  },
+  "register06": {
+    "message": "The invitation has expired",
+    "description": "2.0 public.js"
+  },
+  "register07": {
+    "message": "The email invitation has expired. If you don't complete your registration, contact your administrator to resend the invitation.",
+    "description": "2.0 public.js"
+  },
+  "register08": {
+    "message": "Registration is complete",
+    "description": "2.0 public.js"
+  },
+  "register09": {
+    "message": "The invitation is complete and you can sign in with your email and password.",
+    "description": "2.0 public.js"
+  },
+  "register10": {
+    "message": "Verification code failure",
+    "description": "2.0 public.js"
+  },
+  "register11": {
+    "message": "The verify code has already been used",
+    "description": "2.0 public.js"
+  },
+  "register12": {
+    "message": "The email does not exist",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "We have sent a registration invitation email to {registeremail}.",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "The sub-site information is incorrect",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "There is no account corresponding to the email address",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "The login account is not belong to the site or sub-institution",
+    "description": "2.0 public.js"
+  },
+  "register13": {
+    "message": "The verification code has been sent, please check your mail",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "The system has detected that this account has cheated and other improper behaviors in the course learning of {textbooks}, and the system has automatically frozen this account, please contact the classroom teacher or platform for handling",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "The verification code is incorrect, please enter the correct verification code",
+    "description": "2.0 public.js"
+  },
+  "sso": {
+    "message": "The account has not been opened",
+    "description": "2.0 public.js"
+  },
+  "sso1": {
+    "message": "If the service has not been activated for this account, please contact your administrator to activate the service and log in through SSO.",
+    "description": "2.0 public.js"
+  },
+  "sso2": {
+    "message": "The account is already registered with another institution",
+    "description": "2.0 public.js"
+  },
+  "sso3": {
+    "message": "The account is already registered with another organization, please log in to the registered institution. If you need to sign in at this institution, contact your administrator to register roles at this institution.",
+    "description": "2.0 public.js"
+  },
+  "sso4": {
+    "message": "SSO Login",
+    "description": "2.0 public.js"
+  },
+  "sso5": {
+    "message": "Or",
+    "description": "2.0 public.js"
+  },
+  "firstLogin29": {
+    "message": "The full name will be used for transcripts and official reports",
+    "description": "2.0 public.js"
+  },
+  "firstLogin30": {
+    "message": "The name you display in the system",
+    "description": "2.0 public.js"
+  },
+  "centralCertificationSystem": {
+    "message": "Unified authentication login",
+    "description": "2.0 public.js"
+  },
+  "confirmUnbind": {
+    "message": "Are you sure you want to unbind your account?",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": "Reminder",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "Bind Welink",
+    "description": "2.0 public.js"
+  },
+  "userNameReadOnlyTips": {
+    "message": "The school prohibits students from changing their names, so please contact your school administrator or customer service",
+    "description": "2.0 public.js"
+  },
+  "moreOperation": {
+    "message": "Actions",
+    "description": "2.0 public.js"
+  }
+}

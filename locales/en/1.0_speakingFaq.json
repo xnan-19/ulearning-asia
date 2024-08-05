@@ -1,0 +1,166 @@
+{
+  "title": {
+    "message": "FAQ for Spoken English Test",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1": {
+    "message": "1. What do I need to prepare and check before starting the exam?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p1": {
+    "message": "1.1 Whether the computer works properly",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p2": {
+    "message": "Turn on the computer and check if the keyboard, mouse, and headset work as expected. If you have encountered any problems, please contact the computer lab/exam facility admin.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p3": {
+    "message": "1.2 Check whether the software environment of the computer is compliant with the exam requirements?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p4": {
+    "message": "Go to <a href=\"http://www.longmanenglish.cn\">http://www.longmanenglish.cn</a> and click the Computer Compliance Check link on the homepage.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p5": {
+    "message": "After the Computer Compliance Check is completed, it will show you whether the computer is compliant with the exam requirements. If there are any failed check items, please follow the instructions to make the corresponding settings.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p6": {
+    "message": "1.3 Whether you can log in to the ULearning website?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p7": {
+    "message": "Go to your school's ULearning website and try to log in with your username and password. If you can't log in, please contact your school or customer service immediately.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p8": {
+    "message": "1.4 Whether you are enrolled in your teacher's class?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p9": {
+    "message": "After logging in to your school's ULearning website, check whether you have joined your teacher’s class. If not, please enroll your teacher’s class in time.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p10": {
+    "message": "1.5 Can you hear the sound with your headset?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p11": {
+    "message": "Test your headset to check whether you can hear the sound with it.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p12": {
+    "message": "Do the test with an audio file. If you cannot hear the sound, please replace the headset in time.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p13": {
+    "message": "1.6 Can you record your voice?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p14": {
+    "message": "Use your computer's voice recorder application to test if you can record your voice.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p15": {
+    "message": "1.7 What should I do if the recorded voice is too low?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p16": {
+    "message": "You can adjust the volume in two ways:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p17": {
+    "message": "First, right-click the speaker icon in the lower right corner, and a menu will appear:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p18": {
+    "message": "Click the Adjust Audio Properties settings, and the following popup will appear:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p19": {
+    "message": "There is a recording volume option under the Voice menu. Click the Volume button.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p20": {
+    "message": "Adjust the volume to the maximum, then the sound of the recording will be louder.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p21": {
+    "message": "Or you can right-click the speaker icon in the lower right corner, and a menu will appear:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p22": {
+    "message": "Click the Recording Device menu as shown below:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p23": {
+    "message": "After selecting the microphone, click the Properties button",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p24": {
+    "message": "In the popup box, select the volume level menu and adjust the microphone volume to the maximum",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p25": {
+    "message": "1.8 How to install the plug-in?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p26": {
+    "message": "For computers without the plug-in installed, please download one on the Interactive English homepage",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2": {
+    "message": "2 How to set up recording?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p1": {
+    "message": "When students enter the spoken English test, a dialog box will appear as follows:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p2": {
+    "message": "Students need to check the \"Always trust the content of this publisher\" box and then click the Run button before they can start to record.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3": {
+    "message": "3 What if the exam is interrupted?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p1": {
+    "message": "If the exam is interrupted due to equipment failure or other reasons, close all browser windows. Then, reopen the browser, log in to your school's ULearning platform, and re-start the exam. The exam screen will have a prompt to restore your answers, as shown below:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p2": {
+    "message": "Students need to click the Restore Answers button to confirm. But it should be noted that <font class=\"red\">the system can only restore your answers saved 5 minutes ago. In addition, for the spoken English questions, the restored recording can only be played back, and cannot be re-saved or re-uploaded. </font>",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4": {
+    "message": "4 How to save voice recordings?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4-p1": {
+    "message": "After students complete the oral test question, please save the recording first. Click the Save button to save the recording locally for backup.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5": {
+    "message": "5 How to upload the recording?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5-p1": {
+    "message": "After students complete the oral test question, click the Upload button to upload the recording to the platform.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6": {
+    "message": "6 How do I know if my recording has been uploaded successfully?",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6-p1": {
+    "message": "After clicking the Upload button, you need to wait for a few seconds (the longer the recording, the longer your waiting time). When the \"Uploaded successful\" prompt appears, it means that your recording has been successfully uploaded.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "closeWindow": {
+    "message": "Close the window",
+    "description": "1.0 speakingFaq.json"
+  }
+}

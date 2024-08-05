@@ -1,0 +1,862 @@
+{
+  "editHomework": {
+    "message": "Ubah tugas kelompok",
+    "description": "1.0 homework.json"
+  },
+  "addHomework": {
+    "message": "Mulai tugas kelompok",
+    "description": "1.0 homework.json"
+  },
+  "kindTips": {
+    "message": "Silahkan masukkan persyaratan tugas, mahasiswa bisa mengirim teks, rekaman audio atau unggah lampiran sebagai konten tugas",
+    "description": "1.0 homework.json"
+  },
+  "excel": {
+    "message": "Dokumen excel",
+    "description": "1.0 homework.json"
+  },
+  "ppt": {
+    "message": "Dokumen ppt",
+    "description": "1.0 homework.json"
+  },
+  "PDF": {
+    "message": "Dokumen PDF",
+    "description": "1.0 homework.json"
+  },
+  "TEXT": {
+    "message": "Dokumen TEXT",
+    "description": "1.0 homework.json"
+  },
+  "compress": {
+    "message": "Dokumen zip",
+    "description": "1.0 homework.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "1.0 homework.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "1.0 homework.json"
+  },
+  "picture": {
+    "message": "Gambar",
+    "description": "1.0 homework.json"
+  },
+  "other": {
+    "message": "lain",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingTxt": {
+    "message": "Atur cara pengelompokan",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingTipTxt": {
+    "message": "Setelah mengatur cara pengelompokan, catatan awal akan dihapus. Yakin untuk atur pengelompokan?",
+    "description": "1.0 homework.json"
+  },
+  "downloadTemplateTipTxt": {
+    "message": "Unduh template untuk atur data kelompok mahasiswa sesuai dengan format templat",
+    "description": "1.0 homework.json"
+  },
+  "downloadTemplateTxt": {
+    "message": "Unduh templat",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTipTxt": {
+    "message": "Unggah dokumen yang sudah disiapkan",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTip1Txt": {
+    "message": "Catatan: Jika perlu mengubah kelompok mahasiswa, anda boleh unggah ulang daftar kelompok.",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTip2Txt": {
+    "message": "Setelah unggah ulang, kelompok mahasiswa akan digantikan dengan yang baru",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingBodyTitleTxt": {
+    "message": "Silahkan ikuti langkah dibawah ini",
+    "description": "1.0 homework.json"
+  },
+  "importSucTxt": {
+    "message": "Berhasil diimpor!",
+    "description": "1.0 homework.json"
+  },
+  "submiting": {
+    "message": "Sedang dikumpul",
+    "description": "1.0 homework.json"
+  },
+  "groupTitle": {
+    "message": "Kelompok tugas",
+    "description": "1.0 homework.json"
+  },
+  "editGroup": {
+    "message": "Revisi kelompok",
+    "description": "1.0 homework.json"
+  },
+  "noStuTip": {
+    "message": "Setiap kelompok minimal 1 mahasiswa",
+    "description": "1.0 homework.json"
+  },
+  "referSameFile": {
+    "message": "Tidak bisa menggunakan dokumen yang sama",
+    "description": "1.0 homework.json"
+  },
+  "uploadSameFile": {
+    "message": "Tidak dapat mengunggah dokumen yang sama",
+    "description": "1.0 homework.json"
+  },
+  "point": {
+    "message": "Tips",
+    "description": "1.0 homework.json"
+  },
+  "confirmDelete": {
+    "message": "Yakin untuk hapus?",
+    "description": "1.0 homework.json"
+  },
+  "topicNoEmpty": {
+    "message": "Judul tugas tidak boleh kosong",
+    "description": "1.0 homework.json"
+  },
+  "topicThanMore": {
+    "message": "Judul tugas harus berada di antara 3 – 50 karakter",
+    "description": "1.0 homework.json"
+  },
+  "topicExist": {
+    "message": "Judul tugas sudah ada",
+    "description": "1.0 homework.json"
+  },
+  "inputFullScore": {
+    "message": "Silahkan masukkan nilai sempurna",
+    "description": "1.0 homework.json"
+  },
+  "inputThanMore": {
+    "message": "Silahkan masukkan bilangan bulat lebih besar dari 0",
+    "description": "1.0 homework.json"
+  },
+  "inputThanLess": {
+    "message": "Silahkan masukkan bilangan bulat kurang dari 999",
+    "description": "1.0 homework.json"
+  },
+  "inputThanMores": {
+    "message": "Silahkan masukkan bilangan bulat lebih besar dari 1",
+    "description": "1.0 homework.json"
+  },
+  "selectStartTime": {
+    "message": "Silahkan pilih waktu mulai",
+    "description": "1.0 homework.json"
+  },
+  "selectEndTime": {
+    "message": "Silahkan pilih batas waktu kumpul",
+    "description": "1.0 homework.json"
+  },
+  "inputCountEach": {
+    "message": "Silahkan masukkan jumlah orang per kelompok",
+    "description": "1.0 homework.json"
+  },
+  "countMax": {
+    "message": "Maks. 20 orang per kelompok",
+    "description": "1.0 homework.json"
+  },
+  "countMin": {
+    "message": "Min. 2 orang per kelompok",
+    "description": "1.0 homework.json"
+  },
+  "uploadComplete": {
+    "message": "Berhasil diunggah",
+    "description": "1.0 homework.json"
+  },
+  "uploadFail": {
+    "message": "Unggahan gagal",
+    "description": "1.0 homework.json"
+  },
+  "charRequired": {
+    "message": "Persyaratan tugas lebih dari 5000 karakter",
+    "description": "1.0 homework.json"
+  },
+  "homeworkAssign": {
+    "message": "Rilis tugas",
+    "description": "1.0 homework.json"
+  },
+  "saveDraft": {
+    "message": "Simpan draft",
+    "description": "1.0 homework.json"
+  },
+  "Success": {
+    "message": "Berhasil",
+    "description": "1.0 homework.json"
+  },
+  "fail": {
+    "message": "Gagal",
+    "description": "1.0 homework.json"
+  },
+  "netError": {
+    "message": "Jaringan internet bermasalah",
+    "description": "1.0 homework.json"
+  },
+  "sureAbandon": {
+    "message": "Yakin untuk batalkan pemberian tugas?",
+    "description": "1.0 homework.json"
+  },
+  "delQuestion": {
+    "message": "Hapus soal ini",
+    "description": "1.0 homework.json"
+  },
+  "topicNoempty": {
+    "message": "Judul tugas tidak boleh kosong",
+    "description": "1.0 homework.json"
+  },
+  "assignmentCharacter": {
+    "message": "Judul tugas harus berada di antara 3 – 50 karakter",
+    "description": "1.0 homework.json"
+  },
+  "fileType": {
+    "message": "Silahkan pilih jenis dokumen yang dikumpul oleh mahasiswa",
+    "description": "1.0 homework.json"
+  },
+  "uploadNoempty": {
+    "message": "Dokumen unggahan mahasiswa tidak boleh kosong",
+    "description": "1.0 homework.json"
+  },
+  "uploadSize": {
+    "message": "Ukuran dokumen unggahan mahasiswa dalam bentuk bilangan bulat",
+    "description": "1.0 homework.json"
+  },
+  "uploadThan": {
+    "message": "Dokumen unggahan mahasiswa tidak boleh lebih dari 300M",
+    "description": "1.0 homework.json"
+  },
+  "onlyNo": {
+    "message": "Hanya bisa input angka",
+    "description": "1.0 homework.json"
+  },
+  "noThan": {
+    "message": "Tidak boleh lebih dari 100 poin",
+    "description": "1.0 homework.json"
+  },
+  "assignmentRequired": {
+    "message": "Persyaratan tugas lebih dari 5000 karakter",
+    "description": "1.0 homework.json"
+  },
+  "selectQ": {
+    "message": "Silahkan piih soal",
+    "description": "1.0 homework.json"
+  },
+  "saveDraftSuccess": {
+    "message": "Berhasil menyimpan draft",
+    "description": "1.0 homework.json"
+  },
+  "saveDraftFail": {
+    "message": "Gagal menyimpan draft",
+    "description": "1.0 homework.json"
+  },
+  "size": {
+    "message": "ukuran:",
+    "description": "1.0 homework.json"
+  },
+  "scoreProfileTitle": {
+    "message": "Ringkasan penilaian sistem",
+    "description": "1.0 homework.json"
+  },
+  "scoreProfile": {
+    "message": "Mahasiswa akan membaca teks tertentu untuk melatih pelafalan, kemudian sistem akan membandingkan pelafalan tersebut dengan tulisan teks, melakukan penilaian secara otomatis, sehingga dapat mengurangi beban para dosen karena tidak perlu mengoreksinya satu per satu. Setelah sistem menilai, para dosen juga dapat melakukan revisi secara manual.",
+    "description": "1.0 homework.json"
+  },
+  "scoreDescTitle": {
+    "message": "Hal-hal yang perlu diperhatikan",
+    "description": "1.0 homework.json"
+  },
+  "scoreDesc": {
+    "message": "Dikarenakan batasan teknis, penilaian sistem saat ini hanya dapat menilai konten bacaan di bawah 200 kata dan audio di bawah 2 menit, lebih dari itu akan menyebabkan kegagalan pada penilaian. Pada saat anda mengisi konten bacaan, kotak input tidak boleh lebih dari 200 kata.",
+    "description": "1.0 homework.json"
+  },
+  "assignHomework": {
+    "message": "Beri tugas",
+    "description": "1.0 homework.json"
+  },
+  "assignmentScore": {
+    "message": "Nilai tugas",
+    "description": "1.0 homework.json"
+  },
+  "gradeRule": {
+    "message": "Nilai tugas mahasiswa = Rata-rata nilai dari seluruh penilaian bersama – jumlah tugas yang belum dinilai * 5% * total nilai tugas. Misalnya: Nilai sempurna tugas adalah 100 poin, setelah penilaian bersama selesai, nilai rata-rata penilaian bersama mahasiswa tersebut adalah 80 poin, namun mahasiswa tersebut harus menilai 4 tugas, dan ia hanya menilai 1 tugas saja, sehingga ada 3 tugas yang belum dinilai, oleh karena itu, harus dikurangi nilai dari 3 * 5% * 100.  Nilai akhir dari mahasiswa ini adalah: 80 – 3 * 5% * 100 = 65 poin;",
+    "description": "1.0 homework.json"
+  },
+  "appeal": {
+    "message": "Komplain",
+    "description": "1.0 homework.json"
+  },
+  "appealContent": {
+    "message": "Mahasiswa dapat mengajukan komplain kepada dosen mengenai nilai rata-rata dari penilaian bersama, dan dosen dapat mengubah nilai rata-rata penilaian bersama tersebut, namun tetap harus mengurangi nilai yang perlu dikurangi yang disebabkan karena mahasiswa belum melakukan penilaian tugas.",
+    "description": "1.0 homework.json"
+  },
+  "stuAppealContent": {
+    "message": "Jika mahasiswa tidak setuju dengan nilai rata-rata evaluasi bersama, mereka boleh mengajukan komplain ke dosen, lalu dosen akan memberikan penilaian terhadap tugas tersebut. Penilaian dari dosen merupakan nilai akhir - Nilai tugas yang akan dievaluasi * 5% * total nilai tugas.",
+    "description": "homeworkGroupStu.js"
+  },
+  "selectClass": {
+    "message": "Pilih kelas",
+    "description": "1.0 homework.json"
+  },
+  "homeworkStart": {
+    "message": "Mulai tugas",
+    "description": "1.0 homework.json"
+  },
+  "timePlaceholder": {
+    "message": "Silahkan atur waktu",
+    "description": "1.0 homework.json"
+  },
+  "homeworkTimeTip": {
+    "message": "Atur waktu tugas",
+    "description": "1.0 homework.json"
+  },
+  "commitEnd": {
+    "message": "Waktu selesai",
+    "description": "1.0 homework.json"
+  },
+  "unset": {
+    "message": "Belum ada pengaturan",
+    "description": "1.0 homework.json"
+  },
+  "selectTime": {
+    "message": "Silahkan pilih waktu",
+    "description": "1.0 homework.json"
+  },
+  "answerRequire": {
+    "message": "Silahkan masukkan jumlah menjawab",
+    "description": "1.0 homework.json"
+  },
+  "answerDigits": {
+    "message": "Silahkan masukkan bilangan bulat antara 1-100",
+    "description": "1.0 homework.json"
+  },
+  "answerDay": {
+    "message": "Silahkan pilih waktu publikasi jawaban",
+    "description": "1.0 homework.json"
+  },
+  "autoRemark": {
+    "message": "Silahkan pilih cara penilaian",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewCount": {
+    "message": "Silahkan pilih jumlah penilaian",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewDigits": {
+    "message": "Silahkan pilih bilangan bulat",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewTime": {
+    "message": "Silahkan pilih waktu selesai untuk penilaian bersama",
+    "description": "1.0 homework.json"
+  },
+  "statTimTip": {
+    "message": "Waktu mulai tidak boleh kosong",
+    "description": "1.0 homework.json"
+  },
+  "endTimeTip": {
+    "message": "Waktu selesai tidak boleh kosong",
+    "description": "1.0 homework.json"
+  },
+  "plzSelectClass": {
+    "message": "Silahkan pilih kelas",
+    "description": "1.0 homework.json"
+  },
+  "warnTip": {
+    "message": "Jumlah penilaian bersama telah melebihi jumlah orang dalam kelas",
+    "description": "1.0 homework.json"
+  },
+  "assignmentSuccess": {
+    "message": "Berhasil merilis tugas",
+    "description": "1.0 homework.json"
+  },
+  "assignmentFail": {
+    "message": "Gagal merilis tugas",
+    "description": "1.0 homework.json"
+  },
+  "publishSetting": {
+    "message": "Pengaturan perilisan",
+    "description": "1.0 homework.json"
+  },
+  "noMark": {
+    "message": "Tugas mahasiswa tersebut belum mendapatkan penilaian dari mahasiswa lainnya, anda perlu mengkoreksinya.",
+    "description": "1.0 homework.json"
+  },
+  "kown": {
+    "message": "Saya sudah tahu",
+    "description": "1.0 homework.json"
+  },
+  "evaluated": {
+    "message": "Jumlah tugas yang telah dinilai oleh mahasiswa tersebut",
+    "description": "1.0 homework.json"
+  },
+  "evaluation": {
+    "message": "Jumlah tugas yang telah dinilai oleh mahasiswa lain",
+    "description": "1.0 homework.json"
+  },
+  "expandText": {
+    "message": "Perluas",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "collapseText": {
+    "message": "Simpan",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "assignmentDetailText": {
+    "message": "Rincian tugas",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "countLimtTip": {
+    "message": "Kuis dibatasi, tidak bisa diulang jika sudah melebihi batas. {br} Yakin untuk kumpul?",
+    "description": "对应于学生查看作业详情页面。{br}是一个换行的标签，需要原样保留"
+  },
+  "submitHomework": {
+    "message": "Kumpul tugas",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "collapseText2": {
+    "message": "<< Simpan",
+    "description": "教师批阅小组作业页面"
+  },
+  "checkAllMemebers": {
+    "message": "Lihat semua 12 anggota >>",
+    "description": "教师批阅小组作业页面"
+  },
+  "comment": {
+    "message": "Komen",
+    "description": "教师批阅小组作业页面"
+  },
+  "noComment": {
+    "message": "Dia tidak menilai tugas ini",
+    "description": "教师批阅小组作业页面"
+  },
+  "noEvaluation": {
+    "message": "Dia tidak menilai orang lain",
+    "description": "教师批阅小组作业页面"
+  },
+  "scoreText": {
+    "message": " {score} poin ",
+    "description": "教师批阅小组作业页面"
+  },
+  "systemAdvice": {
+    "message": "Penilaian sistem 0 poin",
+    "description": "教师批阅小组作业页面"
+  },
+  "shortWord": {
+    "message": "Jumlah kata dalam tugas kurang dari 10",
+    "description": "教师批阅小组作业页面"
+  },
+  "plzInputPoint": {
+    "message": "Silahkan masukkan nilai",
+    "description": "教师批阅小组作业页面"
+  },
+  "commentCountLimit": {
+    "message": "Komen harus kurang dari 1000 karakter",
+    "description": "教师批阅小组作业页面"
+  },
+  "submitHomeworkFail": {
+    "message": "Gagal kumpul tugas",
+    "description": "教师批阅小组作业页面"
+  },
+  "frontPartTip": {
+    "message": "Sudah di halaman paling depan",
+    "description": "教师批阅小组作业页面"
+  },
+  "backPartTip": {
+    "message": "Sudah di halaman paling belakang",
+    "description": "教师批阅小组作业页面"
+  },
+  "validateNumber": {
+    "message": "Silahkan masukkan nilai yang tepat, hanya terdiri dari 1 angka desimal",
+    "description": "教师批阅小组作业页面"
+  },
+  "validateScore": {
+    "message": "Nilai yang didapat tidak boleh lebih dari total nilai",
+    "description": "教师批阅小组作业页面"
+  },
+  "referSuggest": {
+    "message": "Informasi dibawah ini hanya sebagai referensi:",
+    "description": "教师批阅小组作业页面"
+  },
+  "sentenceError1": {
+    "message": "[Kosa kata salah] {message}",
+    "description": "教师批阅小组作业页面"
+  },
+  "sentenceError2": {
+    "message": "[Kosa kata salah] {message}, disarankan menggunakan {replace};",
+    "description": "教师批阅小组作业页面"
+  },
+  "syntaxError": {
+    "message": "[Tata bahasa salah] {message}",
+    "description": "教师批阅小组作业页面"
+  },
+  "noError": {
+    "message": "Karangan anda bagus, tidak ada masalah pada tata bahasa, pertahankanlah!",
+    "description": "教师批阅小组作业页面"
+  },
+  "imageLoading": {
+    "message": "Sedang memuat gambar...",
+    "description": "homeworkPreview.js"
+  },
+  "imageLoadError": {
+    "message": "Gagal memuat gambar, silahkan refresh dan coba kembali!",
+    "description": "homeworkPreview.js"
+  },
+  "documentLoading": {
+    "message": "Sedang memuat sumber dokumen...",
+    "description": "homeworkPreview.js"
+  },
+  "compressedPack": {
+    "message": "Paket zip",
+    "description": "homeworkPreview.js"
+  },
+  "compressedFile": {
+    "message": "Dokumen zip",
+    "description": "homeworkPreview.js"
+  },
+  "videoTranscoding": {
+    "message": "Sedang transcoding video...",
+    "description": "homeworkPreview.js"
+  },
+  "automaticText": {
+    "message": "Ini adalah tugas penilaian otomatis. Setiap konten mengharuskan Anda untuk membacanya dalam waktu 2 menit. Jika lebih dari 2 menit, maka sistem tidak dapat menilai",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "actionDesriptionText": {
+    "message": "Penjelasan pengoperasian",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "clickText": {
+    "message": "Klik tombol rekam, klik \"Izinkan\" di halaman pop-up untuk menghidupkan mikrofon. Setelah selesai merekam, jangan lupa klik tombol \"Kumpul tugas\"",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "addMsgText": {
+    "message": "Tambah Pesan",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "msgsText": {
+    "message": "Pesan",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "msgText": {
+    "message": "Pesan harus memiliki konten teks atau lampiran",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "sureDeleteText": {
+    "message": "Yakin untuk hapus pesan ini?",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "scoreEmptyText": {
+    "message": "Penilaian tidak boleh kosong",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "pleaseEnterScoreText": {
+    "message": "Silakan masukkan nilai kurang dari total nilai",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "commentSuccessText": {
+    "message": "Berhasil komen",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "myAsssignmentText": {
+    "message": "Tugas saya",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "groupAssignmentText": {
+    "message": "Ini adalah tugas kelompok, selesaikanlah bersama dengan anggota kelompok",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "noticeText": {
+    "message": "Perhatian",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentComText": {
+    "message": "Setelah tugas selesai, cukup salah satu anggota yang mengumpulkan",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "caseText": {
+    "message": "Harus disetujui oleh anggota lainnya sebelum kumpul, revisi dan tarik kembali tugas. Mohon untuk tidak revisi dan hapus tugas tanpa persetujuan, karena dapat mempengaruhi nilai setiap anggota.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "allowedText": {
+    "message": "Tidak boleh salin, silakan input secara manual",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "teamMemberText": {
+    "message": "Setelah kumpul, anggota kelompok akan berbagi nilai tugas ini, mohon pastikan bahwa anggota lain telah setuju saat anda mengumpulnya",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "confirmSubmitText": {
+    "message": "Yakin untuk kumpul",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "submitSuccessText": {
+    "message": "Berhasil dikumpul",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "saveSuccessText": {
+    "message": "Berhasil disimpan",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "determinaWorkText": {
+    "message": "Yakin untuk menarik kembali pekerjaan rumah? Mohon pastikan bahwa anda telah mendapatkan persetujuan dari anggota lain.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revocationText": {
+    "message": "Yakin untuk tarik kembali",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revokeSuccessText": {
+    "message": "Berhasil dibatalkan",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revokeFailText": {
+    "message": "Pembatalan gagal",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadFileText": {
+    "message": "Silahkan unggah dokumen proyek",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "errorLogText": {
+    "message": "Proyek sedang dimulai, mohon untuk tidak tutup halaman ini. Kegagalan startup akan menampilkan log yang salah.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "prejectStart": {
+    "message": "Proyek sedang dimulai...",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "startupSuccessText": {
+    "message": " Proyek berhasil dimulai ",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "runFailText": {
+    "message": " Proyek gagal dijalankan ",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "startupFailText": {
+    "message": "Proyek gagal dimulai",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadContentText": {
+    "message": "Apa yang anda posting",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "projectAbText": {
+    "message": "Terjadi kesalahan pada proyek",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadRecordText": {
+    "message": "Silakan unggah rekaman",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentDescriptionText": {
+    "message": "Deskripsi tugas harus kurang dari 1000 karakter. Saat ini kelebihan {count} karakter",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "pasteHereText": {
+    "message": "Tempel di sini",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentText": {
+    "message": "Tugas harus memiliki konten teks atau lampiran",
+    "description": "homeworkGroupStu.js"
+  },
+  "charapterText": {
+    "message": "Konten teks tidak boleh lebih dari 5000 kata",
+    "description": "homeworkGroupStu.js"
+  },
+  "workThanMoreText": {
+    "message": "Esai tidak boleh lebih dari 3000 kata",
+    "description": "homeworkGroupStu.js"
+  },
+  "uploadFileText2": {
+    "message": "Silahkan unggah dokumen",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherSetText": {
+    "message": "Dosen sudah mengatur bahwa sistem akan secara otomatis mengkoreksi tugas Bahasa Inggris, tugas anda kurang dari 10 kata, sistem akan memberi nilai {score}, yakin untuk kumpul?",
+    "description": "homeworkGroupStu.js"
+  },
+  "loginTimeOutText": {
+    "message": "Waktu login habis, silahkan simpan informasi penting di lokal, lalu login ulang",
+    "description": "homeworkGroupStu.js"
+  },
+  "answerText": {
+    "message": "Jawab",
+    "description": "homeworkGroupStu.js"
+  },
+  "beScoreText": {
+    "message": "Akan dinilai",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitTimeText": {
+    "message": "Waktu kumpul: {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "assignmentScoreText": {
+    "message": "Nilai tugas",
+    "description": "homeworkGroupStu.js"
+  },
+  "meanScoreText": {
+    "message": "Nilai rata-rata dari penilaian bersama: {text}",
+    "description": "homeworkGroupStu.js"
+  },
+  "meanScoreText2": {
+    "message": "Nilai rata-rata dari penilaian bersama: {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "studentEvaluationText": {
+    "message": "Tidak ada mahasiswa yang menilai",
+    "description": "homeworkGroupStu.js"
+  },
+  "deductionText": {
+    "message": "Pengurangan nilai tugas: {score} (Anda belum menilai {count} tugas)",
+    "description": "homeworkGroupStu.js"
+  },
+  "myAssignmentText": {
+    "message": "Tugas saya",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitOnText": {
+    "message": "{name} kumpul pada {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "groupText": {
+    "message": "Tugas kelompok {group}",
+    "description": "homeworkGroupStu.js"
+  },
+  "lateText": {
+    "message": "[Telat kumpul]",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitDeadlineText": {
+    "message": "Waktu kumpul berakhir",
+    "description": "homeworkGroupStu.js"
+  },
+  "completeText": {
+    "message": "Telah selesai",
+    "description": "homeworkGroupStu.js"
+  },
+  "evaluateTimeText": {
+    "message": "Waktu menilai: {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherScoreText": {
+    "message": "Penilaian dosen: {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherCommentText": {
+    "message": "Komentar dosen: {comment}",
+    "description": "homeworkGroupStu.js"
+  },
+  "reDoText": {
+    "message": "Perlu tulis ulang",
+    "description": "homeworkGroupStu.js"
+  },
+  "systemScoreText": {
+    "message": "Penilaian sistem",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutualAvgScoreText": {
+    "message": "Nilai rata-rata dari penilaian bersama: {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintText": {
+    "message": "Sedang komplain",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintFailText": {
+    "message": "Komplain gagal",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintAfterText": {
+    "message": "Nilai dosen setelah komplain: {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "checkComplaintText": {
+    "message": "Lihat alasan komplain",
+    "description": "homeworkGroupStu.js"
+  },
+  "fileSizeText": {
+    "message": "Ukuran dokumen: {size}",
+    "description": "homeworkGroupStu.js"
+  },
+  "myComplaintText": {
+    "message": "Saya ingin komplain",
+    "description": "homeworkGroupStu.js"
+  },
+  "fillReasonText": {
+    "message": "Isi alasan komplain",
+    "description": "homeworkGroupStu.js"
+  },
+  "dissatisfiedText": {
+    "message": "Jelaskan mengapa tidak setuju, tulis kurang dari 1000 kata",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintConText": {
+    "message": "Konten komplain harus kurang dari 1000 kata",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintSubmintText": {
+    "message": "Komplain berhasil dikumpul, sedang menunggu penanganan dosen",
+    "description": "homeworkGroupStu.js"
+  },
+  "studentEvaluationsText": {
+    "message": "Evaluasi mahasiswa",
+    "description": "homeworkGroupStu.js"
+  },
+  "anonymousText": {
+    "message": "Anonim",
+    "description": "homeworkGroupStu.js"
+  },
+  "mediaDocText": {
+    "message": "Dokumen media",
+    "description": "homeworkGroupStu.js"
+  },
+  "textFile": {
+    "message": "Dokumen teks",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutualReviewText": {
+    "message": "Penilaian bersama telah usai, anda tidak menilai secara tepat waktu. Nilai anda <span> dikurangi {score} poin </span> (5% dari total nilai tugas)",
+    "description": "homeworkGroupStu.js"
+  },
+  "scoresText": {
+    "message": "Penilaian",
+    "description": "homeworkGroupStu.js"
+  },
+  "totalScoresText": {
+    "message": "Total nilai {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "addEvaluationText": {
+    "message": "Tambah komen",
+    "description": "homeworkGroupStu.js"
+  },
+  "testGrammarText": {
+    "message": "Tata bahasa tidak dapat diperiksa apabila kosa kata Inggris di dalam tugas kurang dari 10",
+    "description": "homeworkGroupStu.js"
+  },
+  "compositionText": {
+    "message": "Esai terlalu panjang, lebih dari 500 kata!",
+    "description": "homeworkGroupStu.js"
+  },
+  "beCheckText": {
+    "message": "Sedang diperiksa",
+    "description": "homeworkGroupStu.js"
+  },
+  "AmendText": {
+    "message": "Ubah pendapat",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutiTimesScoreTipText": {
+    "message": "Jawaban beberapa kali akan diambil nilai tertinggi ",
+    "description": "homeworkStu.js"
+  },
+  "startRecord": {
+    "message": "Mulai rekam",
+    "description": "homeworkGroupStuMain.js"
+  }
+}

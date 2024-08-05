@@ -1,0 +1,98 @@
+{
+  "welcome": {
+    "message": "Welcome to ULearning!",
+    "description": "1.0 portal.js"
+  },
+  "tip": {
+    "message": "No account yet?",
+    "description": "1.0 portal.js"
+  },
+  "register": {
+    "message": "Register",
+    "description": "1.0 portal.js"
+  },
+  "loginName": {
+    "message": "Username/Email",
+    "description": "1.0 portal.js"
+  },
+  "loginPlaceholder": {
+    "message": "Enter your username or email",
+    "description": "1.0 portal.js"
+  },
+  "loginTip": {
+    "message": "Enter your username or password",
+    "description": "1.0 portal.json.js"
+  },
+  "loginErrorTip": {
+    "message": "Incorrect username or password",
+    "description": "1.0 portal.json.js"
+  },
+  "loginTryLimit": {
+    "message": "You have tried 5 times and the account is locked. Please retry after 3 minutes.",
+    "description": "1.0 portal.json.js"
+  },
+  "password": {
+    "message": "Password",
+    "description": "1.0 portal.js"
+  },
+  "passwordPlaceholder": {
+    "message": "Your password",
+    "description": "1.0 portal.js"
+  },
+  "login": {
+    "message": "Log In",
+    "description": "1.0 portal.js"
+  },
+  "forgotPassword": {
+    "message": "Forgot password?",
+    "description": "1.0 portal.js"
+  },
+  "userAndPasswordTip": {
+    "message": " Username and password cannot be the same",
+    "description": "insureance.jsp"
+  },
+  "passwordTip": {
+    "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
+    "description": "insureance.jsp"
+  },
+  "plzOldPassword": {
+    "message": "Enter the old password ",
+    "description": "insureance.jsp"
+  },
+  "plzRightOldPassword": {
+    "message": "Enter the correct old password",
+    "description": "insureance.jsp"
+  },
+  "plzNewPassword": {
+    "message": "Enter a new password",
+    "description": "insureance.jsp"
+  },
+  "confirmPassword": {
+    "message": "Confirm new password",
+    "description": "insureance.jsp"
+  },
+  "passwordNotSame": {
+    "message": "Passwords do not match!",
+    "description": "insureance.jsp"
+  },
+  "modifySuccessed": {
+    "message": "Password reset successfully!",
+    "description": "insureance.jsp"
+  },
+  "modifyFailed": {
+    "message": "Password reset failed - please check the old password and reset it again!",
+    "description": "insureance.jsp"
+  },
+  "modifyError": {
+    "message": "Oops, something went wrong!",
+    "description": "insureance.jsp"
+  },
+  "copySuccess": {
+    "message": "Copied",
+    "description": "1.0 portal.json.js"
+  },
+  "copyFailed": {
+    "message": "Failed to copy",
+    "description": "1.0 portal.json.js"
+  }
+}

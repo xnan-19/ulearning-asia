@@ -1,0 +1,3838 @@
+{
+  "home": {
+    "message": "首頁",
+    "description": "考试快捷地址"
+  },
+  "note": {
+    "message": "提示",
+    "description": "考试快捷地址"
+  },
+  "getIt": {
+    "message": "我知道了",
+    "description": "考试快捷地址"
+  },
+  "confirm": {
+    "message": "確定",
+    "description": "考试快捷地址"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "考试快捷地址"
+  },
+  "userNameLogin": {
+    "message": "帳號密碼登入",
+    "description": "考试快捷地址"
+  },
+  "login": {
+    "message": "登入",
+    "description": "考试快捷地址"
+  },
+  "forgetPassword": {
+    "message": "忘記密碼？",
+    "description": "考试快捷地址"
+  },
+  "userName": {
+    "message": "用戶名 / 手機號 / 郵箱",
+    "description": "考试快捷地址"
+  },
+  "password": {
+    "message": "密碼",
+    "description": "考试快捷地址"
+  },
+  "inputUserName": {
+    "message": "請輸入用戶名/手機號/郵箱",
+    "description": "考试快捷地址"
+  },
+  "inputPas": {
+    "message": "請輸入密碼",
+    "description": "考试快捷地址"
+  },
+  "freezeTip": {
+    "message": "系統檢測到此帳號在{names}課程學習中存在作弊等不當行為，系統已自動凍結此帳號，請聯繫任課老師或平台進行處理",
+    "description": "考试快捷地址"
+  },
+  "overErrorTimes": {
+    "message": "您已經連續輸錯5次，3分鐘後重試",
+    "description": "考试快捷地址"
+  },
+  "passwordErr": {
+    "message": "用戶名/密碼錯誤",
+    "description": "考试快捷地址"
+  },
+  "loginFail": {
+    "message": "登錄失敗",
+    "description": "考试快捷地址"
+  },
+  "personalInfo": {
+    "message": "個人中心",
+    "description": "考试快捷地址"
+  },
+  "quit": {
+    "message": "退出登錄",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess": {
+    "message": "認證已通過，3秒後進入考試",
+    "description": "考试快捷地址"
+  },
+  "faceFail": {
+    "message": "人臉認證未通過。",
+    "description": "考试快捷地址"
+  },
+  "retry": {
+    "message": "重試",
+    "description": "考试快捷地址"
+  },
+  "leaveSeat": {
+    "message": "離開座位",
+    "description": "考试快捷地址"
+  },
+  "exam": {
+    "message": "考試",
+    "description": "考试快捷地址"
+  },
+  "joinType": {
+    "message": "參與管道",
+    "description": "考试快捷地址"
+  },
+  "limitTime": {
+    "message": "考試有效期",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "前往【優學院2.0】APP參加考試",
+    "description": "考试快捷地址"
+  },
+  "downloadApp": {
+    "message": "下載【優學院2.0】APP",
+    "description": "考试快捷地址"
+  },
+  "pc": {
+    "message": "電腦網頁端",
+    "description": "考试快捷地址"
+  },
+  "app": {
+    "message": "手機APP",
+    "description": "考试快捷地址"
+  },
+  "exe": {
+    "message": "電腦鎖屏客戶端",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip": {
+    "message": "攝像頭被佔用或權限被禁止，請允許攝像頭權限或關閉其他攝像頭應用",
+    "description": "考试快捷地址"
+  },
+  "fileSizeLimitType": {
+    "message": "附件大小不能超過{maxSize}",
+    "description": "考试快捷地址"
+  },
+  "notSupportTip": {
+    "message": "本次考試不支持網頁端答題，請按照指定的參與方式進入考試",
+    "description": "考试快捷地址"
+  },
+  "noFaceTip": {
+    "message": "本次考試開啟了人臉識別，完成人臉認證才能參加考試。",
+    "description": "考试快捷地址"
+  },
+  "identification": {
+    "message": "去認證",
+    "description": "考试快捷地址"
+  },
+  "timeLimit": {
+    "message": "考試限時",
+    "description": "考试快捷地址"
+  },
+  "minute": {
+    "message": "{n}分鐘",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "允許答題次數",
+    "description": "考试快捷地址"
+  },
+  "notLimit": {
+    "message": "不限制",
+    "description": "考试快捷地址"
+  },
+  "myScore": {
+    "message": "我的成績",
+    "description": "考试快捷地址"
+  },
+  "score": {
+    "message": "{n}分",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "已用答題次數",
+    "description": "考试快捷地址"
+  },
+  "examTime": {
+    "message": "考試時間",
+    "description": "考试快捷地址"
+  },
+  "lateLimit": {
+    "message": "遲到限制",
+    "description": "考试快捷地址"
+  },
+  "lateLimitTip": {
+    "message": "考試開始{min}分鐘後不允許再進入",
+    "description": "考试快捷地址"
+  },
+  "submitLimit": {
+    "message": "交卷限制",
+    "description": "考试快捷地址"
+  },
+  "submitLimitType": {
+    "message": "考試開始{min}分鐘內不允許交卷",
+    "description": "考试快捷地址"
+  },
+  "examMonitor": {
+    "message": "考試監控",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitorTip": {
+    "message": "已開啟{deviceMonitor}，中途請勿更換設備",
+    "description": "考试快捷地址"
+  },
+  "deviceMonitor": {
+    "message": "設備監控",
+    "description": "考试快捷地址"
+  },
+  "ipMonitorTip": {
+    "message": "已開啟{ipMonitor}，中途請勿切換網絡",
+    "description": "考试快捷地址"
+  },
+  "ipMonitor": {
+    "message": "IP監控",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip1": {
+    "message": "已開啟{cutScreenMonitor}，單次離開超過{s}秒或累計離開超過{times}次，系統將強制交卷",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip2": {
+    "message": "已開啟{cutScreenMonitor}，累計離開超過{times}次，系統將強制交卷",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitorTip3": {
+    "message": "已開啟{cutScreenMonitor}，單次離開超過{s}秒，系統將強制交卷",
+    "description": "考试快捷地址"
+  },
+  "cutScreenMonitor": {
+    "message": "切屏監控",
+    "description": "考试快捷地址"
+  },
+  "faceMonitorTip": {
+    "message": "已開啟{faceMonitor}，需要通過人臉驗證進入考試",
+    "description": "考试快捷地址"
+  },
+  "faceMonitor": {
+    "message": "人臉識別",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorTip": {
+    "message": "已開啟{cameraMonitor}，請全程開啟並正對攝像頭",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitor": {
+    "message": "攝像監控",
+    "description": "考试快捷地址"
+  },
+  "debugCamera": {
+    "message": "調試攝像頭",
+    "description": "考试快捷地址"
+  },
+  "stratExam": {
+    "message": "開始考試",
+    "description": "考试快捷地址"
+  },
+  "noPermissionTip": {
+    "message": "你沒有權限參加本次考試，如有疑問，請聯繫考試主辦方。",
+    "description": "考试快捷地址"
+  },
+  "multipleSessions": {
+    "message": "本次考試包含多個分段場次，考生可以參加的場次及具體時間，請登錄後查看",
+    "description": "考试快捷地址"
+  },
+  "loginToExam": {
+    "message": "登錄進入考試",
+    "description": "考试快捷地址"
+  },
+  "downloadAppBtn": {
+    "message": "下載App",
+    "description": "考试快捷地址"
+  },
+  "downloadExe": {
+    "message": "下載考試客戶端",
+    "description": "考试快捷地址"
+  },
+  "windows": {
+    "message": "Windows版",
+    "description": "考试快捷地址"
+  },
+  "windowsTip": {
+    "message": "支持Windows7及以上系統版本",
+    "description": "考试快捷地址"
+  },
+  "download": {
+    "message": "下載",
+    "description": "考试快捷地址"
+  },
+  "mac": {
+    "message": "Mac版",
+    "description": "考试快捷地址"
+  },
+  "macTip": {
+    "message": "支持macOS10.11及以上系統版本",
+    "description": "考试快捷地址"
+  },
+  "examEnvironmentTesting": {
+    "message": "考試環境檢測",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormality": {
+    "message": "設備異常",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormality": {
+    "message": "IP異常",
+    "description": "考试快捷地址"
+  },
+  "deviceAbnormalityTip": {
+    "message": "本次考試已開啟 設備監控，中途不允許更換設備或瀏覽器，請使用初次進入考試的設備答題。",
+    "description": "考试快捷地址"
+  },
+  "ipAbnormalityTip": {
+    "message": "本次考試已開啟 IP監控，中途不允許更換IP地址（切換網絡可能會導致IP地址發生變化)。",
+    "description": "考试快捷地址"
+  },
+  "useCodeTip": {
+    "message": "如遇特殊情況需要更換設備，請向監考老師索取驗證碼，{useCode}進入考試。",
+    "description": "考试快捷地址"
+  },
+  "useCode": {
+    "message": "使用驗證碼",
+    "description": "考试快捷地址"
+  },
+  "faceVerification": {
+    "message": "人臉驗證",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip": {
+    "message": "你還沒有完成人臉認證，無法通過人臉識別進入考試。",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationTip1": {
+    "message": "現在{goToCertification}或{useCodeEnter}",
+    "description": "考试快捷地址"
+  },
+  "goToCertification": {
+    "message": "去認證",
+    "description": "考试快捷地址"
+  },
+  "useCodeEnter": {
+    "message": "使用驗證碼進入考試",
+    "description": "考试快捷地址"
+  },
+  "examNotes": {
+    "message": "考試須知",
+    "description": "考试快捷地址"
+  },
+  "agreenExamNotes": {
+    "message": "我已閱讀並同意考試須知中的事項",
+    "description": "考试快捷地址"
+  },
+  "checkFirst": {
+    "message": "請先勾選",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc": {
+    "message": "請正對攝像頭，確保光線充足。無法進行人臉驗證？",
+    "description": "考试快捷地址"
+  },
+  "examCode": {
+    "message": "考試驗證碼",
+    "description": "考试快捷地址"
+  },
+  "examCodeTip": {
+    "message": "請向監考老師索取驗證碼並輸入：",
+    "description": "考试快捷地址"
+  },
+  "examCodeError": {
+    "message": "驗證碼錯誤",
+    "description": "考试快捷地址"
+  },
+  "cameraMonitorDesc": {
+    "message": "開啟了攝像監控的考試，系統將實時檢測並記錄考生離開座位、視線長時間偏離、與人交頭接耳等異常行為。因此請注意：{br}1. 考前請調整好攝像頭角度，使面部完整出鏡，並儘量正對攝像頭。{br}2. 考試過程中保持視線專注於屏幕，不要離開座位，不要與人交談。",
+    "description": "考试快捷地址"
+  },
+  "notStart": {
+    "message": "未開始",
+    "description": "考试快捷地址"
+  },
+  "inProgress": {
+    "message": "進行中",
+    "description": "考试快捷地址"
+  },
+  "ended": {
+    "message": "已結束",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "電腦網頁端 / 手機APP / 電腦鎖屏客戶端",
+    "description": "考试快捷地址"
+  },
+  "resultsNotAnnounce": {
+    "message": "本次考試不公佈成績",
+    "description": "考试快捷地址"
+  },
+  "resultsNotYetAnnounce": {
+    "message": "成績暫未公佈",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionsToBeReviewed": {
+    "message": "主觀題待批閱",
+    "description": "考试快捷地址"
+  },
+  "ipPermissionsTip": {
+    "message": "當前IP：{ip} 無進入考試權限，請使用規定電腦參加考試",
+    "description": "考试快捷地址"
+  },
+  "lateTip": {
+    "message": "你已超過本次考試允許遲到的時間，不能進入考試。",
+    "description": "考试快捷地址"
+  },
+  "noCamera": {
+    "message": "未檢測到攝像頭。",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip1": {
+    "message": "本次考試啟用了人臉識別，請使用有攝像頭的設備參加考試。",
+    "description": "考试快捷地址"
+  },
+  "noCameraTip2": {
+    "message": "本次考試啟用了攝像監控，請使用有攝像頭的設備參加考試。",
+    "description": "考试快捷地址"
+  },
+  "testCamera": {
+    "message": "正在檢測攝像頭",
+    "description": "考试快捷地址"
+  },
+  "examNotStart": {
+    "message": "考試未開始",
+    "description": "考试快捷地址"
+  },
+  "examEnded": {
+    "message": "考試已結束",
+    "description": "考试快捷地址"
+  },
+  "loadError": {
+    "message": "請求失敗",
+    "description": "考试快捷地址"
+  },
+  "expireTip": {
+    "message": "登入已過期，請重新登入。",
+    "description": "考试快捷地址"
+  },
+  "ltiTip1": {
+    "message": "如果需要通過手機APP/鎖屏客戶端參加考試，請使用U-Test帳號登錄。 你的用戶名為：{loginName}，初始密碼與用戶名一致。",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "通過手機APP/鎖屏用戶端參加考試，請使用U-Test帳號登錄。 你的用戶名為：{loginName}，初始密碼與用戶名一致。 登錄后在帳號管理中可以修改密碼或完善個人資訊。",
+    "description": "考试快捷地址"
+  },
+  "toUpdatePsd": {
+    "message": "去修改密碼",
+    "description": "考试快捷地址"
+  },
+  "accountTipHead": {
+    "message": "你好，{name}",
+    "description": "考试快捷地址"
+  },
+  "accountTipContent": {
+    "message": "歡迎使用優學院考試系統。 我們已為你註冊優學院帳號，如果你需要使用手機參加考試，請先下載【優學院2.0】APP，並使用優學院帳號登錄。",
+    "description": "考试快捷地址"
+  },
+  "userInfo": {
+    "message": "你的優學院帳號如下：",
+    "description": "考试快捷地址"
+  },
+  "userName1": {
+    "message": "用戶名",
+    "description": "考试快捷地址"
+  },
+  "passwordTip": {
+    "message": "初始密碼與使用者名一致，登錄后可以修改。",
+    "description": "考试快捷地址"
+  },
+  "examInfo": {
+    "message": "考試信息",
+    "description": "考试快捷地址"
+  },
+  "examName": {
+    "message": "考試名稱",
+    "description": "考试快捷地址"
+  },
+  "openAppTip": {
+    "message": "如果沒有成功啟動【優學院2.0】APP，請確認是否已安裝。 如果還沒有安裝，請先下載並安裝。",
+    "description": "考试快捷地址"
+  },
+  "openAppBtn": {
+    "message": "啟動【優學院2.0】APP",
+    "description": "考试快捷地址"
+  },
+  "save": {
+    "message": "儲存",
+    "description": "考试快捷地址"
+  },
+  "faceSuccess1": {
+    "message": "認證已通過",
+    "description": "考试快捷地址"
+  },
+  "faceVerificationDesc1": {
+    "message": "無法進行人臉驗證？",
+    "description": "考试快捷地址"
+  },
+  "close": {
+    "message": "關閉",
+    "description": "考试快捷地址"
+  },
+  "view": {
+    "message": "查看",
+    "description": "考试快捷地址"
+  },
+  "delete": {
+    "message": "刪除",
+    "description": "考试快捷地址"
+  },
+  "confirmDelete": {
+    "message": "確定刪除嗎？",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip": {
+    "message": "檔正在轉碼，請稍後再播放。",
+    "description": "考试快捷地址"
+  },
+  "transcodeTip1": {
+    "message": "檔正在轉碼中，請稍後再試",
+    "description": "考试快捷地址"
+  },
+  "clickToTry": {
+    "message": "點擊重試",
+    "description": "考试快捷地址"
+  },
+  "mute": {
+    "message": "靜音",
+    "description": "考试快捷地址"
+  },
+  "unmute": {
+    "message": "取消靜音",
+    "description": "考试快捷地址"
+  },
+  "play": {
+    "message": "播放",
+    "description": "考试快捷地址"
+  },
+  "pause": {
+    "message": "暫停",
+    "description": "考试快捷地址"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "考试快捷地址"
+  },
+  "exitFullscreen": {
+    "message": "退出全屏",
+    "description": "考试快捷地址"
+  },
+  "clickToRecord": {
+    "message": "點擊圖示開始錄音",
+    "description": "考试快捷地址"
+  },
+  "saving": {
+    "message": "保存中",
+    "description": "考试快捷地址"
+  },
+  "saveFail": {
+    "message": "保存失敗！",
+    "description": "考试快捷地址"
+  },
+  "saveSuccess": {
+    "message": "保存成功!",
+    "description": "考试快捷地址"
+  },
+  "reRecord": {
+    "message": "重錄",
+    "description": "考试快捷地址"
+  },
+  "recordingTip": {
+    "message": "已有正在錄音的音訊，請先關閉",
+    "description": "考试快捷地址"
+  },
+  "noRecordingTip": {
+    "message": "錄音許可權已被拒絕，請在瀏覽器設置中開啟錄音許可權",
+    "description": "考试快捷地址"
+  },
+  "uploadAudioFail": {
+    "message": "上傳音訊失敗，請檢查網路連接",
+    "description": "考试快捷地址"
+  },
+  "addFile": {
+    "message": "添加附件",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError1": {
+    "message": "最多上傳{n}個附件",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError2": {
+    "message": "檔不能超過{size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError3": {
+    "message": "不支援該類型檔",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError4": {
+    "message": "檔大小不符合",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError5": {
+    "message": "轉碼失敗",
+    "description": "考试快捷地址"
+  },
+  "uploadImgError": {
+    "message": "圖片大小不能超過{size}",
+    "description": "考试快捷地址"
+  },
+  "uploadMediaError": {
+    "message": "音訊/視頻不能超過{size}",
+    "description": "考试快捷地址"
+  },
+  "uploadFail": {
+    "message": "上傳失敗",
+    "description": "考试快捷地址"
+  },
+  "mark": {
+    "message": "標記",
+    "description": "考试快捷地址"
+  },
+  "clear": {
+    "message": "清除",
+    "description": "考试快捷地址"
+  },
+  "addMark": {
+    "message": "添加批註",
+    "description": "考试快捷地址"
+  },
+  "deleteMark": {
+    "message": "刪除批註",
+    "description": "考试快捷地址"
+  },
+  "playTimesError": {
+    "message": "播放次數參數錯誤",
+    "description": "考试快捷地址"
+  },
+  "manualRefresh": {
+    "message": "手動載入",
+    "description": "考试快捷地址"
+  },
+  "selectQuestionType": {
+    "message": "請選擇要添加的題型",
+    "description": "考试快捷地址"
+  },
+  "questionNum": {
+    "message": "{n} 道",
+    "description": "考试快捷地址"
+  },
+  "questionType": {
+    "message": "題型",
+    "description": "考试快捷地址"
+  },
+  "singleQ": {
+    "message": "單選題",
+    "description": "考试快捷地址"
+  },
+  "multipleQ": {
+    "message": "多選題",
+    "description": "考试快捷地址"
+  },
+  "judgmentQ": {
+    "message": "判斷題",
+    "description": "考试快捷地址"
+  },
+  "completion": {
+    "message": "填空題",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer": {
+    "message": "簡答題",
+    "description": "考试快捷地址"
+  },
+  "sortingQ": {
+    "message": "排序題",
+    "description": "考试快捷地址"
+  },
+  "comprehensiveQ": {
+    "message": "綜合題",
+    "description": "考试快捷地址"
+  },
+  "formulaCalculationQ": {
+    "message": "公式計算題",
+    "description": "考试快捷地址"
+  },
+  "blankQ": {
+    "message": "選詞填空題",
+    "description": "考试快捷地址"
+  },
+  "clozeQ": {
+    "message": "完形填空題",
+    "description": "考试快捷地址"
+  },
+  "dropDownQ": {
+    "message": "下拉選擇題",
+    "description": "考试快捷地址"
+  },
+  "oralSubjectQ": {
+    "message": "口語主觀題",
+    "description": "考试快捷地址"
+  },
+  "oralReadingQ": {
+    "message": "口語朗讀題",
+    "description": "考试快捷地址"
+  },
+  "single": {
+    "message": "單選",
+    "description": "考试快捷地址"
+  },
+  "multiple": {
+    "message": "多選",
+    "description": "考试快捷地址"
+  },
+  "judgment": {
+    "message": "判斷",
+    "description": "考试快捷地址"
+  },
+  "completion1": {
+    "message": "填空",
+    "description": "考试快捷地址"
+  },
+  "shortAnswer1": {
+    "message": "簡答",
+    "description": "考试快捷地址"
+  },
+  "stuAnswer": {
+    "message": "考生答案",
+    "description": "考试快捷地址"
+  },
+  "correctAnswer": {
+    "message": "正確答案",
+    "description": "考试快捷地址"
+  },
+  "questionScore": {
+    "message": "（{n}分）",
+    "description": "考试快捷地址"
+  },
+  "questionDesc": {
+    "message": "{n}小題，共{score}分",
+    "description": "考试快捷地址"
+  },
+  "answer": {
+    "message": "答案",
+    "description": "考试快捷地址"
+  },
+  "answerCanChangeTip": {
+    "message": "各個空答案順序可互換",
+    "description": "考试快捷地址"
+  },
+  "range": {
+    "message": "誤差範圍",
+    "description": "考试快捷地址"
+  },
+  "examineeRecording": {
+    "message": "考生錄音",
+    "description": "考试快捷地址"
+  },
+  "notAnswer": {
+    "message": "未作答",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip": {
+    "message": "請在此填寫答案",
+    "description": "考试快捷地址"
+  },
+  "enableUploadTip": {
+    "message": "發佈考試時，可以選擇是否允許考生上傳附件",
+    "description": "考试快捷地址"
+  },
+  "referenceAnswer": {
+    "message": "參考答案",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "選擇檔時，系統將暫時退出全屏狀態，請在30秒內完成選擇附件的操作並返回考試介面，然後點擊頁面任意空白位置回到全屏狀態，否則系統會將本次操作記錄為離開考試。",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTip": {
+    "message": "附件上傳或轉碼失敗，請刪除後重新上傳。",
+    "description": "考试快捷地址"
+  },
+  "sortTip": {
+    "message": "拖動選項排序",
+    "description": "考试快捷地址"
+  },
+  "yourAnswer": {
+    "message": "你的答案",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip": {
+    "message": "請輸入計算該答案的公式",
+    "description": "考试快捷地址"
+  },
+  "backSpace": {
+    "message": "退格",
+    "description": "考试快捷地址"
+  },
+  "answerRight": {
+    "message": "回答正確！",
+    "description": "考试快捷地址"
+  },
+  "answerError": {
+    "message": "回答錯誤！",
+    "description": "考试快捷地址"
+  },
+  "scoreResult": {
+    "message": "得分",
+    "description": "考试快捷地址"
+  },
+  "graded": {
+    "message": "已評分",
+    "description": "考试快捷地址"
+  },
+  "toBeRated": {
+    "message": "待評分",
+    "description": "考试快捷地址"
+  },
+  "comments": {
+    "message": "評語",
+    "description": "考试快捷地址"
+  },
+  "analy": {
+    "message": "解析",
+    "description": "考试快捷地址"
+  },
+  "rating": {
+    "message": "評分",
+    "description": "考试快捷地址"
+  },
+  "inputScoreTip": {
+    "message": "請輸入{num}的分數，可保留一位小數",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip": {
+    "message": "輸入評語，非必填",
+    "description": "考试快捷地址"
+  },
+  "inputCommentsTip1": {
+    "message": "評語不能超過{n}個字元",
+    "description": "考试快捷地址"
+  },
+  "option": {
+    "message": "選項",
+    "description": "考试快捷地址"
+  },
+  "optionContent": {
+    "message": "請輸入選項的內容",
+    "description": "考试快捷地址"
+  },
+  "addOption": {
+    "message": "添加選項",
+    "description": "考试快捷地址"
+  },
+  "inputAnaly": {
+    "message": "請輸入解析",
+    "description": "考试快捷地址"
+  },
+  "inputAnalyTip": {
+    "message": "解析不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip1": {
+    "message": "至少添加一個小題",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip": {
+    "message": "選項內容不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip1": {
+    "message": "選項內容不能為空",
+    "description": "考试快捷地址"
+  },
+  "optionContentTip2": {
+    "message": "最多添加{n}個選項",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip1": {
+    "message": "請設置正確的答案",
+    "description": "考试快捷地址"
+  },
+  "inputQuestionTitle": {
+    "message": "請輸入題目內容",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip1": {
+    "message": "題目內容不能為空",
+    "description": "考试快捷地址"
+  },
+  "questionTitleTip2": {
+    "message": "題目內容不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "insertBlankTip": {
+    "message": "鍵入tab鍵也可以插入一個填空項",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip2": {
+    "message": "一個空如果有多個答案請用 // 分隔",
+    "description": "考试快捷地址"
+  },
+  "inputAnswer": {
+    "message": "請輸入答案",
+    "description": "考试快捷地址"
+  },
+  "answerTip": {
+    "message": "本題各空答案可以互換",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip1": {
+    "message": "至少添加一個填空項",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip3": {
+    "message": "答案不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "inputAnswerTip4": {
+    "message": "答案不能為空",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestion": {
+    "message": "添加小題",
+    "description": "考试快捷地址"
+  },
+  "addSubQuestionTip": {
+    "message": "最多添加{n}個小題",
+    "description": "考试快捷地址"
+  },
+  "defineRange": {
+    "message": "定義隨機變數取值範圍",
+    "description": "考试快捷地址"
+  },
+  "minimum": {
+    "message": "最小值",
+    "description": "考试快捷地址"
+  },
+  "max": {
+    "message": "最大值",
+    "description": "考试快捷地址"
+  },
+  "precision": {
+    "message": "精度",
+    "description": "考试快捷地址"
+  },
+  "answerPrecision": {
+    "message": "答案精度",
+    "description": "考试快捷地址"
+  },
+  "allowedDeviation": {
+    "message": "允許誤差",
+    "description": "考试快捷地址"
+  },
+  "detectionFormula": {
+    "message": "檢測公式",
+    "description": "考试快捷地址"
+  },
+  "inputFormula": {
+    "message": "請輸入公式",
+    "description": "考试快捷地址"
+  },
+  "inputFormulaTip1": {
+    "message": "公式長度需要在1-{n}字元之間",
+    "description": "考试快捷地址"
+  },
+  "inputDeviationTip": {
+    "message": "誤差大小需要在0-{n}之間",
+    "description": "考试快捷地址"
+  },
+  "unableToCalculateAnswer": {
+    "message": "無法計算出答案",
+    "description": "考试快捷地址"
+  },
+  "inputRangeTip": {
+    "message": "請輸入正確的取值範圍",
+    "description": "考试快捷地址"
+  },
+  "readText": {
+    "message": "朗讀文本",
+    "description": "考试快捷地址"
+  },
+  "readTextTip": {
+    "message": "僅支持英語，不超過{n}個單詞",
+    "description": "考试快捷地址"
+  },
+  "wordNum": {
+    "message": "單詞數量",
+    "description": "考试快捷地址"
+  },
+  "readTextTip1": {
+    "message": "朗讀文本不能為空",
+    "description": "考试快捷地址"
+  },
+  "readTextTip2": {
+    "message": "朗讀文本不能超過{n}單詞",
+    "description": "考试快捷地址"
+  },
+  "inputReferenceAnswer": {
+    "message": "請輸入參考答案",
+    "description": "考试快捷地址"
+  },
+  "formula": {
+    "message": "計算公式",
+    "description": "考试快捷地址"
+  },
+  "remarked": {
+    "message": "已批閱",
+    "description": "考试快捷地址"
+  },
+  "toBeGradedManually": {
+    "message": "部分題目待人工評分",
+    "description": "考试快捷地址"
+  },
+  "correctAnswerNotAnnounce": {
+    "message": "考試暫未公佈正確答案",
+    "description": "考试快捷地址"
+  },
+  "select": {
+    "message": "請選擇",
+    "description": "考试快捷地址"
+  },
+  "paramErrorTip": {
+    "message": "頁面參數不完整",
+    "description": "考试快捷地址"
+  },
+  "getDataFail": {
+    "message": "獲取數據失敗",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQToBeGraded": {
+    "message": "主觀題待評分",
+    "description": "考试快捷地址"
+  },
+  "autoLoadNext": {
+    "message": "自動載入下一份",
+    "description": "考试快捷地址"
+  },
+  "completeRemark": {
+    "message": "完成批閱",
+    "description": "考试快捷地址"
+  },
+  "exitRemark": {
+    "message": "退出批閱",
+    "description": "考试快捷地址"
+  },
+  "nextPaper": {
+    "message": "下一份",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip": {
+    "message": "恭喜，您所負責班級的所有考生都已批閱完成！",
+    "description": "考试快捷地址"
+  },
+  "remarkTip": {
+    "message": "第{n}題未評分，是否結束？",
+    "description": "考试快捷地址"
+  },
+  "end": {
+    "message": "結束",
+    "description": "考试快捷地址"
+  },
+  "remarkSuccess": {
+    "message": "批閱成功",
+    "description": "考试快捷地址"
+  },
+  "remarkFail": {
+    "message": "保存批閱失敗",
+    "description": "考试快捷地址"
+  },
+  "answerHistoryTimes": {
+    "message": "第{n}次",
+    "description": "考试快捷地址"
+  },
+  "showAnswer": {
+    "message": "顯示答案",
+    "description": "考试快捷地址"
+  },
+  "hideAnswer": {
+    "message": "隱藏答案",
+    "description": "考试快捷地址"
+  },
+  "used": {
+    "message": "已使用",
+    "description": "考试快捷地址"
+  },
+  "preview": {
+    "message": "預覽",
+    "description": "考试快捷地址"
+  },
+  "saveAndExit": {
+    "message": "保存並退出",
+    "description": "考试快捷地址"
+  },
+  "more": {
+    "message": "更多",
+    "description": "考试快捷地址"
+  },
+  "batchEntry": {
+    "message": "批量錄入",
+    "description": "考试快捷地址"
+  },
+  "importFromBank": {
+    "message": "從題庫導入",
+    "description": "考试快捷地址"
+  },
+  "batchEditScore": {
+    "message": "批量修改本部分題目分值",
+    "description": "考试快捷地址"
+  },
+  "inputScore": {
+    "message": "輸入分數",
+    "description": "考试快捷地址"
+  },
+  "batchEditTimes": {
+    "message": "批量修改本部分音訊播放次數",
+    "description": "考试快捷地址"
+  },
+  "batchSetting": {
+    "message": "批量設置",
+    "description": "考试快捷地址"
+  },
+  "partName": {
+    "message": "名稱",
+    "description": "考试快捷地址"
+  },
+  "desc": {
+    "message": "說明",
+    "description": "考试快捷地址"
+  },
+  "savePaper": {
+    "message": "保存試卷",
+    "description": "考试快捷地址"
+  },
+  "editName": {
+    "message": "修改名稱",
+    "description": "考试快捷地址"
+  },
+  "fullScore": {
+    "message": "滿分",
+    "description": "考试快捷地址"
+  },
+  "inputPartName": {
+    "message": "請填寫部分名稱",
+    "description": "考试快捷地址"
+  },
+  "inputPartNameTip": {
+    "message": "部分名稱不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "inputPartDescTip": {
+    "message": "部分說明不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip": {
+    "message": "試卷名稱不能爲空",
+    "description": "考试快捷地址"
+  },
+  "inputPaperNameTip1": {
+    "message": "試卷名稱不能超過{n}字元",
+    "description": "考试快捷地址"
+  },
+  "newPaper": {
+    "message": "新建試卷",
+    "description": "考试快捷地址"
+  },
+  "firstPart": {
+    "message": "第一部分",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip1": {
+    "message": "本試卷已用於考試中，僅允許修改題目內容、答案與分值，不能修改試卷結構，或添加、刪除題目。 包含小題的題目，不允許添加、刪除小題。 {br}如果修改了題目答案或分值，已評分的試卷，須在考試中重新評分。",
+    "description": "考试快捷地址"
+  },
+  "previewTip": {
+    "message": "每個部分至少添加一道題才能保存或預覽",
+    "description": "考试快捷地址"
+  },
+  "previewTip1": {
+    "message": "第{n}題未保存，請先保存題目。",
+    "description": "考试快捷地址"
+  },
+  "savingTip": {
+    "message": "儲存，請稍候...",
+    "description": "考试快捷地址"
+  },
+  "addPartTip": {
+    "message": "每套試卷最多添加{n}個部分。",
+    "description": "考试快捷地址"
+  },
+  "editPart": {
+    "message": "修改部分",
+    "description": "考试快捷地址"
+  },
+  "deletePart": {
+    "message": "刪除部分",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip": {
+    "message": "刪除部分，將同時刪除該部分所有試題。 試卷中新建的試題預設不會保存至題庫中，刪除後無法恢復，請務必謹慎操作。 確定刪除嗎？",
+    "description": "考试快捷地址"
+  },
+  "deletePartTip1": {
+    "message": "至少保留一個部分。",
+    "description": "考试快捷地址"
+  },
+  "addPartQuestionTip": {
+    "message": "每個部分最多添加{n}道題。",
+    "description": "考试快捷地址"
+  },
+  "confirmCancelEdit": {
+    "message": "確定取消修改嗎？",
+    "description": "考试快捷地址"
+  },
+  "deleteQuestion": {
+    "message": "刪除題目",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteQuestion": {
+    "message": "確定刪除此題嗎？",
+    "description": "考试快捷地址"
+  },
+  "editSuccess": {
+    "message": "修改成功",
+    "description": "考试快捷地址"
+  },
+  "editFail": {
+    "message": "修改失敗",
+    "description": "考试快捷地址"
+  },
+  "importFail": {
+    "message": "匯入失敗",
+    "description": "考试快捷地址"
+  },
+  "exitTip": {
+    "message": "試卷和題目還沒有保存，此時退出，新建的題目將無法找回。 確定退出嗎？",
+    "description": "考试快捷地址"
+  },
+  "exitTip1": {
+    "message": "第{n}題未保存，此時離開，將不保存本次修改。 確定離開嗎？",
+    "description": "考试快捷地址"
+  },
+  "confirmExit": {
+    "message": "確定退出嗎？",
+    "description": "考试快捷地址"
+  },
+  "answered": {
+    "message": "已答",
+    "description": "考试快捷地址"
+  },
+  "interruptAnswer": {
+    "message": "中斷答題",
+    "description": "考试快捷地址"
+  },
+  "saveAnswerRecord": {
+    "message": "保存答題記錄",
+    "description": "考试快捷地址"
+  },
+  "submitPaper": {
+    "message": "交卷",
+    "description": "考试快捷地址"
+  },
+  "joinExamByCode": {
+    "message": "通過驗證碼進入考試",
+    "description": "考试快捷地址"
+  },
+  "examLimitTime": {
+    "message": "限時",
+    "description": "考试快捷地址"
+  },
+  "saved": {
+    "message": "已保存",
+    "description": "考试快捷地址"
+  },
+  "networkError": {
+    "message": "網路異常，試卷提交失敗！",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "系統已將答題記錄暫存在本地，請勿離開或關閉頁面，稍後再次嘗試手動提交。",
+    "description": "考试快捷地址"
+  },
+  "leftTimeTip": {
+    "message": "時間已不足1分鐘",
+    "description": "考试快捷地址"
+  },
+  "restoringAnswerRecords": {
+    "message": "正在恢復答題記錄，請稍候...",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip2": {
+    "message": "當前網路異常，無法正常載入試卷，請檢查本地網路，待網路恢復后再嘗試進入考試。",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip3": {
+    "message": "數據異常，無法正常載入試卷，請聯繫客服。",
+    "description": "考试快捷地址"
+  },
+  "notExitFullScreenTip": {
+    "message": "考試過程中，請勿退出全屏，否則將視為離開考試，可能會被判定為作弊，影響考試成績。",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip": {
+    "message": "請不要關閉網頁，系統正在提交試卷...",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip1": {
+    "message": "當前網路不穩定，請檢查網路連接是否正常。",
+    "description": "考试快捷地址"
+  },
+  "submitPaperErrorTip2": {
+    "message": "提交失敗，請不要關閉網頁，系統正在重新提交...",
+    "description": "考试快捷地址"
+  },
+  "submitSuccess": {
+    "message": "提交成功",
+    "description": "考试快捷地址"
+  },
+  "submitFail": {
+    "message": "提交失敗",
+    "description": "考试快捷地址"
+  },
+  "submiting": {
+    "message": "正在提交，請稍候...",
+    "description": "考试快捷地址"
+  },
+  "notAllowedSubmitTip": {
+    "message": "考試開始{time}分鐘內不允許交卷。",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip": {
+    "message": "確定交卷嗎？",
+    "description": "考试快捷地址"
+  },
+  "confirmPaperTip1": {
+    "message": "第{n}題未作答，確定要交卷嗎？",
+    "description": "考试快捷地址"
+  },
+  "confirmPaper": {
+    "message": "確定交卷",
+    "description": "考试快捷地址"
+  },
+  "timeOverTip": {
+    "message": "時間已用盡，3秒後自動交卷。",
+    "description": "考试快捷地址"
+  },
+  "nextPart": {
+    "message": "下個部分",
+    "description": "考试快捷地址"
+  },
+  "isLast": {
+    "message": "已經到底了",
+    "description": "考试快捷地址"
+  },
+  "examinee": {
+    "message": "考生",
+    "description": "考试快捷地址"
+  },
+  "result": {
+    "message": "成績",
+    "description": "考试快捷地址"
+  },
+  "objectiveQuestionScore": {
+    "message": "客觀題得分",
+    "description": "考试快捷地址"
+  },
+  "subjectiveQuestionScore": {
+    "message": "主觀題得分",
+    "description": "考试快捷地址"
+  },
+  "totalNumberOfQuestions": {
+    "message": "總題數",
+    "description": "考试快捷地址"
+  },
+  "totalScore": {
+    "message": "總分",
+    "description": "考试快捷地址"
+  },
+  "numberOfQuestions": {
+    "message": "題數",
+    "description": "考试快捷地址"
+  },
+  "scoreNum": {
+    "message": "分值",
+    "description": "考试快捷地址"
+  },
+  "addPart": {
+    "message": "添加部分",
+    "description": "考试快捷地址"
+  },
+  "numberOfPlaysAllowed": {
+    "message": "允許播放次數",
+    "description": "考试快捷地址"
+  },
+  "notLimit1": {
+    "message": "不限",
+    "description": "考试快捷地址"
+  },
+  "playTimesAllowed": {
+    "message": "允許播放次數：{n}次",
+    "description": "考试快捷地址"
+  },
+  "playedTimes": {
+    "message": "已播放{n}次",
+    "description": "考试快捷地址"
+  },
+  "playTimesOver": {
+    "message": "播放次數已用完",
+    "description": "考试快捷地址"
+  },
+  "switchPartTipAboutRecording": {
+    "message": "還有正在進行中的錄音，如果切換，將停止錄音，確定切換部分？",
+    "description": "考试快捷地址"
+  },
+  "submitTipAboutUpload": {
+    "message": "有檔正在上傳，請稍後提交",
+    "description": "考试快捷地址"
+  },
+  "saveTipAboutUpload": {
+    "message": "有檔正在上傳，請上傳完成之後保存",
+    "description": "考试快捷地址"
+  },
+  "addBlankTip": {
+    "message": "最多添加{n}個填空項",
+    "description": "考试快捷地址"
+  },
+  "addQuestionTip": {
+    "message": "最多添加{n}個小題",
+    "description": "考试快捷地址"
+  },
+  "notExitTip": {
+    "message": "考試過程中禁止退出全屏或離開考試頁面！",
+    "description": "考试快捷地址"
+  },
+  "leaveTimesTip": {
+    "message": "你已離開考試{n}次！",
+    "description": "考试快捷地址"
+  },
+  "continueAnswer": {
+    "message": "繼續答題",
+    "description": "考试快捷地址"
+  },
+  "finish": {
+    "message": "完成",
+    "description": "考试快捷地址"
+  },
+  "nextStep": {
+    "message": "下一步",
+    "description": "考试快捷地址"
+  },
+  "skip": {
+    "message": "跳過",
+    "description": "考试快捷地址"
+  },
+  "guide1": {
+    "message": "歡迎使用新版試卷，快來看看有哪些變化吧！",
+    "description": "考试快捷地址"
+  },
+  "guide2": {
+    "message": "在左側可以添加、移動、刪除試卷部分。 點擊部分標題，可以切換到對應的部分。",
+    "description": "考试快捷地址"
+  },
+  "guide3": {
+    "message": "點擊這裡，可以修改部分名稱和說明。",
+    "description": "考试快捷地址"
+  },
+  "guide4": {
+    "message": "新版試卷中，可以直接新建和編輯題目啦！ 在這裡選擇題型，即可添加一道新題。 當然也可以從題庫導入或者批量錄入題目。",
+    "description": "考试快捷地址"
+  },
+  "guide5": {
+    "message": "需要注意的是，在試卷裡新建的題目，預設不會自動保存到題庫中。 如果有需要，您可以在題庫中，使用【從試捲導入】功能，將試卷中的題目導入到題庫中。",
+    "description": "考试快捷地址"
+  },
+  "guide6": {
+    "message": "批量設置題目分值和音訊播放次數，移動到這裡了。",
+    "description": "考试快捷地址"
+  },
+  "guide7": {
+    "message": "編輯過程中，點擊這裡可以預覽試卷效果。",
+    "description": "考试快捷地址"
+  },
+  "guide8": {
+    "message": "試卷全部編輯完成後，記得點擊【保存】哦。",
+    "description": "考试快捷地址"
+  },
+  "paperUsedTip": {
+    "message": "本試卷已用於考試中，僅允許修改題目內容、答案與分值，不能修改試卷結構，或添加、刪除題目。 包含小題的題目，不允許添加、刪除小題。",
+    "description": "考试快捷地址"
+  },
+  "createPaper": {
+    "message": "創建試卷",
+    "description": "考试快捷地址"
+  },
+  "editPaper": {
+    "message": "編輯試卷",
+    "description": "考试快捷地址"
+  },
+  "previewPaper": {
+    "message": "預覽考卷",
+    "description": "考试快捷地址"
+  },
+  "teacherRemark": {
+    "message": "教師批閱",
+    "description": "考试快捷地址"
+  },
+  "answerHistory": {
+    "message": "答題記錄",
+    "description": "考试快捷地址"
+  },
+  "cameraErrorTip": {
+    "message": "攝像監控異常，攝像頭啟動失敗，請檢查是否存在以下情況：{br}1. 未開啟攝像頭許可權{br}2. 攝像頭被其他程式或網頁佔用{br}3. 網络異常{br}如果存在以上情況，請解決后再點擊【繼續答題】。",
+    "description": "考试快捷地址"
+  },
+  "cameraNoStartTip": {
+    "message": "請先開啟攝像頭",
+    "description": "考试快捷地址"
+  },
+  "choiceQue": {
+    "message": "選擇題目",
+    "description": "考试快捷地址"
+  },
+  "queBank": {
+    "message": "題庫",
+    "description": "考试快捷地址"
+  },
+  "insert": {
+    "message": "插入",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoices": {
+    "message": "已選{n}項",
+    "description": "考试快捷地址"
+  },
+  "mineQueBank": {
+    "message": "我的題庫",
+    "description": "考试快捷地址"
+  },
+  "schoolQueBank": {
+    "message": "本校題庫",
+    "description": "考试快捷地址"
+  },
+  "shareBank": {
+    "message": "共享題庫",
+    "description": "考试快捷地址"
+  },
+  "goBack": {
+    "message": "返回",
+    "description": "考试快捷地址"
+  },
+  "allQuestions": {
+    "message": "全部題目",
+    "description": "考试快捷地址"
+  },
+  "parsentArea": {
+    "message": "當前位置",
+    "description": "考试快捷地址"
+  },
+  "search": {
+    "message": "搜尋",
+    "description": "考试快捷地址"
+  },
+  "addQuestions": {
+    "message": "添加題目",
+    "description": "考试快捷地址"
+  },
+  "editQuestions": {
+    "message": "修改題目",
+    "description": "考试快捷地址"
+  },
+  "importQuestions": {
+    "message": "批量匯入題目",
+    "description": "考试快捷地址"
+  },
+  "addBank": {
+    "message": "添加資料夾",
+    "description": "考试快捷地址"
+  },
+  "editBank": {
+    "message": "修改資料夾",
+    "description": "考试快捷地址"
+  },
+  "bankNameError1": {
+    "message": "資料夾名稱不能為空",
+    "description": "考试快捷地址"
+  },
+  "bankNameError2": {
+    "message": "資料夾名稱不能超過200字元",
+    "description": "考试快捷地址"
+  },
+  "bankNameError3": {
+    "message": "資料夾名稱中不能包含以下字元：<>*？：“'|/\\~",
+    "description": "考试快捷地址"
+  },
+  "bankNameError4": {
+    "message": "資料夾最多添加5級，當前目錄為第{l}級，不能再添加子資料夾",
+    "description": "考试快捷地址"
+  },
+  "writeBankName": {
+    "message": "請輸入資料夾名稱",
+    "description": "考试快捷地址"
+  },
+  "addSuccess": {
+    "message": "添加成功",
+    "description": "考试快捷地址"
+  },
+  "addFail": {
+    "message": "添加失敗",
+    "description": "考试快捷地址"
+  },
+  "queBankStatistics": {
+    "message": "題庫統計",
+    "description": "考试快捷地址"
+  },
+  "importBank": {
+    "message": "匯出題庫",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "題目匯出數量超出上限。",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg": {
+    "message": "正在匯出，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg1": {
+    "message": "匯出時間可能較長，請耐心等待。",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg2": {
+    "message": "如遇瀏覽器攔截彈窗，請選擇始終允許網站彈出視窗。",
+    "description": "考试快捷地址"
+  },
+  "importLoadMsg3": {
+    "message": "正在匯出，已完成{n}/{m}",
+    "description": "考试快捷地址"
+  },
+  "cancelExportRecord": {
+    "message": "取消匯出",
+    "description": "考试快捷地址"
+  },
+  "imporBanktNone": {
+    "message": "該目錄下沒有題目可供匯出。",
+    "description": "考试快捷地址"
+  },
+  "importBankErrorMsg": {
+    "message": "匯出失敗",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsType": {
+    "message": "全部題型",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsLevel": {
+    "message": "全部難度",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTime": {
+    "message": "按創建時間倒序",
+    "description": "考试快捷地址"
+  },
+  "allQuestionsTimePositive": {
+    "message": "按創建時間正序",
+    "description": "考试快捷地址"
+  },
+  "writeSearch": {
+    "message": "搜索題目/資料夾",
+    "description": "考试快捷地址"
+  },
+  "titleDetails": {
+    "message": "題目詳情",
+    "description": "考试快捷地址"
+  },
+  "choiceQueType": {
+    "message": "選擇題型",
+    "description": "考试快捷地址"
+  },
+  "textImport": {
+    "message": "文本匯入",
+    "description": "考试快捷地址"
+  },
+  "paperImport": {
+    "message": "從試卷匯入",
+    "description": "考试快捷地址"
+  },
+  "paperImportError": {
+    "message": "在當前目錄導入試卷，資料夾層級將超出上限。 題庫最多支援5級目錄，請重新選擇資料夾導入。",
+    "description": "考试快捷地址"
+  },
+  "excelImport": {
+    "message": "Excel匯入",
+    "description": "考试快捷地址"
+  },
+  "importExcelLoadMsg": {
+    "message": "正在匯入，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "importSuccess": {
+    "message": "匯入成功",
+    "description": "考试快捷地址"
+  },
+  "hardlevels1": {
+    "message": "容易",
+    "description": "考试快捷地址"
+  },
+  "hardlevels2": {
+    "message": "較容易",
+    "description": "考试快捷地址"
+  },
+  "hardlevels3": {
+    "message": "一般",
+    "description": "考试快捷地址"
+  },
+  "hardlevels4": {
+    "message": "較難",
+    "description": "考试快捷地址"
+  },
+  "hardlevels5": {
+    "message": "困難",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplate": {
+    "message": "下載範本",
+    "description": "考试快捷地址"
+  },
+  "downloadTemplateMsg": {
+    "message": "下載Excel範本，並按照範本要求填寫題目",
+    "description": "考试快捷地址"
+  },
+  "uploadFile": {
+    "message": "上傳檔案",
+    "description": "考试快捷地址"
+  },
+  "uploadFileMsg": {
+    "message": "上傳填寫完成的Excel檔",
+    "description": "考试快捷地址"
+  },
+  "uploadFileError": {
+    "message": "部分題目填寫不規範，請檢查修改後再上傳",
+    "description": "考试快捷地址"
+  },
+  "uploadFileErrorMsg": {
+    "message": "第{n}行，{m}列，",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg": {
+    "message": "請先選擇題目",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg1": {
+    "message": "一次最多匯入200題",
+    "description": "考试快捷地址"
+  },
+  "paperChoiceQueMsg2": {
+    "message": "最多匯入200題",
+    "description": "考试快捷地址"
+  },
+  "choiceAll": {
+    "message": "全選",
+    "description": "考试快捷地址"
+  },
+  "moveSuccess": {
+    "message": "移動成功",
+    "description": "考试快捷地址"
+  },
+  "moveFail": {
+    "message": "移動失敗",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg1": {
+    "message": "資料夾層級不能超過5級，目標資料夾和當前資料夾的層級總和超過上限，不能移動。",
+    "description": "考试快捷地址"
+  },
+  "moveFailMsg2": {
+    "message": "目標資料夾中存在同名資料夾，不能移動。",
+    "description": "考试快捷地址"
+  },
+  "moveLoadMsg": {
+    "message": "正在移動，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "changeShareRange": {
+    "message": "修改共享範圍",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError1": {
+    "message": "請選擇指定老師",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacherError2": {
+    "message": "請選擇共享人",
+    "description": "考试快捷地址"
+  },
+  "shareTeacherEmpty": {
+    "message": "暫無指定老師",
+    "description": "考试快捷地址"
+  },
+  "shareNumOver": {
+    "message": "最多選擇100個教師",
+    "description": "考试快捷地址"
+  },
+  "shareLoadMsg": {
+    "message": "正在保存，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "queBankEmpty": {
+    "message": "當前目錄下沒有題目",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirmNew": {
+    "message": "確定刪除【{n}】嗎？",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm1": {
+    "message": "如果選擇【保留題目，只刪除資料夾】，刪除後，資料夾中包含的題目將被移動到根目錄下。",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm2": {
+    "message": "如果選擇【全部刪除】，資料夾中的題目將被一併刪除。",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm3": {
+    "message": "保留題目，只刪除資料夾",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm4": {
+    "message": "確認要刪除{x}等{n}項內容嗎？",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm6": {
+    "message": "刪除後數據無法恢復。",
+    "description": "考试快捷地址"
+  },
+  "deleteConfirm7": {
+    "message": "確認要刪除嗎？ 刪除後數據無法恢復。",
+    "description": "考试快捷地址"
+  },
+  "deleteLoadMsg": {
+    "message": "正在刪除，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "deleteAll": {
+    "message": "全部刪除",
+    "description": "考试快捷地址"
+  },
+  "deleteSuccess": {
+    "message": "删除成功",
+    "description": "考试快捷地址"
+  },
+  "deleteFail": {
+    "message": "刪除失敗",
+    "description": "考试快捷地址"
+  },
+  "hardLevel": {
+    "message": "難度",
+    "description": "考试快捷地址"
+  },
+  "schoolTeacher": {
+    "message": "本校教師",
+    "description": "考试快捷地址"
+  },
+  "allTeacher": {
+    "message": "全部教師",
+    "description": "考试快捷地址"
+  },
+  "appointTeacher": {
+    "message": "指定教師",
+    "description": "考试快捷地址"
+  },
+  "sameQueinPaper": {
+    "message": "試卷中已有相似題目",
+    "description": "考试快捷地址"
+  },
+  "alreadyinPaper": {
+    "message": "已在試卷中",
+    "description": "考试快捷地址"
+  },
+  "subQuestionNum": {
+    "message": "{n}個小題",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime": {
+    "message": "上次修改時間：{t}",
+    "description": "考试快捷地址"
+  },
+  "queLocation": {
+    "message": "所在位置",
+    "description": "考试快捷地址"
+  },
+  "founder": {
+    "message": "創建人",
+    "description": "考试快捷地址"
+  },
+  "own": {
+    "message": "我自己",
+    "description": "考试快捷地址"
+  },
+  "batchType1": {
+    "message": "重命名",
+    "description": "考试快捷地址"
+  },
+  "batchType2": {
+    "message": "移動",
+    "description": "考试快捷地址"
+  },
+  "batchType3": {
+    "message": "共享",
+    "description": "考试快捷地址"
+  },
+  "batchType5": {
+    "message": "修改",
+    "description": "考试快捷地址"
+  },
+  "batchType6": {
+    "message": "複製",
+    "description": "考试快捷地址"
+  },
+  "copySuccess": {
+    "message": "複製成功！ {y}已複製到你的{x}下。",
+    "description": "考试快捷地址"
+  },
+  "copyQuestion": {
+    "message": "題目",
+    "description": "考试快捷地址"
+  },
+  "copyFolder": {
+    "message": "資料夾",
+    "description": "考试快捷地址"
+  },
+  "copyFail": {
+    "message": "複製失敗",
+    "description": "考试快捷地址"
+  },
+  "copyLoadMsg": {
+    "message": "正在複製，請稍等......",
+    "description": "考试快捷地址"
+  },
+  "currentDirectory": {
+    "message": "當前目錄",
+    "description": "考试快捷地址"
+  },
+  "rootDirectory": {
+    "message": "根目錄",
+    "description": "考试快捷地址"
+  },
+  "targetFolder": {
+    "message": "請選擇目標資料夾。",
+    "description": "考试快捷地址"
+  },
+  "sharePeople": {
+    "message": "將題目共享給：",
+    "description": "考试快捷地址"
+  },
+  "justOwn": {
+    "message": "僅自己",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolTeacher": {
+    "message": "本校指定教師",
+    "description": "考试快捷地址"
+  },
+  "choiceschoolAllTeacher": {
+    "message": "本校所有教師",
+    "description": "考试快捷地址"
+  },
+  "choicesallTeacher": {
+    "message": "所有教師",
+    "description": "考试快捷地址"
+  },
+  "choiceTeacher": {
+    "message": "選擇教師",
+    "description": "考试快捷地址"
+  },
+  "searchTeacher": {
+    "message": "輸入教師姓名搜尋",
+    "description": "考试快捷地址"
+  },
+  "previousPage": {
+    "message": "上一頁",
+    "description": "考试快捷地址"
+  },
+  "NextPage": {
+    "message": "下一頁",
+    "description": "考试快捷地址"
+  },
+  "choicePage": {
+    "message": "跳轉",
+    "description": "考试快捷地址"
+  },
+  "totleQueNum": {
+    "message": "題目總數",
+    "description": "考试快捷地址"
+  },
+  "totleFolderNum": {
+    "message": "資料夾總數",
+    "description": "考试快捷地址"
+  },
+  "hardDistribution": {
+    "message": "難度分佈",
+    "description": "考试快捷地址"
+  },
+  "queTypeDistribution": {
+    "message": "題型分佈",
+    "description": "考试快捷地址"
+  },
+  "tagsMsg": {
+    "message": "標籤（30個字以內，回車確認，最多添加3個）：",
+    "description": "考试快捷地址"
+  },
+  "analysisTit": {
+    "message": "此處填寫解析，沒有可不填",
+    "description": "考试快捷地址"
+  },
+  "stemArea": {
+    "message": "在此處輸入題幹部分的內容",
+    "description": "考试快捷地址"
+  },
+  "choiceA": {
+    "message": "選項一",
+    "description": "考试快捷地址"
+  },
+  "choiceB": {
+    "message": "選項二",
+    "description": "考试快捷地址"
+  },
+  "choiceC": {
+    "message": "選項三",
+    "description": "考试快捷地址"
+  },
+  "choiceD": {
+    "message": "選項四",
+    "description": "考试快捷地址"
+  },
+  "completionStem": {
+    "message": "奧運精神是 （ ） 、 （ ） 、 （ ） 。",
+    "description": "考试快捷地址"
+  },
+  "completionAnswer": {
+    "message": "更快 || 更高 || 更強",
+    "description": "考试快捷地址"
+  },
+  "shortAnsStem": {
+    "message": "在此處輸入簡答題題幹",
+    "description": "考试快捷地址"
+  },
+  "shortAnsAnswer": {
+    "message": "在此處填寫簡答題答案",
+    "description": "考试快捷地址"
+  },
+  "saveErrorTips2": {
+    "message": "部分試題保存失敗",
+    "description": "考试快捷地址"
+  },
+  "numExceededTips": {
+    "message": "單次錄入題目數量不能超過200道",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage1": {
+    "message": "題目不能為空",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage2": {
+    "message": "選項不足兩個",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage3": {
+    "message": "選項不能超過20個",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage4": {
+    "message": "正確答案不能爲空",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage5": {
+    "message": "正確答案選項中的內容不能為空",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage6": {
+    "message": "請填寫選項內容，或將多余的選項刪除",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage7": {
+    "message": "正確答案的個數不能超過選項的個數",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage8": {
+    "message": "正確答案中不能出現非選擇項",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage9": {
+    "message": "正確答案中有重複項",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage10": {
+    "message": "參考答案的內容不能為空",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage11": {
+    "message": "正確答案數量不能少於空的數量",
+    "description": "考试快捷地址"
+  },
+  "incompleteMessage12": {
+    "message": "最多添加20個填空項",
+    "description": "考试快捷地址"
+  },
+  "completionAnswerTips": {
+    "message": "注：本題各空答案可以互換，內容匹配就算正確",
+    "description": "考试快捷地址"
+  },
+  "changeScoreText": {
+    "message": "確定批量修改分值嗎?",
+    "description": "考试快捷地址"
+  },
+  "scoreTips": {
+    "message": "請輸入有效的分數",
+    "description": "考试快捷地址"
+  },
+  "setScoreTips": {
+    "message": "先創建試題",
+    "description": "考试快捷地址"
+  },
+  "detailDescription": {
+    "message": "詳細說明",
+    "description": "考试快捷地址"
+  },
+  "batchChangeScore": {
+    "message": "批量修改分值",
+    "description": "考试快捷地址"
+  },
+  "questionEditarea": {
+    "message": "題目編輯區域",
+    "description": "考试快捷地址"
+  },
+  "questionPreviewarea": {
+    "message": "題目預覽區域",
+    "description": "考试快捷地址"
+  },
+  "questionEdit1": {
+    "message": "1. 此功能支援的題型：單選、多選、判斷、填空、簡答。",
+    "description": "考试快捷地址"
+  },
+  "questionEdit2": {
+    "message": "2.目前僅適用於純文本題目匯入，不支持包含圖片、公式、視頻、音訊的題目。",
+    "description": "考试快捷地址"
+  },
+  "questionEdit3": {
+    "message": "3.可以通過兩種方式添加題目：（1）點擊上方的題型添加新題，按照範本格式編輯題目。 （2）直接將word文檔中的題目文本粘貼到這裡，系統將自動識別題型，生成題目。",
+    "description": "考试快捷地址"
+  },
+  "questionEdit4": {
+    "message": "4.題目匯入后，請在右側預覽區域檢查題型、分值、答案、解析等信息識別是否準確，確認后再保存。",
+    "description": "考试快捷地址"
+  },
+  "correct": {
+    "message": "正確",
+    "description": "考试快捷地址"
+  },
+  "incorrect": {
+    "message": "錯誤",
+    "description": "考试快捷地址"
+  },
+  "quesOrder": {
+    "message": "第{n}題，",
+    "description": "考试快捷地址"
+  },
+  "saveOutText": {
+    "message": "您有題目沒有保存，確定退出嗎?",
+    "description": "考试快捷地址"
+  },
+  "bindDownload": {
+    "message": "下載Moodle題庫格式轉換工具",
+    "description": "考试快捷地址"
+  },
+  "downloadMoodleTitle": {
+    "message": "使用方法",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc1": {
+    "message": "1、下載並安裝格式轉換工具（僅支持Windows系統）。",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc2": {
+    "message": "2、從Moodle平臺將題庫導出成xml格式檔（僅支持選擇題、判斷題、填空題、簡答題）。",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc3": {
+    "message": "3、使用格式轉換工具，將Moodle導出的xml檔，轉換成Excel格式。",
+    "description": "考试快捷地址"
+  },
+  "downloadDesc4": {
+    "message": "4、使用ULearning的批量匯入功能，上傳Excel檔，完成題庫匯入。",
+    "description": "考试快捷地址"
+  },
+  "alreadyChoicesAll": {
+    "message": "已選{n}項",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst1": {
+    "message": "1、使用此功能，可以匯出當前資料夾及其子資料夾中的所有題目。",
+    "description": "考试快捷地址"
+  },
+  "importLoadFirst2": {
+    "message": "2、目前僅支持匯出Excel格式，暫不支持匯出題目中的圖片、音訊、視頻等附件。",
+    "description": "考试快捷地址"
+  },
+  "startImport": {
+    "message": "開始匯出",
+    "description": "考试快捷地址"
+  },
+  "queBankEmptyNew": {
+    "message": "沒有找到符合條件的題目",
+    "description": "考试快捷地址"
+  },
+  "examUploadTipNew": {
+    "message": "選擇檔時，系統將暫時退出全屏狀態，請在60秒內完成選擇附件的操作並返回考試頁面，然後點擊頁面任意空白位置回到全屏狀態，否則系統會將本次操作記錄為離開考試。",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip": {
+    "message": "請按指定範圍打分",
+    "description": "考试快捷地址"
+  },
+  "textCount": {
+    "message": "{n}字",
+    "description": "考试快捷地址"
+  },
+  "noSkipping": {
+    "message": "本次考試禁止跳題，請按順序作答。",
+    "description": "考试快捷地址"
+  },
+  "preQue": {
+    "message": "上一題",
+    "description": "考试快捷地址"
+  },
+  "nextQue": {
+    "message": "下一題",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "已經到底了",
+    "description": "考试快捷地址"
+  },
+  "quitExam": {
+    "message": "退出考試",
+    "description": "考试快捷地址"
+  },
+  "networkMsg1": {
+    "message": "當前網路不穩定，繼續答題可能造成答題記錄丟失。",
+    "description": "考试快捷地址"
+  },
+  "networkMsg2": {
+    "message": "如果網路暫時無法恢復，建議徵得教師同意后，先退出考試，擇期再安排重考。",
+    "description": "考试快捷地址"
+  },
+  "submissionExam": {
+    "message": "強制交卷",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip1": {
+    "message": "你已離開考試達到{n}次，按照考試監控設置，即將強制交卷。",
+    "description": "考试快捷地址"
+  },
+  "submissionExamTip2": {
+    "message": "你已離開考試超過{n}秒，按照考試監控設置，即將強制交卷。",
+    "description": "考试快捷地址"
+  },
+  "submitingNew": {
+    "message": "正在提交...",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTip": {
+    "message": "離開{n}次 ，系統將強制交卷！",
+    "description": "考试快捷地址"
+  },
+  "leaveLimitTimeTip": {
+    "message": "本次已離開{n}秒，離開超過{m}秒，系統將強制交卷！",
+    "description": "考试快捷地址"
+  },
+  "uploadFileType": {
+    "message": "上傳附件",
+    "description": "考试快捷地址"
+  },
+  "uploadFinishTip": {
+    "message": "附件選擇完成後，請點擊【繼續答題】返回考試。",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUpload": {
+    "message": "掃碼上傳",
+    "description": "考试快捷地址"
+  },
+  "uploadByPhone": {
+    "message": "手機掃碼上傳",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc": {
+    "message": "使用手機掃碼后，即可用手機上傳檔至電腦端。",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadDesc1": {
+    "message": "二維碼{num}分鐘內有效，過期后請重新打開彈窗掃碼。",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip": {
+    "message": "請使用行動裝置掃碼，或修改瀏覽器設備類型標識",
+    "description": "考试快捷地址"
+  },
+  "scanCodeUploadTip1": {
+    "message": "連結已過期",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "從相冊選擇",
+    "description": "考试快捷地址"
+  },
+  "selectFile": {
+    "message": "選擇文件",
+    "description": "考试快捷地址"
+  },
+  "uploadFirst": {
+    "message": "請先上傳檔",
+    "description": "考试快捷地址"
+  },
+  "submitToPC": {
+    "message": "提交至電腦端",
+    "description": "考试快捷地址"
+  },
+  "submitFileSuccess": {
+    "message": "上傳成功！",
+    "description": "考试快捷地址"
+  },
+  "submitFileFail": {
+    "message": "上傳失敗！",
+    "description": "考试快捷地址"
+  },
+  "continueUpload": {
+    "message": "繼續上傳",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip1": {
+    "message": "單個文件不超過{size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip2": {
+    "message": "每次最多上傳{num}個檔",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "手機端上傳檔大小不能超過{size}",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip4": {
+    "message": "每道題最多上傳{n}個附件",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip5": {
+    "message": "檔正在上傳，請等待上傳完成再提交",
+    "description": "考试快捷地址"
+  },
+  "exit": {
+    "message": "退出",
+    "description": "考试快捷地址"
+  },
+  "exitUploadTip": {
+    "message": "檔未提交，確定離開嗎？",
+    "description": "考试快捷地址"
+  },
+  "qrCodeOver": {
+    "message": "二維碼已失效， 請點擊{refresh}",
+    "description": "考试快捷地址"
+  },
+  "refresh": {
+    "message": "刷新",
+    "description": "考试快捷地址"
+  },
+  "uploadFailTipNew": {
+    "message": "檔上傳或轉碼失敗，請嘗試轉碼后再上傳。",
+    "description": "考试快捷地址"
+  },
+  "publisher": {
+    "message": "發佈人",
+    "description": "考试快捷地址"
+  },
+  "examBatch": {
+    "message": "考試場次",
+    "description": "考试快捷地址"
+  },
+  "examBatchNums": {
+    "message": "{n}個",
+    "description": "考试快捷地址"
+  },
+  "examMonitorConsole": {
+    "message": "考試監控台",
+    "description": "考试快捷地址"
+  },
+  "enterCode": {
+    "message": "請輸入考試備用驗證碼",
+    "description": "考试快捷地址"
+  },
+  "monitorConsole": {
+    "message": "考試移動監控台",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "驗證碼已失效",
+    "description": "考试快捷地址"
+  },
+  "answerTimeLimit": {
+    "message": "答題限時",
+    "description": "考试快捷地址"
+  },
+  "answerTimes": {
+    "message": "{n}次",
+    "description": "考试快捷地址"
+  },
+  "batchArrangement": {
+    "message": "場次安排",
+    "description": "考试快捷地址"
+  },
+  "allBatchs": {
+    "message": "全部場次",
+    "description": "考试快捷地址"
+  },
+  "allClasses": {
+    "message": "全部班級",
+    "description": "考试快捷地址"
+  },
+  "all": {
+    "message": "全部",
+    "description": "考试快捷地址"
+  },
+  "notApproved": {
+    "message": "待批閱",
+    "description": "考试快捷地址"
+  },
+  "readed": {
+    "message": "已批閱",
+    "description": "考试快捷地址"
+  },
+  "notSubmitted": {
+    "message": "未提交",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "請從電腦端查看和批閱試卷",
+    "description": "考试快捷地址"
+  },
+  "selectBatch": {
+    "message": "選擇場次",
+    "description": "考试快捷地址"
+  },
+  "selectClass": {
+    "message": "選擇班級",
+    "description": "考试快捷地址"
+  },
+  "totalBatch": {
+    "message": "共{n}個場次",
+    "description": "考试快捷地址"
+  },
+  "ownSpieltag": {
+    "message": "只看我的班級所在場次",
+    "description": "考试快捷地址"
+  },
+  "batchIndex": {
+    "message": "場次{index}",
+    "description": "考试快捷地址"
+  },
+  "totalNums": {
+    "message": "總人數",
+    "description": "考试快捷地址"
+  },
+  "class": {
+    "message": "班級",
+    "description": "考试快捷地址"
+  },
+  "student": {
+    "message": "學生",
+    "description": "考试快捷地址"
+  },
+  "signInCode": {
+    "message": "簽到碼",
+    "description": "考试快捷地址"
+  },
+  "verificationCode": {
+    "message": "備用驗證碼",
+    "description": "考试快捷地址"
+  },
+  "notEnter": {
+    "message": "未進入",
+    "description": "考试快捷地址"
+  },
+  "signedIn": {
+    "message": "已簽到",
+    "description": "考试快捷地址"
+  },
+  "haveEntered": {
+    "message": "已進入",
+    "description": "考试快捷地址"
+  },
+  "leave": {
+    "message": "離開",
+    "description": "考试快捷地址"
+  },
+  "answering": {
+    "message": "答題中",
+    "description": "考试快捷地址"
+  },
+  "handInExam": {
+    "message": "已交卷",
+    "description": "考试快捷地址"
+  },
+  "answerTimes1": {
+    "message": "第{n}次答題",
+    "description": "考试快捷地址"
+  },
+  "copyLink": {
+    "message": "複製連結",
+    "description": "考试快捷地址"
+  },
+  "wx": {
+    "message": "微信",
+    "description": "考试快捷地址"
+  },
+  "shareTo": {
+    "message": "分享到",
+    "description": "考试快捷地址"
+  },
+  "behaviorRecord": {
+    "message": "監控記錄",
+    "description": "考试快捷地址"
+  },
+  "exe1": {
+    "message": "鎖屏用戶端",
+    "description": "考试快捷地址"
+  },
+  "notSignIn": {
+    "message": "未簽到",
+    "description": "考试快捷地址"
+  },
+  "intoPage": {
+    "message": "進入頁面",
+    "description": "考试快捷地址"
+  },
+  "leavePage": {
+    "message": "離開頁面",
+    "description": "考试快捷地址"
+  },
+  "leavePageTimeTip": {
+    "message": "離開時間 > 5秒",
+    "description": "考试快捷地址"
+  },
+  "replaceDevice": {
+    "message": "更換設備",
+    "description": "考试快捷地址"
+  },
+  "replaceIp": {
+    "message": "更換IP",
+    "description": "考试快捷地址"
+  },
+  "commitExam": {
+    "message": "交卷",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip1": {
+    "message": "離開達到規定次數，系統強制交卷",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip2": {
+    "message": "離開超過規定時長，系統強制交卷",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip3": {
+    "message": "系統自動補交",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "答題時間用盡，系統自動收卷",
+    "description": "考试快捷地址"
+  },
+  "signinCode": {
+    "message": "考試簽到碼",
+    "description": "考试快捷地址"
+  },
+  "refreshed": {
+    "message": "已刷新",
+    "description": "考试快捷地址"
+  },
+  "refreshInterval": {
+    "message": "刷新間隔",
+    "description": "考试快捷地址"
+  },
+  "intervalTime": {
+    "message": "{seconds}秒",
+    "description": "考试快捷地址"
+  },
+  "signinCodeTip": {
+    "message": "1. 請登錄【優學院2.0】APP 掃碼簽到。 {br} 2. 簽到后，請使用簽到的設備進入考試答題，中途不能更換設備，特殊情況請向監考老師索取驗證碼更換。",
+    "description": "考试快捷地址"
+  },
+  "examVerificationCode": {
+    "message": "考試備用驗證碼",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "考生遇特殊情況無法進入考試時，可憑此驗證碼進入，包括：{br}- 開啟了設備 / IP監控的考試，考生中途需要更換設備或 IP。 {br1}- 開啟了人臉識別的考試，考生無法通過人臉驗證",
+    "description": "考试快捷地址"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "驗證碼{minute}內有效，失效後請刷新重新獲取。",
+    "description": "考试快捷地址"
+  },
+  "noExamTip": {
+    "message": "沒有搜尋到相關的考試",
+    "description": "考试快捷地址"
+  },
+  "noMore": {
+    "message": "沒有更多了",
+    "description": "考试快捷地址"
+  },
+  "errorTip": {
+    "message": "請求失敗，請重新載入",
+    "description": "考试快捷地址"
+  },
+  "noStudentTip": {
+    "message": "沒有數據,請給考試添加學生或者修改搜索條件",
+    "description": "考试快捷地址"
+  },
+  "pulling": {
+    "message": "下拉即可刷新...",
+    "description": "考试快捷地址"
+  },
+  "loosing": {
+    "message": "釋放即可刷新...",
+    "description": "考试快捷地址"
+  },
+  "loading": {
+    "message": "載入中...",
+    "description": "考试快捷地址"
+  },
+  "enterTip": {
+    "message": "輸入學生學號或姓名",
+    "description": "考试快捷地址"
+  },
+  "noData": {
+    "message": "暫無數據",
+    "description": "考试快捷地址"
+  },
+  "copySuccess1": {
+    "message": "已複製",
+    "description": "考试快捷地址"
+  },
+  "shareTip": {
+    "message": "請先安裝微信用戶端",
+    "description": "考试快捷地址"
+  },
+  "tokenTip": {
+    "message": "已在其他終端登錄",
+    "description": "考试快捷地址"
+  },
+  "scanTip": {
+    "message": "請掃描正確的二維碼",
+    "description": "考试快捷地址"
+  },
+  "forceSubmit": {
+    "message": "提前收卷",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip": {
+    "message": "教師提前收卷，試卷將在{seconds}秒後自動提交，請勿離開或關閉頁面",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip5": {
+    "message": "教師提前收卷",
+    "description": "考试快捷地址"
+  },
+  "intoExamTime": {
+    "message": "進入考試時間",
+    "description": "考试快捷地址"
+  },
+  "answerUsedTime": {
+    "message": "已用答題時長",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip1": {
+    "message": "考生正在答題，使用此功能，將強制回收考生試卷。 收卷可能會有10秒~1分鐘左右的延遲。 此操作不可撤回，請謹慎使用。",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitTip3": {
+    "message": "確定提前收卷嗎？",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitSuccess": {
+    "message": "請求發送成功",
+    "description": "考试快捷地址"
+  },
+  "forceSubmitFail": {
+    "message": "提前收卷失敗",
+    "description": "考试快捷地址"
+  },
+  "forceSubmiting": {
+    "message": "收卷中",
+    "description": "考试快捷地址"
+  },
+  "screenshot": {
+    "message": "截圖",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip6": {
+    "message": "違規截圖，系統強制交卷",
+    "description": "考试快捷地址"
+  },
+  "questionTrain": {
+    "message": "題庫訓練",
+    "description": "考试快捷地址"
+  },
+  "questionTrainManage": {
+    "message": "題庫訓練管理",
+    "description": "考试快捷地址"
+  },
+  "trainProgress": {
+    "message": "訓練進度",
+    "description": "考试快捷地址"
+  },
+  "importQue": {
+    "message": "匯入題目",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg1": {
+    "message": "導入成功，新增{n}道題。",
+    "description": "考试快捷地址"
+  },
+  "importQueSuccessMsg2": {
+    "message": "題庫訓練僅支持客觀題和填空題，已自動跳過不支持的題型。",
+    "description": "考试快捷地址"
+  },
+  "trainMsg": {
+    "message": "請從個人/本校題庫中，選擇開放給學生練習的題目，導入到當前訓練題庫中。 僅課程管理員可以導入/移除題目。",
+    "description": "考试快捷地址"
+  },
+  "deleteBank": {
+    "message": "清空題庫",
+    "description": "考试快捷地址"
+  },
+  "deleteBankMsg": {
+    "message": "確定清空題庫嗎？",
+    "description": "考试快捷地址"
+  },
+  "previewError": {
+    "message": "該題目在題庫中已被刪除",
+    "description": "考试快捷地址"
+  },
+  "batchDelete": {
+    "message": "批量移除",
+    "description": "考试快捷地址"
+  },
+  "queNum": {
+    "message": "題數：{n}",
+    "description": "考试快捷地址"
+  },
+  "answeredNum": {
+    "message": "已答人數",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "平均答題次數",
+    "description": "考试快捷地址"
+  },
+  "firstAccuracy": {
+    "message": "首次正確率",
+    "description": "考试快捷地址"
+  },
+  "operation": {
+    "message": "操作",
+    "description": "考试快捷地址"
+  },
+  "removeQue": {
+    "message": "移除",
+    "description": "考试快捷地址"
+  },
+  "removeQueTitle": {
+    "message": "移除題目",
+    "description": "考试快捷地址"
+  },
+  "removeQueMsg": {
+    "message": "確定移除所選題目嗎？",
+    "description": "考试快捷地址"
+  },
+  "previewQue": {
+    "message": "預覽題目",
+    "description": "考试快捷地址"
+  },
+  "searchStu": {
+    "message": "搜索學生",
+    "description": "考试快捷地址"
+  },
+  "export": {
+    "message": "匯出",
+    "description": "考试快捷地址"
+  },
+  "studentID": {
+    "message": "學號",
+    "description": "考试快捷地址"
+  },
+  "studentName": {
+    "message": "姓名",
+    "description": "考试快捷地址"
+  },
+  "answerProgress": {
+    "message": "已答題數 （答題進度）",
+    "description": "考试快捷地址"
+  },
+  "errorRate": {
+    "message": "答錯題數（錯誤率）",
+    "description": "考试快捷地址"
+  },
+  "progress": {
+    "message": "進度",
+    "description": "考试快捷地址"
+  },
+  "rightRate": {
+    "message": "正確率",
+    "description": "考试快捷地址"
+  },
+  "practice": {
+    "message": "順序練習",
+    "description": "考试快捷地址"
+  },
+  "errorQuestion": {
+    "message": "錯題",
+    "description": "考试快捷地址"
+  },
+  "bankClosed": {
+    "message": "題庫已關閉",
+    "description": "考试快捷地址"
+  },
+  "noBank": {
+    "message": "題庫不存在",
+    "description": "考试快捷地址"
+  },
+  "notAnswerNum": {
+    "message": "未答",
+    "description": "考试快捷地址"
+  },
+  "answerErrorNum": {
+    "message": "答錯",
+    "description": "考试快捷地址"
+  },
+  "errorRate1": {
+    "message": "錯誤率",
+    "description": "考试快捷地址"
+  },
+  "submit": {
+    "message": "提交",
+    "description": "考试快捷地址"
+  },
+  "answerCard": {
+    "message": "答題卡",
+    "description": "考试快捷地址"
+  },
+  "questionDelete": {
+    "message": "題目已被刪除，請刷新頁面后重試",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteTip": {
+    "message": "題目已移除",
+    "description": "考试快捷地址"
+  },
+  "questionDeleteFail": {
+    "message": "題目移除失敗",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "暫無題目",
+    "description": "考试快捷地址"
+  },
+  "trainPageTip": {
+    "message": "題庫訓練暫時僅支持電腦端",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip": {
+    "message": "系統檢測到你已經從另外一個頁面進入考試，如果需要重新進入，請先關閉另外一個答題頁面。",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip1": {
+    "message": "如果遇到異常情況，請向教師索取驗證碼，使用驗證碼進入。",
+    "description": "考试快捷地址"
+  },
+  "submitSuccessTip": {
+    "message": "交卷成功",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip7": {
+    "message": "時間用盡，系統自動交卷",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip4": {
+    "message": "系統已將答題記錄暫存在本地，稍後再次嘗試手動提交。",
+    "description": "考试快捷地址"
+  },
+  "batchRemark": {
+    "message": "批量批閱",
+    "description": "考试快捷地址"
+  },
+  "lateTime": {
+    "message": "遲到時間",
+    "description": "考试快捷地址"
+  },
+  "lateTimeTip": {
+    "message": "超過{minute}分鐘不允許進入",
+    "description": "考试快捷地址"
+  },
+  "submitTime": {
+    "message": "交卷時間",
+    "description": "考试快捷地址"
+  },
+  "submitTimeTip": {
+    "message": "{minute}分鐘內不允許交卷",
+    "description": "考试快捷地址"
+  },
+  "usedPaper": {
+    "message": "所用試卷",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip1": {
+    "message": "{n}套",
+    "description": "考试快捷地址"
+  },
+  "usedPaperTip2": {
+    "message": "隨機組卷",
+    "description": "考试快捷地址"
+  },
+  "submitRecord": {
+    "message": "提交記錄",
+    "description": "考试快捷地址"
+  },
+  "times": {
+    "message": "第{n}次",
+    "description": "考试快捷地址"
+  },
+  "remarkPageTip": {
+    "message": "批閱狀態下，僅顯示待批閱的題目。",
+    "description": "考试快捷地址"
+  },
+  "remarkScoreTip1": {
+    "message": "請輸入{num}的數位",
+    "description": "考试快捷地址"
+  },
+  "choiceRemarkPaper": {
+    "message": "請選擇要批閱的試卷",
+    "description": "考试快捷地址"
+  },
+  "subQue": {
+    "message": "主觀題：",
+    "description": "考试快捷地址"
+  },
+  "remarkProgress": {
+    "message": "批閱進度：",
+    "description": "考试快捷地址"
+  },
+  "remarkMsg": {
+    "message": "注意：學生如果有多次提交記錄，批量批閱僅顯示最新一次",
+    "description": "考试快捷地址"
+  },
+  "remarkQueEmpty": {
+    "message": "該試卷沒有需要人工評分的題目",
+    "description": "考试快捷地址"
+  },
+  "noScore": {
+    "message": "未評分",
+    "description": "考试快捷地址"
+  },
+  "noStudentSubmit": {
+    "message": "沒有學生提交",
+    "description": "考试快捷地址"
+  },
+  "anonymous": {
+    "message": "匿名",
+    "description": "考试快捷地址"
+  },
+  "mark1": {
+    "message": "批註",
+    "description": "考试快捷地址"
+  },
+  "inputContent": {
+    "message": "輸入內容",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "旋轉",
+    "description": "考试快捷地址"
+  },
+  "showDetail": {
+    "message": "查看詳情",
+    "description": "考试快捷地址"
+  },
+  "continueRemark": {
+    "message": "繼續批閱",
+    "description": "考试快捷地址"
+  },
+  "remarkTip1": {
+    "message": "第{n}題還沒有批閱，確定結束批閱嗎？",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip1": {
+    "message": "恭喜，所有試卷都已批閱完成！",
+    "description": "考试快捷地址"
+  },
+  "remarkBackTip": {
+    "message": "離開後再次進入需要重新批閱，確認離開？",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn1": {
+    "message": "暫不離開",
+    "description": "考试快捷地址"
+  },
+  "remarkBackBtn2": {
+    "message": "確認離開",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes1": {
+    "message": "允許提交次數",
+    "description": "考试快捷地址"
+  },
+  "scoreTips1": {
+    "message": "請輸入分數",
+    "description": "考试快捷地址"
+  },
+  "openLockScreen": {
+    "message": "啟動鎖屏用戶端",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg": {
+    "message": "該頁面將喚起鎖屏用戶端",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg1": {
+    "message": "如果沒有安裝用戶端或無法正常跳轉，請先下載並安裝用戶端。",
+    "description": "考试快捷地址"
+  },
+  "clickHere": {
+    "message": "點擊此處",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenMsg2": {
+    "message": "如果已安裝，請{clickHere}，並在網頁彈出對話框時，點擊【打開鎖屏用戶端】按鈕。",
+    "description": "考试快捷地址"
+  },
+  "downloadLockScreen": {
+    "message": "下載鎖屏用戶端",
+    "description": "考试快捷地址"
+  },
+  "goToExamDetile": {
+    "message": "返回考試詳情",
+    "description": "考试快捷地址"
+  },
+  "ltiTip3": {
+    "message": "注意：如果客戶端啟動后無法自動登錄，可以嘗試輸入ULearning賬號登錄，你的使用者名為：{loginName}，初始密碼與使用者名一致。",
+    "description": "考试快捷地址"
+  },
+  "allowedTimesNew": {
+    "message": "允許提交次數",
+    "description": "考试快捷地址"
+  },
+  "usedTimesNew": {
+    "message": "已用提交次數",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNumNew": {
+    "message": "平均提交次數",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "拍照",
+    "description": "考试快捷地址"
+  },
+  "ps": {
+    "message": "{n}條/頁",
+    "description": "考试快捷地址"
+  },
+  "openLockScreenError": {
+    "message": "未檢測到鎖屏用戶端，請先確認是否已正確安裝。 如果已安裝仍然無法啟動，可以嘗試卸載后重新安裝最新版本。",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "上次修改時間",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip2": {
+    "message": "如果確定沒有同時打開多個答題頁面，或已經關閉其他頁面，仍然出現此提示，請先{closeBrowser}，然後重新進入考試。",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "關閉瀏覽器",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "如遇其他異常情況，也可以向教師索取驗證碼，使用驗證碼進入考試。",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "試卷/題庫",
+    "description": "考试快捷地址"
+  },
+  "paperBank": {
+    "message": "試卷庫",
+    "description": "考试快捷地址"
+  },
+  "selectPaper": {
+    "message": "選擇試卷",
+    "description": "考试快捷地址"
+  },
+  "selectedPaper": {
+    "message": "已選 {n} 個",
+    "description": "考试快捷地址"
+  },
+  "myExamPaper": {
+    "message": "我的試卷",
+    "description": "考试快捷地址"
+  },
+  "schoolExamPaper": {
+    "message": "本校試卷",
+    "description": "考试快捷地址"
+  },
+  "archivePwdSet": {
+    "message": "設置或更改封存密碼",
+    "description": "考试快捷地址"
+  },
+  "addExamPaper": {
+    "message": "添加試卷",
+    "description": "考试快捷地址"
+  },
+  "aotoGroupExamPaper": {
+    "message": "自動組卷",
+    "description": "考试快捷地址"
+  },
+  "searchPaper": {
+    "message": "搜索資料夾/試卷",
+    "description": "考试快捷地址"
+  },
+  "batchAction": {
+    "message": "批量操作",
+    "description": "考试快捷地址"
+  },
+  "updateDate": {
+    "message": "更新時間",
+    "description": "考试快捷地址"
+  },
+  "name": {
+    "message": "名稱",
+    "description": "考试快捷地址"
+  },
+  "shareFolder": {
+    "message": "共用資料夾",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "封存",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "解封",
+    "description": "考试快捷地址"
+  },
+  "inputFolderTip": {
+    "message": "請輸入資料夾名稱",
+    "description": "考试快捷地址"
+  },
+  "createShareFolder": {
+    "message": "創建共享資料夾",
+    "description": "考试快捷地址"
+  },
+  "searchShareFolder": {
+    "message": "搜索共享資料夾",
+    "description": "考试快捷地址"
+  },
+  "permissionSettings": {
+    "message": "許可權設置",
+    "description": "考试快捷地址"
+  },
+  "exitShare": {
+    "message": "退出共用",
+    "description": "考试快捷地址"
+  },
+  "exitSuccess": {
+    "message": "退出成功",
+    "description": "考试快捷地址"
+  },
+  "exitFail": {
+    "message": "退出失敗",
+    "description": "考试快捷地址"
+  },
+  "actionLog": {
+    "message": "操作紀錄",
+    "description": "考试快捷地址"
+  },
+  "shareFolderDesc": {
+    "message": "共用資料夾支援多人協作，創建後可以邀請其他教師參與管理。",
+    "description": "考试快捷地址"
+  },
+  "usePermission": {
+    "message": "使用許可權",
+    "description": "考试快捷地址"
+  },
+  "usePermission1": {
+    "message": "僅管理團隊成員可用",
+    "description": "考试快捷地址"
+  },
+  "usePermission2": {
+    "message": "全校可用",
+    "description": "考试快捷地址"
+  },
+  "canCopy": {
+    "message": "允許消費者複製副本",
+    "description": "考试快捷地址"
+  },
+  "managementTeam": {
+    "message": "管理團隊",
+    "description": "考试快捷地址"
+  },
+  "teamNums": {
+    "message": "{n}人",
+    "description": "考试快捷地址"
+  },
+  "addMembers": {
+    "message": "添加成員",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "擁有者",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "全部學院",
+    "description": "考试快捷地址"
+  },
+  "searchTeachers": {
+    "message": "搜索教師",
+    "description": "考试快捷地址"
+  },
+  "jobNumber": {
+    "message": "工號",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "學院",
+    "description": "考试快捷地址"
+  },
+  "removeMember": {
+    "message": "移除",
+    "description": "考试快捷地址"
+  },
+  "removeMemberNote": {
+    "message": "拿掉成員",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip": {
+    "message": "被移除的成員將不再能查看和使用共用資料夾中的試卷。",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip1": {
+    "message": "確定將 {name} 移除嗎？",
+    "description": "考试快捷地址"
+  },
+  "createdDate": {
+    "message": "創建時間",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "試卷數量",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "移動到",
+    "description": "考试快捷地址"
+  },
+  "moveTip": {
+    "message": "移動的物件包含其他人創建的試卷或資料夾，僅支援在當前共用資料夾內部移動。",
+    "description": "考试快捷地址"
+  },
+  "questionMoveTip": {
+    "message": "移動的物件包含其他人創建的題目或資料夾，僅支援在當前共用資料夾內部移動。",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "試卷已經在考試中使用過，不能刪除。",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip1": {
+    "message": "{name}已經在考試中使用過，不能刪除。",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip2": {
+    "message": "{name}不是建立者不能刪除。",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip3": {
+    "message": "{name}不存在",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "刪除試卷",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "刪除資料夾",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro1": {
+    "message": "如果選擇 【保留試卷，只刪除資料夾】，刪除後，資料夾中包含的試卷將被移動到根目錄下。",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro2": {
+    "message": "如果選擇【全部刪除】，資料夾中的試卷將被一併刪除。",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro3": {
+    "message": "保留試卷，只刪除文件夾",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip": {
+    "message": "資料夾中包含其他人創建的試卷，不能直接刪除。<br />如需刪除請先將其他人創建的試卷移出。",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip1": {
+    "message": "資料夾中包含已在考試中使用的試卷，不能直接刪除。",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip2": {
+    "message": "資料夾中包含不存在的試卷，不能直接刪除。",
+    "description": "考试快捷地址"
+  },
+  "batchDelete1": {
+    "message": "批量刪除",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelected": {
+    "message": "確定批量刪除所選{n}項嗎？",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip": {
+    "message": "所選取專案中包含其他人創建的試卷，不能批量刪除。",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip1": {
+    "message": "所選取專案中包含已在考試中使用的試卷，不能批量刪除。",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip2": {
+    "message": "所選取專案中包含不存在的試卷，不能批量刪除。",
+    "description": "考试快捷地址"
+  },
+  "noPaperTip": {
+    "message": "沒有找到符合條件的試卷",
+    "description": "考试快捷地址"
+  },
+  "noShareFolderTip": {
+    "message": "沒有找到符合條件的共享資料夾",
+    "description": "考试快捷地址"
+  },
+  "loadErrorTip": {
+    "message": "網路異常，請點擊{reload}",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "重新加載",
+    "description": "考试快捷地址"
+  },
+  "copySuccess2": {
+    "message": "復制成功",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolder": {
+    "message": "刪除共享資料夾",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip1": {
+    "message": "刪除共享資料夾，其中包含的子資料夾和試卷將被移回到各位創建人的個人目錄中，不會被同步刪除。",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip3": {
+    "message": "刪除共享資料夾，其中包含的子資料夾和題目將被移回到各位創建人的個人目錄中，不會被同步刪除。",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip2": {
+    "message": "確定刪除此共享資料夾嗎？",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip": {
+    "message": "退出后將不能再查看和使用共享資料夾中的試卷。",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip1": {
+    "message": "確定退出共用嗎？",
+    "description": "考试快捷地址"
+  },
+  "inputPw": {
+    "message": "輸入密碼",
+    "description": "考试快捷地址"
+  },
+  "inputCheckPw": {
+    "message": "請輸入訪問密碼",
+    "description": "考试快捷地址"
+  },
+  "forgetPw": {
+    "message": "忘記密碼",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "身份驗證",
+    "description": "考试快捷地址"
+  },
+  "authenticationMethods": {
+    "message": "驗證方式",
+    "description": "考试快捷地址"
+  },
+  "mobileSMS": {
+    "message": "手機簡訊",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "電子郵件",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "圖形驗證碼",
+    "description": "考试快捷地址"
+  },
+  "emailCaptcha": {
+    "message": "郵箱驗證碼",
+    "description": "考试快捷地址"
+  },
+  "SMSCaptcha": {
+    "message": "簡訊驗證碼",
+    "description": "考试快捷地址"
+  },
+  "getCaptcha": {
+    "message": "獲取驗證碼",
+    "description": "考试快捷地址"
+  },
+  "reacquiredSeconds": {
+    "message": "{s}秒後可重新獲取",
+    "description": "考试快捷地址"
+  },
+  "setLockPw": {
+    "message": "設置封存密碼",
+    "description": "考试快捷地址"
+  },
+  "updateLockPw": {
+    "message": "更改封存密碼",
+    "description": "考试快捷地址"
+  },
+  "oldPw": {
+    "message": "舊密碼",
+    "description": "考试快捷地址"
+  },
+  "newPw": {
+    "message": "新密碼",
+    "description": "考试快捷地址"
+  },
+  "newPwAgain": {
+    "message": "再次輸入新密碼",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPw": {
+    "message": "刪除封存密碼",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "再次輸入",
+    "description": "考试快捷地址"
+  },
+  "setLockPwTip": {
+    "message": "設置封存密碼后，可以將指定試卷或資料夾封存，被封存的試卷或資料夾，需要輸入密碼才可查看或解封。",
+    "description": "考试快捷地址"
+  },
+  "inputCodeTip": {
+    "message": "請輸入驗證碼",
+    "description": "考试快捷地址"
+  },
+  "lockTip": {
+    "message": "你的帳號還沒有綁定手機或郵箱，為防止忘記密碼，請先在個人資料中綁定手機或郵箱。",
+    "description": "考试快捷地址"
+  },
+  "bindBtn": {
+    "message": "去綁定",
+    "description": "考试快捷地址"
+  },
+  "pwNotSame": {
+    "message": "兩次輸入密碼不一致",
+    "description": "考试快捷地址"
+  },
+  "pwError": {
+    "message": "密碼錯誤",
+    "description": "考试快捷地址"
+  },
+  "pwError1": {
+    "message": "密碼應為6-16位數位或字母",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPwTip": {
+    "message": "刪除封存密碼后，被封存的試卷和資料夾將全部被解封。",
+    "description": "考试快捷地址"
+  },
+  "captchaError": {
+    "message": "圖形驗證碼錯誤",
+    "description": "考试快捷地址"
+  },
+  "inputCaptcha": {
+    "message": "請輸入圖形驗證碼",
+    "description": "考试快捷地址"
+  },
+  "codeError": {
+    "message": "驗證碼錯誤",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid1": {
+    "message": "驗證碼已失效，請重新獲取",
+    "description": "考试快捷地址"
+  },
+  "inputPasswordAgain": {
+    "message": "請再次輸入密碼",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "試卷",
+    "description": "考试快捷地址"
+  },
+  "teamsMaxCount": {
+    "message": "最多添加{n}個成員",
+    "description": "考试快捷地址"
+  },
+  "selectPaperIntro": {
+    "message": "選中試卷，將試卷中的題目導入到當前題庫目錄中，每次最多選擇{n}套試卷。 （每套試卷中的題目將以試卷、部分兩級資料夾的方式保存）",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip": {
+    "message": "請選擇試卷",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip1": {
+    "message": "每次最多選擇{n}套試卷",
+    "description": "考试快捷地址"
+  },
+  "insertSuccess": {
+    "message": "導入成功",
+    "description": "考试快捷地址"
+  },
+  "insertFail": {
+    "message": "導入失敗",
+    "description": "考试快捷地址"
+  },
+  "allPaper": {
+    "message": "全部試卷",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "統計",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[0]": {
+    "message": "默認排序",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[1]": {
+    "message": "收藏最多",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[2]": {
+    "message": "題目最多",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[3]": {
+    "message": "最近更新",
+    "description": "考试快捷地址"
+  },
+  "searchBank": {
+    "message": "搜索題庫",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "來源",
+    "description": "考试快捷地址"
+  },
+  "questionNums": {
+    "message": "題數",
+    "description": "考试快捷地址"
+  },
+  "updateTime": {
+    "message": "最近更新時間",
+    "description": "考试快捷地址"
+  },
+  "timeOver": {
+    "message": "已到期",
+    "description": "考试快捷地址"
+  },
+  "deadLine": {
+    "message": "有效期至",
+    "description": "考试快捷地址"
+  },
+  "collect": {
+    "message": "收藏",
+    "description": "考试快捷地址"
+  },
+  "cancelCollect": {
+    "message": "取消收藏",
+    "description": "考试快捷地址"
+  },
+  "requestSuccess": {
+    "message": "{msg}成功",
+    "description": "考试快捷地址"
+  },
+  "requestFail": {
+    "message": "{msg}失敗",
+    "description": "考试快捷地址"
+  },
+  "noShareBank": {
+    "message": "沒有找到符合條件的題庫",
+    "description": "考试快捷地址"
+  },
+  "shareBankTip": {
+    "message": "從外部引進的共享題庫，全校教師可用。",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip": {
+    "message": "共用資料夾升級啦！",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip1": {
+    "message": "新版共用資料夾，支持教師團隊協作，在同一個資料夾中管理試卷或題目。 同時，原試卷/題目共用功能已下線，如需繼續將試卷或題目共用給其他教師，可以在【共享資料夾】中創建一個資料夾，設置好共用團隊成員，並將需要共用的內容移動到對應的資料夾中。",
+    "description": "考试快捷地址"
+  },
+  "updateDesc": {
+    "message": "更新說明：",
+    "description": "考试快捷地址"
+  },
+  "paperUpdateDesc": {
+    "message": "原【本校試卷】和【共用試卷】功能已下線，教師團隊共用試卷請使用【我的試卷】中的【共享資料夾】。",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "舊版入口",
+    "description": "考试快捷地址"
+  },
+  "questionUpdateDesc": {
+    "message": "原【本校題庫】和【共享題庫】功能已下線，教師團隊共用題目請使用【我的題庫】中的【共享資料夾】。",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip1": {
+    "message": "試卷或資料夾不存在",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip4": {
+    "message": "題目或資料夾不存在",
+    "description": "考试快捷地址"
+  },
+  "mobileGoBack": {
+    "message": "返回上一級目錄",
+    "description": "考试快捷地址"
+  },
+  "quitCheckAll": {
+    "message": "取消全選",
+    "description": "考试快捷地址"
+  },
+  "notAllowCopy": {
+    "message": "不允許複製",
+    "description": "考试快捷地址"
+  },
+  "isArchiveTip": {
+    "message": "當前共享資料夾已被封存。",
+    "description": "考试快捷地址"
+  },
+  "moveQue": {
+    "message": "移動題目",
+    "description": "考试快捷地址"
+  },
+  "createQue": {
+    "message": "創建題目",
+    "description": "考试快捷地址"
+  },
+  "appCreateQueMsg": {
+    "message": "手機端暫不支持創建其他題型題目，請從電腦端創建。",
+    "description": "考试快捷地址"
+  },
+  "saveCreateQue": {
+    "message": "保存並繼續創建題目",
+    "description": "考试快捷地址"
+  },
+  "submitQue": {
+    "message": "完成創建",
+    "description": "考试快捷地址"
+  },
+  "queScoreError": {
+    "message": "分值需在0-100之間，可保留一位小數",
+    "description": "考试快捷地址"
+  },
+  "saveQue": {
+    "message": "保存題目",
+    "description": "考试快捷地址"
+  },
+  "choicePict": {
+    "message": "選擇相冊",
+    "description": "考试快捷地址"
+  },
+  "choicePict1": {
+    "message": "從本機選擇",
+    "description": "考试快捷地址"
+  },
+  "moveMsg": {
+    "message": "移動的物件包含其他人創建的題目，僅支援在當前共用資料夾內部移動。",
+    "description": "考试快捷地址"
+  },
+  "noFolder": {
+    "message": "沒有子資料夾",
+    "description": "考试快捷地址"
+  },
+  "choiceMsg": {
+    "message": "點擊選項字母，設為正確答案",
+    "description": "考试快捷地址"
+  },
+  "setAnswer": {
+    "message": "設置答案",
+    "description": "考试快捷地址"
+  },
+  "changeTabMsg": {
+    "message": "切換題型后，已編輯的內容不會保存。 確定切換嗎？",
+    "description": "考试快捷地址"
+  },
+  "goBackMsg": {
+    "message": "返回后已編輯的題目內容不會保存，確定返回嗎？",
+    "description": "考试快捷地址"
+  },
+  "optionContentNew": {
+    "message": "請輸入選項內容",
+    "description": "考试快捷地址"
+  },
+  "soundRecording": {
+    "message": "點擊開始錄音",
+    "description": "考试快捷地址"
+  },
+  "soundRecording1": {
+    "message": "錄音中，點擊波紋停止",
+    "description": "考试快捷地址"
+  },
+  "soundRecording2": {
+    "message": "重新上傳",
+    "description": "考试快捷地址"
+  },
+  "soundRecording3": {
+    "message": "備註，非必填，不超過200字",
+    "description": "考试快捷地址"
+  },
+  "insertQue": {
+    "message": "插入填空項",
+    "description": "考试快捷地址"
+  },
+  "deleQueNote": {
+    "message": "確定刪除題目嗎？",
+    "description": "考试快捷地址"
+  },
+  "imgloading": {
+    "message": "圖片上傳中",
+    "description": "考试快捷地址"
+  },
+  "fileLoading": {
+    "message": "有檔正在上傳中，請稍後上傳",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle": {
+    "message": "AI智慧出題",
+    "description": "考试快捷地址"
+  },
+  "questionTextType1": {
+    "message": "根據描述生成題目",
+    "description": "考试快捷地址"
+  },
+  "questionTextType2": {
+    "message": "根據文本生成題目",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc1": {
+    "message": "請在下方輸入出題要求（題目由AI大模型生成，不能完全保障內容正確性，建議檢查后再保存）",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc2": {
+    "message": "請在下方輸入出題要求，文本越具體，題目生成結果越準確。",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder1": {
+    "message": "輸入出題要求",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder2": {
+    "message": "輸入文本素材，AI將從中提煉要點並生成題目。",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionBtn": {
+    "message": "生成題目",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTip": {
+    "message": "產生題目，請稍候...",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "內測",
+    "description": "考试快捷地址"
+  },
+  "maxCountTip": {
+    "message": "最多輸入{max}個字",
+    "description": "考试快捷地址"
+  },
+  "knowledgePoints": {
+    "message": "知識點",
+    "description": "考试快捷地址"
+  },
+  "relateKnowledgePoints": {
+    "message": "關聯知識點",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip2": {
+    "message": "當前清單中的考生都已批閱完成！若想繼續批閱試卷，請退出后重新篩選考生進行批閱。",
+    "description": "考试快捷地址"
+  },
+  "qrQuestionAnswer": {
+    "message": "掃一掃 看答案",
+    "description": "考试快捷地址"
+  },
+  "exerciseQuestion": {
+    "message": "練習題",
+    "description": "考试快捷地址"
+  },
+  "draft": {
+    "message": "草稿",
+    "description": "考试快捷地址"
+  },
+  "draftTip": {
+    "message": "請在PC端編輯考試資訊",
+    "description": "考试快捷地址"
+  }
+}

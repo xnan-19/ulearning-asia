@@ -1,0 +1,274 @@
+{
+    "bandWidthHint": {
+        "message": "Убедитесь, что в компьютерном классе используется индивидуальная полоса пропускания {totalBandWidth}. Скорость загрузки на один компьютер {netspeed}, приблизительно {singleBandWidth}. Если есть аудирование или устный ответ, скорость сетевого подключения * 2.",
+        "description": ""
+    },
+    "internalMemory2": {
+        "message": "1 ГБ памяти",
+        "description": ""
+    },
+    "envTips27": {
+        "message": "около 1 Гигабайт",
+        "description": ""
+    },
+    "hardwareRequirements": {
+        "message": "Требования к аппаратному обеспечению",
+        "description": ""
+    },
+    "envTips34": {
+        "message": "Открыть справку",
+        "description": ""
+    },
+    "envTips59": {
+        "message": "Нажмите на кнопку \"Начать\", прочтите текст ниже и нажмите кнопку \"завершить\"; нажмите кнопку Воспроизведение, чтобы проверить успешный ли получилась аудиозапись",
+        "description": ""
+    },
+    "envTips33": {
+        "message": "Нажмите установка",
+        "description": ""
+    },
+    "envTips54": {
+        "message": "Пожалуйста, наденьте наушники, нажмите кнопку воспроизведения ниже и проверьте есть ли звук в наушниках",
+        "description": ""
+    },
+    "close": {
+        "message": "Закрывать",
+        "description": ""
+    },
+    "envTips26": {
+        "message": "Приблизительно 1 МБ на человека",
+        "description": ""
+    },
+    "envTips48": {
+        "message": "Скачать",
+        "description": ""
+    },
+    "envTips37": {
+        "message": "Не включено",
+        "description": ""
+    },
+    "envTips4": {
+        "message": "тестирование наушников",
+        "description": ""
+    },
+    "qqBrowser": {
+        "message": "QQ",
+        "description": ""
+    },
+    "envTips52": {
+        "message": "Тест наушников",
+        "description": ""
+    },
+    "envTips31": {
+        "message": "версия Flash",
+        "description": ""
+    },
+    "envTips32": {
+        "message": "Adobe Flash Player не установлен",
+        "description": ""
+    },
+    "envTips6": {
+        "message": "Пропускная способность сети",
+        "description": ""
+    },
+    "envTips55": {
+        "message": "*Если нет звука:",
+        "description": ""
+    },
+    "envTips17": {
+        "message": "Скорость скачивания по сети",
+        "description": ""
+    },
+    "envTips24": {
+        "message": "1000 человек",
+        "description": ""
+    },
+    "envTips23": {
+        "message": "Около 500 МБ",
+        "description": ""
+    },
+    "envTips53": {
+        "message": "Тест аудиозаписи",
+        "description": ""
+    },
+    "envTips61": {
+        "message": "Начать аудиозапись",
+        "description": ""
+    },
+    "envTips21": {
+        "message": "Около 100 Кб/с на Человек",
+        "description": ""
+    },
+    "envTips20": {
+        "message": "500 человек",
+        "description": ""
+    },
+    "envTips1": {
+        "message": "Более 2 ГГц",
+        "description": ""
+    },
+    "envTips39": {
+        "message": "Рекомендуется скачать браузер",
+        "description": ""
+    },
+    "envTips30": {
+        "message": "Версия браузера",
+        "description": ""
+    },
+    "envTips28": {
+        "message": "Браузер и плагин",
+        "description": ""
+    },
+    "envTips16": {
+        "message": "Численность",
+        "description": ""
+    },
+    "minimumRequirements": {
+        "message": "Минимальные требования",
+        "description": ""
+    },
+    "envTips35": {
+        "message": "Файлы cookie браузера",
+        "description": ""
+    },
+    "envTips65": {
+        "message": "2. Проверьте, подключена ли гарнитура правильно, и запрещён ли микрофон в браузере.",
+        "description": ""
+    },
+    "envTips57": {
+        "message": "2. Проверить, не является ли уровень звука на вашем компьютере слишком низким.",
+        "description": ""
+    },
+    "envTips2": {
+        "message": "Периферийные устройства",
+        "description": ""
+    },
+    "envTips46": {
+        "message": "Браузер",
+        "description": ""
+    },
+    "envTips29": {
+        "message": "тестирование среды обозревателя",
+        "description": ""
+    },
+    "envTips58": {
+        "message": "3. Если невозможно решить проблему, замените устройство наушников.",
+        "description": ""
+    },
+    "examEnvironmentDetection": {
+        "message": "Проверка экзаменационной среды",
+        "description": ""
+    },
+    "envTips36": {
+        "message": "включено",
+        "description": ""
+    },
+    "envTips56": {
+        "message": "1. Проверьте, правильно ли подключены наушники к компьютеру.",
+        "description": ""
+    },
+    "internalMemory": {
+        "message": "Память",
+        "description": ""
+    },
+    "envTips18": {
+        "message": "Пропускная способность",
+        "description": ""
+    },
+    "envTips47": {
+        "message": "Системные требования",
+        "description": ""
+    },
+    "envTips11": {
+        "message": "Рекомендуемая пропускная способность Сети",
+        "description": ""
+    },
+    "envTips38": {
+        "message": "IP-адрес",
+        "description": ""
+    },
+    "envTips51": {
+        "message": "Плагин",
+        "description": ""
+    },
+    "envTips5": {
+        "message": "Проверка записи",
+        "description": ""
+    },
+    "envTips10": {
+        "message": "Скорость загрузки:",
+        "description": ""
+    },
+    "browserHint": {
+        "message": "Чтобы экзамен прошел без проблем, рекомендуется использовать браузеры: {qqBrowser}, {chrome} или {firefox}. Не рекомендуется использовать другие браузеры.",
+        "description": ""
+    },
+    "chrome": {
+        "message": "Браузер Chrome",
+        "description": ""
+    },
+    "envTips66": {
+        "message": "3. Пожалуйста, проверьте, установлены и включены ли плагины Flash.",
+        "description": ""
+    },
+    "hardware": {
+        "message": "аппаратное обеспечение",
+        "description": ""
+    },
+    "envTips63": {
+        "message": "Воспроизведение",
+        "description": ""
+    },
+    "envTips50": {
+        "message": "Нажмите Скачать",
+        "description": ""
+    },
+    "envTips64": {
+        "message": "1. Пожалуйста, проверяйте, если веб-сайт открывается по протоколу https://",
+        "description": ""
+    },
+    "envTips3": {
+        "message": "Экзамен по иностранному языку, содержит задания на аудирование или устную речь, требует наличия наушников с микрофоном.",
+        "description": ""
+    },
+    "envTips9": {
+        "message": "Идет тестирование скорости загрузки, подождите, пожалуйста...",
+        "description": ""
+    },
+    "envTips49": {
+        "message": "Microsoft Windows 7 и новее, Windows XP",
+        "description": ""
+    },
+    "envTips25": {
+        "message": "Примерно 100 КБ/с/человек",
+        "description": ""
+    },
+    "envTips60": {
+        "message": "Нажмите, чтобы включить или скачать Flash",
+        "description": ""
+    },
+    "envTips7": {
+        "message": "Тестирование скорости интернета",
+        "description": ""
+    },
+    "envTips62": {
+        "message": "Завершить Аудиозапись",
+        "description": ""
+    },
+    "envTips8": {
+        "message": "Снова тестировать",
+        "description": ""
+    },
+    "envTips19": {
+        "message": "Общая пропускная способность",
+        "description": ""
+    },
+    "envTips22": {
+        "message": "Около 1 МБ/Человек",
+        "description": ""
+    },
+    "firefox": {
+        "message": "Firefox",
+        "description": ""
+    }
+}

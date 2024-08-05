@@ -1,0 +1,274 @@
+{
+  "examEnvironmentDetection": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "2.0 help.js"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "2.0 help.js"
+  },
+  "hardwareRequirements": {
+    "message": "متطلبات الأجهزة",
+    "description": "2.0 help.js"
+  },
+  "hardware": {
+    "message": "الأجهزة",
+    "description": "2.0 help.js"
+  },
+  "minimumRequirements": {
+    "message": "الحد الأدنى من المتطلبات",
+    "description": "2.0 help.js"
+  },
+  "internalMemory": {
+    "message": "RAM",
+    "description": "2.0 help.js"
+  },
+  "internalMemory2": {
+    "message": "ذاكرة 1 جيجابايت",
+    "description": "2.0 help.js"
+  },
+  "envTips1": {
+    "message": "2 جيجا هرتز أو أسرع",
+    "description": "2.0 help.js"
+  },
+  "envTips2": {
+    "message": "الأجهزة الملحقة",
+    "description": "2.0 help.js"
+  },
+  "envTips3": {
+    "message": "إذا كان الامتحان يحتوي على أسئلة تتطلب منك الاستماع وتسجيل مقطع صوتي، يجب أن يكون السماعة و الميكروفون جاهزان.",
+    "description": "2.0 help.js"
+  },
+  "envTips4": {
+    "message": "فحص سماعة الرأس",
+    "description": "2.0 help.js"
+  },
+  "envTips5": {
+    "message": "فحص إمكانية التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips6": {
+    "message": "معدل نقل البيانات بالشبكة",
+    "description": "2.0 help.js"
+  },
+  "envTips7": {
+    "message": "فحص سرعة الشبكة",
+    "description": "2.0 help.js"
+  },
+  "envTips8": {
+    "message": "إعادة الفحص",
+    "description": "2.0 help.js"
+  },
+  "envTips9": {
+    "message": "يتم فحص سرعة التنزيل... يرجى الانتظار.",
+    "description": "2.0 help.js"
+  },
+  "envTips10": {
+    "message": "سرعة التنزيل: ",
+    "description": "2.0 help.js"
+  },
+  "envTips11": {
+    "message": "معدل نقل البيانات المقترح بالشبكة",
+    "description": "2.0 help.js"
+  },
+  "bandWidthHint": {
+    "message": "تأكد من استخدام النطاق الترددي المستقل ل {totalBandWidth} في مركز البيانات. سرعة تنزيل {netspeed} على جهاز كمبيوتر واحد ، حول عرض النطاق الترددي {singleBandWidth}. إذا كان لديك اختبار استماع أو محادثة، فإن سرعة الإنترنت*2.",
+    "description": "教师账号 -> 考试 -> 环境检测"
+  },
+  "envTips16": {
+    "message": "عدد المستخدمين ",
+    "description": "2.0 help.js"
+  },
+  "envTips17": {
+    "message": "سرعة تزيل الشبكة",
+    "description": "2.0 help.js"
+  },
+  "envTips18": {
+    "message": "معدل نقل البيانات",
+    "description": "2.0 help.js"
+  },
+  "envTips19": {
+    "message": "إجمالي معدل نقل البيانات",
+    "description": "2.0 help.js"
+  },
+  "envTips20": {
+    "message": "500 مستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips21": {
+    "message": "حوالي 100 كيلو بايت / ثانية / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips22": {
+    "message": "حوالي 1 ميغابايت / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips23": {
+    "message": "حوالي 500 ميغابايت",
+    "description": "2.0 help.js"
+  },
+  "envTips24": {
+    "message": "1000 مستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips25": {
+    "message": "حوالي 100 كيلو بايت / ثانية / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips26": {
+    "message": "حوالي 1 ميغابايت / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips27": {
+    "message": "حوالي 1 جيجا بايت",
+    "description": "2.0 help.js"
+  },
+  "envTips28": {
+    "message": "المتصفح والمكونات الإضافية",
+    "description": "2.0 help.js"
+  },
+  "envTips29": {
+    "message": "فحص توافق المتصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips30": {
+    "message": "إصدار المتصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips31": {
+    "message": "إصدار فلاش",
+    "description": "2.0 help.js"
+  },
+  "envTips32": {
+    "message": "مشغل Adobe Flash غير مثبت",
+    "description": "2.0 help.js"
+  },
+  "envTips33": {
+    "message": "انقر للتثبيت",
+    "description": "2.0 help.js"
+  },
+  "envTips34": {
+    "message": "مساعدة",
+    "description": "2.0 help.js"
+  },
+  "envTips35": {
+    "message": "ملفات كوكيز",
+    "description": "2.0 help.js"
+  },
+  "envTips36": {
+    "message": "تم التمكين",
+    "description": "2.0 help.js"
+  },
+  "envTips37": {
+    "message": "‏‏معطل",
+    "description": "2.0 help.js"
+  },
+  "envTips38": {
+    "message": "متصفح JavaScript",
+    "description": "2.0 help.js"
+  },
+  "envTips39": {
+    "message": "المتصفح الموصى به",
+    "description": "2.0 help.js"
+  },
+  "browserHint": {
+    "message": "من أجل ضمان عملية اختبار سلسة ، يوصى باستخدام متصفحات {qqBrowser} أو {chrome} أو {firefox} ، ولا ينصح باستخدام المتصفحات الأخرى.",
+    "description": "教师账号 -> 考试 -> 环境检测"
+  },
+  "qqBrowser": {
+    "message": "برنامج (QQ)",
+    "description": "2.0 help.js"
+  },
+  "chrome": {
+    "message": "Chrome",
+    "description": "2.0 help.js"
+  },
+  "firefox": {
+    "message": "Firefox",
+    "description": "2.0 help.js"
+  },
+  "envTips46": {
+    "message": "متصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips47": {
+    "message": "متطلبات النظام",
+    "description": "2.0 help.js"
+  },
+  "envTips48": {
+    "message": "تنزيل",
+    "description": "2.0 help.js"
+  },
+  "envTips49": {
+    "message": "ويندوز 7 أو أعلى، ويندوز XP",
+    "description": "2.0 help.js"
+  },
+  "envTips50": {
+    "message": "انقر للتنزيل",
+    "description": "2.0 help.js"
+  },
+  "envTips51": {
+    "message": "مكونات إضافية",
+    "description": "2.0 help.js"
+  },
+  "envTips52": {
+    "message": "فحص سماعة الرأس",
+    "description": "2.0 help.js"
+  },
+  "envTips53": {
+    "message": "فحص إمكانية التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips54": {
+    "message": "ضع سماعات الرأس وانقر الصوت أدناه للتأكد من إمكانية سماع الصوت.",
+    "description": "2.0 help.js"
+  },
+  "envTips55": {
+    "message": "* إذا لم يكن هناك صوت: ",
+    "description": "2.0 help.js"
+  },
+  "envTips56": {
+    "message": "1.من فضلك تأكد ما إذا كانت سماعة الرأس متصلة بالكمبيوتر بشكل صحيح.",
+    "description": "2.0 help.js"
+  },
+  "envTips57": {
+    "message": "2. تأكد من أن مستوى صوت السماعة ليس منخفض جداً.",
+    "description": "2.0 help.js"
+  },
+  "envTips58": {
+    "message": "3. إذا كانت المشكلة لا تزال موجودة، استخدم سماعة رأس أخرى و إعد المحاولة.",
+    "description": "2.0 help.js"
+  },
+  "envTips59": {
+    "message": "انقر زر بدء التسجيل، اقرأ الفقرة التالية بصوت مسموع، ثم انقر فوق زر إنهاء التسجيل لإيقاف التسجيل. انقر فوق زر إعادة التشغيل للتأكد من نجاح عملية التسجيل.",
+    "description": "2.0 help.js"
+  },
+  "envTips60": {
+    "message": "انقر على تمكين أو تنزيل Flash",
+    "description": "2.0 help.js"
+  },
+  "envTips61": {
+    "message": "بدء التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips62": {
+    "message": "إيقاف التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips63": {
+    "message": "إعادة تشغيل",
+    "description": "2.0 help.js"
+  },
+  "envTips64": {
+    "message": "1. تأكد من أن زيارتك للموقع من خلال https://...",
+    "description": "2.0 help.js"
+  },
+  "envTips65": {
+    "message": "2. تأكد من إن سماعة الرأس متصلة بشكل صحيح و أنه تم تمكين الميكروفون من قبل المتصفح.",
+    "description": "2.0 help.js"
+  },
+  "envTips66": {
+    "message": "3. تأكد من تنصيب و تمكين مكونات Flash الإضافية.",
+    "description": "2.0 help.js"
+  }
+}

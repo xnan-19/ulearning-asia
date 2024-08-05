@@ -1,0 +1,1366 @@
+{
+  "teacher": {
+    "message": "Enseignant",
+    "description": "2.0 index.js"
+  },
+  "teacher2": {
+    "message": "Enseignant",
+    "description": "2.0 index.js"
+  },
+  "welcomeTea": {
+    "message": "Bienvenue, {nom}!",
+    "description": "印尼语翻译老师请注意：由于印尼语前面有一个性别称呼，因此，整个句子使用 “|” 分为三个部分，第一个部分对应女性，第二个部分对应男性，但三个部分对应性别未知。其它老师请无视。"
+  },
+  "day": {
+    "message": "Jour",
+    "description": "2.0 index.js"
+  },
+  "hour": {
+    "message": "Heure",
+    "description": "2.0 index.js"
+  },
+  "student": {
+    "message": "Étudiant",
+    "description": "2.0 index.js"
+  },
+  "welcomeStu": {
+    "message": "Bienvenue, {nom}!",
+    "description": "2.0 index.js"
+  },
+  "more": {
+    "message": "Plus",
+    "description": "2.0 index.js"
+  },
+  "allCourse": {
+    "message": "Tous les cours",
+    "description": "2.0 index.js"
+  },
+  "publicCourse": {
+    "message": "Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "searchCourse": {
+    "message": "Rechercher un cours",
+    "description": "2.0 index.js"
+  },
+  "createCourse": {
+    "message": "Créer un cours",
+    "description": "2.0 index.js"
+  },
+  "joinCourse": {
+    "message": "S’inscrire à un cours/cours",
+    "description": "2.0 index.js"
+  },
+  "activeTextbook": {
+    "message": "Activez eTextbook",
+    "description": "2.0 index.js"
+  },
+  "toSelectCourse": {
+    "message": "Sélectionner un cours",
+    "description": "2.0 index.js"
+  },
+  "create": {
+    "message": "Créer",
+    "description": "2.0 index.js"
+  },
+  "all": {
+    "message": "Tout",
+    "description": "2.0 index.js"
+  },
+  "ing": {
+    "message": "En cours",
+    "description": "2.0 index.js"
+  },
+  "ended": {
+    "message": "Terminé",
+    "description": "2.0 index.js"
+  },
+  "end": {
+    "message": "Fin",
+    "description": "2.0 index.js"
+  },
+  "close": {
+    "message": "Fermer",
+    "description": "2.0 index.js"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "2.0 index.js"
+  },
+  "modify": {
+    "message": "Modifiez",
+    "description": "2.0 index.js"
+  },
+  "delete": {
+    "message": "Supprimer",
+    "description": "2.0 index.js"
+  },
+  "confirm": {
+    "message": "Confirmer",
+    "description": "2.0 index.js"
+  },
+  "unpublish": {
+    "message": "Inédit",
+    "description": "2.0 index.js"
+  },
+  "published": {
+    "message": "Publié",
+    "description": "2.0 index.js"
+  },
+  "waitForCheck": {
+    "message": "La demande d’inscription est soumise et attend l’approbation de l’enseignant.",
+    "description": "2.0 index.js"
+  },
+  "undoApplication": {
+    "message": "Retirer la demande d’inscription",
+    "description": "2.0 index.js"
+  },
+  "none": {
+    "message": "Aucun",
+    "description": "2.0 index.js"
+  },
+  "modifyCourse": {
+    "message": "Modifier le cours",
+    "description": "2.0 index.js"
+  },
+  "endCourse": {
+    "message": "Fin de cours",
+    "description": "2.0 index.js"
+  },
+  "deleteCourse": {
+    "message": "Supprimez le cours",
+    "description": "2.0 index.js"
+  },
+  "courseDetail": {
+    "message": "Détails du cours",
+    "description": "2.0 index.js"
+  },
+  "quitCourse": {
+    "message": "Retirer",
+    "description": "2.0 index.js"
+  },
+  "checkCourseSummary": {
+    "message": "Résumé du cours",
+    "description": "2.0 index.js"
+  },
+  "class": {
+    "message": "Classe",
+    "description": "2.0 index.js"
+  },
+  "courseWillEnd": {
+    "message": "Le cours se terminera à {heure}",
+    "description": "课程列表"
+  },
+  "courseHasEnd": {
+    "message": "Terminé à {time}",
+    "description": "课程列表 -> 已结束"
+  },
+  "courseCountdown": {
+    "message": "{n} jours avant le début du cours",
+    "description": "课程列表 (需要课程为公开课)"
+  },
+  "searchNoCourse": {
+    "message": "Aucun cours trouvé",
+    "description": "2.0 index.js"
+  },
+  "noCourse": {
+    "message": "Aucun cours trouvé",
+    "description": "2.0 index.js"
+  },
+  "clickToCreateCourse": {
+    "message": "Cliquez sur le bouton Créer un cours dans le coin supérieur droit pour créer un cours",
+    "description": "2.0 index.js"
+  },
+  "clickToJoinCourse": {
+    "message": "Cliquez sur le bouton dans le coin supérieur droit pour rejoindre la classe !",
+    "description": "2.0 index.js"
+  },
+  "notJoinCourse": {
+    "message": "Vous n’avez inscrit aucun cours",
+    "description": "2.0 index.js"
+  },
+  "netError": {
+    "message": "Erreur réseau - Cliquez sur le bouton {reloadButton} pour recharger la page",
+    "description": "教师或学生账户 -> 课程列表"
+  },
+  "reload": {
+    "message": "Recharger",
+    "description": "2.0 index.js"
+  },
+  "courseTitle": {
+    "message": "Nom du cours",
+    "description": "2.0 index.js"
+  },
+  "courseExist": {
+    "message": "Le nom du cours existe déjà",
+    "description": "2.0 index.js"
+  },
+  "courseTitleTips": {
+    "message": "Un cours portant le même nom de cours existe déjà. Il est recommandé de communiquer d’abord avec l’administrateur/propriétaire du cours pour voir si vous devez créer un cours distinct.",
+    "description": "2.0 index.js"
+  },
+  "courseTitleExistTips": {
+    "message": "Un cours portant le même nom de cours (créé par {name}) existe déjà. Il est recommandé de communiquer d’abord avec l’administrateur/propriétaire du cours pour voir si vous devez créer un cours distinct.",
+    "description": "2.0 index.js"
+  },
+  "isContinueCreate": {
+    "message": "Continuez à créer ?",
+    "description": "2.0 index.js"
+  },
+  "continCreate": {
+    "message": "Continuer à créer",
+    "description": "2.0 index.js"
+  },
+  "continue": {
+    "message": "Continuer",
+    "description": "2.0 index.js"
+  },
+  "courseType": {
+    "message": "Type de cours",
+    "description": "2.0 index.js"
+  },
+  "unchangeableTips": {
+    "message": "Ne peut pas être modifié après la création, veuillez procéder avec prudence.",
+    "description": "2.0 index.js"
+  },
+  "schoolCourse": {
+    "message": "Cours internes de l’école",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips1": {
+    "message": "Les cours ouverts ne sont ouverts qu’à certaines écoles et enseignants partenaires",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips2": {
+    "message": "Si vous devez créer des cours ouverts ou postuler à des programmes de cours ouverts en ligne, veuillez contacter le service à la clientèle (service.sg@ulearning.cn) avec vos besoins et exigences. Nous vous contacterons dans les plus brefs délais.",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips3": {
+    "message": "Les cours en ligne sont ouverts au public. C’est une étude à votre rythme - une session pour tous et aucune activité en classe.",
+    "description": "2.0 index.js"
+  },
+  "schoolCourseTips1": {
+    "message": "Ouvert aux élèves de l’école uniquement avec des activités en classe. Plusieurs sessions de cours (cours) peuvent être proposées.",
+    "description": "2.0 index.js"
+  },
+  "courseCover": {
+    "message": "Couverture du cours",
+    "description": "2.0 index.js"
+  },
+  "localUpload": {
+    "message": "Télécharger l’image",
+    "description": "2.0 index.js"
+  },
+  "courseTips": {
+    "message": "Conseils: Pour les cours co-enseignés ou cogérés, un seul cours doit être créé. D’autres enseignants peuvent être ajoutés après la création du cours.",
+    "description": "2.0 index.js"
+  },
+  "cropCover": {
+    "message": "Recadrer l’image",
+    "description": "2.0 index.js"
+  },
+  "deleteCourseTips1": {
+    "message": "Faire attention. La suppression de cours est irrécupérable. Assurez-vous si vous voulez vraiment le supprimer.",
+    "description": "2.0 index.js"
+  },
+  "deleteCourseTips2": {
+    "message": "Le cours a été lié par les cours ouverts suivants. Si vous souhaitez supprimer, veuillez d’abord vous connecter à votre compte U-Author pour annuler la liaison.",
+    "description": "2.0 index.js"
+  },
+  "pleaseInput": {
+    "message": "Pour supprimer, entrez ci-dessous",
+    "description": "2.0 index.js"
+  },
+  "confirmDelete": {
+    "message": "Confirmer la suppression",
+    "description": "2.0 index.js"
+  },
+  "openCourse": {
+    "message": "Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "editorAcount": {
+    "message": "Compte U-Author",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips1": {
+    "message": "Êtes-vous sûr de retirer le cours? Après le retrait, vous ",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips2": {
+    "message": "1. Impossible de continuer à afficher le didacticiel",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips3": {
+    "message": "2. Impossible d’accéder aux dossiers des devoirs précédents, des examens, des activités en classe, etc.",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips4": {
+    "message": "3. Impossible de continuer à recevoir des notifications de cours",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips5": {
+    "message": "Après avoir retiré le cours, vous ne pourrez plus voir les didacticiels et participer aux activités du cours.",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips6": {
+    "message": "Êtes-vous sûr de vouloir retirer le cours?",
+    "description": "2.0 index.js"
+  },
+  "confirmQuit": {
+    "message": "Confirmer",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips1": {
+    "message": "Le cours est View uniquement, mais les enseignants peuvent exporter les données du cours.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips2": {
+    "message": "Le cours est View uniquement pour les étudiants inscrits.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips3": {
+    "message": "Une fois terminé, le cours sera supprimé du site du catalogue de cours et n’acceptera aucune nouvelle inscription.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips4": {
+    "message": "Une fois le cours terminé, vous ne pourrez plus modifier le cours et son contenu.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips5": {
+    "message": "Les étudiants qui se sont inscrits au cours peuvent poursuivre l’apprentissage.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips6": {
+    "message": "Les cours terminés ne peuvent pas être republiés.",
+    "description": "2.0 index.js"
+  },
+  "confirmEnd": {
+    "message": "Êtes-vous sûr de vouloir terminer ce cours?",
+    "description": "2.0 index.js"
+  },
+  "confirmEndCourse": {
+    "message": "Êtes-vous sûr de vouloir terminer ce cours?",
+    "description": "2.0 index.js"
+  },
+  "courseTitleRequired": {
+    "message": "Le nom du cours ne peut pas être vide",
+    "description": "2.0 index.js"
+  },
+  "courseTitleLengthTips": {
+    "message": "Le nom du cours doit être de 2 à 100 caractères !",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips1": {
+    "message": "Attention à tous!",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips2": {
+    "message": "Vous avez deux façons d cours de suivre votre cours :",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips3": {
+    "message": "1. Scannez le code QR de la classe de cours via l’application ULearning sur votre appareil mobile et suivez les instructions pour vous inscrire.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips4": {
+    "message": "2. Entrez le code de classe (fourni par votre enseignant) pour effectuer une recherche dans la classe et suivez les instructions pour vous inscrire.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips5": {
+    "message": "Votre enseignant / école peut fournir le code QR de la classe de cours ou le code de la classe",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips6": {
+    "message": "Conseils pour l’inscription au cours",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips7": {
+    "message": "Le cours que vous essayez d’inscrire est offert par  ",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips8": {
+    "message": ", qui n’est pas votre école. Si vous vous inscrivez à ce cours, les informations de votre école seront modifiées en .",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips9": {
+    "message": ". Êtes-vous sûr de vouloir vous inscrire?",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips10": {
+    "message": "Vous avez déjà inscrit ce cours et pouvez commencer votre parcours d’apprentissage maintenant.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips11": {
+    "message": "Le cours est déjà terminé et ne peut pas accepter de nouvelles inscriptions",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips12": {
+    "message": "Vous avez déjà inscrit l’un des cours offerts par ce cours. Vous ne pouvez pas inscrire plusieurs classes du même cours. Si vous vous êtes inscrit à une mauvaise classe et que vous souhaitez passer à une autre, veuillez contacter l’enseignant pour le faire à votre place.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips13": {
+    "message": "La demande d’inscription est soumise et attend l’approbation de l’enseignant.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips14": {
+    "message": "Impossible de s’inscrire!",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips15": {
+    "message": "Le rôle d’utilisateur n’est pas étudiant et ne peut pas être ajouté à la classe",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips16": {
+    "message": "Félicitations! Vous êtes inscrit et pouvez commencer à apprendre maintenant.",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips1": {
+    "message": "Entrez le code pour rechercher/inscrire la classe",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips2": {
+    "message": "Obtenez le code de classe de votre enseignant, puis entrez le code ci-dessus",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips3": {
+    "message": "Aucune classe n’a été trouvée! Assurez-vous d’entrer le code de classe correct.",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips4": {
+    "message": "Veuillez entrer le code de classe correct",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips5": {
+    "message": "Veuillez saisir le code de classe",
+    "description": "2.0 index.js"
+  },
+  "downloadUmoocTips": {
+    "message": "Analyser pour télécharger l’application Ulearning",
+    "description": "2.0 index.js"
+  },
+  "className": {
+    "message": "Nom de la classe",
+    "description": "2.0 index.js"
+  },
+  "orgName": {
+    "message": "Nom de l’institut",
+    "description": "2.0 index.js"
+  },
+  "ownerCourse": {
+    "message": "Cours",
+    "description": "2.0 index.js"
+  },
+  "confirmJoin": {
+    "message": "Confirmer pour s’inscrire",
+    "description": "2.0 index.js"
+  },
+  "enterCourse": {
+    "message": "Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "closePage": {
+    "message": "Fermer cette page",
+    "description": "2.0 index.js"
+  },
+  "searching": {
+    "message": "Recherche...",
+    "description": "2.0 index.js"
+  },
+  "searchClass": {
+    "message": "Rechercher la classe",
+    "description": "2.0 index.js"
+  },
+  "searchError": {
+    "message": "La recherche a échoué !",
+    "description": "2.0 index.js"
+  },
+  "improveCourse": {
+    "message": "Paramètres complets du cours",
+    "description": "2.0 index.js"
+  },
+  "createCourseTips1": {
+    "message": "Félicitations! Le cours est créé! Vous pouvez continuer à remplir les paramètres du cours si nécessaire.",
+    "description": "2.0 index.js"
+  },
+  "courseTeam": {
+    "message": "Équipe pédagogique",
+    "description": "2.0 index.js"
+  },
+  "courseTeamTips": {
+    "message": "Si plusieurs enseignants sont nécessaires pour enseigner les différentes offres de ce cours, veuillez sélectionner l’option Enseignement en équipe.",
+    "description": "2.0 index.js"
+  },
+  "personalTeaching": {
+    "message": "Enseignement individuel",
+    "description": "2.0 index.js"
+  },
+  "teamTeaching": {
+    "message": "Enseignement en équipe",
+    "description": "2.0 index.js"
+  },
+  "personalTeachingTips": {
+    "message": "Si toutes les classes de cours sont gérées/enseignées par un seul enseignant, veuillez sélectionner l’option Enseignement individuel.",
+    "description": "2.0 index.js"
+  },
+  "currentCourseIs": {
+    "message": "Le cours actuel est ",
+    "description": "2.0 index.js"
+  },
+  "courseRoleTips": {
+    "message": " mode. Dans ce cours, vous êtes ",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips1": {
+    "message": ". Veuillez compléter les informations suivantes : ",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips2": {
+    "message": "Les responsables de cours ont les privilèges les plus élevés dans l’équipe pédagogique. Ils peuvent gérer tous les membres du cours et vérifier les progrès d’apprentissage, les performances de l’activité et les résultats d’évaluation de toutes les classes.",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips3": {
+    "message": "Les enseignants et les assistants d’enseignement sont généralement ajoutés par le responsable du cours. Différents rôles ont des privilèges différents. Suivez les instructions pour configurer.",
+    "description": "2.0 index.js"
+  },
+  "relateTextbook": {
+    "message": "Assigner un didacticiel",
+    "description": "2.0 index.js"
+  },
+  "textbookTips1": {
+    "message": "Affectez le didacticiel au cours. Si aucun didacticiel n’est nécessaire pour votre cours, vous pouvez l’ignorer.",
+    "description": "2.0 index.js"
+  },
+  "textbookTips2": {
+    "message": "Aucun didacticiel n’a été affecté à ce cours par le responsable du cours.",
+    "description": "2.0 index.js"
+  },
+  "textbookTips3": {
+    "message": "Le didacticiel attribué à ce cours est répertorié ci-dessous : ",
+    "description": "2.0 index.js"
+  },
+  "addTeacher": {
+    "message": "Ajoutez un enseignant",
+    "description": "2.0 index.js"
+  },
+  "createTeachingTeam": {
+    "message": "Configurer l’équipe pédagogique",
+    "description": "2.0 index.js"
+  },
+  "teachingTeamTips1": {
+    "message": "Ajoutez des enseignants au cours et attribuez un rôle aux enseignants ajoutés : Gestionnaire de cours, Enseignant ou Assistant d’enseignement (AT).",
+    "description": "2.0 index.js"
+  },
+  "teachingTeamTips2": {
+    "message": "Les membres de l’équipe pédagogique pour ce cours sont énumérés ci-dessous: ",
+    "description": "2.0 index.js"
+  },
+  "courseCreator": {
+    "message": "Créateur de cours",
+    "description": "2.0 index.js"
+  },
+  "courseAdministrator": {
+    "message": "Gestionnaire de cours",
+    "description": "2.0 index.js"
+  },
+  "teachingAssistant": {
+    "message": "Assistant d’enseignement",
+    "description": "2.0 index.js"
+  },
+  "setClass": {
+    "message": "Configurer la classe",
+    "description": "2.0 index.js"
+  },
+  "skipSetting": {
+    "message": "Sauter",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips1": {
+    "message": "Créez une classe (ou laissez un membre de l’équipe pédagogique la créer) et affectez un enseignant à la classe.",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips2": {
+    "message": "Créez votre classe ou laissez l’administrateur ou le responsable de cours vous attribuer une classe",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips3": {
+    "message": "Attendez que l’administrateur ou le responsable de cours vous attribue une classe",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips4": {
+    "message": "Les cours de ce cours sont énumérés ci-dessous: ",
+    "description": "2.0 index.js"
+  },
+  "teachingProcess": {
+    "message": "Organigramme de l’enseignement",
+    "description": "2.0 index.js"
+  },
+  "processTips1": {
+    "message": "En tant que plate-forme de gestion de l’apprentissage basée sur le cloud, ULearning est flexible pour vous permettre d’organiser vos cours en utilisant de nombreux modèles d’enseignement / apprentissage différents tels que la classe inversée, SPOC, mixte, apprentissage hybride, etc.",
+    "description": "2.0 index.js"
+  },
+  "processTips2": {
+    "message": "Avec ULearning, un cours peut offrir plusieurs cours. Les classes peuvent avoir les composants partagés ainsi que des composants personnalisés individuellement. Ils peuvent être enseignés par un enseignant individuel ou par plusieurs enseignants en équipe. Les enseignants peuvent appliquer n’importe quel modèle d’enseignement / apprentissage au besoin à la classe qu’ils enseignent.",
+    "description": "2.0 index.js"
+  },
+  "processTips3": {
+    "message": "Dans le modèle d’enseignement en équipe, les responsables de cours peuvent ajouter des enseignants à l’équipe, attribuer une classe à chaque enseignant et configurer le privilège pour qu’ils enseignent/gèrent le cours/la classe. Les responsables de cours (uniquement les responsables de cours) peuvent configurer, ajouter et modifier les composants de cours partagés pour toutes les classes du cours. Cela réduira considérablement la charge de travail des enseignants de ces composants de cours partagés dans toutes les classes. Les enseignants de différentes classes peuvent toujours avoir les composants d’enseignement / apprentissage personnalisés tels que les devoirs, les examens, les discussions, etc. pour leurs propres classes.",
+    "description": "2.0 index.js"
+  },
+  "processTips4": {
+    "message": "Il est recommandé de choisir le modèle d’enseignement approprié comme vous le souhaitez avant le début du cours. Si l’option d’enseignement en équipe est sélectionnée, assurez-vous de coordonner pour répartir les tâches entre les membres de l’équipe et éviter tout travail en double. Par exemple, le cours n’a besoin d’être créé qu’une seule fois par un membre de l’équipe.",
+    "description": "2.0 index.js"
+  },
+  "processTips5": {
+    "message": "Le processus d’enseignement pour les deux modèles est répertorié ci-dessous. Cliquez sur chaque bouton pour afficher les détails de chaque étape du processus : ",
+    "description": "2.0 index.js"
+  },
+  "startCourse": {
+    "message": "Créer un cours",
+    "description": "2.0 index.js"
+  },
+  "prepareTeachingContent": {
+    "message": "Préparer le contenu",
+    "description": "2.0 index.js"
+  },
+  "publishTeachingActivity": {
+    "message": "Créer/publier des activités d’enseignement/d’apprentissage",
+    "description": "2.0 index.js"
+  },
+  "classInteraction": {
+    "message": "Interactions en classe",
+    "description": "2.0 index.js"
+  },
+  "assesment": {
+    "message": "Évaluation et évaluation",
+    "description": "2.0 index.js"
+  },
+  "courseManager": {
+    "message": "Gestionnaire de cours",
+    "description": "2.0 index.js"
+  },
+  "theTeacher": {
+    "message": "Enseignant de cours",
+    "description": "2.0 index.js"
+  },
+  "setCourseTeam": {
+    "message": "Configurer l’équipe pédagogique",
+    "description": "2.0 index.js"
+  },
+  "designatedTextbook": {
+    "message": "Assigner un didacticiel",
+    "description": "2.0 index.js"
+  },
+  "setStudyPlan": {
+    "message": "Configurer le plan d’apprentissage",
+    "description": "2.0 index.js"
+  },
+  "setHomework": {
+    "message": "Créer/Publier des affectations",
+    "description": "2.0 index.js"
+  },
+  "rollcall": {
+    "message": "Appels",
+    "description": "2.0 index.js"
+  },
+  "scheduleExam": {
+    "message": "Examens",
+    "description": "2.0 index.js"
+  },
+  "inviteStudent": {
+    "message": "Inviter des étudiants à s’inscrire à un cours/à une classe",
+    "description": "2.0 index.js"
+  },
+  "viewProgress": {
+    "message": "Vérifier les progrès et les résultats de l’apprentissage",
+    "description": "2.0 index.js"
+  },
+  "publishDiscussion": {
+    "message": "Créer/Publier des discussions",
+    "description": "2.0 index.js"
+  },
+  "answer": {
+    "message": "Rivaliser pour répondre",
+    "description": "2.0 index.js"
+  },
+  "setAssesmentRules": {
+    "message": "Définissez des règles de notation",
+    "description": "2.0 index.js"
+  },
+  "publishAnnouncement": {
+    "message": "Créer/Publier des annonces",
+    "description": "2.0 index.js"
+  },
+  "uploadResource": {
+    "message": "Télécharger des ressources",
+    "description": "2.0 index.js"
+  },
+  "vote": {
+    "message": "Scrutin",
+    "description": "2.0 index.js"
+  },
+  "summaryGrade": {
+    "message": "Résumé des résultats",
+    "description": "2.0 index.js"
+  },
+  "doHomework": {
+    "message": "Travailler sur/Terminer les devoirs",
+    "description": "2.0 index.js"
+  },
+  "joinInteraction": {
+    "message": "Participer aux interactions",
+    "description": "2.0 index.js"
+  },
+  "joinExam": {
+    "message": "Passer des examens",
+    "description": "2.0 index.js"
+  },
+  "viewAnnouncement": {
+    "message": "Voir les annonces",
+    "description": "2.0 index.js"
+  },
+  "studyTextbook": {
+    "message": "Contenu d’apprentissage (didacticiel/manuel)",
+    "description": "2.0 index.js"
+  },
+  "joinDiscussion": {
+    "message": "Participer aux discussions",
+    "description": "2.0 index.js"
+  },
+  "viewTotalGrade": {
+    "message": "Afficher les résultats d’apprentissage (résumé)",
+    "description": "2.0 index.js"
+  },
+  "viewResource": {
+    "message": "Afficher les ressources",
+    "description": "2.0 index.js"
+  },
+  "courseSource": {
+    "message": "Source du cours",
+    "description": "2.0 index.js"
+  },
+  "courseSorts": {
+    "message": "Classification des cours",
+    "description": "2.0 index.js"
+  },
+  "total": {
+    "message": "Total ",
+    "description": "2.0 index.js"
+  },
+  "totalTextbook": {
+    "message": "Total {n} didacticiels (manuels)",
+    "description": "非国际版首页 -> 更多教材"
+  },
+  "detail": {
+    "message": "Détails ",
+    "description": "2.0 index.js"
+  },
+  "author": {
+    "message": "Auteur",
+    "description": "2.0 index.js"
+  },
+  "press": {
+    "message": "Éditeur",
+    "description": "2.0 index.js"
+  },
+  "noTextbook": {
+    "message": "Pas de didacticiel (manuel)",
+    "description": "2.0 index.js"
+  },
+  "english": {
+    "message": "Anglais",
+    "description": "2.0 index.js"
+  },
+  "thought": {
+    "message": "Philosophie",
+    "description": "2.0 index.js"
+  },
+  "generalEducation": {
+    "message": "Enseignement général",
+    "description": "2.0 index.js"
+  },
+  "prepareTest": {
+    "message": "Préparation des tests",
+    "description": "2.0 index.js"
+  },
+  "wisdomTextbook": {
+    "message": "Ulearning Smart Textbook",
+    "description": "2.0 index.js"
+  },
+  "onlineOpencourse": {
+    "message": "Cours ouverts en ligne Ulearning",
+    "description": "2.0 index.js"
+  },
+  "qualityCourse": {
+    "message": "Plateforme nationale d’apprentissage ouvert en ligne sélectionnée",
+    "description": "2.0 index.js"
+  },
+  "integratedSort": {
+    "message": "Tri complet",
+    "description": "2.0 index.js"
+  },
+  "sortByHot": {
+    "message": "Trier par heure - le plus récent",
+    "description": "2.0 index.js"
+  },
+  "sortByLatest": {
+    "message": "Trier par popularité - le plus chaud",
+    "description": "2.0 index.js"
+  },
+  "classification": {
+    "message": "Classification",
+    "description": "2.0 index.js"
+  },
+  "totalCourse": {
+    "message": "Total {n} cours",
+    "description": "非国际版首页 -> 更多课程"
+  },
+  "nationalBoutique": {
+    "message": "Cours nationaux sélectionnés",
+    "description": "2.0 index.js"
+  },
+  "courseJoinCount": {
+    "message": "{n} étudiants inscrits",
+    "description": "非国际版首页 -> 更多课程"
+  },
+  "summary": {
+    "message": "Description du cours",
+    "description": "2.0 index.js"
+  },
+  "subjectWebsite": {
+    "message": "Site Web de l’objet",
+    "description": "2.0 index.js"
+  },
+  "shuziwaiyuan": {
+    "message": "Collège numérique des langues étrangères",
+    "description": "2.0 index.js"
+  },
+  "shuzimayuan": {
+    "message": "Collège numérique de philosophie",
+    "description": "2.0 index.js"
+  },
+  "renminshuangchuang": {
+    "message": "Collège numérique de l’entrepreneuriat",
+    "description": "2.0 index.js"
+  },
+  "dangjianyun": {
+    "message": "Collège numérique de science politique",
+    "description": "2.0 index.js"
+  },
+  "peoplePublic": {
+    "message": "People.cn Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "haodaxue": {
+    "message": "CnMOOC",
+    "description": "2.0 index.js"
+  },
+  "jiaoshifazhanzhongxin": {
+    "message": "Centre de perfectionnement des enseignants",
+    "description": "2.0 index.js"
+  },
+  "recommendCourse": {
+    "message": "Recommander des cours",
+    "description": "2.0 index.js"
+  },
+  "moreCourse": {
+    "message": "Plus de cours",
+    "description": "2.0 index.js"
+  },
+  "institution": {
+    "message": "Institut",
+    "description": "2.0 index.js"
+  },
+  "moreInstitution": {
+    "message": "Plus d’instituts",
+    "description": "2.0 index.js"
+  },
+  "leiketang": {
+    "message": "Portail Leiketang",
+    "description": "2.0 index.js"
+  },
+  "news": {
+    "message": "Nouvelles",
+    "description": "2.0 index.js"
+  },
+  "moreNews": {
+    "message": "Plus d’actualités",
+    "description": "2.0 index.js"
+  },
+  "starUmooc": {
+    "message": "Suivez-nous sur les réseaux sociaux",
+    "description": "2.0 index.js"
+  },
+  "umoocPublic": {
+    "message": "ULearning sur les réseaux sociaux",
+    "description": "2.0 index.js"
+  },
+  "moreNews2": {
+    "message": "Pour plus d’informations",
+    "description": "2.0 index.js"
+  },
+  "inputCourseName": {
+    "message": "Veuillez entrer le nom du cours",
+    "description": "2.0 index.js"
+  },
+  "ulearning": {
+    "message": "Apprentissage",
+    "description": "2.0 index.js"
+  },
+  "ulearning2APP": {
+    "message": "ULearn2.0APP",
+    "description": "2.0 index.js"
+  },
+  "mobileTeachingSystem": {
+    "message": "Plateforme mobile d’enseignement/apprentissage",
+    "description": "2.0 index.js"
+  },
+  "download": {
+    "message": "Télécharger",
+    "description": "2.0 index.js"
+  },
+  "HomePage": {
+    "message": "Page D'acceuil",
+    "description": "2.0 index.js"
+  },
+  "Textbook": {
+    "message": "Manuels/Didacticiels",
+    "description": "2.0 index.js"
+  },
+  "Courses": {
+    "message": "Cours",
+    "description": "2.0 index.js"
+  },
+  "Schools": {
+    "message": "École",
+    "description": "2.0 index.js"
+  },
+  "ResourceLibrary": {
+    "message": "Ressources",
+    "description": "2.0 index.js"
+  },
+  "QuestionLibrary": {
+    "message": "Banque de questions",
+    "description": "2.0 index.js"
+  },
+  "ExamLibrary": {
+    "message": "Banque d’examens",
+    "description": "2.0 index.js"
+  },
+  "homePage": {
+    "message": "Page d’accueil",
+    "description": "2.0 index.js"
+  },
+  "lastPage": {
+    "message": "Dernière page",
+    "description": "2.0 index.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 index.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 index.js"
+  },
+  "jumpPage": {
+    "message": "Sauter",
+    "description": "2.0 index.js"
+  },
+  "textbook": {
+    "message": "Manuels/Didacticiels",
+    "description": "2.0 index.js"
+  },
+  "course": {
+    "message": "Cours",
+    "description": "2.0 index.js"
+  },
+  "schoolCloud": {
+    "message": "École",
+    "description": "2.0 index.js"
+  },
+  "searchTextbookCourse": {
+    "message": "Rechercher",
+    "description": "2.0 index.js"
+  },
+  "throwingScreen": {
+    "message": "Écran de diffusion",
+    "description": "2.0 index.js"
+  },
+  "app": {
+    "message": "APPLI",
+    "description": "2.0 index.js"
+  },
+  "downloadAPP": {
+    "message": "Télécharger APP",
+    "description": "2.0 index.js"
+  },
+  "help": {
+    "message": "Aide",
+    "description": "2.0 index.js"
+  },
+  "teachProcess": {
+    "message": "Processus d’enseignement",
+    "description": "2.0 index.js"
+  },
+  "resourceLibrary": {
+    "message": "Bibliothèque de ressources",
+    "description": "2.0 index.js"
+  },
+  "questionLibrary": {
+    "message": "Banque de questions",
+    "description": "2.0 index.js"
+  },
+  "examLibrary": {
+    "message": "Banque d’examens",
+    "description": "2.0 index.js"
+  },
+  "littleTools": {
+    "message": "Apps",
+    "description": "2.0 index.js"
+  },
+  "oralPractice": {
+    "message": "Langue - Test oral",
+    "description": "2.0 index.js"
+  },
+  "eventActivity": {
+    "message": "Concours",
+    "description": "2.0 index.js"
+  },
+  "practiceTeaching": {
+    "message": "Stages",
+    "description": "2.0 index.js"
+  },
+  "wordsListenAndWrite": {
+    "message": "Dictée",
+    "description": "2.0 index.js"
+  },
+  "myOrder": {
+    "message": "Mes commandes",
+    "description": "2.0 index.js"
+  },
+  "myTextbook": {
+    "message": "Mes eTextbooks",
+    "description": "2.0 index.js"
+  },
+  "message": {
+    "message": "Messages",
+    "description": "2.0 index.js"
+  },
+  "searchAllCourse": {
+    "message": "Rechercher tous les cours",
+    "description": "2.0 index.js"
+  },
+  "search": {
+    "message": "Rechercher",
+    "description": "2.0 index.js"
+  },
+  "aboutUsCl": {
+    "message": "Qui sommes-nous: ",
+    "description": "2.0 index.js"
+  },
+  "aboutWenhua": {
+    "message": "À propos de Wenhua",
+    "description": "2.0 index.js"
+  },
+  "contactUs": {
+    "message": "Contactez-nous",
+    "description": "2.0 index.js"
+  },
+  "ulearnCloud": {
+    "message": "Ulearning Cloud",
+    "description": "2.0 index.js"
+  },
+  "textbookList": {
+    "message": "Liste des didacticiels",
+    "description": "2.0 index.js"
+  },
+  "helpCenter": {
+    "message": "Centre d’aide",
+    "description": "2.0 index.js"
+  },
+  "friendLinkCl": {
+    "message": "Liens utiles : ",
+    "description": "2.0 index.js"
+  },
+  "moocPublicCourse": {
+    "message": "People.cn Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "teacherCenter": {
+    "message": "Centre de perfectionnement des enseignants",
+    "description": "2.0 index.js"
+  },
+  "footerCopyRight": {
+    "message": "Copyright©2020 par ULearning. Tous droits réservés.",
+    "description": "2.0 index.js"
+  },
+  "footerStatement": {
+    "message": "Vie privée",
+    "description": "2.0 index.js"
+  },
+  "footerClause": {
+    "message": "Petits caractères",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode1": {
+    "message": "120126 de cartes ICP de Pékin",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode2": {
+    "message": "Permis de publication Internet (Chine) : Nouvelle licence en ligne (Beijing) word 218",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode3": {
+    "message": "Licence commerciale de publication Nouveau départ Beijing approbation mot n° 120206 directement",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode4": {
+    "message": "Sécurité du réseau public de Beijing 11010502036460 Non",
+    "description": "2.0 index.js"
+  },
+  "searchResult": {
+    "message": "Résultats de la recherche ",
+    "description": "2.0 index.js"
+  },
+  "textbookDetail": {
+    "message": "Détails du didacticiel (manuel)",
+    "description": "2.0 index.js"
+  },
+  "thematicCurriculum": {
+    "message": "Cours thématiques",
+    "description": "2.0 index.js"
+  },
+  "myHomePage": {
+    "message": "Ma page d’accueil",
+    "description": "2.0 index.js"
+  },
+  "news2": {
+    "message": "Nouvelles",
+    "description": "2.0 index.js"
+  },
+  "manageMOOC": {
+    "message": "Administrateur MOOC",
+    "description": "2.0 index.js"
+  },
+  "recoveryCourse": {
+    "message": "Restaurer le cours",
+    "description": "2.0 index.js"
+  },
+  "copyCourse": {
+    "message": "Cours en double",
+    "description": "2.0 index.js"
+  },
+  "copyCourseTip": {
+    "message": "La duplication de cours vous permet de créer un nouveau cours basé sur un cours existant. Tout le contenu et les activités du cours seront dupliqués, mais réinitialisés en tant que statut « Non publié ».",
+    "description": "2.0 index.js"
+  },
+  "addClass": {
+    "message": "Ajouter une classe",
+    "description": "2.0 index.js"
+  },
+  "addClassPlaceHolder": {
+    "message": "Entrez un nom de classe par ligne sans duplication",
+    "description": "2.0 index.js"
+  },
+  "addClassTip": {
+    "message": "Vous pouvez ajouter des classes lors de la duplication d’un cours.",
+    "description": "2.0 index.js"
+  },
+  "copyItem": {
+    "message": "Éléments en double",
+    "description": "2.0 index.js"
+  },
+  "announcement": {
+    "message": "Annonces",
+    "description": "2.0 index.js"
+  },
+  "courseware": {
+    "message": "Didacticiel",
+    "description": "2.0 index.js"
+  },
+  "resourse": {
+    "message": "Ressources",
+    "description": "2.0 index.js"
+  },
+  "homework": {
+    "message": "Affectations",
+    "description": "2.0 index.js"
+  },
+  "discusstion": {
+    "message": "Discussions",
+    "description": "2.0 index.js"
+  },
+  "exam": {
+    "message": "Examens",
+    "description": "2.0 index.js"
+  },
+  "coursewareTip": {
+    "message": "(Contenu uniquement)",
+    "description": "2.0 index.js"
+  },
+  "homeworkTip": {
+    "message": "(Sera réinitialisé en tant que statut « Brouillon »)",
+    "description": "2.0 index.js"
+  },
+  "examTip": {
+    "message": "(Exclure les sessions d’examen)",
+    "description": "2.0 index.js"
+  },
+  "confirmCopyCourse": {
+    "message": "Confirmer",
+    "description": "2.0 index.js"
+  },
+  "noClassTip": {
+    "message": "La classe ne peut pas être vide",
+    "description": "2.0 index.js"
+  },
+  "sameClassTip": {
+    "message": "Les noms de classe ne peuvent pas être répétés",
+    "description": "2.0 index.js"
+  },
+  "copyCourseError": {
+    "message": "La création du cours a échoué !",
+    "description": "2.0 index.js"
+  },
+  "onlineTime": {
+    "message": "Durée en ligne pour cette semaine : {duration}",
+    "description": "2.0 index.js"
+  },
+  "courseStatus": {
+    "message": "Statut du cours",
+    "description": "2.0 index.js"
+  },
+  "courseSort": {
+    "message": "Catégories de cours",
+    "description": "2.0 index.js"
+  },
+  "autoStudy": {
+    "message": "Auto-rythmé",
+    "description": "2.0 index.js"
+  },
+  "courseHelpTitle": {
+    "message": "Durée en ligne",
+    "description": "2.0 index.js"
+  },
+  "courseHelpExplain": {
+    "message": "La durée en ligne de cette semaine fait référence à la durée cumulée d’avoir été connecté à ULearning (PC et/ou ULearning APP). Explication: ",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[0]": {
+    "message": "Cette semaine fait référence aux jours du lundi au dimanche.",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[1]": {
+    "message": "La durée chevauchée du PC et de l’application ULearning ne compte qu’une seule fois.",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[2]": {
+    "message": "La durée de rester longtemps à l’écran sans aucune action / interaction ne sera pas comptée.",
+    "description": "2.0 index.js"
+  },
+  "activityCalendar": {
+    "message": "Calendrier",
+    "description": "2.0 index.js"
+  },
+  "activityFilters": {
+    "message": "Filtre",
+    "description": "2.0 index.js"
+  },
+  "byType": {
+    "message": "Par type",
+    "description": "2.0 index.js"
+  },
+  "byCourse": {
+    "message": "Par cours",
+    "description": "2.0 index.js"
+  },
+  "live": {
+    "message": "Sessions en direct",
+    "description": "2.0 index.js"
+  },
+  "start": {
+    "message": "Commencer",
+    "description": "2.0 index.js"
+  },
+  "allTimeOpen": {
+    "message": "Ouvrir",
+    "description": "2.0 index.js"
+  },
+  "backToCustomerService": {
+    "message": "Retour au service à la clientèle",
+    "description": "2.0 index.js"
+  },
+  "backToManagementCenter": {
+    "message": "Retour au Centre d’administration",
+    "description": "2.0 index.js"
+  },
+  "toTeacher": {
+    "message": "Revenir à la vue Enseignant",
+    "description": "2.0 index.js"
+  },
+  "toStudent": {
+    "message": "Passer à la vue Étudiant",
+    "description": "2.0 index.js"
+  },
+  "bindTitle": {
+    "message": "Conseils",
+    "description": "2.0 index.js"
+  },
+  "bindTip": {
+    "message": "Cher utilisateur, afin d’améliorer la sécurité de votre compte, veuillez lier votre compte à votre numéro de téléphone ou à votre e-mail.",
+    "description": "2.0 index.js"
+  },
+  "bindPhone": {
+    "message": "Lier le numéro de téléphone",
+    "description": "2.0 index.js"
+  },
+  "bindMail": {
+    "message": "Lier l’e-mail",
+    "description": "2.0 index.js"
+  },
+  "switchFail": {
+    "message": "Le commutateur a échoué !",
+    "description": "2.0 index.js"
+  },
+  "courseFile": {
+    "message": "Archives des cours",
+    "description": "2.0 index.js"
+  },
+  "waitForCheckExit": {
+    "message": "La demande de retrait est soumise et attend l’approbation de l’enseignant.",
+    "description": "2.0 index.js"
+  },
+  "moocPublicCourse2": {
+    "message": "Cours ouverts",
+    "description": "2.0 index.js"
+  },
+  "courseRecorded": {
+    "message": "Enregistrements en classe",
+    "description": "2.0 index.js"
+  },
+  "eLearning": {
+    "message": "eLearning",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips17": {
+    "message": "1. Envoyez un e-mail à avictvet@avic-intl.cn pour demander un nouveau compte et obtenir le code de la classe",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips18": {
+    "message": "2. Contactez votre école ou votre enseignant pour obtenir le code de la classe",
+    "description": "2.0 index.js"
+  },
+  "addClassTip2": {
+    "message": "À ce stade, lorsqu’une nouvelle classe est créée, le système publie l’activité dans toutes les classes nouvellement créées, et les étudiants doivent rejoindre chaque classe indépendamment; Vous pouvez également importer des classes et des étudiants en bloc après le début du cours.",
+    "description": "2.0 index.js"
+  },
+  "viewMore": {
+    "message": "Pour en savoir plus",
+    "description": "2.0 index.js"
+  },
+  "importCCContent": {
+    "message": "Importer le fichier CC",
+    "description": "2.0 index.js"
+  }
+}

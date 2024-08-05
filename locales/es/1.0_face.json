@@ -1,0 +1,50 @@
+{
+  "title": {
+    "message": "Reconocimiento facial",
+    "description": "1.0 face.json"
+  },
+  "page-title": {
+    "message": "Autenticación facial",
+    "description": "1.0 face.json"
+  },
+  "close": {
+    "message": "apagar",
+    "description": "1.0 face.json"
+  },
+  "notice": {
+    "message": "Mire directamente a la cámara para garantizar suficiente luz.",
+    "description": "1.0 face.json"
+  },
+  "didNotPass": {
+    "message": "La autenticación de la cara falló.",
+    "description": "1.0 face.json"
+  },
+  "retry": {
+    "message": "Procesar de nuevo",
+    "description": "1.0 face.json"
+  },
+  "captcha": {
+    "message": "La verificación de la cara falló? Haga clic para verificar con el código de verificación>",
+    "description": "1.0 face.json"
+  },
+  "pass": {
+    "message": "La certificación ha sido aprobada, ingrese al examen en 3 segundos",
+    "description": "1.0 face.json"
+  },
+  "show-captcha": {
+    "message": "Solicite al supervisor el código de verificación e ingrese",
+    "description": "1.0 face.json"
+  },
+  "captcha-error": {
+    "message": "Error de código de verificación",
+    "description": "1.0 face.json"
+  },
+  "exam-captcha": {
+    "message": "Código de verificación del examen",
+    "description": "1.0 face.json"
+  },
+  "face-verify": {
+    "message": "Verificación facial en curso...",
+    "description": "1.0 face.json"
+  }
+}

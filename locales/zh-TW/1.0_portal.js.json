@@ -1,0 +1,98 @@
+{
+  "welcome": {
+    "message": "歡迎登錄優學院",
+    "description": "1.0 portal.js"
+  },
+  "tip": {
+    "message": "還沒有優學院賬號？",
+    "description": "1.0 portal.js"
+  },
+  "register": {
+    "message": "註冊",
+    "description": "1.0 portal.js"
+  },
+  "loginName": {
+    "message": "使用者名稱/手機號碼",
+    "description": "1.0 portal.js"
+  },
+  "loginPlaceholder": {
+    "message": "請輸入您的用戶名或手機號",
+    "description": "1.0 portal.js"
+  },
+  "loginTip": {
+    "message": "請輸入使用者名或密碼",
+    "description": "1.0 portal.json.js"
+  },
+  "loginErrorTip": {
+    "message": "使用者名或密碼輸入有誤",
+    "description": "1.0 portal.json.js"
+  },
+  "loginTryLimit": {
+    "message": "您已經連續輸錯5次，3分鐘後重試",
+    "description": "1.0 portal.json.js"
+  },
+  "password": {
+    "message": "密碼",
+    "description": "1.0 portal.js"
+  },
+  "passwordPlaceholder": {
+    "message": "您的密碼",
+    "description": "1.0 portal.js"
+  },
+  "login": {
+    "message": "登入",
+    "description": "1.0 portal.js"
+  },
+  "forgotPassword": {
+    "message": "忘記密碼",
+    "description": "1.0 portal.js"
+  },
+  "userAndPasswordTip": {
+    "message": "用戶名和密碼不能相同",
+    "description": "insureance.jsp"
+  },
+  "passwordTip": {
+    "message": "8-16比特，必須同時包含字母和數位（區分大小寫）",
+    "description": "insureance.jsp"
+  },
+  "plzOldPassword": {
+    "message": "請輸入舊密碼",
+    "description": "insureance.jsp"
+  },
+  "plzRightOldPassword": {
+    "message": "請輸入正確的舊密碼",
+    "description": "insureance.jsp"
+  },
+  "plzNewPassword": {
+    "message": "請輸入新密碼",
+    "description": "insureance.jsp"
+  },
+  "confirmPassword": {
+    "message": "請輸入確認密碼",
+    "description": "insureance.jsp"
+  },
+  "passwordNotSame": {
+    "message": "兩次密碼輸入不一致",
+    "description": "insureance.jsp"
+  },
+  "modifySuccessed": {
+    "message": "修改成功",
+    "description": "insureance.jsp"
+  },
+  "modifyFailed": {
+    "message": "您的密碼修改失敗，請核對舊密碼重新修改!",
+    "description": "insureance.jsp"
+  },
+  "modifyError": {
+    "message": "哎呦，出錯了。",
+    "description": "insureance.jsp"
+  },
+  "copySuccess": {
+    "message": "複製成功",
+    "description": "1.0 portal.json.js"
+  },
+  "copyFailed": {
+    "message": "複製失敗",
+    "description": "1.0 portal.json.js"
+  }
+}

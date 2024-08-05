@@ -1,0 +1,330 @@
+{
+  "exportDetails": {
+    "message": "Detalles de exportación",
+    "description": "2.0 classroom.js"
+  },
+  "classAlign": {
+    "message": "Volver a clase",
+    "description": "2.0 classroom.js"
+  },
+  "classroomReport": {
+    "message": "Informes de clase.",
+    "description": "2.0 classroom.js"
+  },
+  "attendance": {
+    "message": "Asistencia",
+    "description": "2.0 classroom.js"
+  },
+  "interactionInClass": {
+    "message": "Esta lección interactúa.",
+    "description": "2.0 classroom.js"
+  },
+  "participationPoints": {
+    "message": "Puntos de participación.",
+    "description": "2.0 classroom.js"
+  },
+  "integralInClass": {
+    "message": "Puntos para esta lección.",
+    "description": "2.0 classroom.js"
+  },
+  "comprehensivePerformance": {
+    "message": "Rendimiento integral de los estudiantes.",
+    "description": "2.0 classroom.js"
+  },
+  "more": {
+    "message": "Más",
+    "description": "2.0 classroom.js"
+  },
+  "summary": {
+    "message": "Resumen de clases.",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip": {
+    "message": "Puede anotar el resumen de la clase aquí.",
+    "description": "2.0 classroom.js"
+  },
+  "reStartFail": {
+    "message": "No pudo asistir a clase de nuevo.",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip1": {
+    "message": "No se pueden superar los 2000 caracteres.",
+    "description": "2.0 classroom.js"
+  },
+  "rankList": {
+    "message": "Los puntos están clasificados.",
+    "description": "2.0 classroom.js"
+  },
+  "rankListInClass": {
+    "message": "Clasificación de clase de puntos de clase.",
+    "description": "2.0 classroom.js"
+  },
+  "viewClassStatistics": {
+    "message": "Ver estadísticas de clases.",
+    "description": "2.0 classroom.js"
+  },
+  "myRate": {
+    "message": "Mi clasificación.",
+    "description": "2.0 classroom.js"
+  },
+  "myPerformance": {
+    "message": "Mi actuación en clase.",
+    "description": "2.0 classroom.js"
+  },
+  "scoreInClass": {
+    "message": "Puntos para este evento de clase.",
+    "description": "2.0 classroom.js"
+  },
+  "totalScore": {
+    "message": "Total: {count} puntos",
+    "description": "2.0 classroom.js"
+  },
+  "rankInClass": {
+    "message": "Clasificación de clases.",
+    "description": "2.0 classroom.js"
+  },
+  "interaction": {
+    "message": "Interacción en el aula",
+    "description": "2.0 classroom.js"
+  },
+  "answered": {
+    "message": "Respondió.",
+    "description": "2.0 classroom.js"
+  },
+  "notAnswer": {
+    "message": "No hay respuesta.",
+    "description": "2.0 classroom.js"
+  },
+  "selected": {
+    "message": "Seleccionado.",
+    "description": "2.0 classroom.js"
+  },
+  "joined": {
+    "message": "Participado.",
+    "description": "2.0 classroom.js"
+  },
+  "notJoin": {
+    "message": "Sin participar",
+    "description": "2.0 classroom.js"
+  },
+  "score": {
+    "message": "Integral.",
+    "description": "2.0 classroom.js"
+  },
+  "classroomCount": {
+    "message": "Número de clases.",
+    "description": "2.0 classroom.js"
+  },
+  "activity": {
+    "message": "Actividades",
+    "description": "2.0 classroom.js"
+  },
+  "classroomList": {
+    "message": "Registro de clases.",
+    "description": "2.0 classroom.js"
+  },
+  "createClassroom": {
+    "message": "Crear curso",
+    "description": "2.0 classroom.js"
+  },
+  "studentPerformance": {
+    "message": "Rendimiento estudiantil.",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStatistics": {
+    "message": "Estadísticas de cursos.",
+    "description": "2.0 classroom.js"
+  },
+  "classroomName": {
+    "message": "Nombre del aula",
+    "description": "2.0 classroom.js"
+  },
+  "classTime": {
+    "message": "Hora de inicio",
+    "description": "2.0 classroom.js"
+  },
+  "classesInClassroom": {
+    "message": "Clase",
+    "description": "2.0 classroom.js"
+  },
+  "inClass": {
+    "message": "En clase.",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroom": {
+    "message": "Entrar al curso",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroom": {
+    "message": "Copiar la clase",
+    "description": "2.0 classroom.js"
+  },
+  "noClassroom": {
+    "message": "No hay clases en este momento.",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroomName": {
+    "message": "Por favor, introduzca el nombre del aula",
+    "description": "2.0 classroom.js"
+  },
+  "noClass1": {
+    "message": "No hay clases en este momento.",
+    "description": "2.0 classroom.js"
+  },
+  "lastClass": {
+    "message": "Clase anterior.",
+    "description": "2.0 classroom.js"
+  },
+  "startClass": {
+    "message": "Empieza la clase",
+    "description": "2.0 classroom.js"
+  },
+  "notClass": {
+    "message": "Por el momento no hay clases",
+    "description": "2.0 classroom.js"
+  },
+  "allClassroom": {
+    "message": "Todos los cursos",
+    "description": "2.0 classroom.js"
+  },
+  "deleteClassroom": {
+    "message": "Elimine la clase.",
+    "description": "2.0 classroom.js"
+  },
+  "confirmDeleteClassroom": {
+    "message": "¿Seguro de que desea eliminar esta clase?",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomToClass": {
+    "message": "Copie la clase en la clase.",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip": {
+    "message": "(Las actividades no se inician después de copiarlas, puede comenzar estas actividades después de la clase, las actividades de pasar lista / selección no se pueden copiar)",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip1": {
+    "message": "Después de copiar la clase, las actividades como votar y responder no se inician, y puede comenzar estas actividades después de la clase.",
+    "description": "2.0 classroom.js"
+  },
+  "copySuccess": {
+    "message": "Copiado con éxito",
+    "description": "2.0 classroom.js"
+  },
+  "copyFailed": {
+    "message": "Error al copiar",
+    "description": "2.0 classroom.js"
+  },
+  "editClassroom": {
+    "message": "Modificar el curso",
+    "description": "2.0 classroom.js"
+  },
+  "classErrorTip": {
+    "message": "La clase no puede estar vacía.",
+    "description": "2.0 classroom.js"
+  },
+  "faceAuthentication": {
+    "message": "Autenticación facial",
+    "description": "2.0 classroom.js"
+  },
+  "auditTips2": {
+    "message": "La verificación de reconocimiento facial está activada y las fotos de certificación de los candidatos deben cargarse con antelación. Las fotos pueden ser importadas a granel por los profesores o subidas por los propios estudiantes. Las fotos subidas por los propios estudiantes pueden ser revisadas por los profesores.",
+    "description": "2.0 classroom.js"
+  },
+  "classroomOverview": {
+    "message": "Visión general",
+    "description": "2.0 classroom.js"
+  },
+  "classroomAttendance": {
+    "message": "Asistencia",
+    "description": "2.0 classroom.js"
+  },
+  "classroomInteractionTimes": {
+    "message": "Interacción",
+    "description": "2.0 classroom.js"
+  },
+  "classroomLikeNumber": {
+    "message": "Me gusta",
+    "description": "2.0 classroom.js"
+  },
+  "classroomQuestionNumber": {
+    "message": "Dudar",
+    "description": "2.0 classroom.js"
+  },
+  "classroomTeachingContent": {
+    "message": "Qué hay en la clase",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStuQuestionNumber": {
+    "message": "Dudar",
+    "description": "2.0 classroom.js"
+  },
+  "questionNumber": {
+    "message": "Dudar",
+    "description": "2.0 classroom.js"
+  },
+  "curPageQuestionNumber": {
+    "message": "Estudiantes con preguntas en esta página:",
+    "description": "2.0 classroom.js"
+  },
+  "curClassroomQuestionNumber": {
+    "message": "{n} pertanyaan di kelas ini",
+    "description": "2.0 classroom.js"
+  },
+  "classroomInteraction": {
+    "message": "Interacción en el aula",
+    "description": "2.0 classroom.js"
+  },
+  "classroomScore": {
+    "message": "Puntos de estudiante",
+    "description": "2.0 classroom.js"
+  },
+  "classroomLikeDesc": {
+    "message": "Kelas ini telah menerima {n} suka dari siswa secara total. Mari kita rangkum kelas ini untuk siswa!",
+    "description": "2.0 classroom.js"
+  },
+  "noQues": {
+    "message": "Los estudiantes de esta clase no hicieron ninguna pregunta",
+    "description": "2.0 classroom.js"
+  },
+  "classroomShared": {
+    "message": "Compartir en el aula",
+    "description": "2.0 classroom.js"
+  },
+  "classroomSharedNumber": {
+    "message": "Número de acciones colectivas:",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStuQuestion": {
+    "message": "Los estudiantes tienen preguntas",
+    "description": "2.0 classroom.js"
+  },
+  "hasUpload": {
+    "message": "Enviado",
+    "description": "2.0 classroom.js"
+  },
+  "dontUpload": {
+    "message": "No enviado",
+    "description": "2.0 classroom.js"
+  },
+  "remind": {
+    "message": "Recordatorio",
+    "description": "2.0 classroom.js"
+  },
+  "areyousuredelete": {
+    "message": "¿Está seguro de que desea eliminar el uso compartido de imágenes?",
+    "description": "2.0 classroom.js"
+  },
+  "netWOrkError": {
+    "message": "Error de red",
+    "description": "2.0 classroom.js"
+  },
+  "classroomResources": {
+    "message": "Recursos de la sesión",
+    "description": "2.0 classroom.js"
+  },
+  "classroomResourcesNum": {
+    "message": "Número de recursos de sesión: ",
+    "description": "2.0 classroom.js"
+  }
+}

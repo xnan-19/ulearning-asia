@@ -1,0 +1,274 @@
+{
+  "examEnvironmentDetection": {
+    "message": "Computer Compliance Check",
+    "description": "2.0 help.js"
+  },
+  "close": {
+    "message": "Close",
+    "description": "2.0 help.js"
+  },
+  "hardwareRequirements": {
+    "message": "Hardware Requirements",
+    "description": "2.0 help.js"
+  },
+  "hardware": {
+    "message": "Hardware",
+    "description": "2.0 help.js"
+  },
+  "minimumRequirements": {
+    "message": "Minimum Requirements",
+    "description": "2.0 help.js"
+  },
+  "internalMemory": {
+    "message": "RAM",
+    "description": "2.0 help.js"
+  },
+  "internalMemory2": {
+    "message": "1 GB memory",
+    "description": "2.0 help.js"
+  },
+  "envTips1": {
+    "message": "2 GHz or faster",
+    "description": "2.0 help.js"
+  },
+  "envTips2": {
+    "message": "Peripheral Devices",
+    "description": "2.0 help.js"
+  },
+  "envTips3": {
+    "message": "If the exam has the questions which require you to listen and record voice, a headset with microphone should be equipped.",
+    "description": "2.0 help.js"
+  },
+  "envTips4": {
+    "message": "Headset Check",
+    "description": "2.0 help.js"
+  },
+  "envTips5": {
+    "message": "Recording Check",
+    "description": "2.0 help.js"
+  },
+  "envTips6": {
+    "message": "Network Bandwidth",
+    "description": "2.0 help.js"
+  },
+  "envTips7": {
+    "message": "Network Speed Check",
+    "description": "2.0 help.js"
+  },
+  "envTips8": {
+    "message": "Re-Check",
+    "description": "2.0 help.js"
+  },
+  "envTips9": {
+    "message": "Checking download speed..., please wait.",
+    "description": "2.0 help.js"
+  },
+  "envTips10": {
+    "message": "Download Speed: ",
+    "description": "2.0 help.js"
+  },
+  "envTips11": {
+    "message": "Recommended Network Bandwidth ",
+    "description": "2.0 help.js"
+  },
+  "bandWidthHint": {
+    "message": "Make sure the exam facility has the dedicated {totalBandWidth} bandwidth and a single computer has {netspeed} download speed (approximately {singleBandWidth} bandwidth). If the exam has the questions requiring listening and voice recording, the Internet speed should double.",
+    "description": "教师账号 -> 考试 -> 环境检测"
+  },
+  "envTips16": {
+    "message": "Number of Users ",
+    "description": "2.0 help.js"
+  },
+  "envTips17": {
+    "message": "Network download speed",
+    "description": "2.0 help.js"
+  },
+  "envTips18": {
+    "message": "Bandwidth",
+    "description": "2.0 help.js"
+  },
+  "envTips19": {
+    "message": "Total Bandwidth",
+    "description": "2.0 help.js"
+  },
+  "envTips20": {
+    "message": "500 users",
+    "description": "2.0 help.js"
+  },
+  "envTips21": {
+    "message": "Around 100 KB/s/user",
+    "description": "2.0 help.js"
+  },
+  "envTips22": {
+    "message": "Around 1 MB/user",
+    "description": "2.0 help.js"
+  },
+  "envTips23": {
+    "message": "Around 500 MB",
+    "description": "2.0 help.js"
+  },
+  "envTips24": {
+    "message": "1000 users",
+    "description": "2.0 help.js"
+  },
+  "envTips25": {
+    "message": "Around 100 KB/s/user",
+    "description": "2.0 help.js"
+  },
+  "envTips26": {
+    "message": "Around 1 MB/user",
+    "description": "2.0 help.js"
+  },
+  "envTips27": {
+    "message": "Around 1 GB",
+    "description": "2.0 help.js"
+  },
+  "envTips28": {
+    "message": "Browser and Plug-ins",
+    "description": "2.0 help.js"
+  },
+  "envTips29": {
+    "message": "Browser Compliance Check",
+    "description": "2.0 help.js"
+  },
+  "envTips30": {
+    "message": "Browser Version",
+    "description": "2.0 help.js"
+  },
+  "envTips31": {
+    "message": "Flash Version",
+    "description": "2.0 help.js"
+  },
+  "envTips32": {
+    "message": "No Adobe Flash Player installed",
+    "description": "2.0 help.js"
+  },
+  "envTips33": {
+    "message": "Click to install",
+    "description": "2.0 help.js"
+  },
+  "envTips34": {
+    "message": "Help",
+    "description": "2.0 help.js"
+  },
+  "envTips35": {
+    "message": "Browser Cookie",
+    "description": "2.0 help.js"
+  },
+  "envTips36": {
+    "message": "Enabled",
+    "description": "2.0 help.js"
+  },
+  "envTips37": {
+    "message": "Disabled",
+    "description": "2.0 help.js"
+  },
+  "envTips38": {
+    "message": "Browser JavaScript",
+    "description": "2.0 help.js"
+  },
+  "envTips39": {
+    "message": "Recommended Browser Download",
+    "description": "2.0 help.js"
+  },
+  "browserHint": {
+    "message": "In order to ensure a smooth exam process, it is recommended to use {qqBrowser}, {chrome} or {firefox} browsers, and other browsers are not recommended.",
+    "description": "教师账号 -> 考试 -> 环境检测"
+  },
+  "qqBrowser": {
+    "message": "QQ",
+    "description": "2.0 help.js"
+  },
+  "chrome": {
+    "message": "Chrome",
+    "description": "2.0 help.js"
+  },
+  "firefox": {
+    "message": "Firefox",
+    "description": "2.0 help.js"
+  },
+  "envTips46": {
+    "message": "Browser",
+    "description": "2.0 help.js"
+  },
+  "envTips47": {
+    "message": "System Requirements",
+    "description": "2.0 help.js"
+  },
+  "envTips48": {
+    "message": "Download",
+    "description": "2.0 help.js"
+  },
+  "envTips49": {
+    "message": "Windows 7 or above, Windows XP",
+    "description": "2.0 help.js"
+  },
+  "envTips50": {
+    "message": "Click to download",
+    "description": "2.0 help.js"
+  },
+  "envTips51": {
+    "message": "Plug-ins",
+    "description": "2.0 help.js"
+  },
+  "envTips52": {
+    "message": "Headset Check",
+    "description": "2.0 help.js"
+  },
+  "envTips53": {
+    "message": "Recording Check",
+    "description": "2.0 help.js"
+  },
+  "envTips54": {
+    "message": "Put headset on and click the audio below to check if you can hear the sound.",
+    "description": "2.0 help.js"
+  },
+  "envTips55": {
+    "message": "* If there is no sound: ",
+    "description": "2.0 help.js"
+  },
+  "envTips56": {
+    "message": "1.Please check whether the headset device is connected to the computer correctly.",
+    "description": "2.0 help.js"
+  },
+  "envTips57": {
+    "message": "2. Check if the speaker volume is set too low.",
+    "description": "2.0 help.js"
+  },
+  "envTips58": {
+    "message": "3. If the problem still exists, use another headset to try.",
+    "description": "2.0 help.js"
+  },
+  "envTips59": {
+    "message": "Click the Start Recording button, read the following paragraph aloud, and then click the End Recording button to stop the recording. Click the Replay button to check if the recording was successful.",
+    "description": "2.0 help.js"
+  },
+  "envTips60": {
+    "message": "Click Enable or Download Flash",
+    "description": "2.0 help.js"
+  },
+  "envTips61": {
+    "message": "Start Recording",
+    "description": "2.0 help.js"
+  },
+  "envTips62": {
+    "message": "Stop Rrecording",
+    "description": "2.0 help.js"
+  },
+  "envTips63": {
+    "message": "Replay",
+    "description": "2.0 help.js"
+  },
+  "envTips64": {
+    "message": "1. Check if you visited the website through https://...",
+    "description": "2.0 help.js"
+  },
+  "envTips65": {
+    "message": "2. Check if the headset is properly connected and the microphone is enabled by the browser.",
+    "description": "2.0 help.js"
+  },
+  "envTips66": {
+    "message": "3. Check if Flash plug-in has been installed and enabled.",
+    "description": "2.0 help.js"
+  }
+}
