@@ -5094,5 +5094,21 @@
   "welink.screenshot": {
     "message": "لقطة شاشة",
     "description": "小应用"
+  },
+  "user.codeTextErr": {
+    "message": "الكثير من الأخطاء في رمز التحقق",
+    "description": "小应用"
+  },
+  "classroom.linkCopy": {
+    "message": "هذا الرابط تم نسخها ، يرجى فتح في المتصفح",
+    "description": "小应用"
+  },
+  "classroom.fileNotPreview": {
+    "message": "هذا الملف لا يدعم معاينة على الانترنت",
+    "description": "小应用"
+  },
+  "classroom.jumpNotSupported": {
+    "message": "هذا الرابط لا يدعم القفز ، يرجى نسخ و فتح في المتصفح",
+    "description": "小应用"
   }
 }
