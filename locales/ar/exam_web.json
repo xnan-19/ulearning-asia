@@ -160,7 +160,7 @@
     "description": "考试快捷地址"
   },
   "score": {
-    "message": "{n} دقيقة",
+    "message": "{n} نقاط",
     "description": "考试快捷地址"
   },
   "usedTimes": {
@@ -2228,11 +2228,11 @@
     "description": "考试快捷地址"
   },
   "preQue": {
-    "message": "إعادة توجيه",
+    "message": "السؤال السابق",
     "description": "考试快捷地址"
   },
   "nextQue": {
-    "message": "سؤال التالي",
+    "message": "السؤال التالي",
     "description": "考试快捷地址"
   },
   "finallyQue": {
@@ -2412,11 +2412,11 @@
     "description": "考试快捷地址"
   },
   "batchArrangement": {
-    "message": "المحاضرات",
+    "message": "جلسات الامتحانات",
     "description": "考试快捷地址"
   },
   "allBatchs": {
-    "message": "كل المحاضرات",
+    "message": "كل الجلسات",
     "description": "考试快捷地址"
   },
   "allClasses": {
@@ -2456,19 +2456,19 @@
     "description": "考试快捷地址"
   },
   "ownSpieltag": {
-    "message": "ما عليك سوى إلقاء نظرة على عدد المرات التي يقع فيها فصلي الدراسي",
+    "message": "عرض جلسات الامتحان من فصولي الدراسية فقط.",
     "description": "考试快捷地址"
   },
   "batchIndex": {
-    "message": "الدورة{index}",
+    "message": "الجلسة{index}",
     "description": "考试快捷地址"
   },
   "totalNums": {
-    "message": "إجمالي عدد الأشخاص",
+    "message": "إجالي عدد الممتحنين",
     "description": "考试快捷地址"
   },
   "class": {
-    "message": "الفصل",
+    "message": "الفصول الدراسية",
     "description": "考试快捷地址"
   },
   "student": {
@@ -2612,7 +2612,7 @@
     "description": "考试快捷地址"
   },
   "noMore": {
-    "message": "نكتفى بهذا القدر",
+    "message": "لا توجد امتحانات اخرى",
     "description": "考试快捷地址"
   },
   "errorTip": {

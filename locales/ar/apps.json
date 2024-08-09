@@ -960,7 +960,7 @@
     "description": "小应用"
   },
   "score.member": {
-    "message": "عضو",
+    "message": "الأعضاء",
     "description": "小应用"
   },
   "score.groupMember": {
@@ -1884,7 +1884,7 @@
     "description": "小应用"
   },
   "class.my": {
-    "message": "فصلي الدراسي",
+    "message": "الفصول الدراسية",
     "description": "小应用"
   },
   "class.special": {
@@ -1892,7 +1892,7 @@
     "description": "小应用"
   },
   "class.otherClass": {
-    "message": " فصل دراسي أخر",
+    "message": "فصول دراسية اخرى",
     "description": "小应用"
   },
   "class.other": {
@@ -2124,7 +2124,7 @@
     "description": "小应用"
   },
   "class.newStrategyTips16": {
-    "message": "ملاحظة: جميع الدرجات هنا هي درجات مرجحة",
+    "message": "جميع الدرجات هنا هي درجات لها اوزان",
     "description": "小应用"
   },
   "class.newStrategyTips17": {
@@ -2132,7 +2132,7 @@
     "description": "小应用"
   },
   "class.newStrategyTips18": {
-    "message": "الترجيح:",
+    "message": "الوزن:",
     "description": "小应用"
   },
   "class.newStrategyTips19": {
@@ -2220,7 +2220,7 @@
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips18": {
-    "message": "دقائق للدرجة النهائية، أقل من",
+    "message": "نقاط للدرجة الكاملة، أقل من",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips19": {
@@ -2256,7 +2256,7 @@
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips27": {
-    "message": "جميع التعيينات متوسط",
+    "message": "متوسط جميع الواجبات",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips28": {
@@ -2264,7 +2264,7 @@
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips29": {
-    "message": "جميع الامتحانات من المتوسط",
+    "message": "متوسط جميع الامتحانات",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips30": {
@@ -2272,15 +2272,15 @@
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips31": {
-    "message": "كل المتكاملة من موضوع المناقشة",
+    "message": "موضوع المناقشة بأكمله يساوي",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips32": {
-    "message": "درجات للدرجة النهائية",
+    "message": "نقطة للحصول على الدرجة الكاملة",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips33": {
-    "message": "الدرجة النهائية للحضور الكامل، و يتم خصم الغياب",
+    "message": "العلامة الكاملة للحضور المكتمل، و يتم خصم الغياب",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips34": {
@@ -2688,7 +2688,7 @@
     "description": "小应用"
   },
   "course.removeFrom": {
-    "message": "أخرج المقرر الدراسي",
+    "message": "سحب من المقرر الدراسي",
     "description": "小应用"
   },
   "course.removeTea": {
@@ -2800,7 +2800,7 @@
     "description": "小应用"
   },
   "member.title": {
-    "message": "عضو",
+    "message": "الأعضاء",
     "description": "小应用"
   },
   "member.null": {
@@ -3704,11 +3704,11 @@
     "description": "小应用"
   },
   "classroom.classEnd": {
-    "message": "إنتهى الفصل الدراسي",
+    "message": "صف دراسي منته",
     "description": "小应用"
   },
   "classroom.thisClassAct": {
-    "message": "هذا النشاط الفصل الدراسي",
+    "message": "عدد الانشطة في الفصل الدراسي ",
     "description": "小应用"
   },
   "classroom.thisClassScore": {
@@ -4876,7 +4876,7 @@
     "description": "小应用"
   },
   "classroom.reverseOrder": {
-    "message": "ترتيب عكسي",
+    "message": "من الاحدث الى الأقدم",
     "description": "小应用"
   },
   "classroom.positiveOrder": {
@@ -4992,7 +4992,7 @@
     "description": "小应用"
   },
   "stuList.notRob": {
-    "message": "غير مخطوبة",
+    "message": "لم يشارك",
     "description": "小应用"
   },
   "stuList.yourAnswer": {
@@ -5064,11 +5064,11 @@
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips37": {
-    "message": "النقاط ، خصم الإجازة المتأخرة / المبكرة",
+    "message": "نقطة ، التاخير / المغادرة المبكرة تخصم",
     "description": "小应用"
   },
   "class.newStrategyScoreItemTips38": {
-    "message": "النقاط ، الإجازة المرضية / خصم الإجازة المعذورة",
+    "message": "نقطة ، الاجازة المرضية والاجازة المسببة تخصم",
     "description": "小应用"
   },
   "classroom.picture": {
