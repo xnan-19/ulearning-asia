@@ -520,7 +520,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "recordedClass.cameraDetection": {
-    "message": "Detecting camera...",
+    "message": "Checking camera...",
     "description": "smart-classroom-admin 项目"
   },
   "recordedClass.makeSureEndRecording": {
@@ -540,7 +540,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "recordedClass.startRecording": {
-    "message": "Start Recording",
+    "message": "Record Now",
     "description": "smart-classroom-admin 项目"
   },
   "recordedClass.startRecordingSuccess": {
@@ -728,7 +728,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "playback.msg22": {
-    "message": "Downloading..., please do not close this page! If there is no automatic download, please click the link to download.",
+    "message": "Downloading..., do not close this page! If it does not download automatically, click the link to download.",
     "description": "smart-classroom-admin 项目"
   },
   "playback.msg23": {
@@ -740,7 +740,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "playback.msg25": {
-    "message": "Downloading..., please do not close this page! If the download is successful, this page will automatically close.",
+    "message": "Downloading..., do not close this page! If the download is successful, this page will be closed automatically.",
     "description": "smart-classroom-admin 项目"
   },
   "setUp.recordedClassroom": {
@@ -1032,11 +1032,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "schedule.section": {
-    "message": "Sessions",
+    "message": "Session",
     "description": "smart-classroom-admin 项目"
   },
   "schedule.startTimes": {
-    "message": "Start",
+    "message": "Start Time",
     "description": "smart-classroom-admin 项目"
   },
   "schedule.endTimes": {
@@ -1484,7 +1484,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.createScale": {
-    "message": "Create Rubric",
+    "message": "Add Rubric",
     "description": "smart-classroom-admin 项目"
   },
   "route.supervisoryGroup": {
@@ -1636,7 +1636,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.week": {
-    "message": "Week",
+    "message": "Day",
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.playback": {
@@ -2516,7 +2516,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.dotEnterNull": {
-    "message": "Cannot be empty",
+    "message": "This field cannot be empty!",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.enterTip1": {
@@ -2568,11 +2568,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.jointVideoTip": {
-    "message": "To combine multiple video streams from this session to display in a single video screen, the platform needs to splice/remix these videos from multiple sources. The process takes 30-60 minutes.",
+    "message": "To combine multiple video streams from this session into one video, the platform needs to splice/remix together these videos from multiple sources. The process takes about 30-60 minutes.",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.startJointVideo": {
-    "message": "Start Splicing",
+    "message": "Splice",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.jointVideoNow": {
@@ -2580,7 +2580,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.jointVideoTip1": {
-    "message": "Closing the window does not affect video splicing. You can click the  Splice Videos button in the upper right corner to check the video splicing progress.",
+    "message": "Closing the window will not affect video stitching. You can download the video after stitching is completed.",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.jointVideoTip2": {
@@ -2736,7 +2736,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "knowledgePoint.successTip": {
-    "message": "Succeed!",
+    "message": "Succeeded!",
     "description": "smart-classroom-admin 项目"
   },
   "knowledgePoint.errorTip": {
@@ -2888,7 +2888,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.multipleChoice": {
-    "message": "Multiple Response",
+    "message": "Multiple Answers",
     "description": "smart-classroom-admin 项目"
   },
   "translation.singleChoice": {
@@ -2900,23 +2900,23 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.topicNum": {
-    "message": "Questions",
+    "message": "Items",
     "description": "smart-classroom-admin 项目"
   },
   "translation.informationFilling": {
-    "message": "Session Information",
+    "message": "Text Box",
     "description": "smart-classroom-admin 项目"
   },
   "translation.evaluationQuestion": {
-    "message": "Criteria",
+    "message": "Criterion",
     "description": "smart-classroom-admin 项目"
   },
   "translation.addTopic": {
-    "message": "Add Question",
+    "message": "Add Item",
     "description": "smart-classroom-admin 项目"
   },
   "translation.inputScaleName": {
-    "message": "Please enter a rubric name",
+    "message": "Enter a rubric name",
     "description": "smart-classroom-admin 项目"
   },
   "translation.ungrouped": {
@@ -3176,7 +3176,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.editTime": {
-    "message": "Time Modified",
+    "message": "Last Modified",
     "description": "smart-classroom-admin 项目"
   },
   "translation.inUse": {
@@ -3368,7 +3368,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg40": {
-    "message": "Review Lecture",
+    "message": "Start Review",
     "description": "smart-classroom-admin 项目"
   },
   "translation.modifyingTemplate": {
@@ -3384,7 +3384,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.newClassification": {
-    "message": "Create New Category",
+    "message": "Add New Category",
     "description": "smart-classroom-admin 项目"
   },
   "translation.taskRequirement": {
@@ -3392,7 +3392,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.priceTemplate": {
-    "message": "Review Rubrics",
+    "message": "Review Rubric",
     "description": "smart-classroom-admin 项目"
   },
   "translation.added": {
@@ -3400,19 +3400,19 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg41": {
-    "message": "Note: Removing a reviewer will not delete the reviewer’s reviewing records.",
+    "message": "Note: Removing a reviewer will not delete his/her reviewing records.",
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg42": {
-    "message": "An alert will be issued when the session score is lower than the threshold value",
+    "message": "When the lecture review score falls below the threshold, an alert is issued.",
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg43": {
-    "message": "If you need to create multiple categories, please use the Enter key to enter, one per line.",
+    "message": "Use the Enter key to add multiple categories - one per line.",
     "description": "smart-classroom-admin 项目"
   },
   "translation.pleaseSelectTime": {
-    "message": "Select the time",
+    "message": "Select a time",
     "description": "smart-classroom-admin 项目"
   },
   "translation.AddsupervisoryTaskCategory": {
@@ -3428,7 +3428,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.Name/jobNumber": {
-    "message": "Name/Employee ID",
+    "message": "Name or employee ID",
     "description": "smart-classroom-admin 项目"
   },
   "translation.upTo2000Words": {
@@ -3444,11 +3444,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg44": {
-    "message": "The end time cannot be earlier than the start time",
+    "message": "The end time cannot be earlier than the start time!",
     "description": "smart-classroom-admin 项目"
   },
   "translation.pleaseSelectTerm": {
-    "message": "Please select the semester",
+    "message": "Select a term",
     "description": "smart-classroom-admin 项目"
   },
   "translation.pleaseSelectTemplate": {
@@ -3552,7 +3552,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.score": {
-    "message": "Points",
+    "message": "Pts",
     "description": "smart-classroom-admin 项目"
   },
   "translation.addOption": {
@@ -3568,7 +3568,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.dotEnterNullPleaseFillAgain": {
-    "message": "Cannot be empty. Please fill in again.",
+    "message": "This field cannot be empty!",
     "description": "smart-classroom-admin 项目"
   },
   "translation.evaluatedCourse": {
@@ -3872,11 +3872,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.videoWithoutSound": {
-    "message": "The video has no audio! Click here to add the audio before downloading. ",
+    "message": "No audio! You can add it before downloading.",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.haveVoice": {
-    "message": "With sound",
+    "message": "With audio!",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.mergeInSound": {
@@ -3884,7 +3884,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.mergeSound": {
-    "message": "Remix",
+    "message": "Add Audio",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.successfulMerger": {
@@ -5229,6 +5229,10 @@
   },
   "videoPlayer.subtitleSection": {
     "message": "Transcript",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.editTitle": {
+    "message": "Edit Title",
     "description": "smart-classroom-admin 项目"
   },
   "permisSubtitle.acquiesce": {
