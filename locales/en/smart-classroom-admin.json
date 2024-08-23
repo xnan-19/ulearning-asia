@@ -127,14 +127,6 @@
     "message": "Password",
     "description": "smart-classroom-admin 项目"
   },
-  "login.any": {
-    "message": "any",
-    "description": "smart-classroom-admin 项目"
-  },
-  "login.thirdparty": {
-    "message": "Or connect with",
-    "description": "smart-classroom-admin 项目"
-  },
   "permission.delete": {
     "message": "Delete",
     "description": "smart-classroom-admin 项目"
@@ -164,7 +156,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "table.id": {
-    "message": "ID",
+    "message": "#",
     "description": "smart-classroom-admin 项目"
   },
   "table.date": {
@@ -205,34 +197,6 @@
   },
   "tagsView.close": {
     "message": "Close",
-    "description": "smart-classroom-admin 项目"
-  },
-  "tagsView.closeOthers": {
-    "message": "Close Others",
-    "description": "smart-classroom-admin 项目"
-  },
-  "tagsView.closeAll": {
-    "message": "Close All",
-    "description": "smart-classroom-admin 项目"
-  },
-  "settings.title": {
-    "message": "Page style setting",
-    "description": "smart-classroom-admin 项目"
-  },
-  "settings.theme": {
-    "message": "Theme Color",
-    "description": "smart-classroom-admin 项目"
-  },
-  "settings.tagsView": {
-    "message": "Open Tags-View",
-    "description": "smart-classroom-admin 项目"
-  },
-  "settings.fixedHeader": {
-    "message": "Fixed Header",
-    "description": "smart-classroom-admin 项目"
-  },
-  "settings.sidebarLogo": {
-    "message": "Sidebar Logo",
     "description": "smart-classroom-admin 项目"
   },
   "common.title": {
@@ -288,7 +252,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "common.num": {
-    "message": "Quantity",
+    "message": "Count",
     "description": "smart-classroom-admin 项目"
   },
   "common.videoBeingGenerated": {
@@ -328,7 +292,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "common.serial": {
-    "message": "S/N",
+    "message": "#",
     "description": "smart-classroom-admin 项目"
   },
   "common.classroomName": {
@@ -1680,7 +1644,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.pleaseCompleteSubmit": {
-    "message": "Please fill in all and then submit!",
+    "message": "Please complete all items before submitting!",
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.submittedSuccessfully": {
@@ -2324,7 +2288,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "myCourse.workNum": {
-    "message": "Employee ID Number",
+    "message": "Employee ID",
     "description": "smart-classroom-admin 项目"
   },
   "myCourse.userInfoTip1": {
@@ -2756,7 +2720,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "knowledgePoint.pleaseInput": {
-    "message": "Click to enter the content",
+    "message": "Enter your content",
     "description": "smart-classroom-admin 项目"
   },
   "knowledgePoint.knowledgeView": {
@@ -2856,7 +2820,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.currentScaleIsNotSaved": {
-    "message": "The current rubric has not been saved. Are you sure you want to cancel?",
+    "message": "The rubric is not saved. Are you sure you want to cancel?",
     "description": "smart-classroom-admin 项目"
   },
   "translation.noMoreThan200Words": {
@@ -2896,7 +2860,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.totalScore": {
-    "message": "Total Score",
+    "message": "Total Points",
     "description": "smart-classroom-admin 项目"
   },
   "translation.topicNum": {
@@ -2920,7 +2884,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.ungrouped": {
-    "message": "Unassigned",
+    "message": "Ungrouped",
     "description": "smart-classroom-admin 项目"
   },
   "translation.administrator": {
@@ -2940,7 +2904,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.selectMember": {
-    "message": "Please select group members",
+    "message": "Select team members",
     "description": "smart-classroom-admin 项目"
   },
   "translation.day": {
@@ -2996,7 +2960,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.minutes": {
-    "message": "minutes",
+    "message": "points",
     "description": "smart-classroom-admin 项目"
   },
   "translation.requestError": {
@@ -3076,7 +3040,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.supervisor": {
-    "message": "Reviewer",
+    "message": "Reviewers",
     "description": "smart-classroom-admin 项目"
   },
   "translation.supervisorTime": {
@@ -3140,7 +3104,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.courseTea": {
-    "message": "Course Teacher",
+    "message": "Instructors",
     "description": "smart-classroom-admin 项目"
   },
   "translation.warningNumber": {
@@ -3208,7 +3172,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.inputSupervisorGroup": {
-    "message": "Enter the team name",
+    "message": "Enter a team name",
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg1": {
@@ -3364,7 +3328,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg39": {
-    "message": "Are you sure to delete?",
+    "message": "Are you sure you want to delete it?",
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg40": {
@@ -3372,7 +3336,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.modifyingTemplate": {
-    "message": "Edit Template",
+    "message": "Edit Rubric",
     "description": "smart-classroom-admin 项目"
   },
   "translation.taskName": {
@@ -3484,23 +3448,23 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.evaluationAnalysis": {
-    "message": "Review Analysis",
+    "message": "Data Summary",
     "description": "smart-classroom-admin 项目"
   },
   "translation.attendanceRecord": {
-    "message": "Review Notes",
+    "message": "Reviews",
     "description": "smart-classroom-admin 项目"
   },
   "translation.monitorProgress": {
-    "message": "Review Progress",
+    "message": "Progress",
     "description": "smart-classroom-admin 项目"
   },
   "translation.noAttendanceRecord": {
-    "message": "There are no review notes under this review task.",
+    "message": "There are no reviews found under this review task!",
     "description": "smart-classroom-admin 项目"
   },
   "translation.ratingScale": {
-    "message": "Review Rubrics",
+    "message": "Rubric",
     "description": "smart-classroom-admin 项目"
   },
   "translation.averageRating": {
@@ -3516,11 +3480,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg46": {
-    "message": "If review records are generated under this review task, deleting the  task will also delete the review records. Confirm to delete?",
+    "message": "If review records are generated under this review task, deleting the  task will also delete the review records. Are you sure to delete it?",
     "description": "smart-classroom-admin 项目"
   },
   "translation.undeleted": {
-    "message": "The deletion has been canceled",
+    "message": "The deleting has been canceled!",
     "description": "smart-classroom-admin 项目"
   },
   "translation.notStarted": {
@@ -3544,7 +3508,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.searchTask": {
-    "message": "Search Task",
+    "message": "Search task",
     "description": "smart-classroom-admin 项目"
   },
   "translation.allTasks": {
@@ -5241,6 +5205,10 @@
   },
   "permisSubtitle.noSubtitlesSection": {
     "message": "No transcript found!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.search": {
+    "message": "Search",
     "description": "smart-classroom-admin 项目"
   }
 }
