@@ -1418,5 +1418,13 @@
   "route.supervisorMyTask": {
     "message": "مهامي",
     "description": "smart-classroom-admin 项目"
+  },
+  "route.recordingManage": {
+    "message": "إدارة التسجيلات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.supervisorManagement": {
+    "message": "إدارة المراجعون",
+    "description": "smart-classroom-admin 项目"
   }
 }

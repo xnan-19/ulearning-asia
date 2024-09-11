@@ -176,11 +176,11 @@
     "description": "2.0 certificate.js"
   },
   "eligibleCertificateTem": {
-    "message": "قالب شهادة النجاح\n",
+    "message": "قالب شهادة النجاح",
     "description": "2.0 certificate.js"
   },
   "excellentCertificateTem": {
-    "message": "قالب شهادة التفوق \n",
+    "message": "قالب شهادة التفوق ",
     "description": "2.0 certificate.js"
   },
   "systemTemplate": {

@@ -68,7 +68,7 @@
     "description": "2.0 classroom.js"
   },
   "myPerformance": {
-    "message": "الآداء الفصلي\n",
+    "message": "الآداء الفصلي",
     "description": "2.0 classroom.js"
   },
   "scoreInClass": {
@@ -252,11 +252,11 @@
     "description": "2.0 classroom.js"
   },
   "classroomTeachingContent": {
-    "message": "المحتوى\n",
+    "message": "المحتوى",
     "description": "2.0 classroom.js"
   },
   "classroomStuQuestionNumber": {
-    "message": "أسئلة الطلاب\n",
+    "message": "أسئلة الطلاب",
     "description": "2.0 classroom.js"
   },
   "questionNumber": {

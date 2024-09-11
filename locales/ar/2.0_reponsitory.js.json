@@ -28,15 +28,15 @@
     "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
   },
   "myExamPaper": {
-    "message": "امتحاناتي\n",
+    "message": "امتحاناتي",
     "description": "2.0 reponsitory.js"
   },
   "schoolExamPaper": {
-    "message": "امتحانات الكلية / المعهد\n",
+    "message": "امتحانات الكلية / المعهد",
     "description": "2.0 reponsitory.js"
   },
   "shareExamPaper": {
-    "message": "الامتحانات التي تمت مشاركتها\n",
+    "message": "الامتحانات التي تمت مشاركتها",
     "description": "2.0 reponsitory.js"
   },
   "back": {
@@ -308,11 +308,11 @@
     "description": "2.0 reponsitory.js"
   },
   "myResource": {
-    "message": "مواردي التعليمية\n",
+    "message": "مواردي التعليمية",
     "description": "2.0 reponsitory.js"
   },
   "schoolResource": {
-    "message": "موارد الكلية التعليمية\n",
+    "message": "موارد الكلية التعليمية",
     "description": "2.0 reponsitory.js"
   },
   "shareReource": {
@@ -336,7 +336,7 @@
     "description": "2.0 reponsitory.js"
   },
   "addResource": {
-    "message": "إضافة مورد\n",
+    "message": "إضافة مورد",
     "description": "2.0 reponsitory.js"
   },
   "addLink": {
@@ -344,7 +344,7 @@
     "description": "2.0 reponsitory.js"
   },
   "addRichtext": {
-    "message": "إضافة محتوي نصي\n",
+    "message": "إضافة محتوي نصي",
     "description": "2.0 reponsitory.js"
   },
   "resourceName": {
