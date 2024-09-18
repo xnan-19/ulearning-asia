@@ -3986,5 +3986,85 @@
   "equipmentInspection.processingMethod": {
     "message": "طريقة المعالجة",
     "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.processResult": {
+    "message": "نتائج المعالجة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.fillProcessingResult": {
+    "message": "تسجيل النتائج",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.pleaseFillProcessingResult": {
+    "message": "يرجى تسجيل نتائج المعالجة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.dailyInspectionDetection": {
+    "message": "يقوم النظام بفحص الأجهزة في الساعة السابعة صباحًا كل يوم.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.immediateInspection": {
+    "message": "فحص الآن",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.detectionType": {
+    "message": "نوع الفحص",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.testingEquipment": {
+    "message": "الأجهزة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.viewRecord": {
+    "message": "عرض السجلات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.dailyInspection": {
+    "message": "الفحص اليومي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.noExceptionRecord": {
+    "message": "لا توجد سجلات أخطاء!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.manualInspection": {
+    "message": "فحص يدوي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.duringInspection": {
+    "message": "جاري فحص الجهاز، وستستغرق العملية بأكملها بضع دقائق. إغلاق الصفحة أو الخروج من النظام لن يؤثر على فحص الجهاز.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.detectedEquipment": {
+    "message": "الأجهزة التي تم فحصها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.startInspection": {
+    "message": "هل أنت متأكد من أنك تريد بدء الفحص الآن؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.centralControlHost": {
+    "message": "الكخدم المركزي للتحكم\t",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.microphone": {
+    "message": "الميكروفونات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.live": {
+    "message": "البث مباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.accountLogin": {
+    "message": "تسجيل الدخول",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.inputCollege": {
+    "message": "أدخل الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.selectCollege": {
+    "message": "اختر الكلية",
+    "description": "smart-classroom-admin 项目"
   }
 }
