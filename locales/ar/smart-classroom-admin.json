@@ -3778,5 +3778,121 @@
   "videoPlayer.clockToAnalysis": {
     "message": "انقر هنا لتحليل الفيديو",
     "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.analysisTip": {
+    "message": "جاري تحليل الفيديو، ويُتوقع أن يستغرق 10-20 دقيقة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.totalClassroomReplay": {
+    "message": "إجمالي مرات تشغيل المحاضرات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.recordingDuration": {
+    "message": "إجمالي مدة التسجيل التراكمي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.storageSpace": {
+    "message": "مساحة التخزين",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.haveBeenUsed": {
+    "message": "مٌستخدَم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.used": {
+    "message": "مٌستخدَم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.usable": {
+    "message": "متوفر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.hours": {
+    "message": "ساعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.classroomOverview": {
+    "message": "لمحة عن الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.videoWithoutSound": {
+    "message": "لا يوجد صوت! يمكنك إضافته قبل التنزيل.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.haveVoice": {
+    "message": " يوجد صوت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.mergeInSound": {
+    "message": "جاري إضافة الصوت...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.mergeSound": {
+    "message": "إضافة صوت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.successfulMerger": {
+    "message": "تمت الإضافة بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.mergeFailure": {
+    "message": "فشل في الإضافة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.mergerProgress": {
+    "message": "جاري إضافة الصوت، ويُتوقع أن يستغرق 30 دقيقة. يرجى الانتظار.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.reconsolidate": {
+    "message": "تمت إعادة الإضافة بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.reconsolidateLose": {
+    "message": "فشل في إعادة الإضافة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.unmergeScss": {
+    "message": "تم إلغاء الإضافة بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.unmergeError": {
+    "message": "فشل في إلغاء الإضافة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.remerge": {
+    "message": "إعادة الإضافة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.searchKeywords": {
+    "message": "البحث عن الكلمات الرئيسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.noSubtitles": {
+    "message": "لم يتم العثور على أي ترجمة مطابقة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.titleGeneration": {
+    "message": "جاري إنشاء الترجمة التلقائية، يرجى التحقق مرة أخرى لاحقًا",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.liveEvent": {
+    "message": "البث عبر الإنترنت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.equipmentInspection": {
+    "message": "فحص الجهاز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.systemLog": {
+    "message": "ملف سجل النظام",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.administrator": {
+    "message": "المسؤولون",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.resourcePortal": {
+    "message": "بوابة الفيديو حسب الطلب",
+    "description": "smart-classroom-admin 项目"
   }
 }
