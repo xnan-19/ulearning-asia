@@ -3651,26 +3651,6 @@
     "message": "统一身份认证",
     "description": "data-center-web 项目"
   },
-  "common.reset": {
-    "message": "重置",
-    "description": "data-center-web 项目"
-  },
-  "common.delete": {
-    "message": "删除",
-    "description": "data-center-web 项目"
-  },
-  "common.confirm": {
-    "message": "确定",
-    "description": "data-center-web 项目"
-  },
-  "common.cancel": {
-    "message": "取消",
-    "description": "data-center-web 项目"
-  },
-  "common.requestError": {
-    "message": "请求失败",
-    "description": "data-center-web 项目"
-  },
   "warningSetting.lateLeaveWaring": {
     "message": "迟到早退次数预警值",
     "description": "data-center-web 项目"
