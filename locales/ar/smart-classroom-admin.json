@@ -4066,5 +4066,45 @@
   "live.selectCollege": {
     "message": "اختر الكلية",
     "description": "smart-classroom-admin 项目"
+  },
+  "live.playbackManagement": {
+    "message": "إعدادات إعادة التشغيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.classroom": {
+    "message": "قاعات الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.onLive": {
+    "message": "البث المباشر جاري",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.share": {
+    "message": "مشاركة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.endLive": {
+    "message": "إنهاء البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.endLiveSucc": {
+    "message": "إلغاء البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.bookedLive": {
+    "message": "البث المباشر المجدول",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.bookingLive": {
+    "message": "جدولة بث مباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.classroomLive": {
+    "message": "بث مباشر لمحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.tips": {
+    "message": "بعد تمكين البث المباشر للصف الدراسي، يمكن للطلاب مشاهدة البث المباشر على بوابة الفيديو حسب الطلب.",
+    "description": "smart-classroom-admin 项目"
   }
 }
