@@ -2806,5 +2806,773 @@
   "translation.currentScaleIsNotSaved": {
     "message": "لم يتم حفظ المقياس الحالي، هل أنت متأكد من رغبتك في الإلغاء؟",
     "description": "smart-classroom-admin 项目"
+  },
+  "translation.noMoreThan200Words": {
+    "message": "من فضلك لا تتجاوز 200 حرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.cannotBlankMaximum200Words": {
+    "message": "لا يمكن أن يكون فارغا، و بحد أقصى 200 حرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.attendance": {
+    "message": "عدد الحضور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.chapter": {
+    "message": "الوحدة/الموضوع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingContent": {
+    "message": "محتوى المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.subjectiveEvaluationQuestion": {
+    "message": "أسئلة التقييم الذاتي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.gradingQuestion": {
+    "message": "أسئلة التقدير",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.multipleChoice": {
+    "message": "أسئلة الإجابات متعددة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.singleChoice": {
+    "message": "أسئلة الاختيار من متعدد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.totalScore": {
+    "message": "مجموع النقاط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.topicNum": {
+    "message": "عدد الأسئلة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.informationFilling": {
+    "message": "املأ المعلومات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationQuestion": {
+    "message": "معيار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addTopic": {
+    "message": "إضافة سؤال",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputScaleName": {
+    "message": "الرجاء إدخال اسم المعيار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.ungrouped": {
+    "message": "غير مصنف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.administrator": {
+    "message": "المدير",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.upTo200Words": {
+    "message": "لا يتجاوز عدد الأحرف 200 حرف!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.selected": {
+    "message": "تم تحديده",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allSelect": {
+    "message": "تحديد الكل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.selectMember": {
+    "message": "يرجى اختيار أعضاء الفريق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.day": {
+    "message": "يوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.one": {
+    "message": "واحد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.two": {
+    "message": "اثنان",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.three": {
+    "message": "تلاتة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.four": {
+    "message": "أربعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.five": {
+    "message": "خمسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.six": {
+    "message": "ستة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.justNow": {
+    "message": "الآن",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.minuteAgo": {
+    "message": "قبل دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hourAgo": {
+    "message": "منذ ساعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.oneDayAgo": {
+    "message": "قبل يوم واحد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.month": {
+    "message": "شهر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hour": {
+    "message": "الوقت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.minutes": {
+    "message": "نقاط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.requestError": {
+    "message": "خطأ في الطلب!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.loginExpired": {
+    "message": "انتهت صلاحية تسجيل الدخول!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.serverError": {
+    "message": "خطأ داخلي في الخادم!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.upload": {
+    "message": "تحميل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadPictures": {
+    "message": "تحميل صورة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.administrativeAuthority": {
+    "message": "إدارة الصلاحيات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addSupervisor": {
+    "message": "إضافة مشرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editSupervisor": {
+    "message": "تعديل مشرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.authority": {
+    "message": "الصلاحيات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.deactivate": {
+    "message": "إيقاف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.enable": {
+    "message": "تمكين",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noAuthority": {
+    "message": "ليس لديك اذن",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.haveAuthority": {
+    "message": "لديك الصلاحية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.normal": {
+    "message": "نشط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allCourse": {
+    "message": "كل المقررات الدراسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.concerned": {
+    "message": "متابعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.beenConcerned": {
+    "message": "متابع مسبقاً",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.goal": {
+    "message": "الدرجة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.earlyWarning": {
+    "message": "تنبيهات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisor": {
+    "message": "المراجعون",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisorTime": {
+    "message": "وقت المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisorNum": {
+    "message": "عدد مرات المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.averageScore": {
+    "message": "متوسط الدرجات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.maximumScore": {
+    "message": "أعلى درجة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.minimumScore": {
+    "message": "أقل درجة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationDetails": {
+    "message": "تفاصيل التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.operationalData": {
+    "message": "ملخص البيانات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.schoolAverage": {
+    "message": "متوسط درجات المدرسة بأكملها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.departmentAverage": {
+    "message": "متوسط درجات الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.more": {
+    "message": "المزيد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indicator": {
+    "message": "فهرس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.lower": {
+    "message": "منخفض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationNum": {
+    "message": "عدد المراجعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.curriculumStatistics": {
+    "message": "إحصائيات المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.earlyWarningRecord": {
+    "message": "سجلات التنبيهات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseTea": {
+    "message": "معلم المقرر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.warningNumber": {
+    "message": "عدد التنبيهات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationIndex": {
+    "message": "معايير المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.cuttingScreen": {
+    "message": "تبديل الشاشة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.focussing": {
+    "message": "التركيز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.threeAdvantages": {
+    "message": "ثلاث مزايا رئيسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.userLogin": {
+    "message": "تسجيل دخول المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.submit": {
+    "message": "إرسال",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classification": {
+    "message": "الفئات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editTime": {
+    "message": "تعديل الوقت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inUse": {
+    "message": "نشط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inDeactivation": {
+    "message": "معطل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisionGroup": {
+    "message": "اسم فريق التوجيه والإشراف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addSupervisionGroup": {
+    "message": "إضافة مشرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editSupervisionGroup": {
+    "message": "تعديل مشرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.peopleNum": {
+    "message": "الإعضاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.member": {
+    "message": "قائمة الاعضاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputSupervisorGroup": {
+    "message": "الرجاء إدخال اسم فريق التوجيه والإشراف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg1": {
+    "message": "لا يمكن تجاوز حجم المرفقات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg2": {
+    "message": "صورة واحدة فقط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg3": {
+    "message": "اسحب الملف هنا، أو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg4": {
+    "message": "يمكن أن يكون نوع المرفق الذي تم تحميله فقط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg5": {
+    "message": "لا يمكن أن يتجاوز حجم الصورة التي تم تحميلها 2 ميغابايت!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg6": {
+    "message": "المجموع {num} قاعة/قاعات تسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg7": {
+    "message": "يرجى إدخال رقم الوظيفي الخاص بك، 2 - 50 حرفًا - يدعم الأحرف والأرقام والشرطة (-) والنقطة (.) فقط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg8": {
+    "message": "لا توجد صلاحلات إدارية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg9": {
+    "message": "توجد صلاحلات إدارية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg10": {
+    "message": "أدخل اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg11": {
+    "message": "اختر الصلاحيات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg12": {
+    "message": "ملاحظة: يمكن للمراجعين الذين لديهم صلاحيات إدارية إنشاء مهام المراجعة ومعايير التقييم وتنظيم أنشطة المراجعة.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg13": {
+    "message": "المقررات التي اتابعها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg14": {
+    "message": "لم تقم بمتابعة أي دورات، يرجى الانتقال إلى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg15": {
+    "message": "اختر المقرر الذي تفضل متابعته. بعد المتابعة، ستظهر المقررات المفضلة لديك هنا.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg16": {
+    "message": "هل أنت متأكد من أنك تريد إلغاء متابعة هذا المقرر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg17": {
+    "message": "جار تحميل البيانات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg18": {
+    "message": "أدخل الحرم الجامعي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg19": {
+    "message": "الطول من 3 إلى 5 أحرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg20": {
+    "message": "أدخل المبنى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg21": {
+    "message": "أدخل اسم المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg22": {
+    "message": "ليس لديك صلاحية للوصول إلى هذه الصفحة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg23": {
+    "message": "مدى توزيع الدرجات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg24": {
+    "message": "تحليل مؤشرات التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg25": {
+    "message": "متوسط معدل تحصيل الدرجات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg26": {
+    "message": "البحث عن اسم المقرر / المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg27": {
+    "message": "عدد التقييمات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg28": {
+    "message": "عدد المقررات الدراسية التي تم مراجعتها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg29": {
+    "message": "متوسط عدد المراجعات لكل معلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg30": {
+    "message": "نظام U-Class لتسجيل المحاضرات الذكي يتيح لجهاز تسجيل واحد تغطية عدة فصول دراسية، وبكلفة منخفضة يمكنك بناء نظام تسجيل محاضرات ثابت. كما يدعم النظام المراجعة عن بعد في الوقت الفعلي، ومراجعة التسجيلات السابقة، والحضور التلقائي. يمكن نشر مقاطع الفيديو المسجلة على المقررات الدراسية المستضافة على نظام إدارة التعلم LMS الخاص بك ليتمكن الطلاب من مشاهدتها في أي وقت وفي أي مكان.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg31": {
+    "message": "تسجيل المحاضرات الذكي والمراجعة بتكلفة منخفضة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg32": {
+    "message": "متكامل مع نظام إدارة التعلم LMS لمشاركة موارد التعلم وإعادة استخدامها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg33": {
+    "message": "فيديو + A1 - تحرير ذكي وتحليل وتقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg34": {
+    "message": "إنشاء نقاط معرفة على نفس المستوى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg35": {
+    "message": "إنشاء نقاط المعرفة فرعية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg36": {
+    "message": "ستكون مستويات نقاط المعرفة أكبر من 5. يرجى إعادة اختيار عقدة أعلى!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg37": {
+    "message": "الفترة ال {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg38": {
+    "message": "هل أنت متأكد من أنك تريد تمكين هذا المعيار؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg39": {
+    "message": "هل أنت متأكد من الحذف؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg40": {
+    "message": "البدء ملء نموذج المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.modifyingTemplate": {
+    "message": "تعديل النموذج",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.taskName": {
+    "message": "إسم المهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.taskClassification": {
+    "message": "تصنيف المهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.newClassification": {
+    "message": "إضافة تصنيف جديد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.taskRequirement": {
+    "message": "متطلبات المهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.priceTemplate": {
+    "message": "معايير التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.added": {
+    "message": "تمت الإضافة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg41": {
+    "message": "ملاحظة: إزالة المراجع لن يؤدي إلى حذف سجلات مراجعته.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg42": {
+    "message": "يتم إصدار تنبيه عندما يكون تقييم المحاضرة أقل من الحد الأدنى.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg43": {
+    "message": "لاستخدام عدة تصنيفات، يرجى استخدام مفتاح Enter، تصنيف واحد في كل سطر.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectTime": {
+    "message": "يرجى تحديد الوقت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.AddsupervisoryTaskCategory": {
+    "message": "إضافة تصنيف مهمة مراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationEarlyWarning": {
+    "message": "تنبيه المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.warningvalue": {
+    "message": "قيمة بداية التنبيه",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.Name/jobNumber": {
+    "message": "الاسم أو الرقم الوظيفي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.upTo2000Words": {
+    "message": "حتى 200 حرف!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setWarningvalue": {
+    "message": "يرجى تحديد قيمة بداية التنبيه",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.onlyNumericTypeSupported": {
+    "message": "يدعم الأرقام فقط!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg44": {
+    "message": "يجب أن يكون تاريخ الانتهاء بعد تاريخ البدء!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectTerm": {
+    "message": "يرجى تحديد الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectTemplate": {
+    "message": "يرجى تحديد النموذج",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectSupervisor": {
+    "message": "يرجى تحديد المراجع/المراجعين",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectStartTime": {
+    "message": "وقت البداية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.pleaseSelectEndTime": {
+    "message": "وقت الانتهاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.networkError": {
+    "message": "خطأ في الشبكة، يرجى المحاولة مرة أخرى لاحقًا!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg45": {
+    "message": "توجد بالفعل سجلات مراجعة لهذه المهمة. سيؤدي تغيير نموذج المراجعة إلى مسح سجلات المراجعة السابقة. هل أنت متأكد من رغبتك في إجراء التغييرات؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.startSupervision": {
+    "message": "البدء في المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.exportReport": {
+    "message": "تصدير التقرير",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.attendanceRecord": {
+    "message": "سجلات المحاضرات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.monitorProgress": {
+    "message": "التقدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noAttendanceRecord": {
+    "message": "لم يتم العثور على أي مراجعات ضمن مهمة المراجعة هذه!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.ratingScale": {
+    "message": "معايير التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.averageRating": {
+    "message": "متوسط الدرجات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.copy": {
+    "message": "تكرار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noContent": {
+    "message": "لا يوجد محتوى حتى الآن",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.msg46": {
+    "message": "إذا تم إنشاء سجلات مراجعة ضمن مهمة المراجعة هذه، فإن حذف المهمة سيؤدي أيضًا إلى حذف سجلات المراجعة. هل أنت متأكد من رغبتك في الحذف؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.undeleted": {
+    "message": "تم إلغاء الحذف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.notStarted": {
+    "message": "لم يبدأ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inProgress": {
+    "message": "قيد التنفيذ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.haveEnded": {
+    "message": "انتهت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.expansion": {
+    "message": "توسيع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.putAway": {
+    "message": "تقليص",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.searchTask": {
+    "message": "البحث عن المهام",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allTasks": {
+    "message": "جميع المهام",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.score": {
+    "message": "النقاط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addOption": {
+    "message": "إضافة خيار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.fullMark": {
+    "message": "الدرجة الكاملة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.star": {
+    "message": "نجوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dotEnterNullPleaseFillAgain": {
+    "message": "لا يمكن أن يكون الحقل فارغًا، يرجى إعادة إدخاله",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedCourse": {
+    "message": "المقررات التي قمت بتقييمها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationRecord": {
+    "message": "سجلات التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.taskDescription": {
+    "message": "وصف المهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.remainingDays": {
+    "message": "الأيام المتبقية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.mySupervisionNotes": {
+    "message": "سجلات مراجعتي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.basicInformationSetting": {
+    "message": "إعدادات المعلومات الأساسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classificationSupervisionTask": {
+    "message": "تصنيفات مهام المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.notSelectAnyCampus": {
+    "message": "لم تقم بتحديد أي حرم جامعي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.needCreateMultiple": {
+    "message": "إذا كنت بحاجة إلى إنشاء عدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.enterkeyInputOneRow": {
+    "message": "استخدم مفتاح Enter لإدخال - واحد لكل سطر.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.reservationRecordingSchedule": {
+    "message": "جدولة تسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomVideo": {
+    "message": "فيديو المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.allCourse": {
+    "message": "جميع المقررات الدراسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.topic": {
+    "message": "موضوع مميز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.topicDetail": {
+    "message": "تفاصيل الموضوع",
+    "description": "smart-classroom-admin 项目"
   }
 }
