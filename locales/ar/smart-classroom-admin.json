@@ -4106,5 +4106,181 @@
   "live.tips": {
     "message": "بعد تمكين البث المباشر للصف الدراسي، يمكن للطلاب مشاهدة البث المباشر على بوابة الفيديو حسب الطلب.",
     "description": "smart-classroom-admin 项目"
+  },
+  "live.batchOperation": {
+    "message": "إجراءات دفعة واحدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.allSubscribeLive": {
+    "message": "جدولة الكل للبث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.allCancelLive": {
+    "message": "إلغاء جميع البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.confirmCancelLive": {
+    "message": "تأكيد إلغاء البث المباشر؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.confirmBookingLive": {
+    "message": "تأكيد جدولة البث المباشر؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.successBookedAllLive": {
+    "message": "تم جدولة جميع البث المباشر بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.successCancelAllLive": {
+    "message": "تم إلغاء جميع البث المباشر بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.successBookedLive": {
+    "message": "تم جدولة البث المباشر بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.successCancelLive": {
+    "message": "تم إلغاء البث المباشر بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.clickLinkWatch": {
+    "message": "انقر على الرابط لمشاهدة البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.copyLink": {
+    "message": "نسخ الرابط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.copiedMsg": {
+    "message": "تم نسخ عنوان URL للبث المباشر، افتحه في متصفحك",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.liveClass": {
+    "message": "البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.viewLive": {
+    "message": "مشاهدة البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.viewPlayback": {
+    "message": "إعادة تشغيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.waitClassStart": {
+    "message": "يرجى الانتظار حتى يبدأ الدرس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.liveEvent": {
+    "message": "أنشطة البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.seeMore": {
+    "message": "عرض المزيد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.speaker": {
+    "message": "مقدم العرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.speakerInput": {
+    "message": "الرجاء إدخال اسم مقدم العرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.scanCodeSee": {
+    "message": "امسح الرمز للمشاهدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.scanCodeMsg": {
+    "message": "امسح الرمز لمشاهدة البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.todayClassroom": {
+    "message": "محاضرات اليوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.ratingScale": {
+    "message": "ملء نموذج معيار التقييم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.supervisory": {
+    "message": "مراجعة الجلسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.courseSchedule": {
+    "message": "المراجعة حسب الجدول الزمني للفصل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.classSchedule": {
+    "message": "المراجعة حسب القاعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.pinned": {
+    "message": "تثبيت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.untop": {
+    "message": "إلغاء التثبيت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.todayCourse": {
+    "message": "مقررات اليوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.tour": {
+    "message": "مراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.createLive": {
+    "message": "إنشاء بث مباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.editLive": {
+    "message": "تعديل البث المباشر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.selectDuration": {
+    "message": "يرجى تحديد المدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.address": {
+    "message": "الموقع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.invitationCode": {
+    "message": "رمز الدعوة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.classHasNotStarted": {
+    "message": "لم تبدأ الجلسة بعد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.schoolTeaStu": {
+    "message": "داخلي (لمعلمو وطلاب الجامعة فقط)",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.allFaculty": {
+    "message": "جميع الكليات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.appointFaculty": {
+    "message": "كليات محددة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.select": {
+    "message": "إختر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.unknown": {
+    "message": "غير معروف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.msg1": {
+    "message": "بدء مشاهدة البث المباشر لكاميرات الفصل الدراسي قبل بدء الجلسة بـ 10 دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.msg2": {
+    "message": "بث مباشر مفتوح للجمهور (يمكن لأي شخص المشاهدة)",
+    "description": "smart-classroom-admin 项目"
   }
 }
