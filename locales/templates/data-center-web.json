@@ -3627,18 +3627,6 @@
     "message": "请联系管理员，确认个人信息已同步至本系统。如果您有本系统账号，请绑定账号。",
     "description": "data-center-web 项目"
   },
-  "login.pleseusername": {
-    "message": "请输入用户名",
-    "description": "data-center-web 项目"
-  },
-  "login.plesepwd": {
-    "message": "请输入密码",
-    "description": "data-center-web 项目"
-  },
-  "common.smartRecord": {
-    "message": "数据中心",
-    "description": "data-center-web 项目"
-  },
   "common.easyManage": {
     "message": "科学决策",
     "description": "data-center-web 项目"
