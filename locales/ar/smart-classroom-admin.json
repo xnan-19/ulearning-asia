@@ -1,6 +1,6 @@
 {
   "route.dashboard": {
-    "message": "الصفحة الرئيسية",
+    "message": "الصفحة الأولى",
     "description": "smart-classroom-admin 项目"
   },
   "route.profile": {
@@ -3893,6 +3893,98 @@
   },
   "route.resourcePortal": {
     "message": "بوابة الفيديو حسب الطلب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.courseProject": {
+    "message": "المقررات المميزة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.role": {
+    "message": "الدور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.responsibleCollege": {
+    "message": "المسؤول عن الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.creatingAdminAccount": {
+    "message": "إنشاء حساب مسؤول",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.superPlumber": {
+    "message": "مدير النظام",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.collegeAdmin": {
+    "message": "مسؤول الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.changAdminAccount": {
+    "message": "تعديل حساب المسؤول",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.cancelMessage": {
+    "message": "إخفاء أو إغلاق الواجهة لا يوقف التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.studentLoginMsg": {
+    "message": "تم تعطيل تسجيل الدخول باستخدام حساب الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classNone": {
+    "message": "لا يوجد أي دروس اليوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.shcWidePublicClassroom": {
+    "message": "قاعة دراسة عامة للمدرسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.pleaseChooseCollege": {
+    "message": "يرجى اختيار الكلية التابعة لك",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.numberInspection": {
+    "message": "عمليات المراجعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.numberAnomalies": {
+    "message": "الاستثناءات/الأخطاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.service": {
+    "message": "الخدمات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.faultCause": {
+    "message": "استكشاف الأخطاء وإصلاحها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.equipmentInspection": {
+    "message": "الفحص دوري للأجهزة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.inspectionRecord": {
+    "message": "سجلات الفحص",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.exceptionRecord": {
+    "message": "سجلات الأخطاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.equipment": {
+    "message": "الجهاز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.abnormal": {
+    "message": "خطأ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.detectionTime": {
+    "message": "وقت الفحص",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.processingMethod": {
+    "message": "طريقة المعالجة",
     "description": "smart-classroom-admin 项目"
   }
 }
