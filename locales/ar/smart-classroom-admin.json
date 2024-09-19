@@ -4406,5 +4406,297 @@
   "resourcePortal.closeDisplayPrompt": {
     "message": "تم إخفاء هذا القسم ولن يظهر في الصفحة الرئيسية.",
     "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.remove": {
+    "message": "إزالة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.demonstrationCourse": {
+    "message": "عرض {num} صفوف من {count}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.selectDisplayMode": {
+    "message": "اختر عدد المقررات / الفيديوهات المراد عرضها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.doNotShow": {
+    "message": "لن تعرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.addCourse": {
+    "message": "إضافة مقرر دراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.createThematicTips": {
+    "message": "قم بإنشاء موضوع ثم أضف إليه مقرر أو فيديوهات، وسيظهر الموضوع في صفحة المقررات المميزة في بوابة الفيديو حسب الطلب. يمكنك أيضًا عرضه على الصفحة الرئيسية للبوابة أو إضافة عنصر قائمة يرتبط بصفحة تفاصيل الموضوع.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.new": {
+    "message": "إنشاء موضوع جديد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.courseNumber": {
+    "message": "عدد الدورات: {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.pageView": {
+    "message": "عدد المشاهدات: {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.videoFeature": {
+    "message": "موضوع فيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.externalCurriculum": {
+    "message": "المقررات الخارجية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.newProject": {
+    "message": "إنشاء موضوع جديد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.intro": {
+    "message": "الوصف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.specialIntroduction": {
+    "message": "أدخل وصفًا، بحد أقصى 200 حرف.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.course": {
+    "message": "المقررات: {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.pinned": {
+    "message": "تثبيت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.untop": {
+    "message": "إلغاء التثبيت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.managementBackground": {
+    "message": "لوحة التحكم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.learningRecord": {
+    "message": "سجلات التعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.coursesOfInterest": {
+    "message": "المقررات التي اتابعها",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.externalTopic": {
+    "message": "موضوعات المقرر الخارجية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.select": {
+    "message": "إختر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.pleaseSelecTopic": {
+    "message": "اختر موضوعًا!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.successfulSetting": {
+    "message": "تم الإعداد بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.topicName": {
+    "message": "اسم الموضوع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.courseVideoNum": {
+    "message": "عدد الدروس/الفيديوهات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.courses": {
+    "message": "المقرر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.searchCoursesTeachers": {
+    "message": "البحث عن اسم المقرر / المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.sureRemove": {
+    "message": "هل أنت متأكد من أنك تريد إزالته؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.deleteTopic": {
+    "message": "هل أنت متأكد من أنك تريد حذف هذا الموضوع؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.links": {
+    "message": "رابط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.inputLink": {
+    "message": "الرجاء إدخال رابط المقررات الخارجية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.lastViewed": {
+    "message": "آخر مشاهدة:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.continueWatch": {
+    "message": "متابعة المشاهدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.classReplayList": {
+    "message": "قائمة تشغيل المحاضرات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.noLearningRecord": {
+    "message": "لم يتم العثور على سجلات تعلم!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.homeContentSettings": {
+    "message": "إعدادات محتوى الصفحة الرئيسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.limitCharacter": {
+    "message": "الرجاء إدخال من 1 إلى 10 أحرف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.addUp": {
+    "message": "أضف ما يصل إلى 4",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.selectedCourses": {
+    "message": "عدد المقررا ت الدراسية المحددة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.selectedVideo": {
+    "message": "عدد الفيديوهات المحددة:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.selectedTopic": {
+    "message": "الموضوعات المحددة:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.revisionTopic": {
+    "message": "تعديل الموضوع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.cannotChangeType": {
+    "message": "يحتوي الموضوع بالفعل على مقررات / فيديوهات، ولا يمكن تغييره إلى نوع آخر.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.upTo100": {
+    "message": "أضف ما يصل إلى 100 فيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.addVideo": {
+    "message": "إضافة فيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.exceedQuantityLimit": {
+    "message": "تجاوز الحد الأقصى للكمية، يرجى إعادة الاختيار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.noSearch": {
+    "message": "لا توجد نتائج بحث",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.correctUrl": {
+    "message": "أدخل عنوان رابط URL الصحيح",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.enterLinkAddress": {
+    "message": "الرجاء إدخال عنوان URL للرابط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.maxAddMenu": {
+    "message": "أضف ما يصل إلى 6 عناصر قائمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.seeMore": {
+    "message": "عرض المزيد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.requestFailed": {
+    "message": "فشل الطلب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.thematicList": {
+    "message": "قائمة الموضوعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.loading": {
+    "message": "جارٍ التحميل...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.inputContent": {
+    "message": "أدخل المحتوى الذي تريد إدخاله",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.skipTo": {
+    "message": "انتقل إلى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.lastUpdate": {
+    "message": "آخر تحديث:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.nameSearch": {
+    "message": "أدخل الاسم للبحث",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.defaultSort": {
+    "message": "الترتيب الافتراضي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.upDate": {
+    "message": "الترتيب حسب الوقت - الأحدث",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.onHottest": {
+    "message": "الترتيب حسب الشعبية - الأكثر شعبية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.departmentalCurriculum": {
+    "message": "عرض المقررات حسب الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.intelligentAnalysis": {
+    "message": "التحليل الذكي للفيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classAnalysisStatistics": {
+    "message": "إحصائيات تحليل المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomDetail": {
+    "message": "تفاصيل الجلسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.courseEvaluationReport": {
+    "message": "تقرير تقييم المقرر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomQualityReport": {
+    "message": "تقرير تحليل جودة المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.vocationalEducation": {
+    "message": "التعليم المهني",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.courseIdeologyAndPolitics": {
+    "message": "الدورات المتعلقة بالعلوم الاجتماعية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "login.login": {
+    "message": "تسجيل الدخول...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "login.tip1": {
+    "message": "أدخل اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "login.tip2": {
+    "message": "أدخل كلمة المرور",
+    "description": "smart-classroom-admin 项目"
   }
 }
