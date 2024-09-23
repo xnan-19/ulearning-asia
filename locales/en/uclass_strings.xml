@@ -65,8 +65,8 @@
     <string name="nav_course">Classroom</string>
     <string name="fault_detection">Troubleshoot</string>
     <string name="group_num">Group Serial No.</string>
-    <string name="group_num_modify_msg">Note: To ensure smooth teaching, please do not change the group number. However, if you changed the group number, please refresh the screen from the teacher end or restart the application.</string>
-    <string name="connect_interrupt_msg">Group screen broadcasting failed! Please check whether the group screen is online and try again. Click the Troubleshooting link on the group screen UClass to check the screen status and follow the instructions to troubleshoot.</string>
+    <string name="group_num_modify_msg">Note: Do not change the group serial number of a screen unless necessary. If you did change the group serial number, refresh the teacher screen or restart the UClass app.</string>
+    <string name="connect_interrupt_msg">Failed to broadcast to the group screen! Check whether the group screen is online and try again. Click the Troubleshoot link on the group screen to check the screen status and then follow the instructions to troubleshoot.</string>
 
     
     <!--    白板相关-->
