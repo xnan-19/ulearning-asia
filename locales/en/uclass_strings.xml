@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">UClass</string>
-    <string name="app_name_2">Digital College of Philosophy</string>
-    <string name="version_update">New Version Update</string>
+    <string name="app_name_2">Null - Digital College of Philosophy</string>
+    <string name="version_update">Version Update</string>
     <string name="update">Update</string>
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
-    <string name="updateing_dont_close">Updating..., please do not close the page!</string>
+    <string name="updateing_dont_close">Updating... - Do not close the page!</string>
     <string name="select_area">Select Region</string>
-    <string name="select_area_msg">ULearning provides independent services for different regions. Please select the region where your organization is located before logging in.</string>
+    <string name="select_area_msg">UClass Smart Classroom provides independent services for different regions. Select your region before logging in.</string>
     <string name="latin_america">Latin America</string>
     <string name="asia_pacific">Asia-Pacific</string>
     <string name="china_mainland">China</string>
@@ -18,38 +18,38 @@
 
     
     <!--    分组研讨-->
-    <string name="nav_broad">Screen Broadcast</string>
-    <string name="broading">Broadcasting</string>
-    <string name="stop_broad">Exit Broadcast</string>
-    <string name="nav_compare">Group Compare</string>
-    <string name="stop_compare">Exit Compare</string>
+    <string name="nav_broad">Broadcast</string>
+    <string name="broading">Broadcasting...</string>
+    <string name="stop_broad">Stop broadcasting</string>
+    <string name="nav_compare">Group Comparison</string>
+    <string name="stop_compare">Stop Comparison</string>
     <string name="nav_screen">Cast</string>
-    <string name="stop_screen">Exit Cast</string>
+    <string name="stop_screen">Stop Cast</string>
 
     <string name="tea_group">Teacher Screen</string>
-    <string name="stu_group">Group Screens</string>
+    <string name="stu_group">Group Screen</string>
     <string name="broad">Broadcast</string>
-    <string name="off_line">Offline\nConnecting now...</string>
-    <string name="title_group">Groups</string>
-    <string name="msg_off_line">Offline</string>
-    <string name="msg_no_compare">Click a group below to view the screen of that group</string>
+    <string name="off_line">Offline\nConnecting...</string>
+    <string name="title_group">Group</string>
+    <string name="msg_off_line">Offline </string>
+    <string name="msg_no_compare">Click a group below to view its screen</string>
 
-    <string name="title_screen">Set up Groups</string>
-    <string name="msg_screen">After the mobile device is connected to the same network, cast the device onto the screen.</string>
-    <string name="msg_screen_network">Current Network: </string>
+    <string name="title_screen">Set up groups</string>
+    <string name="msg_screen">After your mobile device is connected to the same network, cast the device onto the screen.</string>
+    <string name="msg_screen_network">Network: </string>
     <string name="network_type">Wired</string>
-    <string name="screen_apple">iOS</string>
-    <string name="screen_android">Android</string>
-    <string name="msg_apple">Open AirPlay and select Screen Cast (Mirroring)</string>
-    <string name="msg_android">Use ULearning app to scan QR code to cast</string>
-    <string name="msg_pc_screen">For PCs, use HDMI cable to cast.</string>
-    <string name="title_screen_agent">Mobile Cast</string>
+    <string name="screen_apple">iOS Devices</string>
+    <string name="screen_android">Android Devices</string>
+    <string name="msg_apple">Tap AirPlay or Screen Mirroring to cast</string>
+    <string name="msg_android">Use ULearning mobile app to scan QR code to cast</string>
+    <string name="msg_pc_screen">For PCs, use HDMI cable to cast!</string>
+    <string name="title_screen_agent">Mobile Device Cast</string>
     
-    <string name="request_permission_fail">Permission requesting failed!</string>
-    <string name="request_screen_permission_fail">Requesting to turn on Screen Recording failed!</string>
-    <string name="request_float_permission_fail">Requesting to turn on Floating (Suspension) Window failed!</string>
-    <string name="max_screen">The screen is full and cannot select more!</string>
-    <string name="click_too_fast">Please do not click too frequently!</string>
+    <string name="request_permission_fail">Request to grant permission failed!</string>
+    <string name="request_screen_permission_fail">Request to enable screen recording failed!</string>
+    <string name="request_float_permission_fail">Request to enable floating (suspension) window failed!</string>
+    <string name="max_screen">The maximum number of screens allowed has been reached, no more can be selected!</string>
+    <string name="click_too_fast">Do not click too frequently!</string>
     <string name="no_activation">Not Activated</string>
     <string name="perfect_information">Complete Screen Settings</string>
 
@@ -58,14 +58,14 @@
 
     
     <!--    ABC为占位字符，请放于合适的位置-->
-    <string name="click_connect_again">Some group screens are offline, please ask students to open UClass on the group screen. \nIf UClass is on, please  ABC to connect the group screen.</string>
-    <string name="ABC">click here to</string>
+    <string name="click_connect_again">A group screen (or more) is offline, ask students to open the UClass app on the group screen. \nIf UClass is on, ABC to re-connect the group screen.</string>
+    <string name="ABC">click here</string>
 
     <string name="malaysia">Malaysia</string>
-    <string name="float_msg">Floating (Suspension) Window has to be enabled for UClass to run in the background during multi-screen broadcasting. Click the Confirm link and then enable Floating (Suspension) Window in the pop-up.</string>
-    <string name="ip_msg">Multi-screen interaction future requires a fixed IP address. Please do not change the IP address or connect to multiple networks (such as cable and WIFI) at the same time.</string>
-    <string name="current_ip">Current IP Address: </string>
-    <string name="register_ip">Pre-Assigned/Registered IP Address: </string>
+    <string name="float_msg">Floating (Suspension) Window has to be enabled for UClass to run in the background during multi-screen broadcasting. Click the Confirm link to pop up the setting window and then enable Floating (Suspension) Window.</string>
+    <string name="ip_msg">Multi-Screens feature requires a fixed IP address. Do not change the IP or connect to multiple networks (such as a wired one and Wi-Fi) at the same time.</string>
+    <string name="current_ip">Current IP: </string>
+    <string name="register_ip">Pre-Assigned IP: </string>
     <string name="nav_whiteboard">Whiteboard</string>
     <string name="zambia">Zambia</string>
 
