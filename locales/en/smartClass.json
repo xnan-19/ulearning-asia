@@ -2464,7 +2464,7 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeeting": {
-    "message": "Voov Meeting",
+    "message": "VooV Meeting",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.createMeeting": {
@@ -2476,7 +2476,7 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg1": {
-    "message": "Turn on cloud recording automatically",
+    "message": "Start cloud recording automatically",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg3": {
@@ -2496,7 +2496,7 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg7": {
-    "message": "The meeting function is provided by Voov Meeting. For the first use, you need to log in to your personal Voov Meeting account to authorize. If you need to deauthorize, you can do it in Voov Meeting Client.",
+    "message": "The meeting feature is provided by VooV Meeting. For the first-time use, you need to log in to your personal VooV Meeting account to authorize. If you need to deauthorize, you can do it in VooV Meeting Client.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.instructions": {

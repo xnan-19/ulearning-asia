@@ -1,1 +1,22 @@
-{}
+{
+  "home": {
+    "message": "Home",
+    "description": "职教门户 zh.json"
+  },
+  "discipline": {
+    "message": "Industry",
+    "description": "职教门户 zh.json"
+  },
+  "course": {
+    "message": "Course",
+    "description": "职教门户 zh.json"
+  },
+  "detail": {
+    "message": "Details ",
+    "description": "职教门户 zh.json"
+  },
+  "partner": {
+    "message": "Partners",
+    "description": "职教门户 zh.json"
+  }
+}
