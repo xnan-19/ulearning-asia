@@ -223,4 +223,9 @@
     <string name="multicast_test">اختبار بث المجموعة</string>
     <string name="single_test">اختبار البث الفردي</string>
 
-    </resources>
+    <string name="load_network_info">تحديث معلومات المجموعة</string>
+    <string name="network_error_msg2">الشبكة الحالية غير مستقرة ، يرجى التأكد من جودة الشبكة</string>
+
+    <string name="wb_toast_not_support">لا يدعم هذا الجهاز استخدام السبورات</string>
+
+</resources>

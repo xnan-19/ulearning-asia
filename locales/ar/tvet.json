@@ -1,0 +1,22 @@
+{
+  "home": {
+    "message": "الصفحة الرئيسية",
+    "description": "职教门户 zh.json"
+  },
+  "discipline": {
+    "message": "صناعة",
+    "description": "职教门户 zh.json"
+  },
+  "course": {
+    "message": "المقرر",
+    "description": "职教门户 zh.json"
+  },
+  "detail": {
+    "message": "تفاصيل",
+    "description": "职教门户 zh.json"
+  },
+  "partner": {
+    "message": "الشركاء",
+    "description": "职教门户 zh.json"
+  }
+}
