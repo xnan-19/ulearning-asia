@@ -203,13 +203,24 @@
     <string name="wb_tool_name_classroom_blackboard">الكتابة على السبورة</string>
     <string name="wb_tool_name_share_board">مشاركة محتوى السبورة</string>
     <string name="wb_tool_name_save_local">حفظ محلي</string>
-    <string name="wb_tool_name_helptext">الشاشة الكبيرة عبارة عن جهاز عام، وهناك مخاطر محتملة في حفظ محتوى كتابة اللوحة محليًا. يوصى باستخدام &quot;مشاركة الكتابة على السبورة&quot; لحفظ محتوى السبورة في مساحة الفصل الدراسي ضمن حسابك الشخصي. بعد الحفظ، يمكنك فتح السبورة مرة أخرى في الفصول الدراسية الأخرى لمواصلة التحرير، أو حفظ السبورة ومشاركتها مع الطلاب في هذا الفصل بتنسيق صورة.</string>
+    <string name="wb_tool_name_helptext">السبورة الذكية هي جهاز عام، وهناك مخاطر محتملة في حفظ السبورة البيضاء على هذا الجهاز. يُنصح باستخدام ميزة &quot;مشاركة المحتوى&quot; لحفظ محتوى السبورة البيضاء في جلسة مقرراتك الدراسية على ULearning في السحابة. بعد الحفظ، يمكنك فتح محتوى السبورة البيضاء من فصل دراسي مختلف للتحرير أو مشاركة المحتوى مع مشاركي جلسة مقررك الدراسي.</string>
     <string name="wb_tool_name_filename">اسم</string>
-    <string name="wb_tool_name_save_local_btn">يحفظ</string>
+    <string name="wb_tool_name_save_local_btn">حفظ محلي</string>
     <string name="wifi_title_text">الرجاء إدخال WIFI وكلمة المرور الخاصة بالفصل الدراسي</string>
-    <string name="wb_tool_name_not_file">لا يوجد ملف لوح معلومات محفوظ</string>
-    <string name="storage_permission_request_hint">يتطلب UClass أذونات التخزين. من أجل تحديد المشاكل التي تحدث أثناء تشغيل البرنامج بسرعة، يحتاج UClass إلى تسجيل سجل تشغيل البرنامج وتخزينه محليًا. الرجاء النقر فوق \ &quot;موافق \&quot; وتمكين أذونات التخزين في واجهة الإعدادات المنبثقة.</string>
+    <string name="wb_tool_name_not_file">محتوى السبورة غير المحفوظ</string>
+    <string name="storage_permission_request_hint">يتطلب UClass أذونات التخزين. لتحديد المشكلات التي تحدث أثناء تشغيل البرنامج بسرعة، يحتاج UClass إلى تسجيل سجلات تشغيل البرنامج وتخزينها محليًا. انقر فوق &quot;موافق&quot; لتمكين أذونات التخزين في النافذة المنبثقة.</string>
 
+    <!--已自己翻译-->
+    <string name="double_writing_is_not_allowed">الكتابة المزدوجة غير مسموحة في وضع الكتابة هذا!</string>
     <string name="record_occupation_hint">تستخدم التطبيقات الأخرى ميزة تسجيل الشاشة ، لذلك يتوقف التطبيق عن تسجيل الشاشة</string>
+
+    <string name="protocol_inconformity">تكوين البث غير متسق. يرجى التحقق من إعدادات البث.</string>
+    <string name="clear">إعادة ضبط</string>
+    <string name="ip_error_msg">عنوان IP للشبكة غير متوافق مع عنوان IP المعين مسبقاً</string>
+    <string name="network_error_msg">الشبكة الحالية غير متوفرة، الرجاء التحقق من اتصال الشبكة.</string>
+    <string name="received_data">استقبال البيانات</string>
+    <string name="send_data">إرسال البيانات</string>
+    <string name="multicast_test">اختبار بث المجموعة</string>
+    <string name="single_test">اختبار البث الفردي</string>
 
     </resources>
