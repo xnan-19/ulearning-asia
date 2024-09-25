@@ -2504,19 +2504,19 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.authorization": {
-    "message": "Go to Authorize",
+    "message": "Authorize",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveClass": {
-    "message": "Save to Session",
+    "message": "Save to Classroom Session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.openFile": {
-    "message": "Open Files in Classroom",
+    "message": "Open Session Files",
     "description": "smart-classroom 项目"
   },
   "whiteboard.processing": {
-    "message": "Processing..., please wait.",
+    "message": "Processing..., please wait!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.designation": {
@@ -2532,39 +2532,39 @@
     "description": "smart-classroom 项目"
   },
   "whiteboard.nameNotNull": {
-    "message": "Name cannot be empty",
+    "message": "Name cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectCourse": {
-    "message": "Please select course",
+    "message": "Select course",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClassroom": {
-    "message": "Please select session",
+    "message": "Select session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg4": {
-    "message": "You have successfully saved the whiteboard screenshot to {name} and can now view it in Session Files",
+    "message": "You have successfully saved the whiteboard content to {name} and can now view it in Session Files",
     "description": "smart-classroom 项目"
   },
   "whiteboard.noData": {
-    "message": "No saved whiteboard files found",
+    "message": "No saved whiteboard files found!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveErr": {
-    "message": "Failed to save, unable to connect to server.",
+    "message": "Failed to save, unable to connect to server!",
     "description": "smart-classroom 项目"
   },
   "remark.remark": {
-    "message": "Comment can be up to 200 characters",
+    "message": "Up to 200 characters!",
     "description": "smart-classroom 项目"
   },
   "custom.custom": {
-    "message": "Customize",
+    "message": "Custom",
     "description": "smart-classroom 项目"
   },
   "custom.pleaseScore": {
-    "message": "Please enter the score",
+    "message": "Enter the points",
     "description": "smart-classroom 项目"
   },
   "custom.qrMsg": {
@@ -2584,7 +2584,7 @@
     "description": "smart-classroom 项目"
   },
   "discuss.again": {
-    "message": "Are you sure you want to re-start this Discussions？",
+    "message": "Are you sure you want to re-open this Discussions？",
     "description": "smart-classroom 项目"
   },
   "discuss.end": {
@@ -2608,19 +2608,19 @@
     "description": "smart-classroom 项目"
   },
   "discuss.enterDuration": {
-    "message": "Please enter a duration",
+    "message": "Enter a duration!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code13": {
-    "message": "MAC address does not match",
+    "message": "MAC address does not match!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code14": {
-    "message": "Already in use",
+    "message": "Port occupied!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code15": {
-    "message": "Unknown error",
+    "message": "Unknown error!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.port": {
@@ -2628,11 +2628,11 @@
     "description": "smart-classroom 项目"
   },
   "faultDetect.portError": {
-    "message": "The port is already in use. Please contact us to reconfigure.",
+    "message": "The port is in use. Please contact us to reconfigure.",
     "description": "smart-classroom 项目"
   },
   "common.uploadError": {
-    "message": "Failed",
+    "message": "Failed!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg20": {
@@ -2640,7 +2640,7 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg21": {
-    "message": "Allow students to view images/videos from other students",
+    "message": "Allow students to view images/videos uploaded by other students",
     "description": "smart-classroom 项目"
   },
   "classroom.reverseOrder": {
