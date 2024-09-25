@@ -2424,11 +2424,11 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg8": {
-    "message": "Annotations are being removed...",
+    "message": "Annotations are being deleted...",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg9": {
-    "message": "Are you sure you want to remove the annotations?",
+    "message": "Are you sure you want to delete these annotations?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg11": {
@@ -2436,31 +2436,31 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg12": {
-    "message": "Share with students after the session starts",
+    "message": "Share with students after the classroom session starts",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg13": {
-    "message": "Title cannot exceed 200 characters",
+    "message": "Title cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg14": {
-    "message": "After removal, the images submitted by students cannot be restored. Students need to re-submit them. Are you sure you want to remove? Students will not be able to re-submit if the activity has ended.",
+    "message": "After deletion, the images submitted by students cannot be restored. Students need to re-submit them. Are you sure you want to delete? Students will not be able to re-submit if the activity has ended.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg16": {
-    "message": "No submissions yet",
+    "message": "No submissions yet!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg17": {
-    "message": "Are you sure you want to end this Take Photos & Upload activity?",
+    "message": "Are you sure you want to end this Upload activity?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg18": {
-    "message": "Screenshot failed",
+    "message": "Failed to take a screenshot!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg19": {
-    "message": "Connection timed out",
+    "message": "Connecting timed out!",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeeting": {
