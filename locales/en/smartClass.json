@@ -2656,11 +2656,11 @@
     "description": "smart-classroom 项目"
   },
   "score.evaluatedScoreNew": {
-    "message": "Average score of peer reviews",
+    "message": "Avg. score of peer grading",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore": {
-    "message": "Teacher Score",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.weight": {
@@ -2668,7 +2668,7 @@
     "description": "smart-classroom 项目"
   },
   "score.inputWeightTip": {
-    "message": "The weight cannot be empty",
+    "message": "Weight cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
