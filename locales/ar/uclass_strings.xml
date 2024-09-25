@@ -66,54 +66,54 @@
     <string name="fault_detection">استكشاف الأخطاء وإصلاحها</string>
     <string name="group_num">الرقم التسلسلي للمجموعة</string>
     <string name="group_num_modify_msg">ملاحظة: لا تغير الرقم التسلسلي للمجموعة على الشاشة إلا إذا كان ذلك ضروريًا. إذا قمت بتغيير الرقم التسلسلي للمجموعة، فقم بتحديث شاشة المعلم أو إعادة تشغيل تطبيق UClass.</string>
-    <string name="connect_interrupt_msg">فشل بث شاشة المجموعة ، يرجى التحقق مما إذا كانت شاشة المجموعة متصلة بالإنترنت والمحاولة مرة أخرى. انقر فوق &quot;\اكتشاف الأخطاء&quot;\ على شاشة المجموعة UClass واجهة لعرض حالة شاشة المجموعة واتباع مطالبات المساعدة</string>
+    <string name="connect_interrupt_msg">فشل البث إلى شاشة المجموعة! تحقق مما إذا كانت شاشة المجموعة متصلة بالإنترنت وحاول مرة أخرى. انقر فوق رابط استكشاف الأخطاء وإصلاحها على شاشة المجموعة للتحقق من حالة الشاشة ثم اتبع الإرشادات لاستكشاف الأخطاء وإصلاحها.</string>
 
 
     <!--    白板相关-->
-    <string name="wb_tool_name_eraser">مساحة</string>
-    <string name="wb_tool_name_select">تحديد الدائرة</string>
+    <string name="wb_tool_name_eraser">الممحاة</string>
+    <string name="wb_tool_name_select">تحديد</string>
     <string name="wb_tool_name_canvas_mode">التكبير</string>
-    <string name="wb_tool_name_previous">السابقه</string>
+    <string name="wb_tool_name_previous">السابق</string>
     <string name="wb_tool_name_next">التالي</string>
     <string name="wb_tool_name_setting">الإعدادات</string>
     <string name="wb_tool_name_save">حفظ</string>
-    <string name="wb_tool_name_open">توسيع</string>
+    <string name="wb_tool_name_open">فتح</string>
     <string name="wb_tool_name_thumbnail">مصغرات</string>
 
-    <string name="wb_tool_name_pen_pencil">قلم</string>
-    <string name="wb_tool_name_pen_smart">الكتابة الذكية</string>
-    <string name="wb_tool_name_exit">إغلاق السبورة البيضاء</string>
+    <string name="wb_tool_name_pen_pencil">القلم</string>
+    <string name="wb_tool_name_pen_smart">القلم الذكي</string>
+    <string name="wb_tool_name_exit">إغلاق السبورة</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">محو</string>
     <string name="wb_name_clear_screen">مسح الشاشة</string>
     <string name="double_writing">الكتابة المزدوجة</string>
-    <string name="wb_tool_name_background">خلفية السبورة البيضاء</string>
+    <string name="wb_tool_name_background">خلفية السبورة</string>
     <string name="common_sure">تأكيد</string>
-    <string name="common_save_failed">لم نتنكن من الحفظ</string>
+    <string name="common_save_failed">فشل الحفظ</string>
     <string name="common_save_success">تم الحفظ</string>
-    <string name="common_load_board_fail_title">فشل تحميل السبورة البيضاء</string>
+    <string name="common_load_board_fail_title">فشل تحميل السبورة</string>
     <string name="common_load_board_success">تحميل ناجح</string>
-    <string name="wb_page_max_error">تم الوصول إلى الحد الأقصى لعدد الصفحات ولا يمكن إنشاؤه</string>
+    <string name="wb_page_max_error">لقد تم الوصول إلى الحد الأقصى لعدد صفحات السبورة البيضاء. لا يمكن إضافة المزيد</string>
 
-    <string name="exit_wb_msg">لم يتم حفظ المحتوى الذي تم تحريره حاليا ، بعد إغلاق السبورة البيضاء ، سيتم مسح المحتوى الذي تم تحريره ، وتأكيد إغلاق السبورة؟</string>
+    <string name="exit_wb_msg">لم يتم حفظ المحتوى. سيتم مسح المحتوى غير المحفوظ عند إغلاق السبورة . هل أنت متأكد من رغبتك في إغلاق السبورة ؟</string>
 
-    <string name="title1"> تذكير </string>
+    <string name="title1">تنبيه</string>
     <string name="close">إغلاق</string>
-    <string name="close_whiteboard">إغلاق السبورة البيضاء</string>
-    <string name="back_and_save">العودة إلى الحفظ</string>
-    <string name="open_wb_msg">في الوقت الحالي ، افتح الملفات فقط ضمن مسار حفظ هذا البرنامج. مسار:</string>
-    <string name="save_wb_msg">حفظ المسار:</string>
+    <string name="close_whiteboard">إغلاق السبورة</string>
+    <string name="back_and_save">رجوع للحفظ</string>
+    <string name="open_wb_msg">حاليًا يدعم فتح الملفات من مسار التخزين المخصص لـ UClass فقط:</string>
+    <string name="save_wb_msg">مسار الحفظ :</string>
     <string name="open_local_wb">فتح الملف المحلي</string>
-    <string name="open_course_wb">فتح ملف في الفصل الدراسي</string>
+    <string name="open_course_wb">فتح ملف الفصل الدراسي</string>
     <string name="continue_to_use">أوافق واستمر</string>
-    <string name="give_up_using">التخلي عن الاستخدام</string>
-    <string name="title2">الشرح</string>
-    <string name="open_wb_not_save_msg">لم يتم حفظ لوح المعلومات الحالي وسيتم الكتابة فوق السبورة الحالية عند فتحها</string>
-    <string name="not_save">لم يتم حفظه</string>
+    <string name="give_up_using">التوقف عن استخدام</string>
+    <string name="title2">تعليمات</string>
+    <string name="open_wb_not_save_msg">السبورة غير محفوظة وسيتم الكتابة فوقها بالسبورة الجديدة التي تم فتحها!</string>
+    <string name="not_save">لم يتم الحفظ</string>
     <string name="continue_do">إستمرار</string>
     <string name="input_file_name">الرجاء إدخال اسم الملف</string>
-    <string name="duplicate_file_name">أسماء الملفات المكررة</string>
-    <string name="wb_save_failed">فشل الحفظ، حاول تغيير اسم الملف</string>
+    <string name="duplicate_file_name">الملف موجود مسبقاً</string>
+    <string name="wb_save_failed">فشل الحفظ، قم تغيير اسم الملف وخاول مرة أخرى</string>
     <string name="del_wb_msg">هل أنت متأكد من أنك تريد حذف الصفحة الحالية؟</string>
 
     <string name="select_language"> حدد اللغة </string>
