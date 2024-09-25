@@ -2672,19 +2672,19 @@
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
-    "message": "The teacher participates in grading.  The final score is a combined one of teacher score and student peer review score.",
+    "message": "Teacher grading is combined with student grading for the final score",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore1": {
-    "message": "Teacher score",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.waitTeacherScore": {
-    "message": "Waiting for teacher to assign a score",
+    "message": "Waiting for teacher",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreWeightTip": {
-    "message": "The teacher score weights {n}%",
+    "message": "Teacher grading weights {n}%",
     "description": "smart-classroom 项目"
   },
   "score.teacherRemark": {
