@@ -144,7 +144,7 @@
     "description": "smart Class"
   },
   "classroom.noClassroomTip2": {
-    "message": "لم يقم المعلم بعد بإنشاء فصل دراسي ، يرجى الانتظار حتى يقوم المعلم بإنشاء المعلم أو الاتصال به.",
+    "message": "لم يقم المعلم بعد بإنشاء فصل دراسي ، يرجى الانتظار أو الاتصال بالمعلم.",
     "description": "smart-classroom 项目"
   },
   "classroom.refresh": {
