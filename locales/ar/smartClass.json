@@ -132,15 +132,15 @@
     "description": "smart Class"
   },
   "classroom.view": {
-    "message": "عرض",
+    "message": "العرض",
     "description": "smart Class"
   },
   "classroom.noClassroomTip": {
-    "message": "ليس لديك محاضرة حتى الآن. يمكنك إنشاء واحدة لآن. ",
+    "message": "ليس لديك جلسة محاضرة حتى الآن. يمكنك إنشاء واحدة لآن.",
     "description": "smart Class"
   },
   "classroom.noClassroomTip1": {
-    "message": "هل تم إنشاء محاضرة؟",
+    "message": "هل تم إنشاء جلسة محاضرة مسبقاً؟",
     "description": "smart Class"
   },
   "classroom.noClassroomTip2": {
