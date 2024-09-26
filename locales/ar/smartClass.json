@@ -68,27 +68,27 @@
     "description": "smart-classroom 项目"
   },
   "common.restartSuccess": {
-    "message": "تمت إعادة التعيين بنجاح",
+    "message": "تمت إعادة الفتح بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.restartFailed": {
-    "message": "لم نتمكن من إعادة الفتح!",
+    "message": "فشل إعادة الفتح!",
     "description": "smart-classroom 项目"
   },
   "common.deleteFailed": {
-    "message": "لم نتمكن من الحذف",
+    "message": "فشل الحذف",
     "description": "smart-classroom 项目"
   },
   "common.finishFail": {
-    "message": "لم نتمكن من إنهاء الجلسة!",
+    "message": "فشل إنهاء الجلسة",
     "description": "smart-classroom 项目"
   },
   "common.operateSuccess": {
-    "message": "تم إجراء العملية بنجاح!",
+    "message": "تمت العملية بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.remind": {
-    "message": " تذكير ",
+    "message": "تذكير",
     "description": "smart-classroom 项目"
   },
   "common.create": {
@@ -96,7 +96,7 @@
     "description": "smart-classroom 项目"
   },
   "common.finish2": {
-    "message": "مكتمل",
+    "message": "إكتمل",
     "description": "smart-classroom 项目"
   },
   "classroom.currentCourse": {
@@ -108,11 +108,11 @@
     "description": "smart Class"
   },
   "classroom.nums": {
-    "message": "المحاضرات: {count}",
+    "message": "الجلسات : {count} جلسة",
     "description": "smart Class"
   },
   "classroom.createClassroom": {
-    "message": "إنشاء محاضرة",
+    "message": "إنشاء جلسة",
     "description": "smart Class"
   },
   "classroom.classes": {
@@ -128,7 +128,7 @@
     "description": "smart Class"
   },
   "classroom.interactive": {
-    "message": "التفاعل",
+    "message": "أنشطة تفاعلية",
     "description": "smart Class"
   },
   "classroom.view": {
