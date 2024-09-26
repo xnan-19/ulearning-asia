@@ -103,6 +103,10 @@
     "message": "Publish",
     "description": "个人作业zh_part.json"
   },
+  "submissionEnd": {
+    "message": "Due",
+    "description": "个人作业zh_part.json"
+  },
   "endTime": {
     "message": "Deadline: {time}",
     "description": "PC -> 教师端 -> 学生提交作业列表"
@@ -135,6 +139,10 @@
     "message": "Loading...",
     "description": "个人作业zh_part.json"
   },
+  "ok": {
+    "message": "Confirm",
+    "description": "个人作业zh_part.json"
+  },
   "title:": {
     "message": "Title:",
     "description": "个人作业zh_part.json"
@@ -157,6 +165,22 @@
   },
   "SaveDraft": {
     "message": "Save as Draft",
+    "description": "个人作业zh_part.json"
+  },
+  "HomeworkStartingTime": {
+    "message": "Assignment start time",
+    "description": "个人作业zh_part.json"
+  },
+  "SubmissionEndTime": {
+    "message": "Due",
+    "description": "个人作业zh_part.json"
+  },
+  "doHomework": {
+    "message": "Assignment in Progress",
+    "description": "个人作业zh_part.json"
+  },
+  "ParticipateClass": {
+    "message": "Participating class",
     "description": "个人作业zh_part.json"
   },
   "HomeworkDetails": {
@@ -197,6 +221,18 @@
   },
   "NoMoreDataAvailable": {
     "message": " No more data ",
+    "description": "个人作业zh_part.json"
+  },
+  "clickRippleStopRecording": {
+    "message": "Recording, click on the ripple to stop",
+    "description": "个人作业zh_part.json"
+  },
+  "reRecording": {
+    "message": "Record again",
+    "description": "个人作业zh_part.json"
+  },
+  "reUpload": {
+    "message": "Re-upload",
     "description": "个人作业zh_part.json"
   },
   "select": {
