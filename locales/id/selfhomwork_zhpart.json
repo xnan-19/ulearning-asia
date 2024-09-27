@@ -930,5 +930,401 @@
   "systemRead": {
     "message": "Sistem sudah koreksi",
     "description": "个人作业zh_part.json"
+  },
+  "teacherComments": {
+    "message": "Komen dosen",
+    "description": "个人作业zh_part.json"
+  },
+  "info19": {
+    "message": "Tugas mahasiswa tersebut belum mendapatkan penilaian dari mahasiswa lainnya, anda perlu mengkoreksinya.",
+    "description": "个人作业zh_part.json"
+  },
+  "info20": {
+    "message": "Mahasiswa menilai tugas bersama, setelah penilaian bersama berakhir, mahasiswa dapat melihat rincian penilaian",
+    "description": "个人作业zh_part.json"
+  },
+  "info21": {
+    "message": "Mahasiswa sedang menilai bersama, setelah penilaian bersama berakhir, mahasiswa dapat melihat rincian penilaian",
+    "description": "个人作业zh_part.json"
+  },
+  "studyHasAssessment": {
+    "message": "Para mahasiswa telah melakukan penilaian bersama",
+    "description": "个人作业zh_part.json"
+  },
+  "presentArguments": {
+    "message": "Alasan komplain",
+    "description": "个人作业zh_part.json"
+  },
+  "gradeOfStu": {
+    "message": "{stuName} score: {n} score, average score of mutual evaluation: {peer} score, unfinished evaluation task: {m} point",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价"
+  },
+  "gradeOfStu2": {
+    "message": "Skor {stuName}: {n} poin, skor rata-rata antar evaluasi: poin {peer}",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价"
+  },
+  "deductScore": {
+    "message": "Poin dikurangi: {content}",
+    "description": "移动端 -> 教师 -> 批阅互评作业"
+  },
+  "contentOfDeductScore": {
+    "message": "Skor tugas evaluasi yang belum selesai {n}",
+    "description": "移动端 -> 教师 -> 批阅互评作业"
+  },
+  "noEvaluate": {
+    "message": "{deduct} tanpa rating",
+    "description": "移动端 -> 教师 -> 批阅互评作业 -> 评价任务"
+  },
+  "inClass": {
+    "message": "Kelas",
+    "description": "个人作业zh_part.json"
+  },
+  "info23": {
+    "message": "Waktu tugas di setiap kelas tidak sama, ganti kelas untuk melihatnya",
+    "description": "个人作业zh_part.json"
+  },
+  "all": {
+    "message": "Semua",
+    "description": "个人作业zh_part.json"
+  },
+  "Reviewed": {
+    "message": "Telah dikoreksi",
+    "description": "个人作业zh_part.json"
+  },
+  "unReviewed": {
+    "message": "Belum dikoreksi",
+    "description": "个人作业zh_part.json"
+  },
+  "class": {
+    "message": "Kelas",
+    "description": "个人作业zh_part.json"
+  },
+  "name": {
+    "message": "Nama lengkap",
+    "description": "个人作业zh_part.json"
+  },
+  "studentnumberId": {
+    "message": "NIM",
+    "description": "个人作业zh_part.json"
+  },
+  "submissionTime": {
+    "message": "Waktu kumpul",
+    "description": "个人作业zh_part.json"
+  },
+  "evaluateProgress": {
+    "message": "Progres penilaian",
+    "description": "个人作业zh_part.json"
+  },
+  "score": {
+    "message": "Nilai",
+    "description": "个人作业zh_part.json"
+  },
+  "operate": {
+    "message": "Pengoperasian",
+    "description": "个人作业zh_part.json"
+  },
+  "look": {
+    "message": "Lihat",
+    "description": "个人作业zh_part.json"
+  },
+  "readOver": {
+    "message": "Koreksi",
+    "description": "个人作业zh_part.json"
+  },
+  "search": {
+    "message": "Cari",
+    "description": "个人作业zh_part.json"
+  },
+  "input14": {
+    "message": "Masukkan nama kelas",
+    "description": "个人作业zh_part.json"
+  },
+  "allSelect": {
+    "message": "Pilih semua",
+    "description": "个人作业zh_part.json"
+  },
+  "noClassMatch": {
+    "message": "Tidak ada kelas yang memenuhi persyaratan",
+    "description": "个人作业zh_part.json"
+  },
+  "hasSelect": {
+    "message": "Sudah pilih",
+    "description": "个人作业zh_part.json"
+  },
+  "allTeach": {
+    "message": "Semua dosen",
+    "description": "个人作业zh_part.json"
+  },
+  "DetailsOfHomework": {
+    "message": "Rincian tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "scoringOf": {
+    "message": "Peringkat: {score}",
+    "description": "PC -> 教师 -> 学生提交作业列表 -> TA给别人的评价 \n PC -> 教师 -> 学生提交作业列表 -> 别人给TA的评价"
+  },
+  "comment": {
+    "message": "Komen",
+    "description": "个人作业zh_part.json"
+  },
+  "none": {
+    "message": "Tidak ada",
+    "description": "个人作业zh_part.json"
+  },
+  "noComment1": {
+    "message": "Apabila belum memberikan penilaian untuk tugas mahasiswa tersebut, maka nilai akan dikurangi -{score} poin",
+    "description": "个人作业zh_part.json"
+  },
+  "noComment2": {
+    "message": "Belum memberikan penilaian untuk tugas mahasiswa tersebut",
+    "description": "个人作业zh_part.json"
+  },
+  "noComment3": {
+    "message": "Belum dinilai",
+    "description": "个人作业zh_part.json"
+  },
+  "preview": {
+    "message": "Pra-tinjau",
+    "description": "个人作业zh_part.json"
+  },
+  "pathIncorrect": {
+    "message": "Jalur salah",
+    "description": "个人作业zh_part.json"
+  },
+  "imageLoading": {
+    "message": "Sedang memuat gambar",
+    "description": "个人作业zh_part.json"
+  },
+  "show1": {
+    "message": "Tampilan 1:1",
+    "description": "个人作业zh_part.json"
+  },
+  "addAnnotations": {
+    "message": "Tambah catatan",
+    "description": "个人作业zh_part.json"
+  },
+  "deleteAnnotations": {
+    "message": "Hapus catatan",
+    "description": "个人作业zh_part.json"
+  },
+  "roleing": {
+    "message": "Sedang berputar",
+    "description": "个人作业zh_part.json"
+  },
+  "role": {
+    "message": "Berputar",
+    "description": "个人作业zh_part.json"
+  },
+  "annex": {
+    "message": "Lampiran",
+    "description": "个人作业zh_part.json"
+  },
+  "upload": {
+    "message": "Unduh",
+    "description": "个人作业zh_part.json"
+  },
+  "Annotations": {
+    "message": "Catatan",
+    "description": "个人作业zh_part.json"
+  },
+  "addClass": {
+    "message": "Tambah kelas",
+    "description": "个人作业zh_part.json"
+  },
+  "Scoringpoints": {
+    "message": "Isi penilaian",
+    "description": "个人作业zh_part.json"
+  },
+  "StudentList": {
+    "message": "Daftar nama mahasiswa",
+    "description": "个人作业zh_part.json"
+  },
+  "submittedOn": {
+    "message": "Kirim pada {time}",
+    "description": "PC -> 教师 -> 批阅作业"
+  },
+  "Tip3": {
+    "message": "Catatan: Penilaian bersama dimulai setelah selesai dikumpul. Mahasiswa yang mengumpulkannya lewat dari batas waktu, tidak dapat ikut serta dalam kegiatan penilaian bersama. Dalam hal ini, dosen yang akan mengoreksi tugas mahasiswa tersebut.",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip4": {
+    "message": "Catatan: Penilaian bersama telah dimulai! Mahasiswa yang mengumpulkannya lewat dari batas waktu revisi, tidak dapat ikut serta dalam kegiatan penilaian bersama. Dalam hal ini, dosen yang akan mengoreksi tugas mahasiswa tersebut.",
+    "description": "个人作业zh_part.json"
+  },
+  "info24": {
+    "message": "Aturan penilaian dan nilai sempurna tidak sesuai, silahkan revisi",
+    "description": "个人作业zh_part.json"
+  },
+  "info25": {
+    "message": "Pengaturan beberapa isi penilaian, penyempurnaan aturan penilaian, dapat membantu para mahasiswa untuk melaksanakan penilaian bersama secara objektif",
+    "description": "个人作业zh_part.json"
+  },
+  "rateOfPoint": {
+    "message": "Skor yang sesuai {n}%",
+    "description": "PC -> 教师端 -> 发布个人作业 -> 学生互评 -> 添加评分规则"
+  },
+  "Tip5": {
+    "message": "Perhatian: Revisi tidak dapat dilakukan setelah masuk ke dalam fase penilaian bersama",
+    "description": "个人作业zh_part.json"
+  },
+  "info26": {
+    "message": "Teks bacaan terdapat karakter yang tidak sesuai",
+    "description": "个人作业zh_part.json"
+  },
+  "SortBySimilar": {
+    "message": "Urutkan sesuai tingkat kemiripan",
+    "description": "个人作业zh_part.json"
+  },
+  "AppealAssignment": {
+    "message": "Komplain tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkGradesList": {
+    "message": "Daftar nilai tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "reviewHomework": {
+    "message": "Koreksi tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "historyHomework": {
+    "message": "Tugas sejarah",
+    "description": "个人作业zh_part.json"
+  },
+  "互评作业详情": {
+    "message": "Rincian tugas penilaian bersama",
+    "description": "个人作业zh_part.json"
+  },
+  "duplicateTip1": {
+    "message": "Setelah diperiksa, tugas anda dengan tugas mahasiswa lain memiliki tingkat kemiripan yang rendah",
+    "description": "学生 -> 写作业 -> 查重 (要求教师布置作业时，设置查重)"
+  },
+  "Tip6": {
+    "message": "Anda dapat menarik kembali tugas dan mengumpulkannya kembali sebelum tugas dikoreksi, namun setelah dikoreksi, anda tidak dapat menariknya kembali. Apakah anda yakin untuk mengumpulkan tugas?",
+    "description": "个人作业zh_part.json"
+  },
+  "input15": {
+    "message": "Masukkan kata kunci",
+    "description": "个人作业zh_part.json"
+  },
+  "SortbyAppeal": {
+    "message": "Urutkan sesuai komplain",
+    "description": "个人作业zh_part.json"
+  },
+  "noHomworkCon": {
+    "message": "Tidak ditemukan tugas terkait",
+    "description": "个人作业zh_part.json"
+  },
+  "info27": {
+    "message": "Mahasiswa telah diberitahukan utk mengumpulkan tugas, batas waktu",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation": {
+    "message": "Semua mahasiswa telah mengumpulkan tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation2": {
+    "message": "Tidak ada mahasiswa yang mengumpulkan tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation3": {
+    "message": "Tidak ada tugas yang belum dikoreksi",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation4": {
+    "message": "Tidak ada tugas yang sudah dikoreksi",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation5": {
+    "message": "Tidak ada mahasiswa",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation6": {
+    "message": "Terjadi kesalahan.",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation7": {
+    "message": "Dilarang menyalin untuk tugas kali ini",
+    "description": "个人作业zh_part.json"
+  },
+  "homeworkSituation8": {
+    "message": "Selesai",
+    "description": "个人作业zh_part.json"
+  },
+  "OtherToTAcomment": {
+    "message": "Penilaian dari orang lain untuknya",
+    "description": "个人作业zh_part.json"
+  },
+  "TAToMecomment": {
+    "message": "Penilaian dari dia untuk orang lain",
+    "description": "个人作业zh_part.json"
+  },
+  "noAfter": {
+    "message": "Bagian belakang sudah tidak ada lagi",
+    "description": "个人作业zh_part.json"
+  },
+  "Ikonw": {
+    "message": "Saya tahu",
+    "description": "个人作业zh_part.json"
+  },
+  "NoStartHomework": {
+    "message": "Tugas belum dimulai",
+    "description": "个人作业zh_part.json"
+  },
+  "willStartat": {
+    "message": "Tugas akan dimulai pada tanggal {time}",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip7": {
+    "message": "silahkan lihat dan selesaikan tugas setelah tugas dimulai.",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip8": {
+    "message": "Dosen telah mengubah waktu tugas, waktu saat ini tidak bisa mengumpulkan atau merevisi tugas",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip9": {
+    "message": "Tugas telah usai, tugas tidak bisa dikumpulkan",
+    "description": "个人作业zh_part.json"
+  },
+  "setStartTime": {
+    "message": "Atur waktu mulai",
+    "description": "个人作业zh_part.json"
+  },
+  "setEndTime": {
+    "message": "Atur waktu selesai kumpul",
+    "description": "个人作业zh_part.json"
+  },
+  "setAssessmentTime": {
+    "message": "Atur waktu selesai penilaian bersama",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip10": {
+    "message": "Saat ini sudah ada mahasiswa yang mengumpulkan tugas, perubahan waktu mulai tugas tidak akan mempengaruhi tugas yang sudah dikumpul. Tugas-tugas tersebut akan tetap dalam status telah dikumpul, yakin untuk ubah waktu mulai tugas?",
+    "description": "个人作业zh_part.json"
+  },
+  "saveFail": {
+    "message": "Guardar fallido",
+    "description": "个人作业zh_part.json"
+  },
+  "selectAlbum": {
+    "message": "Pilih Album",
+    "description": "个人作业zh_part.json"
+  },
+  "selectFile": {
+    "message": "Pilih File",
+    "description": "个人作业zh_part.json"
+  },
+  "openBrowserContinue": {
+    "message": "Jenis tugas ini tidak dapat terbuka di aplikasi, silakan lanjutkan dengan browser.",
+    "description": "个人作业zh_part.json"
+  },
+  "openInOnline": {
+    "message": "Buka di browser",
+    "description": "个人作业zh_part.json"
+  },
+  "Tip11": {
+    "message": "Jenis tugas ini tidak dapat terbuka di aplikasi, silakan lanjutkan dengan browser.",
+    "description": "个人作业zh_part.json"
   }
 }
