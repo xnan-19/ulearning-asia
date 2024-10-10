@@ -256,7 +256,7 @@
     "description": "2.0 index.js"
   },
   "cropCover": {
-    "message": "Захватить обложку",
+    "message": "Обрезать обложку",
     "description": "2.0 index.js"
   },
   "deleteCourseTips1": {
@@ -344,7 +344,7 @@
     "description": "2.0 index.js"
   },
   "courseTitleRequired": {
-    "message": "Название курса обязательное для заполнения",
+    "message": "Называние курса не пустое",
     "description": "2.0 index.js"
   },
   "courseTitleLengthTips": {
