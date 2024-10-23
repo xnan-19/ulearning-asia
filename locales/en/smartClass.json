@@ -1,6 +1,6 @@
 {
   "langCss": {
-    "message": "lang_zh",
+    "message": "lang_en",
     "description": "css标记，中文用lang_zh, 非中文使用lang_en"
   },
   "lang": {
