@@ -4271,12 +4271,104 @@
     "message": "Default language",
     "description": "新版管理后台 zh.json"
   },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "Log in with admin account",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.teachingDynamic": {
     "message": "Data Snapshots",
     "description": "2.0 admin.js"
   },
   "dataCenter.courseWorking": {
     "message": "Course Analytics",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "Activity Analytics",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "Today's Snapshot",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "Refreshes every 5 mins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "Teachers Logged in",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "Teacher Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "Students Logged in",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "Student Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": "Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "Live Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "Course Exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": "Roll Calls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "Polls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "Random Picks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "Compete to Answers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "Peer Reviews",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "Past 2 Weeks' Snapshot",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "Export reports for more detailed data",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "Daily Report of Past 2 Weeks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncement2": {
+    "message": "Announcements",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "to",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "All colleges",
     "description": "2.0 admin.js"
   }
 }
