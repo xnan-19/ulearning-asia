@@ -7730,5 +7730,9 @@
   "uploaderLoadingTip": {
     "message": "جاري التحميل، يرجى عدم إغلاق الصفحة الحالية",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠٠",
+    "description": "2.0 course.js"
   }
 }
