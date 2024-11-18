@@ -7726,5 +7726,9 @@
   "uploaderLoadingTip": {
     "message": "Mengunggah, jangan tutup halaman saat ini",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Mengunggah, jangan tutup halaman saat ini",
+    "description": "2.0 course.js"
   }
 }
