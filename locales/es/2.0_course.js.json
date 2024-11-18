@@ -7726,5 +7726,9 @@
   "uploaderLoadingTip": {
     "message": "Cargando, por favor no cierre la página actual",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Por favor, introduzca un número entero de 1 a 1000",
+    "description": "2.0 course.js"
   }
 }
