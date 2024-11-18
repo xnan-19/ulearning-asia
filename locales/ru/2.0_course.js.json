@@ -7646,5 +7646,9 @@
   "uploaderLoadingTip": {
     "message": "Загрузка, пожалуйста, не закрывайте текущую страницу",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Введите целое число от 1 до 1000",
+    "description": "2.0 course.js"
   }
 }
