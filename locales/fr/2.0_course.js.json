@@ -7654,5 +7654,9 @@
   "uploaderLoadingTip": {
     "message": "En téléchargeant, veuillez ne pas fermer la page actuelle",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Entrez une intégrale entre 1 ~ 1000",
+    "description": "2.0 course.js"
   }
 }
