@@ -7654,5 +7654,9 @@
   "uploaderLoadingTip": {
     "message": "Carregando, por favor não feche a página atual",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Digite um número inteiro entre 1 e 1000",
+    "description": "2.0 course.js"
   }
 }
