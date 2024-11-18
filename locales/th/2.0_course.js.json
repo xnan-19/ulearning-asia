@@ -7738,5 +7738,9 @@
   "uploaderLoadingTip": {
     "message": "กําลังอัปโหลด โปรดอย่าปิดหน้าปัจจุบัน",
     "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "กรุณาใส่จำนวนเต็ม 1-1000",
+    "description": "2.0 course.js"
   }
 }
