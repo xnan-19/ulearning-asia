@@ -4275,6 +4275,22 @@
     "message": "Log in with admin account",
     "description": "2.0 admin.js"
   },
+  "dataCenter.teacherLoginTrend": {
+    "message": "Teacher Login Trends",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "Student Login Trends",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "Teacher Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "Students Logins",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.teachingDynamic": {
     "message": "Data Snapshots",
     "description": "2.0 admin.js"
@@ -4359,8 +4375,44 @@
     "message": "Daily Report of Past 2 Weeks",
     "description": "2.0 admin.js"
   },
+  "dataCenter.exportReport2": {
+    "message": "Semester Weekly Report",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "Semester Monthly Report",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "Top Activities",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "Past 2 Weeks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "Top 5 Most Active Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "Top 5 Most Active Teachers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": "Top 5 Most Active Students",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.publishAnnouncement2": {
     "message": "Announcements",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.noData": {
+    "message": "No data found",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.thisSemester": {
+    "message": "Current Semester",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.timeBetween": {
