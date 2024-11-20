@@ -7978,5 +7978,13 @@
   "newStrategyTips39": {
     "message": "請輸入1-1000的整數",
     "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "資料",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "作業",
+    "description": "2.0 course.js"
   }
 }
