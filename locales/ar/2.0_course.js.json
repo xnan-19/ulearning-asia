@@ -7914,5 +7914,13 @@
   "newStrategyTips39": {
     "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠٠",
     "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "المرفقات",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "الواجبات",
+    "description": "2.0 course.js"
   }
 }
