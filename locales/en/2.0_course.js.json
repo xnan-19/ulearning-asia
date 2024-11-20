@@ -7880,7 +7880,7 @@
     "description": "2.0 course.js"
   },
   "googleclassroomTip6": {
-    "message": "*You don't have any classes in Google Classroom yet. <a href=\"https://classroom.google.com/h\" target=\"_blank\">Please create a class first</a>",
+    "message": "*You don't have a course in Google Classroom yet, please create a course first,",
     "description": "2.0 course.js"
   },
   "googleclassroomTip7": {
@@ -8049,6 +8049,10 @@
   },
   "assignment": {
     "message": "Assignment",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "Click to go to Classroom Create",
     "description": "2.0 course.js"
   }
 }
