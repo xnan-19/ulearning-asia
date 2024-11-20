@@ -7923,6 +7923,14 @@
     "message": "กรุณาใส่จำนวนเต็ม 1-1000",
     "description": "2.0 course.js"
   },
+  "material": {
+    "message": "ข้อมูล",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "การบ้าน",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip11": {
     "message": "คลิกเพื่อไปที่ Classroom Create",
     "description": "2.0 course.js"
