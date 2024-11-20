@@ -7839,6 +7839,14 @@
     "message": "Digite um número inteiro entre 1 e 1000",
     "description": "2.0 course.js"
   },
+  "material": {
+    "message": "Materiais",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Tarefa",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip11": {
     "message": "Clique para ir para Criar sala de aula",
     "description": "2.0 course.js"
