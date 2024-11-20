@@ -8042,5 +8042,13 @@
   "newStrategyTips39": {
     "message": "Enter an integral between 1~1000",
     "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "Material",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Assignment",
+    "description": "2.0 course.js"
   }
 }
