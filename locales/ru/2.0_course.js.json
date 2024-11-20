@@ -7831,6 +7831,14 @@
     "message": "Введите целое число от 1 до 1000",
     "description": "2.0 course.js"
   },
+  "material": {
+    "message": "Материалы",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Домашняя работа",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip11": {
     "message": "Нажмите, чтобы перейти в раздел «Создание класса»",
     "description": "2.0 course.js"
