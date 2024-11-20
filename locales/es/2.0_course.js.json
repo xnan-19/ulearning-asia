@@ -7911,6 +7911,14 @@
     "message": "Por favor, introduzca un número entero de 1 a 1000",
     "description": "2.0 course.js"
   },
+  "material": {
+    "message": "Información",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Tarea",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip11": {
     "message": "Haz clic para ir a Crear en Classroom",
     "description": "2.0 course.js"
