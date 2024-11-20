@@ -7911,6 +7911,14 @@
     "message": "Mengunggah, jangan tutup halaman saat ini",
     "description": "2.0 course.js"
   },
+  "material": {
+    "message": "Data",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Tugas",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip11": {
     "message": "Klik untuk membuka Classroom Create",
     "description": "2.0 course.js"
