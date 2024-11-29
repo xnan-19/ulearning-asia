@@ -3962,5 +3962,9 @@
   "common.cancelBtn": {
     "message": "Annuler",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Veuillez entrer le mot de passe correct",
+    "description": "2.0 admin.js"
   }
 }
