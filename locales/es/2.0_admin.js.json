@@ -3962,5 +3962,9 @@
   "common.cancelBtn": {
     "message": "Cancelar",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Por favor ingrese la contraseña de confirmación",
+    "description": "2.0 admin.js"
   }
 }
