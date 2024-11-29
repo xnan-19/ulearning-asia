@@ -3962,5 +3962,9 @@
   "common.cancelBtn": {
     "message": "Отменить",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Пожалуйста, введите правильный пароль",
+    "description": "2.0 admin.js"
   }
 }
