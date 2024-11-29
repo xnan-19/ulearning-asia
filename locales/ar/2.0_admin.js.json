@@ -3962,5 +3962,9 @@
   "common.cancelBtn": {
     "message": "جميع الكليات",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "الرجاء إدخال كلمة المرور الصحيحة",
+    "description": "2.0 admin.js"
   }
 }
