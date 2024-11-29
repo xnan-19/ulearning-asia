@@ -2060,7 +2060,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips1": {
-    "message": "Click to enter the full name",
+    "message": "enter the full name",
     "description": "2.0 admin.js"
   },
   "systemAdmin.password": {
@@ -2068,7 +2068,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips2": {
-    "message": "Click to enter the password",
+    "message": "enter the password",
     "description": "2.0 admin.js"
   },
   "systemAdmin.confirmPassword": {
@@ -2532,11 +2532,11 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips21": {
-    "message": "Click to enter the student ID",
+    "message": "enter the student ID",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips22": {
-    "message": "Click to enter the username",
+    "message": "enter the username",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.email": {
@@ -2544,7 +2544,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips23": {
-    "message": "Click to enter the email",
+    "message": "enter the email",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips24": {
@@ -2568,7 +2568,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips25": {
-    "message": "Click to enter the phone number",
+    "message": "enter the phone number",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips26": {
