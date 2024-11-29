@@ -2972,7 +2972,7 @@
     "description": "2.0 admin.js"
   },
   "exit": {
-    "message": "Exit",
+    "message": "Logout",
     "description": "2.0 admin.js"
   },
   "teachingTeacher": {
