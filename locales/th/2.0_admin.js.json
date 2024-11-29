@@ -3962,5 +3962,9 @@
   "common.cancelBtn": {
     "message": "ยกเลิก",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "กรุณาใส่พาสเวิร์ดยืนยัน",
+    "description": "2.0 admin.js"
   }
 }
