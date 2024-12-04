@@ -7926,5 +7926,13 @@
   "googleclassroomTip11": {
     "message": "انقر للانتقال إلى إنشاء قاعة الدراسة",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "سيتم الاحتفاظ بالبيانات القديمة التي تمت مزامنتها بعد إلغاء الربط، ولن تتم مزامنة البيانات الجديدة بعد ذلك",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "تأكيد إلغاء الربط",
+    "description": "2.0 course.js"
   }
 }
