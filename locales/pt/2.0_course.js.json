@@ -7850,5 +7850,13 @@
   "googleclassroomTip11": {
     "message": "Clique para ir para Criar sala de aula",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Os dados antigos que foram sincronizados após a desvinculação serão retidos e os novos dados não serão mais sincronizados",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirme a desvinculação",
+    "description": "2.0 course.js"
   }
 }
