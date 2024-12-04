@@ -7842,5 +7842,13 @@
   "googleclassroomTip11": {
     "message": "Нажмите, чтобы перейти в раздел «Создание класса»",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Старые данные, которые были синхронизированы после отмены привязки, будут сохранены, а новые данные больше не будут синхронизироваться",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Подтвердите отвязку",
+    "description": "2.0 course.js"
   }
 }
