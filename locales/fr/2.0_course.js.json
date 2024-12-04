@@ -7846,5 +7846,13 @@
   "googleclassroomTip11": {
     "message": "Cliquez pour accéder à la création de la salle de classe",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Les anciennes données qui ont été synchronisées après la déliaison seront conservées et les nouvelles données ne seront plus synchronisées",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirmer la dissociation",
+    "description": "2.0 course.js"
   }
 }
