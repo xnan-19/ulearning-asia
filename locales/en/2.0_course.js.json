@@ -8054,5 +8054,13 @@
   "googleclassroomTip11": {
     "message": "Click to go to Classroom Create",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "The old data that has been synced after unbinding will be retained, and the new data will no longer be synchronized",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirm the unbinding",
+    "description": "2.0 course.js"
   }
 }
