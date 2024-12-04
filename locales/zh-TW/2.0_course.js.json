@@ -7990,5 +7990,13 @@
   "googleclassroomTip11": {
     "message": "點擊前往谷歌課堂創建",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "解綁後已同步的舊數據保留，新數據將不再同步",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "確定解綁",
+    "description": "2.0 course.js"
   }
 }
