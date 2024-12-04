@@ -7922,5 +7922,13 @@
   "googleclassroomTip11": {
     "message": "Haz clic para ir a Crear en Classroom",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Los datos antiguos que se hayan sincronizado después de la desvinculación se conservarán y los nuevos datos ya no se sincronizarán",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirme el desenlace",
+    "description": "2.0 course.js"
   }
 }
