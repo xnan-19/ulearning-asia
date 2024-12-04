@@ -7934,5 +7934,13 @@
   "googleclassroomTip11": {
     "message": "คลิกเพื่อไปที่ Classroom Create",
     "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "ข้อมูลเก่าที่ซิงค์หลังจากยกเลิกการผูกจะถูกเก็บไว้ และข้อมูลใหม่จะไม่ซิงโครไนซ์อีกต่อไป",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "ยืนยันการปลดผูก",
+    "description": "2.0 course.js"
   }
 }
