@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Esta conta foi cancelada. Confirmar restauração?",
+    "message": "A senha só pode suportar letras (diferencia maiúsculas de minúsculas), números e caracteres especiais (caracteres especiais são o método de entrada em inglês!@#$%^&*()-_+={}[]:; «,./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
