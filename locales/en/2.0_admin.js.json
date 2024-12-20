@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "The account has been cancelled, are you sure to restore it?",
+    "message": "The password can only support letters (case-sensitive), numbers, and special characters (special characters are English input method!@#$%^&*()-_+={}[]:; ',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
