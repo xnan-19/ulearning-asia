@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "หมวดหมู่เชื่อมโยงกับเนื้อหาอยู่แล้วและไม่สามารถลบได้",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "ไปที่การแสดงตัวอย่าง",
+    "description": "2.0 portal.js"
   }
 }
