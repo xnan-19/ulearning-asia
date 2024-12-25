@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "La catégorie est déjà associée à un contenu et ne peut pas être supprimée",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "Aller à l’aperçu",
+    "description": "2.0 portal.js"
   }
 }
