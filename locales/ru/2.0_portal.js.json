@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "Категория уже связана с контентом и не может быть удалена",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "Перейти к предварительному просмотру",
+    "description": "2.0 portal.js"
   }
 }
