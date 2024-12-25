@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "Kategori sudah dikaitkan dengan konten dan tidak dapat dihapus",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "Buka pratinjau",
+    "description": "2.0 portal.js"
   }
 }
