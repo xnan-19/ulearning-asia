@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "الفئة مرتبطة بالفعل بالمحتوى ولا يمكن حذفها",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "انتقل إلى المعاينة",
+    "description": "2.0 portal.js"
   }
 }
