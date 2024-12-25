@@ -382,5 +382,9 @@
   "classifyTip2": {
     "message": "該分類已有內容關聯，不可刪除",
     "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "去預覽",
+    "description": "2.0 portal.js"
   }
 }
