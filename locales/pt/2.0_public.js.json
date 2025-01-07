@@ -2483,8 +2483,68 @@
     "message": "Mais operações",
     "description": "2.0 public.js"
   },
+  "loginTipsTitle": {
+    "message": "Usuários respeitados:",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "Sua senha de login não foi atualizada em <strong class='text-red'>180</strong> dias!",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "Para proteger a segurança da sua conta, modifique a senha de login para evitar que a senha seja maliciosamente quebrada e melhore a segurança da sua conta.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "Modificar senha",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "Da próxima vez",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "Continue usando sem modificação",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "Sua senha é muito simples. Para proteger sua conta, altere sua senha.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "A senha deve ter de 8 a 16 caracteres e incluir letras e números (as senhas diferenciam maiúsculas de minúsculas)",
+    "description": "2.0 public.js"
+  },
   "someonesEportfolio": {
     "message": "Nenhum",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "Pratinjau pengaturan",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "Pilih entri pratinjau",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "Entri pratinjau belum ditetapkan untuk sumber daya ini, silakan kembali ke daftar dan klik [Edit] untuk menetapkan entri pratinjau!",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "Entri pratinjau belum ditetapkan untuk sumber daya ini, silakan hubungi administrator untuk menambahkan entri pratinjau!",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "Pengunggahan berhasil, silakan selesaikan pengaturan sumber daya!",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "Memilih",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "Simulasi Interaktif",
     "description": "2.0 public.js"
   },
   "organizationStatusWrong": {
@@ -2493,6 +2553,26 @@
   },
   "loginNumberLimit": {
     "message": "Número de logins excedeu o limite, por favor, tente novamente mais tarde",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "simulasi",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "A senha só pode suportar letras (diferencia maiúsculas de minúsculas), números e caracteres especiais (caracteres especiais são o método de entrada em inglês!@#$%^&*()-_+={}[]:; «,./<>?|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "Voltar para a central de gerenciamento",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "A adesão ao curso foi bem sucedida",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "Não conseguiu ingressar no curso",
     "description": "2.0 public.js"
   }
 }
