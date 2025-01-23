@@ -5158,5 +5158,21 @@
   "notice.zf": {
     "message": "تجميع الأحرف",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "إضافة وكالة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "حذف مؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "إذا قمت بحذف المؤسسة الحالية، أيضا حذف المؤسسة التابعة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "تأكيد الحذف",
+    "description": "新版管理后台 zh.json"
   }
 }
