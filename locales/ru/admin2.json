@@ -5150,5 +5150,21 @@
   "notice.zf": {
     "message": "Компилировать символы",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Добавить агентство",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Как удалить организацию",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "Если вы удалите текущую организацию, подчиненная организация также будет удалена",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Подтвердите удаление",
+    "description": "新版管理后台 zh.json"
   }
 }
