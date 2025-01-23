@@ -5158,5 +5158,21 @@
   "notice.zf": {
     "message": "Compiled character",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Add an agency",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Remove Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "If you delete the current organization, the subordinate organization will also be deleted",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Confirm the deletion",
+    "description": "新版管理后台 zh.json"
   }
 }
