@@ -5142,5 +5142,21 @@
   "notice.zf": {
     "message": "Compilação de caracteres",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Adicionar uma agência",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Excluir uma organização",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "Se você excluir a organização atual, a organização subordinada também será excluída",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Confirmar a exclusão",
+    "description": "新版管理后台 zh.json"
   }
 }
