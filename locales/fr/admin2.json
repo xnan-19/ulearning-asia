@@ -5174,5 +5174,21 @@
   "common.confirmDelete": {
     "message": "Confirmez la suppression",
     "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "Ne doit pas être inférieur à {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "Ne doit pas être supérieur à {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "Peut être défini à {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "La valeur minimale est la quantité totale de ressources occupées par l’organisation actuelle, et la valeur maximale est le crédit de ressource disponible restant",
+    "description": "新版管理后台 zh.json"
   }
 }
