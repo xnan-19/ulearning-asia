@@ -5174,5 +5174,21 @@
   "common.confirmDelete": {
     "message": "تأكيد الحذف",
     "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "يجب ألا يقل عن {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "يجب ألا يكون أكبر من {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "يمكن ضبطه على {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "الحد الأدنى للقيمة هو المبلغ الإجمالي للموارد التي تشغلها المؤسسة الحالية، والحد الأقصى للقيمة هو رصيد الموارد المتبقي المتاح",
+    "description": "新版管理后台 zh.json"
   }
 }
