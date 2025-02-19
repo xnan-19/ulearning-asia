@@ -1030,5 +1030,461 @@
   "largeModelTongyi": {
     "message": "Mil preguntas en sentido general",
     "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "Bollos de frijoles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "Advertencia",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "Subido correctamente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "Modificado exitosamente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "Agregado exitosamente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "Modificar el asistente de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "Si elimino {nombre}, no puedo usar el asistente de IA, ¿puedo eliminarlo?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "Copiar enlace",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "Escanea el código QR para compartir el asistente de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "Compartir",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "Copiado exitosamente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "gestón de páginas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "Administrar la configuración básica del sitio actual",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "título de web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "Logotipo del sitio web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "Admite formatos jpg, jpeg y png, y el tamaño no supera los 2 M. Tamaño sugerido: 300 * 60",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "Por favor, introduzca un título del sitio web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "La extensión máxima del título del sitio web es de 50 palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "Cargue el logotipo de su sitio web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "Potenciado por IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "Administrador de la organización",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "Configuración de asistentes de IA para organizaciones de gestión, etc",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "Privilegios de inicio de sesión completos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "Todos los permisos de creación del asistente de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "Estado del permiso de inicio de sesión",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "El asistente de IA crea estados de permisos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "Configuración de permisos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "Configuración funcional",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "Configuración básica",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "Modelo grande",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "Mil preguntas en sentido general",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "Bollos de frijoles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "Cantidad diaria de paquetes de frijoles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "Ingrese la cantidad diaria de paquetes de frijoles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "La cantidad diaria de frijoles debe ser un número",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "token/día",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "Margen de hoy:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "Organización total utilizada:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "Configuración del asistente de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "Margen total para la entrada de voz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "Introduzca el margen total para la entrada de voz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "palabra",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "Las instituciones han utilizado:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "El margen total de la radiodifusión vocal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "Introduzca el margen total para los anuncios de voz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "Humanos digitales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "Seleccione Digital Human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "Configuración de herramientas de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "Herramientas de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "Clasificación inteligente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "Analítica de vídeo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "Lectura de documentos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "Reconocimiento de fórmulas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "Margen total para el análisis de vídeo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "Introduzca el margen total para el análisis de vídeo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "El margen total para el análisis de vídeo debe ser numérico",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "Minutos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "Fuentes de conocimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "La fórmula identifica el margen total",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "Introduzca una fórmula para identificar el margen total",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "La fórmula reconoce que el margen total debe ser un número",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "veces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "Mecanismo de configuración:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "Permiso de inicio de sesión para agentes de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "Una vez habilitado el permiso de inicio de sesión del agente de IA, todos los administradores y profesores de la organización pueden iniciar sesión en el sistema de gestión de agentes de IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "Permisos de creación de asistentes de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "Una vez habilitado el permiso de creación de asistentes de IA, todos los administradores o profesores de la organización pueden crear asistentes de IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "Una vez habilitado el permiso de inicio de sesión del agente de IA, el administrador/profesor puede iniciar sesión en el sistema de gestión de agentes de IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "Una vez habilitado el permiso de creación del asistente de IA, el administrador/profesor puede crear un asistente de IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "Abierto",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "Activado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "No abierto",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "Gestión de usuarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "Administre la configuración de permisos del asistente de IA del usuario.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "todos insititutos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "Todos los roles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "Número de cuenta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "Rol",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "Profesor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "Administrador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "Institución",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "Usuario de configuración de permisos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "Cerrar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "El margen total para la entrada de voz debe ser numérico",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "El margen total para los anuncios de voz debe ser numérico",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "Nombre de la institución",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "Buscar el contenido de la conversación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "Estudiante",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "Hora de inicio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "Hora de finalización",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "alcanzar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "usuario",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "Roles del usuario",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "Hora de inicio de la sesión",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "Hora de finalización de la sesión",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "Únase al par de preguntas y respuestas de la base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Seleccione Base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "Ya no más",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "Agregar recursos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "ser",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "no",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "Segmentos de recursos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "Los recursos no se dividen:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "El contenido textual del recurso existe en forma de un todo, que solo se puede recuperar de una manera más general, y es difícil localizarlo con mayor precisión.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "Segmentos de recursos:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "El contenido de texto del recurso se divide en varios segmentos pequeños, y las preguntas y respuestas inteligentes se pueden recuperar de forma independiente para diferentes segmentos para mejorar la precisión y la eficiencia de la recuperación.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "Si cortar en rodajas o no",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "Importación exitosa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "¿Está seguro de que desea eliminar un recurso?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "El tamaño del archivo no puede superar los 500 MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "Se recomiendan los siguientes recursos de aprendizaje:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Banco de recursos ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "Plataforma nacional de servicio público de educación inteligente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
   }
 }

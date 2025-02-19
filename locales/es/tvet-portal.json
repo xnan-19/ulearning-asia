@@ -502,5 +502,17 @@
   "subject3": {
     "message": "Especialidad",
     "description": "tvet职教门户->虚仿->左侧虚仿筛选和虚仿详情页"
+  },
+  "noData": {
+    "message": "Sin datos",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote1": {
+    "message": "Por favor, elija la categoría de asignaturas primero.",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote2": {
+    "message": "Por favor, elija una clasificación profesional primero.",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
   }
 }
