@@ -5146,5 +5146,41 @@
   "organization.secondDomain": {
     "message": "Доменные имена второго уровня",
     "description": "新版管理后台 zh.json"
+  },
+  "notice.zf": {
+    "message": "Компилировать символы",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Добавить агентство",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Как удалить организацию",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "Если вы удалите текущую организацию, подчиненная организация также будет удалена",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Подтвердите удаление",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "Не должно быть меньше {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "Не должно быть больше {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "Может быть установлен в {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "Минимальное значение — это общий объем ресурсов, занятых текущей организацией, а максимальное значение — это оставшийся доступный кредит на ресурсы",
+    "description": "新版管理后台 zh.json"
   }
 }
