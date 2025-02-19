@@ -502,5 +502,17 @@
   "subject3": {
     "message": "التخصصات",
     "description": "tvet职教门户->虚仿->左侧虚仿筛选和虚仿详情页"
+  },
+  "noData": {
+    "message": "لا توجد بيانات",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote1": {
+    "message": "يرجى اختيار الموضوع الأول",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote2": {
+    "message": "يرجى اختيار الفئة الفنية الأولى",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
   }
 }
