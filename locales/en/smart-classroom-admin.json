@@ -5798,5 +5798,29 @@
   "resourcePortal.pictureLoading": {
     "message": "The image is loading...",
     "description": "smart-classroom-admin 项目"
+  },
+  "route.multiWindowClassTour": {
+    "message": "Multiple-Stream View",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.superviseTaskManage": {
+    "message": "Reviews",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.roleManagement": {
+    "message": "Roles",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.schoolAdmin": {
+    "message": "School Admin",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.collegeAdmin1": {
+    "message": "College Admin",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addAdmin": {
+    "message": "Add Admin",
+    "description": "smart-classroom-admin 项目"
   }
 }
