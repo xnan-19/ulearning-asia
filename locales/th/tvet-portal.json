@@ -502,5 +502,17 @@
   "subject3": {
     "message": "วิชาเอก",
     "description": "tvet职教门户->虚仿->左侧虚仿筛选和虚仿详情页"
+  },
+  "noData": {
+    "message": "ยังไม่มีข้อมูล",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote1": {
+    "message": "โปรดเลือกประเภทวิชาหลักก่อน",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
+  },
+  "subjectNote2": {
+    "message": "โปรดเลือกหมวดหมู่มืออาชีพก่อน",
+    "description": "tvet职教门户->虚仿->左侧虚仿筛选"
   }
 }
