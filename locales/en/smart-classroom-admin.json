@@ -6839,6 +6839,10 @@
     "message": "Review Lecture",
     "description": "smart-classroom-admin 项目"
   },
+  "supervisionTour.mine": {
+    "message": " ",
+    "description": "smart-classroom-admin 项目"
+  },
   "supervisionTour.noScheduleClassesToday": {
     "message": "No classes scheduled today",
     "description": "smart-classroom-admin 项目"
@@ -7031,6 +7035,86 @@
     "message": "2. To watch the recorded lectures, the teacher needs to enable viewing permission. If the teacher does not enable viewing permission, the course will not be displayed on the page. You can go to the VOD portal to view the public courses of the school.",
     "description": "smart-classroom-admin 项目"
   },
+  "myCourse.inClassStuView": {
+    "message": "Open for course students",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.schoolDisclosure": {
+    "message": "Open for school",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.taskID": {
+    "message": "Task ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.deleteTask": {
+    "message": "Delete Task",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inClass1": {
+    "message": "In Class",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.showOnPortal": {
+    "message": "Show on portal",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedEvaluationRecord": {
+    "message": "Export Review Records",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedRange": {
+    "message": "Export Scope",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedHiddenFraction": {
+    "message": "Hide scores when exporting records",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.statisticalDimension": {
+    "message": "Select statistical dimension",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationStatistics": {
+    "message": "Lecture review statistics",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classroomDimension": {
+    "message": "Contains information such as review type, year/semester, teacher info, course info, time, location, reviewer info, total score, etc.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indexStatistics": {
+    "message": "Detailed statistics of review criteria",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indexDimension": {
+    "message": "Contains information such as review type, year/semester, teacher info, course info, time, location, reviewer info, total score, rating item score, etc.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaStatistics": {
+    "message": "Teacher Review Statistics",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaDimension": {
+    "message": "Contains teacher info, total score, individual rating item scores, etc.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseStatistics": {
+    "message": "Course Review Statistics",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseDimension": {
+    "message": "Contains course info, total score, individual rating item scores, etc.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.exportPermission": {
+    "message": "Export Permissions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.effectiveInstruction": {
+    "message": "After setting, it will only take effect for the roles of college admin and teaching supervisor.",
+    "description": "smart-classroom-admin 项目"
+  },
   "translation.teaDepartment": {
     "message": "By College of Being Reviewed",
     "description": "smart-classroom-admin 项目"
@@ -7043,12 +7127,696 @@
     "message": "By College of Reviewed Course",
     "description": "smart-classroom-admin 项目"
   },
+  "translation.instructorRecord": {
+    "message": "Manage the reviewed records of all college teachers",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatorRecord": {
+    "message": "Manage the reviewing records of all college reviewers",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseRecord": {
+    "message": "Manage the reviewed records of all college courses",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.saveSettings": {
+    "message": "Save Settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.exportSuccessfully": {
+    "message": "Exported successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scoreNum": {
+    "message": "Score",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.sectionNum": {
+    "message": "Period {n}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hasReplay": {
+    "message": "Playback generated",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.recordExport": {
+    "message": "Review History",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.check": {
+    "message": "Check at least one",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.aiConfigTip": {
+    "message": "After changing the settings, the system will use the new rules when performing new analysis tasks, and some old data will not be modified according to the new rules.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingSegmentSetting": {
+    "message": "Instructional Event Settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.identificationMethod": {
+    "message": "Identification Method",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.segmentTip": {
+    "message": "The large language model identifies the instructional events based on semantics. Filling in keywords can increase the accuracy of the model's semantic recognition.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputTip3": {
+    "message": "Enter keywords separated by \";\"",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setKeyword": {
+    "message": "Set Keywords",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluator": {
+    "message": "Reviewer",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTeacher": {
+    "message": "Teacher reviewed",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip1": {
+    "message": "Allow the reviewed teacher to view the results",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip2": {
+    "message": "Hide reviewer info",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip3": {
+    "message": "Hide review score",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationType": {
+    "message": "Review type",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewDetail": {
+    "message": "View Details",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.yes": {
+    "message": "Yes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.no": {
+    "message": "No",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.buildingOverview": {
+    "message": "Buildings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.emptyClassroom": {
+    "message": "Available Classrooms",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classroomSearch": {
+    "message": "Classroom Search",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scheduleSearch": {
+    "message": "Class Schedule Search",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inClass": {
+    "message": "In Class",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingDynamicSchedule": {
+    "message": "Class Schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekSchedule": {
+    "message": "Weekly Class Schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.year": {
+    "message": "Year",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.bigScreenLocation": {
+    "message": "Teacher screen address",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.totalVisitNum": {
+    "message": "Total visits",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dailyVisitNum": {
+    "message": "Today's visits",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.holiday": {
+    "message": "Holiday",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekSchedule1": {
+    "message": "This week's class schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dynamicClass": {
+    "message": "Class Schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.usePhoneScan": {
+    "message": "Scan QA Code to View",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.todayCourseEnd": {
+    "message": "Today's classes have ended",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allBuilding": {
+    "message": "All buildings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekNum": {
+    "message": "Week {n}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.collegeManagement": {
+    "message": "Colleges",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.collegeResource": {
+    "message": "College Resources",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.resourceClass": {
+    "message": "Resource Categories",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.createResourceClass": {
+    "message": "Add Resource Category",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.creator": {
+    "message": "Creator",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dataUploader": {
+    "message": "Uploaded by",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dataReader": {
+    "message": "Read by",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewUploader": {
+    "message": "View Uploader",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewReader": {
+    "message": "View Reader",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadedFile": {
+    "message": "Uploaded Files",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setRead": {
+    "message": "Set up Reading",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setUpload": {
+    "message": "Set up Uploading",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.searchNamePlaceholder": {
+    "message": "Enter name or employee ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addUserTip1": {
+    "message": "Added resource readers: ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addUserTip2": {
+    "message": "Added resource uploaders: ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadFileError2": {
+    "message": "File size cannot exceed {size}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadFileError3": {
+    "message": "The file type is not supported",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.size": {
+    "message": "Size",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadTime": {
+    "message": "Upload time",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewCollege": {
+    "message": "View Colleges",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.sourceNameNotEmpty": {
+    "message": "The resource category name cannot be empty!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addSourceTip": {
+    "message": "Note: After successfully adding a new resource category, you can set the uploaders and readers for it.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.transcodeTip": {
+    "message": "The video is being transcoded - Please try again later!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.mute": {
+    "message": "Mute",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.unMute": {
+    "message": "Unmute",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.play": {
+    "message": "Play",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.fullScreen": {
+    "message": "Full Screen",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.openUrl": {
+    "message": "Visit this site",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.unPreviewTip": {
+    "message": "This file does not support online preview",
+    "description": "smart-classroom-admin 项目"
+  },
   "translation.roleMenuManagement": {
     "message": "Role Menu Settings",
     "description": "smart-classroom-admin 项目"
   },
   "translation.functionSetting": {
     "message": "Permissions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.exportPdf": {
+    "message": "Export PDF",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.exportexcel": {
+    "message": "Export Excel",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.thisWeek": {
+    "message": "This week",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.currentMonth": {
+    "message": "This month",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.thisSemester": {
+    "message": "This semester",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.showClassDetails": {
+    "message": "Show class details",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.dataItemSetting": {
+    "message": "Data Item Settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.openingSchool": {
+    "message": "Course College",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.facultyMemberDepartment": {
+    "message": "College Affiliated",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip1": {
+    "message": "Total course knowledge nodes: The total number of knowledge nodes in the course knowledge graph. Created by teachers or generated by Ai through syllabus/keywords.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip2": {
+    "message": "Lighted knowledge nodes: the knowledge points that teachers talk about in class, which match the knowledge nodes in course knowledge graph.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip3": {
+    "message": "High-frequency knowledge nodes: knowledge nodes covered in multiple sessions.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip4": {
+    "message": "Unlighted knowledge nodes: knowledge nodes that exist in the course knowledge graph but are not covered by the teacher in class.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip5": {
+    "message": "Unplanned knowledge nodes: AI analyzes lecture videos to extract knowledge nodes taught by teachers, which have not appeared in the course knowledge graph.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.totalclassKnowledge": {
+    "message": "Total Session knowledge nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.lightUpKnowledge": {
+    "message": "Light up knowledge Nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.unplannedKnowledge": {
+    "message": "Unplanned Knowledge Nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.classroomTeachingPath": {
+    "message": "Session Teaching Path",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgePointStatistics": {
+    "message": "Knowledge Node Statistics",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.multipleKnowledgePoints": {
+    "message": "High-Frequency Knowledge Nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.unilluminatedKnowledge": {
+    "message": "Unlighted Knowledge Nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints1": {
+    "message": "No high-frequency knowledge nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints2": {
+    "message": "No unlighted knowledge nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints3": {
+    "message": "No unplanned knowledge nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.totalCourseKnowledge": {
+    "message": "Total course knowledge nodes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.pictureType": {
+    "message": "The file type is incorrect - Please select a supported image format!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.personalSpace": {
+    "message": "Personal Space",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.peopleNum": {
+    "message": "Selected reviewers ({num})",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignedByClassMsg": {
+    "message": "Select/open a class and then select/assign the class sessions to the checked reviewer(s)",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.classroomAssignmentMsg": {
+    "message": "Select/open a classroom and then select/assign sessions to the checked reviewer(s)",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.enterYourNameJobNumber": {
+    "message": "Enter name or employee ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.supervisionClassification": {
+    "message": "Reviewer Team Categories",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.outsideExpert": {
+    "message": "External Expert Reviewer Group",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectAssignmentType": {
+    "message": "Select task type",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.batchAssignment": {
+    "message": "Batch Assign",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.reviewerName": {
+    "message": "Reviewer name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.evaluatorId": {
+    "message": "Reviewer title",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.reviewerID": {
+    "message": "Reviewer employee ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.classDate": {
+    "message": "Meeting time",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignTime": {
+    "message": "Time assigned",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignedSource": {
+    "message": "Assignment source",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appointor": {
+    "message": "Assigned by",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.owningGroup": {
+    "message": "Reviewer team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseEvaluation": {
+    "message": "Review scope",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appraisedTeacher": {
+    "message": "Teacher reviewed",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseFaculty": {
+    "message": "College",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.pleaseInput": {
+    "message": "Enter ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseSession": {
+    "message": "Course session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endAssignment": {
+    "message": "End Assignment",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endLastAssignment": {
+    "message": "End Last Assignment",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.clickEndPrompt": {
+    "message": "After completing the session assignment , click the End Assignment link!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignSessionsBatches": {
+    "message": "Batch Assign Sessions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseNumber": {
+    "message": "Course Code",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectSegment": {
+    "message": "Select Session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectClassSegment": {
+    "message": "Select Classroom Session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSession": {
+    "message": "Are you sure to assign the selected session?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSessionBatch": {
+    "message": "Are you sure to batch assign the selected sessions?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSessionBatchClass": {
+    "message": "Are you sure to batch assign all sessions of the selected class?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherWithdrawRecord": {
+    "message": "Are you sure to remove this assignment?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAllWithdrawRecord": {
+    "message": "Are you sure to remove all assignments?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.retractionRecord": {
+    "message": "Remove Assignment",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.retractionAllRecord": {
+    "message": "Remove All Assignments",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSession": {
+    "message": "Assign Session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.definitiveWithdrawal": {
+    "message": "Confirm to Remove",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyWithdrawn": {
+    "message": "Removed the assignment successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyWithdrawnSection": {
+    "message": "Removed the assigned session successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyAllWithdrawn": {
+    "message": "Removed all assignments successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSessionBatch": {
+    "message": "Batch Assign Sessions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.definitiveAssignment": {
+    "message": "Confirm to Assign",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSuccess": {
+    "message": "Assigned successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSingleSuccess": {
+    "message": "Assigned successfully. Do you want to continue assigning sessions in this classroom?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentMultipleleSuccess": {
+    "message": "Batch assigned successfully. Do you want to continue assigning sessions in this classroom?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.startTips": {
+    "message": "Before starting this assignment, please end the last assigning.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endAssignmentTips": {
+    "message": "The last assigning has been ended",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.furtherAssignment": {
+    "message": "Continue to Assign",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentError": {
+    "message": "Failed to assign!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSuccessBatch": {
+    "message": "Batch assigned successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentErrorBatch": {
+    "message": "Failed to batch assign!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appraiser": {
+    "message": "Reviewer",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.teaName": {
+    "message": "Teacher Name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.beenAssigned": {
+    "message": "Assigned",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endDesignate": {
+    "message": "The assigning has been ended",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.withdrawn": {
+    "message": "Removed!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.withdrawAll": {
+    "message": "Remove All",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.isWithdrawAll": {
+    "message": "Removed all!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.returnUpperLevel": {
+    "message": "Back",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.pleaseCheck": {
+    "message": "Please select",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.pictureEvaluation": {
+    "message": "Image Review",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.screenshotAnnotation": {
+    "message": "Screenshot Annotation",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.selectScreenshot": {
+    "message": "Select Screenshot",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.inputComments": {
+    "message": "Enter a comment, no more than {num} characters。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.upCross": {
+    "message": "Uploading...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.uploadPictures": {
+    "message": "Please upload an image!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.revisionEvaluation": {
+    "message": "Edit Review",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.lossPictureQuality": {
+    "message": "The image quality is damaged - Please select another image.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.basicMenuSettingsForRole": {
+    "message": "{role} Menu Settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.rename": {
+    "message": "Rename",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.show": {
+    "message": "Show",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.hide": {
+    "message": "Hide",
     "description": "smart-classroom-admin 项目"
   },
   "menuSettings.PC": {
@@ -7059,8 +7827,168 @@
     "message": "Mobile",
     "description": "smart-classroom-admin 项目"
   },
+  "menuSettings.language": {
+    "message": "Switch Language",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.menuTitleTips": {
+    "message": "Cannot exceed {n} characters!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.roleMenuSettings": {
+    "message": "{role} Permissions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.checkedMenuTip": {
+    "message": "Keep at least 1 menu item",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.hideMenuTip": {
+    "message": "This menu item cannot be hidden",
+    "description": "smart-classroom-admin 项目"
+  },
   "menuSettings.deleteUserTip": {
     "message": "There are users under this role. Deleting this role will cause the role to be lost for the users. Are you sure you want to delete?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.appraisalTask": {
+    "message": "Review Task",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teaResearchGroup": {
+    "message": "Review Team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.leadershipEvaluation": {
+    "message": "Tasks by Supervisors",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.PeerReview": {
+    "message": "Tasks by Peers",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.studentEvaluationTeaching": {
+    "message": "Task by Students",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teacherEducationManagement": {
+    "message": "Review Rubrics",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.liveEnd": {
+    "message": "This session has ended",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.nextClass": {
+    "message": "Next session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchGroup": {
+    "message": "Review Team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.personnel": {
+    "message": "Members",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchRoom": {
+    "message": "Review Team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingResearchRoom": {
+    "message": "Add Review Team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.nameResearchRoom": {
+    "message": "Enter the review team name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchInstitute": {
+    "message": "Select the college affiliated",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teacherAcademy": {
+    "message": "Select the college affiliated",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.selectedTeacher": {
+    "message": "Selected teachers",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.scopeTeaching": {
+    "message": "Review scope",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.noLimit": {
+    "message": "No limit",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.allFaculty": {
+    "message": "All college teachers",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.groupTea": {
+    "message": "Other teachers in the same review team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.studentElectiveTea": {
+    "message": "Teachers of the course enrolled by students",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.viewScore": {
+    "message": "Show rating item points when reviewing",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.classificationTeachingTasks": {
+    "message": "Review Task Categories",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingTasks": {
+    "message": "Add Task Category",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.keepAnswering": {
+    "message": "Continue Reviewing",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluate": {
+    "message": "Review",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.courseTaught": {
+    "message": "Course Taught",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluatorDepartment": {
+    "message": "Reviewer College",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.beRatedTea": {
+    "message": "Reviewed College",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationGrading": {
+    "message": "School admins review the entire school and college admins their their own colleges",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationLearningNumber": {
+    "message": "Reviewer Student ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaGroupNotEmpty": {
+    "message": "The review team name cannot be empty!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaTaskRemoveTip": {
+    "message": "If review records are generated under this review task, deleting the task will also delete the review records. Are you sure to delete it?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.enterTeaName": {
+    "message": "Enter the teacher name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.deleteScalePrompt": {
+    "message": "The rubric already has records. Deleting the rubric will clear the previous records. Are you sure to delete?",
     "description": "smart-classroom-admin 项目"
   }
 }
