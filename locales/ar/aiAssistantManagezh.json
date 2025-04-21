@@ -1670,5 +1670,209 @@
   "other": {
     "message": "أخرى",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "وكيل سكوير",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "إضافة قالب كتالوج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "إضافة قالب صفحة داخلية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "الكمية اليومية من DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "الرجاء إدخال المبلغ اليومي ل DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "يجب أن تكون الكمية اليومية من DeepSeek-R1 رقمية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "جيل PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "يرجى إدخال إجمالي الهامش المتولد في PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "يجب أن يكون الهامش الإجمالي الناتج عن PPT رقما",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "مرات / يوم",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "أدخل كلمة رئيسية للبحث",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "بحث",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "شارك في وكيل سكوير",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "أذونات مربع الوكيل الكاملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "حالة إذن وكيل سكوير",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "أذونات وكيل سكوير",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "يمكن تنشيط أذونات وكيل سكوير من قبل المؤسسة، ولا يمكن تنشيطها بواسطة مستخدم واحد.\nبعد التنشيط ، يمكن للمستخدمين المؤسسيين الحاليين مشاركة مساعد الذكاء الاصطناعي الذي تم إنشاؤه إلى وكيل سكوير للعرض.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "المحتوى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "أضف شرائح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "شرح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "الرجاء إدخال المحتوى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "لا توجد شرائح موارد حتى الآن",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "احفظ محتوى الشريحة أولا",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "هل تريد بالتأكيد حذفه؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "أخرس",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "إلغاء كتم الصوت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "تشغيل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "إيقاف مؤقت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "ملء الشاشة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "تحويل الترميز ، يرجى التحقق من ذلك لاحقا",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "انتقل إلى عنوان URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "الملف لا يدعم المعاينة عبر الإنترنت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "فريق المقرر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "مقدمة المقرر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "لم يكتمل التحميل، هل تريد إلغاء التحميل؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "إلغاء الرفع",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "إضافة المزيد من الصوت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "تحميل عناصر {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "النشر في وكيل سكوير",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "تم النشر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "غير منشوره",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "فشل الإعداد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "إدارة التصنيف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "إضافة أشقاء",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "إضافة أطفال",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "تحرير الفئة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "حذف التصنيف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "اسم",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "الرجاء إدخال اسم التصنيف.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "انتقل إلى إنشاء وكيل",
+    "description": "aiAssistantManagezh.json"
   }
 }
