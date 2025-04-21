@@ -1578,5 +1578,177 @@
   "deepseek": {
     "message": "DeepSeek-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "學習中...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "已學習",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "刪除整節內容，確定刪除嗎？",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "刪除要點及要點正文內容，確定刪除嗎？",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "標題名稱不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "標題不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "目錄項不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "內容不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "請輸入標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "請輸入副標題",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "結束",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "預覽",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "下載",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "歡迎交流{name}中的內容，你可能想問：",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "產生中...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "PPT預覽",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "已生成",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT 產生中...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "章節標題不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "內頁標題不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "要點標題不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "要點內容不能為空",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT正在產生中...<br/><br/>您可以關閉彈窗，稍後在歷史記錄中查看生成結果。",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "智慧創作",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "教學課件不用愁，智慧生成解煩憂",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "範本選擇",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "PPT範本隨心選，創意呈現不費難",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "教學應用",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "課件班課一鍵發，教學銜接無縫隙",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "智慧體廣場",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "模型倉庫",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "我創建的",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "我的收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "開發者中心",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "輸入關鍵字搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "前往創建智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "暫無數據",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "我的智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "模型微調",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "API調用說明",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "還沒有收藏的智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "前往智慧體廣場",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "還沒有創建的智慧體",
+    "description": "aiAssistantzh.json"
   }
 }
