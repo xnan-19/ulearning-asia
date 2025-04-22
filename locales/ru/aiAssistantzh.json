@@ -1750,5 +1750,37 @@
   "emptyCreatedAgent": {
     "message": "Агенты, которые еще не созданы",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Всеобъемлющая сортировка",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Популярные коллекции",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Популярный доступ",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Скопируйте код",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Пример ответа на звонок",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Необходимые условия",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Вы получили ключ API, который используется для аутентификации по вызову API.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Получение имени модели для вызова модели",
+    "description": "aiAssistantzh.json"
   }
 }
