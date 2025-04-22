@@ -1750,5 +1750,37 @@
   "emptyCreatedAgent": {
     "message": "ตัวแทนที่ยังไม่ได้สร้าง",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "จัดลำดับรวม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "คอลเลกชันยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "การเข้าถึงยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "คัดลอกรหัส",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "ตัวอย่างการตอบกลับการโทร",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "ข้อกําหนดเบื้องต้น",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "คุณได้รับคีย์ API ซึ่งใช้สําหรับการตรวจสอบสิทธิ์การเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "รับชื่อรุ่นสําหรับการเรียกแบบจําลอง",
+    "description": "aiAssistantzh.json"
   }
 }
