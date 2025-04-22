@@ -1871,8 +1871,52 @@
     "message": "الرجاء إدخال اسم التصنيف.",
     "description": "aiAssistantManagezh.json"
   },
+  "common.cancel": {
+    "message": "إلغاء",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "تأكيد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "الكل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "غير مصنف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "جميع الحالات المنشورة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "لقد حددت قواعد معارف {num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "أدخل الاسم للبحث",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "تصنيف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "تصنيف الدورة التدريبية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "إختيار الكل",
+    "description": "aiAssistantManagezh.json"
+  },
   "goCreateAgent": {
     "message": "انتقل إلى إنشاء وكيل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "إعداد التصنيفات",
     "description": "aiAssistantManagezh.json"
   }
 }

@@ -1750,5 +1750,37 @@
   "emptyCreatedAgent": {
     "message": "الوكلاء الذين لم يتم إنشاؤهم بعد",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "الفرز الشامل",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "المجموعات الشعبية",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "الوصول الشعبي",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "انسخ الرمز",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "مثال على استجابة للمكالمة",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "المتطلبات المسبقه",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "لقد حصلت على مفتاح واجهة برمجة التطبيقات، والذي يستخدم لمصادقة استدعاء واجهة برمجة التطبيقات.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "الحصول على اسم النموذج لاستدعاء النموذج",
+    "description": "aiAssistantzh.json"
   }
 }
