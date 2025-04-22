@@ -1750,5 +1750,37 @@
   "emptyCreatedAgent": {
     "message": "Agen yang belum dibuat",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Pengurutan",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Koleksi Populer",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Akses populer",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Salin kode",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Contoh respons panggilan",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Prasyarat",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Anda telah memperoleh kunci API, yang digunakan untuk autentikasi panggilan API.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Mendapatkan nama model untuk pemanggilan model",
+    "description": "aiAssistantzh.json"
   }
 }
