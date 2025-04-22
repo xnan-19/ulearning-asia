@@ -1750,5 +1750,37 @@
   "emptyCreatedAgent": {
     "message": "Agentes que ainda não foram criados",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Classificação abrangente",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Coleções populares",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Acesso popular",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Copie o código",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Um exemplo de uma resposta de chamada",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Pré-requisitos",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Você obteve uma chave de API, que é usada para autenticação de chamada de API.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Obter o nome do modelo para chamada de modelo",
+    "description": "aiAssistantzh.json"
   }
 }
