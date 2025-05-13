@@ -1634,5 +1634,153 @@
   "welcomeDiscuss": {
     "message": "欢迎交流{name}中的内容，你可能想问：",
     "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "生成中...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "PPT预览",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "已生成",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT生成中...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "章节标题不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "内页标题不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "要点标题不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "要点内容不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT正在生成中...<br/><br/>您可以关闭弹窗，稍后在历史记录中查看生成结果。",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "智能创作",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "教学课件不用愁，智能生成解烦忧",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "模板选择",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "PPT模板随心选，创意呈现不费难",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "教学应用",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "课件班课一键发，教学衔接无缝隙",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "智能体广场",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "模型仓库",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "我创建的",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "我的收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "开发者中心",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "输入关键词搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "前往创建智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "暂无数据",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "我的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "模型微调",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "API调用说明",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "还没有收藏的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "前往智能体广场",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "还没有创建的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "综合排序",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "热门收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "人气访问",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "复制代码",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "调用响应示例",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "前提条件",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "您已获取到API Key， 用于API调用鉴权，",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "获取模型名称用于模型调用",
+    "description": "aiAssistantzh.json"
   }
 }
