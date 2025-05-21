@@ -1918,5 +1918,29 @@
   "setSort": {
     "message": "Configurar clasificaciones",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "Mi espacio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "Entrenamiento de modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "Gestión del Asistente de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "Gestión de la Base de Conocimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "Gestión de aplicaciones.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "Enlace",
+    "description": "aiAssistantManagezh.json"
   }
 }
