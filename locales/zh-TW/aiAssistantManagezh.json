@@ -1918,5 +1918,93 @@
   "setSort": {
     "message": "設置分類",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "個人空間",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "模型訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "AI助手管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "知識庫管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "應用管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "鏈接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "創建指令模板，為智能體提供快捷提示詞。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "建設教學知識庫，為智能體提供專業知識來源。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "我的AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "創建和編排基於大模型的AI智慧體應用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "支持jpg、jpeg、png、gif格式，大小不超過2M。建議尺寸：400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "模型訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "系統提供垂直領域模型訓練工具，在這裡可以使用已有的數据集進行模型訓練，訓練生成的模型支持匯出後部署應用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "基礎模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "訓練類型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "取消任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "查看紀錄",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "删除任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "下載模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "等待中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "訓練中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "上傳數據",
+    "description": "aiAssistantManagezh.json"
   }
 }
