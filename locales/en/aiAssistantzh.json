@@ -1752,15 +1752,15 @@
     "description": "aiAssistantzh.json"
   },
   "comprehensiveSort": {
-    "message": "Comprehensive sorting",
+    "message": "Rankings",
     "description": "aiAssistantzh.json"
   },
   "popularFavorites": {
-    "message": "Popular Collections",
+    "message": "Favorites",
     "description": "aiAssistantzh.json"
   },
   "popularVisits": {
-    "message": "Popular access",
+    "message": "Hot",
     "description": "aiAssistantzh.json"
   },
   "copyCode": {

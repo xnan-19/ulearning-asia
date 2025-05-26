@@ -1672,7 +1672,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "route.agentSquare": {
-    "message": "Agent Square",
+    "message": "AI Agent Plaza",
     "description": "aiAssistantManagezh.json"
   },
   "addDirectoryTemplates": {
@@ -1720,7 +1720,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "shareToAgentSquare": {
-    "message": "Share to Agent Square",
+    "message": "Share to AI Agent Plaza",
     "description": "aiAssistantManagezh.json"
   },
   "allAgentSquarePermissions": {
@@ -1828,7 +1828,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "publishToAgentSquare": {
-    "message": "Publish to Agent Square",
+    "message": "Publish to AI Agent Plaza",
     "description": "aiAssistantManagezh.json"
   },
   "published": {
@@ -1904,7 +1904,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "category": {
-    "message": "Category",
+    "message": "Category Name",
     "description": "aiAssistantManagezh.json"
   },
   "selectAll": {
@@ -2304,103 +2304,103 @@
     "description": "aiAssistantManagezh.json"
   },
   "allAgents": {
-    "message": "All intelligent agents",
+    "message": "All agents",
     "description": "aiAssistantManagezh.json"
   },
   "internalAgent": {
-    "message": "Internal intelligent agent",
+    "message": "Internal agents",
     "description": "aiAssistantManagezh.json"
   },
   "externalAgent": {
-    "message": "External intelligent agent",
+    "message": "External agents",
     "description": "aiAssistantManagezh.json"
   },
   "addExternalAgent": {
-    "message": "Add external intelligent agents",
+    "message": "Add External Agent",
     "description": "aiAssistantManagezh.json"
   },
   "editExternalAgent": {
-    "message": "Modify external intelligent agents",
+    "message": "Edit External Agent",
     "description": "aiAssistantManagezh.json"
   },
   "agentName": {
-    "message": "Intelligent agent name",
+    "message": "Agent Name",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterAgentName": {
-    "message": "Please enter the name of the intelligent agent",
+    "message": "Enter the AI agent name",
     "description": "aiAssistantManagezh.json"
   },
   "agentIntro": {
-    "message": "Introduction to Intelligent Agents",
+    "message": "Agent Description",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterAgentIntro": {
-    "message": "Please enter the introduction of the intelligent agent",
+    "message": "Enter the AI agent description",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterExternalAgentLink": {
-    "message": "Please enter the external agent link",
+    "message": "Enter the link for the external AI agent",
     "description": "aiAssistantManagezh.json"
   },
   "publisher": {
-    "message": "publisher",
+    "message": "Publisher",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterPublisherInfo": {
-    "message": "Please enter publisher information",
+    "message": "Enter the publisher information",
     "description": "aiAssistantManagezh.json"
   },
   "jumpType": {
-    "message": "Jump method",
+    "message": "Open in",
     "description": "aiAssistantManagezh.json"
   },
   "currentPage": {
-    "message": "current page",
+    "message": "Current window",
     "description": "aiAssistantManagezh.json"
   },
   "newPage": {
-    "message": "New page",
+    "message": "New window",
     "description": "aiAssistantManagezh.json"
   },
   "ainameRequired": {
-    "message": "Name cannot be empty",
+    "message": "Name cannot be empty!",
     "description": "aiAssistantManagezh.json"
   },
   "ainameMaxLength": {
-    "message": "The name cannot exceed 200 characters.",
+    "message": "Name cannot exceed 200 characters",
     "description": "aiAssistantManagezh.json"
   },
   "appIntroMaxLength": {
-    "message": "The application introduction cannot exceed 2000 characters",
+    "message": "Description cannot exceed 2000 characters!",
     "description": "aiAssistantManagezh.json"
   },
   "linkRequired": {
-    "message": "Link cannot be empty",
+    "message": "Link cannot be empty!",
     "description": "aiAssistantManagezh.json"
   },
   "linkMaxLength": {
-    "message": "The link cannot exceed 200 characters",
+    "message": "Link cannot exceed 200 characters!",
     "description": "aiAssistantManagezh.json"
   },
   "linkFormatError": {
-    "message": "The link format is incorrect",
+    "message": "Incorrect link format!",
     "description": "aiAssistantManagezh.json"
   },
   "publisherMaxLength": {
-    "message": "The publisher cannot exceed 200 characters",
+    "message": "Publisher cannot exceed 200 characters!",
     "description": "aiAssistantManagezh.json"
   },
   "jumpTypeRequired": {
-    "message": "The jump method cannot be empty",
+    "message": "Open method cannot be empty!",
     "description": "aiAssistantManagezh.json"
   },
   "setTopPlacement": {
-    "message": "Stick to top",
+    "message": "Pin",
     "description": "aiAssistantManagezh.json"
   },
   "cancelTopPlacement": {
-    "message": "Cancel sticky to top",
+    "message": "Unpin",
     "description": "aiAssistantManagezh.json"
   },
   "editSuccess": {
@@ -2420,7 +2420,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "categoryMethod": {
-    "message": "Classification method",
+    "message": "Classification Type",
     "description": "aiAssistantManagezh.json"
   },
   "selectedCategories": {
@@ -2428,7 +2428,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "sortManagementInstruction": {
-    "message": "Classify and manage all intelligent agents created by institutions.",
+    "message": "Manage AI agent classifications",
     "description": "aiAssistantManagezh.json"
   },
   "add": {
@@ -2444,19 +2444,19 @@
     "description": "aiAssistantManagezh.json"
   },
   "modifyCategoryMethod": {
-    "message": "Modify classification method",
+    "message": "Edit Classification Type",
     "description": "aiAssistantManagezh.json"
   },
   "addCategoryMethod": {
-    "message": "Add classification method",
+    "message": "Add Classification Type",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterCategoryMethodName": {
-    "message": "Please enter the classification method name",
+    "message": "Enter the classification type name",
     "description": "aiAssistantManagezh.json"
   },
   "belongToCategoryMethod": {
-    "message": "Classification method",
+    "message": "Classification Type",
     "description": "aiAssistantManagezh.json"
   },
   "categoryRequired": {
@@ -2480,11 +2480,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "deleteCategoryConfirm": {
-    "message": "The AI assistant under the category will be unlinked from the current category. Are you sure to delete it?",
+    "message": "The AI agents under this category will be unlinked from this category. Are you sure to delete it?",
     "description": "aiAssistantManagezh.json"
   },
   "classifyManagement": {
-    "message": "Classification management",
+    "message": "Classification",
     "description": "aiAssistantManagezh.json"
   },
   "classifyManagementInstruction": {
