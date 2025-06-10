@@ -1,10 +1,10 @@
 {
   "courseAssess": {
-    "message": "Course Grading Rules22",
+    "message": "Course Grading Rules",
     "description": "1.0 assessment.json"
   },
   "summarizingTipsTxt1": {
-    "message": "Grade summarizing is in progress - Do not close the window before it's done!",
+    "message": "Grade summarizing is in progress - Do not close the window before it's done!test",
     "description": "1.0 assessment.json"
   },
   "summarizingTipsTxt2": {
