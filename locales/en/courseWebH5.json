@@ -424,7 +424,7 @@
     "description": "course_web_h5"
   },
   "realClassroom.courseTip6": {
-    "message": "End reminder\n",
+    "message": "End reminder",
     "description": "course_web_h5"
   },
   "realClassroom.courseTip7": {
@@ -948,7 +948,7 @@
     "description": "course_web_h5"
   },
   "textbook.textbookTips2": {
-    "message": "2.eLearning course needs to be activated under your own account. Please do not use the code for somebody else's account.",
+    "message": "2.Textbook needs to be activated under your own account. Please do not use the code for somebody else's account.",
     "description": "course_web_h5"
   },
   "textbook.toAct": {
@@ -1240,7 +1240,7 @@
     "description": "course_web_h5"
   },
   "selectCourses.selectCourseTips7": {
-    "message": "The online elective courses for the second semester of the 2024-2025 academic year have begun. Please complete your course selection promptly.<ol type='1'><li>{startTime} - {endTime} is the course selection period. Please complete the course selection within the specified time.</li><li>You only have one chance to select courses. Once the selection is completed, you cannot change your courses, withdraw from them, or make any other modifications.</li><li>You must choose at least one course and at most four courses. Otherwise, you will not be able to successfully complete the course selection.</li><li>Courses that have been selected and passed in previous semesters are not allowed to be taken again this semester; otherwise, no credits will be awarded.</li><li>After the course selection is completed, the courses will be made available for learning on the platform at the specified time. During the course selection period, no learning is allowed.</li></ol>\n\n",
+    "message": "The online elective courses for the second semester of the 2024-2025 academic year have begun. Please complete your course selection promptly.<ol type='1'><li>{startTime} - {endTime} is the course selection period. Please complete the course selection within the specified time.</li><li>You only have one chance to select courses. Once the selection is completed, you cannot change your courses, withdraw from them, or make any other modifications.</li><li>You must choose at least one course and at most four courses. Otherwise, you will not be able to successfully complete the course selection.</li><li>Courses that have been selected and passed in previous semesters are not allowed to be taken again this semester; otherwise, no credits will be awarded.</li><li>After the course selection is completed, the courses will be made available for learning on the platform at the specified time. During the course selection period, no learning is allowed.</li></ol>",
     "description": "course_web_h5"
   },
   "mobile.mobileTips1": {
