@@ -5723,6 +5723,10 @@
     "message": "Related operations",
     "description": "新版管理后台 zh.json"
   },
+  "service.resetDefaultPwd": {
+    "message": "Change password (default:{defaultPwd})",
+    "description": "新版管理后台 zh.json"
+  },
   "service.resetUserPwd": {
     "message": "Change Password (Custom Password)",
     "description": "新版管理后台 zh.json"
