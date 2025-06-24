@@ -2606,5 +2606,29 @@
   "publishSuccess": {
     "message": "Published successfully!",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "Workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "Edit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "Visit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "Icon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "Description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "Draft",
+    "description": "aiAssistantManagezh.json"
   }
 }
