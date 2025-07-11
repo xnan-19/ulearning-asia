@@ -1342,5 +1342,53 @@
   "resourceCenter.selectFromResource": {
     "message": "Select from Resource Library",
     "description": "application_center.json"
+  },
+  "resourceCenter.enterSearch": {
+    "message": "Enter to search",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceManage": {
+    "message": "Resource Management",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collect": {
+    "message": "Favorite",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectSuccess": {
+    "message": "Added to favorites successfully!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectError": {
+    "message": "Failed to unfavorite!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.cancelCollectSuccess": {
+    "message": "Unfavorited successfully!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.imgLimitTip": {
+    "message": "JPG/JPEG/PNG format image, not exceeding 2M, recommended size 356px * 200px",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addUpdateResource": {
+    "message": "Add/Modify Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.address": {
+    "message": "Address:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.classify": {
+    "message": "分类：",
+    "description": "application_center.json"
+  },
+  "resourceCenter.remark": {
+    "message": "Introduction:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.deleteResource": {
+    "message": "Delete resource application",
+    "description": "application_center.json"
   }
 }
