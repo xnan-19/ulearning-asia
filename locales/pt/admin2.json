@@ -2979,14 +2979,6 @@
     "message": "Quantidade de contas não pode exceder o máximo",
     "description": "新版管理后台 zh.json"
   },
-  "saas.rule8": {
-    "message": "{type} não pode exceder {number}",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.rule9": {
-    "message": "Digite apenas números",
-    "description": "新版管理后台 zh.json"
-  },
   "users.downloadErrlog": {
     "message": "Download do Registro de Incorreções",
     "description": "新版管理后台"
@@ -5183,26 +5175,6 @@
     "message": "Compilação de caracteres",
     "description": "新版管理后台 zh.json"
   },
-  "notice.step1": {
-    "message": "Passo 1",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step1Desc": {
-    "message": "Opções de internacionalização",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step2": {
-    "message": "Passo 2",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step2Desc": {
-    "message": "Opções Gerais",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.noticeRequireError": {
-    "message": "O título e o conteúdo do idioma padrão da instituição não podem estar vazios",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.addProxyOrganization": {
     "message": "Adicionar uma agência",
     "description": "新版管理后台 zh.json"
@@ -5242,6 +5214,26 @@
   "organization.resourceTip2": {
     "message": "Se uma cota for definida, os recursos usados pela organização atual não poderão exceder a cota máxima\nSe nenhuma cota for definida, a organização atual compartilha a cota de recursos disponíveis para o nível superior",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "notice.step1": {
+    "message": "Passo 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "Opções de internacionalização",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "Passo 2",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "Opções Gerais",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "O título e o conteúdo do idioma padrão da instituição não podem estar vazios",
+    "description": "新版管理后台 zh.json"
   },
   "memberRegistration.pla": {
     "message": "Digite o nome da escola para pesquisar",
@@ -5531,6 +5523,10 @@
     "message": "Recursos insuficientes, falha na criação",
     "description": "新版管理后台 zh.json"
   },
+  "saas.rule8": {
+    "message": "{type} não pode exceder {number}",
+    "description": "新版管理后台 zh.json"
+  },
   "courseArea.listSerachPlaceholder": {
     "message": "Digite o nome da área do curso para pesquisar",
     "description": "新版管理后台 zh.json"
@@ -5541,10 +5537,6 @@
   },
   "courseArea.areaList": {
     "message": "Área do curso",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.areaOrg": {
-    "message": "Instituição afiliada",
     "description": "新版管理后台 zh.json"
   },
   "courseArea.deleteBtn": {
@@ -5567,18 +5559,6 @@
     "message": "Por favor, insira o nome da área do curso",
     "description": "新版管理后台 zh.json"
   },
-  "courseArea.allCourses": {
-    "message": "Todos os cursos",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.selectedCourses": {
-    "message": "Cursos selecionados",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.courseListFilterPlaceholder": {
-    "message": "Digite o nome do curso para pesquisar",
-    "description": "新版管理后台 zh.json"
-  },
   "courseArea.settingCourseArea": {
     "message": "Área do curso afiliada",
     "description": "新版管理后台 zh.json"
@@ -5589,38 +5569,6 @@
   },
   "service.tab1": {
     "message": "Operações do usuário",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.tab2": {
-    "message": "Mini ferramentas",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userName": {
-    "message": "Nome de usuário",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.realname": {
-    "message": "Nome real",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.studentId": {
-    "message": "ID do estudante",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.phone": {
-    "message": "Telefone",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.email": {
-    "message": "E-mail",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.search": {
-    "message": "Pesquisar",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.orgName": {
-    "message": "Nome da instituição",
     "description": "新版管理后台 zh.json"
   },
   "service.usersActions": {
@@ -5647,16 +5595,8 @@
     "message": "Estender período de estudo do aluno",
     "description": "新版管理后台 zh.json"
   },
-  "service.openCourse": {
-    "message": "Ativar curso",
-    "description": "新版管理后台 zh.json"
-  },
   "service.toggleRole": {
     "message": "Alterar função do usuário",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.restartCount": {
-    "message": "Desbloquear conta",
     "description": "新版管理后台 zh.json"
   },
   "service.learningRecord": {
@@ -5679,14 +5619,6 @@
     "message": "Tem certeza que deseja redefinir a senha do usuário <strong>{username}</strong> para <strong>{password}</strong>?",
     "description": "新版管理后台 zh.json"
   },
-  "service.changePwdPlcaeholder": {
-    "message": "Por favor, insira a nova senha",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.changeOrgPlcaeholder": {
-    "message": "Por favor, selecione a instituição",
-    "description": "新版管理后台 zh.json"
-  },
   "service.withoutUserTip": {
     "message": "Por favor, primeiro selecione o usuário no qual deseja executar a operação",
     "description": "新版管理后台 zh.json"
@@ -5703,30 +5635,6 @@
     "message": "Tem certeza que deseja desvincular o número de telefone do usuário <strong>{username}</strong>?",
     "description": "新版管理后台 zh.json"
   },
-  "service.userOrgs": {
-    "message": "Instituições afiliadas",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleTea": {
-    "message": "Professor",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleStu": {
-    "message": "Aluno",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleAdmin": {
-    "message": "Administrador",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleEditor": {
-    "message": "Editor",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.role": {
-    "message": "Função",
-    "description": "新版管理后台 zh.json"
-  },
   "service.courseDeadline": {
     "message": "Data de término atual",
     "description": "新版管理后台 zh.json"
@@ -5737,14 +5645,6 @@
   },
   "service.userCourseListTitle": {
     "message": "Todos os cursos de <strong>{userName}</strong>",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userToolsTitle1": {
-    "message": "Conta",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userToolsTitle2": {
-    "message": "Exame",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool1": {
@@ -5759,16 +5659,8 @@
     "message": "Ativar cursos/estender período de estudo para alunos em lote",
     "description": "新版管理后台 zh.json"
   },
-  "service.userTool4": {
-    "message": "Redefinir senha em lote",
-    "description": "新版管理后台 zh.json"
-  },
   "service.userTool5": {
     "message": "Monitorar cronograma de exames (ver todos os exames)",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userTool6": {
-    "message": "Mini ferramenta",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool7": {
@@ -5784,7 +5676,7 @@
     "description": "新版管理后台 zh.json"
   },
   "service.remixStudentUserB": {
-    "message": "Conta B", 
+    "message": "Conta B",
     "description": "新版管理后台 zh.json"
   },
   "service.checkAccount": {
@@ -5801,10 +5693,6 @@
   },
   "service.userInfoUserId": {
     "message": "ID do usuário:",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userCourseList": {
-    "message": "Cursos:",
     "description": "新版管理后台 zh.json"
   },
   "service.userOrgLabel": {
@@ -5825,10 +5713,6 @@
   },
   "service.remixStudentTips4": {
     "message": "Por favor, selecione o destino da mesclagem",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.multiChangePwdTitle": {
-    "message": "Redefinição de senha em lote",
     "description": "新版管理后台 zh.json"
   },
   "service.multiChangePwdMethod": {
@@ -5871,14 +5755,6 @@
     "message": "Alvo da redefinição de senha:",
     "description": "新版管理后台 zh.json"
   },
-  "service.resetPwdTarget1": {
-    "message": "Professor",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.resetPwdTarget2": {
-    "message": "Aluno",
-    "description": "新版管理后台 zh.json"
-  },
   "service.resetPwdSetting": {
     "message": "Configuração da nova senha:",
     "description": "新版管理后台 zh.json"
@@ -5889,10 +5765,6 @@
   },
   "service.resetPwdSetting2": {
     "message": "Personalizar nova senha",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.resetPwdSettingPlaceholder": {
-    "message": "Por favor, insira a nova senha",
     "description": "新版管理后台 zh.json"
   },
   "service.multiJoinClass": {
@@ -5975,10 +5847,6 @@
     "message": "Estender até uma data específica",
     "description": "新版管理后台 zh.json"
   },
-  "service.delayByDatePlaceholder": {
-    "message": "Por favor, selecione a data",
-    "description": "新版管理后台 zh.json"
-  },
   "service.days": {
     "message": "dias",
     "description": "新版管理后台 zh.json"
@@ -5989,10 +5857,6 @@
   },
   "service.searchCourseByOrgPlaceholder": {
     "message": "Filtrar por instituição",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.searchCourseByKeywordPlaceholder": {
-    "message": "Digite o nome do curso para pesquisar",
     "description": "新版管理后台 zh.json"
   },
   "service.openCourse1": {
