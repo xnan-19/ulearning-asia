@@ -5431,30 +5431,6 @@
     "message": "·ملف العرض الحالي",
     "description": "新版管理后台 zh.json"
   },
-  "resourceLibrary.allTheType": {
-    "message": "كل الأنواع",
-    "description": "新版管理后台 zh.json"
-  },
-  "resourceLibrary.share": {
-    "message": "مشاركة",
-    "description": "新版管理后台 zh.json"
-  },
-  "resourceLibrary.upLoad": {
-    "message": "تحميل",
-    "description": "新版管理后台 zh.json"
-  },
-  "resourceLibrary.allUpLoadType": {
-    "message": "كل حالات التحميل",
-    "description": "新版管理后台 zh.json"
-  },
-  "resourceLibrary.rzTip1": {
-    "message": "سجل النسخ والمشاركة",
-    "description": "新版管理后台 zh.json"
-  },
-  "resourceLibrary.rzTip2": {
-    "message": "سجل نشر المصادر",
-    "description": "新版管理后台 zh.json"
-  },
   "userSetting.systemSetting": {
     "message": "إعدادات النظام",
     "description": "新版管理后台 zh.json"
@@ -5877,42 +5853,6 @@
   },
   "service.uploadFilePlaceholder": {
     "message": "الرجاء اختيار الملف",
-    "description": "新版管理后台 zh.json"
-  },
-  "deleteType.deleteResource": {
-    "message": "حذف المورد فقط",
-    "description": "新版管理后台 zh.json"
-  },
-  "deleteType.deleteCourseResource": {
-    "message": "حذف المورد المنشور في المقرر",
-    "description": "新版管理后台 zh.json"
-  },
-  "deleteType.deleteLibraryResource": {
-    "message": "حذف المورد المنسوخ إلى مكتبة الموارد",
-    "description": "新版管理后台 zh.json"
-  },
-  "deleteType.deleteAllResource": {
-    "message": "حذف كل من المنشور والمنسوخ",
-    "description": "新版管理后台 zh.json"
-  },
-  "selectCourse.title": {
-    "message": "اختيار المقرر",
-    "description": "新版管理后台 zh.json"
-  },
-  "selectCourse.tip": {
-    "message": "الرجاء تحديد المقررات التي تريد نشر المورد فيها:",
-    "description": "新版管理后台 zh.json"
-  },
-  "selectCourse.selectAll": {
-    "message": "تحديد الكل",
-    "description": "新版管理后台 zh.json"
-  },
-  "selectCourse.publishSuccess": {
-    "message": "تم النشر بنجاح",
-    "description": "新版管理后台 zh.json"
-  },
-  "selectCourse.publishFail": {
-    "message": "فشل النشر",
     "description": "新版管理后台 zh.json"
   }
 }
