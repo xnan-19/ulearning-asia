@@ -2979,14 +2979,6 @@
     "message": "لا يمكن أن يكون عدد حسابات المستخدم أكثر من الحد الأقصى",
     "description": "新版管理后台 zh.json"
   },
-  "saas.rule8": {
-    "message": "لا يمكن أن يتجاوز {type} {number}",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.rule9": {
-    "message": "الرجاء إدخال رقم",
-    "description": "新版管理后台 zh.json"
-  },
   "users.downloadErrlog": {
     "message": "تنزيل سجل الأخطاء",
     "description": "新版管理后台"
@@ -5199,26 +5191,6 @@
     "message": "تجميع الأحرف",
     "description": "新版管理后台 zh.json"
   },
-  "notice.step1": {
-    "message": "خطوة",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step1Desc": {
-    "message": "خيارات التدويل",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step2": {
-    "message": "الخطوة الثانية", 
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.step2Desc": {
-    "message": "خيارات عامة",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.noticeRequireError": {
-    "message": "عنوان ومحتوى اللغة الافتراضية لا يمكن أن تكون فارغة",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.addProxyOrganization": {
     "message": "إضافة وكالة",
     "description": "新版管理后台 zh.json"
@@ -5259,6 +5231,26 @@
     "message": "إذا تم تعيين حصة نسبية، فلا يمكن أن تتجاوز الموارد المستخدمة من قبل المؤسسة الحالية الحد الأقصى للحصة النسبية\nإذا لم يتم تعيين حصة نسبية، تشارك المؤسسة الحالية الحصة النسبية للموارد المتاحة للمستوى الأعلى",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   },
+  "notice.step1": {
+    "message": "خطوة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "خيارات التدويل",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "الخطوة الثانية",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "خيارات عامة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "عنوان ومحتوى اللغة الافتراضية لا يمكن أن تكون فارغة",
+    "description": "新版管理后台 zh.json"
+  },
   "memberRegistration.pla": {
     "message": "أدخل اسم المدرسة للبحث",
     "description": "新版管理后台 zh.json"
@@ -5289,14 +5281,6 @@
   },
   "memberRegistration.register_time": {
     "message": "وقت التسجيل",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.websiteNameLang": {
-    "message": "إعدادات لغة اسم المؤسسة",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.websiteNameLangError": {
-    "message": "اسم المؤسسة باللغة الافتراضية مطلوب",
     "description": "新版管理后台 zh.json"
   },
   "educationUniversity.title": {
@@ -5547,6 +5531,10 @@
     "message": "موارد غير كافية، فشل الإنشاء",
     "description": "新版管理后台 zh.json"
   },
+  "saas.rule8": {
+    "message": "لا يمكن أن يتجاوز {type} {number}",
+    "description": "新版管理后台 zh.json"
+  },
   "courseArea.listSerachPlaceholder": {
     "message": "أدخل اسم مجال المقرر للبحث",
     "description": "新版管理后台 zh.json"
@@ -5557,10 +5545,6 @@
   },
   "courseArea.areaList": {
     "message": "مجال المقرر",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.areaOrg": {
-    "message": "المؤسسة التابعة",
     "description": "新版管理后台 zh.json"
   },
   "courseArea.deleteBtn": {
@@ -5583,18 +5567,6 @@
     "message": "الرجاء إدخال اسم مجال المقرر",
     "description": "新版管理后台 zh.json"
   },
-  "courseArea.allCourses": {
-    "message": "جميع المقررات",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.selectedCourses": {
-    "message": "المقررات المحددة",
-    "description": "新版管理后台 zh.json"
-  },
-  "courseArea.courseListFilterPlaceholder": {
-    "message": "أدخل اسم المقرر للبحث",
-    "description": "新版管理后台 zh.json"
-  },
   "courseArea.settingCourseArea": {
     "message": "مجال المقرر التابع",
     "description": "新版管理后台 zh.json"
@@ -5605,38 +5577,6 @@
   },
   "service.tab1": {
     "message": "عمليات المستخدم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.tab2": {
-    "message": "أدوات صغيرة",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userName": {
-    "message": "اسم المستخدم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.realname": {
-    "message": "الاسم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.studentId": {
-    "message": "رقم الطالب",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.phone": {
-    "message": "رقم الهاتف",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.email": {
-    "message": "البريد الإلكتروني",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.search": {
-    "message": "بحث",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.orgName": {
-    "message": "اسم المؤسسة",
     "description": "新版管理后台 zh.json"
   },
   "service.usersActions": {
@@ -5663,16 +5603,8 @@
     "message": "تمديد فترة دراسة الطالب",
     "description": "新版管理后台 zh.json"
   },
-  "service.openCourse": {
-    "message": "تفعيل المقرر",
-    "description": "新版管理后台 zh.json"
-  },
   "service.toggleRole": {
     "message": "تغيير دور المستخدم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.restartCount": {
-    "message": "إلغاء تجميد الحساب",
     "description": "新版管理后台 zh.json"
   },
   "service.learningRecord": {
@@ -5695,14 +5627,6 @@
     "message": "هل أنت متأكد من إعادة تعيين كلمة مرور المستخدم <strong>{username}</strong> إلى <strong>{password}</strong>؟",
     "description": "新版管理后台 zh.json"
   },
-  "service.changePwdPlcaeholder": {
-    "message": "الرجاء إدخال كلمة المرور الجديدة",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.changeOrgPlcaeholder": {
-    "message": "الرجاء اختيار المؤسسة",
-    "description": "新版管理后台 zh.json"
-  },
   "service.withoutUserTip": {
     "message": "الرجاء تحديد المستخدم الذي تريد تنفيذ العملية عليه أولاً",
     "description": "新版管理后台 zh.json"
@@ -5719,30 +5643,6 @@
     "message": "هل أنت متأكد من إلغاء ربط رقم الهاتف للمستخدم <strong>{username}</strong>؟",
     "description": "新版管理后台 zh.json"
   },
-  "service.userOrgs": {
-    "message": "المؤسسات التابعة",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleTea": {
-    "message": "معلم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleStu": {
-    "message": "طالب",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleAdmin": {
-    "message": "مدير",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.roleEditor": {
-    "message": "محرر",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.role": {
-    "message": "الدور",
-    "description": "新版管理后台 zh.json"
-  },
   "service.courseDeadline": {
     "message": "تاريخ الانتهاء الحالي",
     "description": "新版管理后台 zh.json"
@@ -5753,14 +5653,6 @@
   },
   "service.userCourseListTitle": {
     "message": "جميع مقررات <strong>{userName}</strong>",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userToolsTitle1": {
-    "message": "الحساب",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userToolsTitle2": {
-    "message": "الامتحان",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool1": {
@@ -5775,16 +5667,8 @@
     "message": "فتح المقررات/تمديد فترة الدراسة للطلاب بالجملة",
     "description": "新版管理后台 zh.json"
   },
-  "service.userTool4": {
-    "message": "إعادة تعيين كلمة المرور بالجملة",
-    "description": "新版管理后台 zh.json"
-  },
   "service.userTool5": {
     "message": "مراقبة جدول الامتحانات (عرض جميع الامتحانات)",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.userTool6": {
-    "message": "أداة صغيرة",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool7": {
@@ -5819,10 +5703,6 @@
     "message": "معرف المستخدم:",
     "description": "新版管理后台 zh.json"
   },
-  "service.userCourseList": {
-    "message": "المقررات:",
-    "description": "新版管理后台 zh.json"
-  },
   "service.userOrgLabel": {
     "message": "المؤسسة:",
     "description": "新版管理后台 zh.json"
@@ -5841,10 +5721,6 @@
   },
   "service.remixStudentTips4": {
     "message": "الرجاء تحديد هدف الدمج",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.multiChangePwdTitle": {
-    "message": "إعادة تعيين كلمة المرور بالجملة",
     "description": "新版管理后台 zh.json"
   },
   "service.multiChangePwdMethod": {
@@ -5887,14 +5763,6 @@
     "message": "هدف إعادة تعيين كلمة المرور:",
     "description": "新版管理后台 zh.json"
   },
-  "service.resetPwdTarget1": {
-    "message": "المعلم",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.resetPwdTarget2": {
-    "message": "الطالب",
-    "description": "新版管理后台 zh.json"
-  },
   "service.resetPwdSetting": {
     "message": "إعداد كلمة المرور الجديدة:",
     "description": "新版管理后台 zh.json"
@@ -5905,10 +5773,6 @@
   },
   "service.resetPwdSetting2": {
     "message": "تخصيص كلمة مرور جديدة",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.resetPwdSettingPlaceholder": {
-    "message": "الرجاء إدخال كلمة المرور الجديدة",
     "description": "新版管理后台 zh.json"
   },
   "service.multiJoinClass": {
@@ -5991,10 +5855,6 @@
     "message": "تمديد إلى تاريخ محدد",
     "description": "新版管理后台 zh.json"
   },
-  "service.delayByDatePlaceholder": {
-    "message": "الرجاء اختيار التاريخ",
-    "description": "新版管理后台 zh.json"
-  },
   "service.days": {
     "message": "يوم",
     "description": "新版管理后台 zh.json"
@@ -6005,10 +5865,6 @@
   },
   "service.searchCourseByOrgPlaceholder": {
     "message": "اختر المؤسسة للتصفية",
-    "description": "新版管理后台 zh.json"
-  },
-  "service.searchCourseByKeywordPlaceholder": {
-    "message": "أدخل اسم المقرر للبحث",
     "description": "新版管理后台 zh.json"
   },
   "service.openCourse1": {
