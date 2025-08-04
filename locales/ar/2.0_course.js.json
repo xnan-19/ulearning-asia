@@ -1,6 +1,6 @@
 {
   "backToCourseList": {
-    "message": "العودة إلى قائمة المقرر الدراسي",
+    "message": "العودة الى قائمة المقررات الدراسية",
     "description": "2.0 course.js"
   },
   "backToManageCenter": {
@@ -20,7 +20,7 @@
     "description": "2.0 course.js"
   },
   "courseAnnouncement": {
-    "message": "إشعارات مقرر دراسي",
+    "message": "إعلانات المقرر",
     "description": "2.0 course.js"
   },
   "courseAnalysis": {
@@ -28,7 +28,7 @@
     "description": "2.0 course.js"
   },
   "courseResourse": {
-    "message": "مصادر المقررات الدراسية",
+    "message": "مصادر الدورة الدراسية",
     "description": "2.0 course.js"
   },
   "courseAssessment": {
@@ -48,15 +48,15 @@
     "description": "2.0 course.js"
   },
   "announcement": {
-    "message": "إشعارات",
+    "message": "اعلانات",
     "description": "2.0 course.js"
   },
   "courseware": {
-    "message": "منهج دراسي",
+    "message": "المنهج الدراسي",
     "description": "2.0 course.js"
   },
   "resourse": {
-    "message": "مصدر",
+    "message": "الموارد التعليمية",
     "description": "2.0 course.js"
   },
   "analysis": {
@@ -76,11 +76,11 @@
     "description": "2.0 course.js"
   },
   "classroom": {
-    "message": "الفصل الدراسي",
+    "message": "الفصول",
     "description": "2.0 course.js"
   },
   "live": {
-    "message": "بث مباشر",
+    "message": "الفصل الدراسي الافتراضي",
     "description": "2.0 course.js"
   },
   "exam": {
@@ -88,11 +88,11 @@
     "description": "2.0 course.js"
   },
   "assessment": {
-    "message": "التقييم",
+    "message": "الدرجات",
     "description": "2.0 course.js"
   },
   "setting": {
-    "message": "الإعدادات",
+    "message": "اعدادات",
     "description": "2.0 course.js"
   },
   "courseGuideTitle1": {
@@ -152,11 +152,11 @@
     "description": "2.0 course.js"
   },
   "seeDetails": {
-    "message": "عرض التفاصيل",
+    "message": "مفتوح",
     "description": "2.0 course.js"
   },
   "moocPeople": {
-    "message": "People.cn الدورات المفتوحة",
+    "message": "دورات مفتوحة",
     "description": "2.0 course.js"
   },
   "courseOverview": {
@@ -184,7 +184,7 @@
     "description": "2.0 course.js"
   },
   "studyDuration": {
-    "message": "مدة التعلم",
+    "message": "زمن التعلم",
     "description": "2.0 course.js"
   },
   "resourceTotal": {
@@ -192,7 +192,7 @@
     "description": "2.0 course.js"
   },
   "video": {
-    "message": "مقطع فيديو",
+    "message": "مقاطع الفيديو",
     "description": "2.0 course.js"
   },
   "totalDurationOf": {
@@ -200,7 +200,7 @@
     "description": "2.0 course.js"
   },
   "document": {
-    "message": "مستند",
+    "message": "المستندات",
     "description": "2.0 course.js"
   },
   "richtext": {
@@ -208,7 +208,7 @@
     "description": "2.0 course.js"
   },
   "link": {
-    "message": "رابط",
+    "message": "الروابط",
     "description": "2.0 course.js"
   },
   "studyCourseNumberDay": {
@@ -228,7 +228,7 @@
     "description": "2.0 course.js"
   },
   "teachingActivities": {
-    "message": "أنشطة التدريس",
+    "message": "أنشطة التعليم/التعلم",
     "description": "2.0 course.js"
   },
   "completionRate": {
@@ -252,7 +252,7 @@
     "description": "2.0 course.js"
   },
   "cancel": {
-    "message": "إلغاء",
+    "message": "إلغاء الأمر",
     "description": "2.0 course.js"
   },
   "close": {
@@ -396,7 +396,7 @@
     "description": "2.0 course.js"
   },
   "examQueTotal": {
-    "message": "أسئلة الامتحان:",
+    "message": "أسئلة الامتحانات:",
     "description": "2.0 course.js"
   },
   "participants": {
@@ -452,7 +452,7 @@
     "description": "2.0 course.js"
   },
   "attendance": {
-    "message": "تفقد الحضور",
+    "message": "أسماء الحضور",
     "description": "2.0 course.js"
   },
   "totalTimes": {
@@ -7889,6 +7889,138 @@
   },
   "synced": {
     "message": "مزامن",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "البحث حسب الكلمة الرئيسية",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "مزامنة الدفعات",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "إلغاء مزامنة الدفعة",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "مزامنة البيانات التاريخية بنقرة واحدة",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "المزامنة مع U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "متزامن",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "إلغاء المزامنة",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "لا تتم مزامنته في الوقت الحالي",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "تتم مزامنة البيانات نيابة عنك",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "إعادة المحاولة",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "الكتابة فوق البيانات القديمة",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "تجاهل",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "نجحت المزامنة",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "فشل المزامنة",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "كان عدم التزامن ناجحا",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "فشل إلغاء المزامنة",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "مزامنة الدفعات ناجحة",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "فشلت مزامنة الدفعات",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "إلغاء مزامنة الدفعات ناجح",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "فشل إلغاء مزامنة الدفعة",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "جوجل كلاس روم",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠٠",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "المرفقات",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "الواجبات",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "انقر للانتقال إلى إنشاء قاعة الدراسة",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "سيتم الاحتفاظ بالبيانات القديمة التي تمت مزامنتها بعد إلغاء الربط، ولن تتم مزامنة البيانات الجديدة بعد ذلك",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "تأكيد إلغاء الربط",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "تحميل المحاكاة",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "سجلات تعلم SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "غير مكتمل",
+    "description": "2.0 course.js"
+  },
+  "advancedSetup": {
+    "message": " إعدادت متقدمة ",
+    "description": "2.0 course.js"
+  },
+  "masteryStatistics": {
+    "message": "إحصائيات الإتقان",
+    "description": "2.0 course.js"
+  },
+  "knowledgePoints": {
+    "message": "درجات المعرفة",
     "description": "2.0 course.js"
   },
   "courseTime": {
