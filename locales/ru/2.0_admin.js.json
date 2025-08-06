@@ -4071,22 +4071,6 @@
     "message": "Время начала действия не может быть больше времени окончания события",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Многоязычные настройки",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Многоязычные настройки названия сайта",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Пожалуйста, введите {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "Значение языка по умолчанию не может быть пустым",
-    "description": "2.0 admin.js"
-  },
   "educationUniversity.educationUniversity": {
     "message": "Заявка на членство",
     "description": "2.0 admin.js"
@@ -4177,6 +4161,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "Знакомство с университетом/факультетом",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Многоязычные настройки",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Многоязычные настройки названия сайта",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Пожалуйста, введите {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Значение языка по умолчанию не может быть пустым",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {
@@ -4389,6 +4389,18 @@
   },
   "selectCourse.delFailed": {
     "message": "Не удалось удалить",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "Включить",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "Отключить",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "После отключения пользователь не сможет войти. Вы уверены, что хотите отключить?",
     "description": "2.0 admin.js"
   }
 }
