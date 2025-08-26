@@ -9978,5 +9978,53 @@
   "eduBackStage.day": {
     "message": "日",
     "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.team": {
+    "message": "团队",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.teamDesc": {
+    "message": "当前课程可能是一个教学团队在授课，请根据教务安排判断选择课程进行听课。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.permissionsTip": {
+    "message": "根据账号角色，控制菜单开启和关闭",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.startBatches": {
+    "message": "批量开启",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.batchClose": {
+    "message": "批量关闭",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.onlineClassPermission": {
+    "message": "线上听课权限",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.roleType": {
+    "message": "角色类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.checkPersonTip": {
+    "message": "请先勾选人员名单",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.enablePermissions": {
+    "message": "开启权限",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.closePermissions": {
+    "message": "关闭权限",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.enableUserPermissions": {
+    "message": "确定要开启选中用户的权限吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.closeUserPermissions": {
+    "message": "确定要关闭选中用户的权限吗？",
+    "description": "smart-classroom-admin 项目"
   }
 }
