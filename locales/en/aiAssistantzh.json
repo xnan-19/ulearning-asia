@@ -2711,6 +2711,134 @@
     "message": "Generate Knowledge Graph",
     "description": "aiAssistantzh.json"
   },
+  "generating1": {
+    "message": "Generating...",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerate": {
+    "message": "Re-Generate",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "Previous",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "Next",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "Generate knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "generateQuestions": {
+    "message": "Generate questions",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "Save Knowledge Graph",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "Add Child",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "Enter knowledge point name",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "Are you sure you want to re-generate?",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints": {
+    "message": "Number of knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "Easy",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "Average",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "Very difficult",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "Knowledge point:",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "Progress: ",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "Current knowledge point: ",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "Generating…",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeType": {
+    "message": "Node type",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "Knowledge unit",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "Number of questions",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "Failed to save!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphName": {
+    "message": "KG Title",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "Click to enter the title",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "Please select",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "Multiple Choice",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "Multiple Response",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "True/False",
+    "description": "aiAssistantzh.json"
+  },
+  "submit": {
+    "message": "Submit",
+    "description": "aiAssistantzh.json"
+  },
+  "report": {
+    "message": "Report",
+    "description": "aiAssistantzh.json"
+  },
+  "noReplyAvailable": {
+    "message": "No reply yet",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackOther": {
+    "message": "Others",
+    "description": "aiAssistantzh.json"
+  },
   "aiChat": {
     "message": "AI Chat",
     "description": "aiAssistantzh.json"
