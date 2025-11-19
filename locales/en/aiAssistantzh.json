@@ -1508,7 +1508,7 @@
     "description": "aiAssistantzh.json"
   },
   "dailyUsageTip": {
-    "message": "You can use the PPT generator 5 times a day",
+    "message": "You can use the PPT generator {count} times a day",
     "description": "aiAssistantzh.json"
   },
   "autoGeneratePPT": {
@@ -3548,7 +3548,7 @@
     "description": "aiAssistantzh.json"
   },
   "selectQNumTip": {
-    "message": "(Number of questions generated per knowledge point)",
+    "message": "Number of questions generated per knowledge point",
     "description": "aiAssistantzh.json"
   },
   "selectQNum": {
