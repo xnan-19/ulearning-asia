@@ -1,4 +1,8 @@
 {
+  "1月": {
+    "message": "1月",
+    "description": "个人作业zh_part.json"
+  },
   "2月": {
     "message": "2月",
     "description": "个人作业zh_part.json"
@@ -1333,10 +1337,6 @@
   },
   "该类型作业无法在APP中打开，请在浏览器中打开继续使用": {
     "message": "该类型作业无法在APP中打开，请在浏览器中打开继续使用",
-    "description": "个人作业zh_part.json"
-  },
-  "测试22":{
-    "message": "测试",
     "description": "个人作业zh_part.json"
   }
 }
