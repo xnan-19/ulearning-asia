@@ -5579,6 +5579,10 @@
     "message": "إنشاء محاضرة",
     "description": "2.0 course.js"
   },
+  "integralClassroom": {
+    "message": "ترتيب الفصول الدراسية",
+    "description": "2.0 course.js"
+  },
   "studentPerformance": {
     "message": "أداء الطالب",
     "description": "2.0 course.js"
@@ -8029,6 +8033,10 @@
   },
   "selectDate": {
     "message": "يرجى اختيار التاريخ",
+    "description": "2.0 course.js"
+  },
+  "identityVerificationCode": {
+    "message": "اسم المستخدم",
     "description": "2.0 course.js"
   }
 }

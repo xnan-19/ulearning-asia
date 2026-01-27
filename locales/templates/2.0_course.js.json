@@ -5579,6 +5579,10 @@
     "message": "创建课堂",
     "description": "2.0 course.js"
   },
+  "integralClassroom": {
+    "message": "课堂积分榜",
+    "description": "2.0 course.js"
+  },
   "studentPerformance": {
     "message": "学生表现",
     "description": "2.0 course.js"
@@ -8173,7 +8177,7 @@
   },
   "stuLiveTips": {
     "message": "注：观看时长包括观看直播回放时长，数据每天凌晨更新一次。",
-     "description": "2.0 course.js"
+    "description": "2.0 course.js"
   },
   "classContent": {
     "message": "课程信息",
@@ -8205,6 +8209,30 @@
   },
   "addVideo": {
     "message": "添加视频",
+    "description": "2.0 course.js"
+  },
+  "identityVerificationCode": {
+    "message": "用户名",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_zuel": {
+    "message": "课程管理员可以直接编辑课程章节内容，编辑完成后选择更新，学生可以正常观看课程章节内容。同一课程所有班级使用相同的课程章节，但可以设置不同的学习计划。",
+    "description": "2.0 course.js"
+  },
+  "editCourseInfo": {
+    "message": "编辑课程信息",
+    "description": "2.0 course.js"
+  },
+  "uploaderScormResource": {
+    "message": "上传SCORM文件",
+    "description": "2.0 course.js"
+  },
+  "GeneratingPDF": {
+    "message": "正在生成PDF...",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis2": {
+    "message": "【{name}】课程分析",
     "description": "2.0 course.js"
   }
 }
