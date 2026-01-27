@@ -2586,5 +2586,9 @@
   "loginTipsMsg5": {
     "message": "Your login password hasn't been updated in <strong class='text-red'>{dayNum}</strong> days!",
     "description": "2.0 public.js"
+  },
+  "myProfile": {
+    "message": "My Profile",
+    "description": "2.0 public.js"
   }
 }
