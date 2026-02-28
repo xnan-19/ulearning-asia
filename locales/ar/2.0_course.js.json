@@ -1,6 +1,6 @@
 {
   "backToCourseList": {
-    "message": "العودة الى قائمة المقررات الدراسية",
+    "message": "العودة الى قائمة المواد الدراسية",
     "description": "2.0 course.js"
   },
   "backToManageCenter": {
@@ -20,7 +20,7 @@
     "description": "2.0 course.js"
   },
   "courseAnnouncement": {
-    "message": "إعلانات المقرر",
+    "message": "اعلانات المادة",
     "description": "2.0 course.js"
   },
   "courseAnalysis": {
@@ -44,7 +44,7 @@
     "description": "2.0 course.js"
   },
   "courseDiscusstion": {
-    "message": "مناقشات الدورة الدراسية",
+    "message": "مناقشات المادة الدراسية",
     "description": "2.0 course.js"
   },
   "announcement": {
@@ -76,7 +76,7 @@
     "description": "2.0 course.js"
   },
   "classroom": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "live": {
@@ -768,7 +768,7 @@
     "description": "2.0 course.js"
   },
   "announcementHeadTip": {
-    "message": "يمكن نشر إعلانات المقرر الدراسي هنا. يمكن نشر إعلانات المقرر الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي المقرر الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون ومساعدو التدريس يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
+    "message": "يمكن نشر إعلانات الصف الدراسي هنا. يمكن نشر إعلانات الصف الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي الصف الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون و مساعديهم يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
     "description": "2.0 course.js"
   },
   "totalOf": {
@@ -1012,7 +1012,7 @@
     "description": "2.0 course.js"
   },
   "weight": {
-    "message": "ترجيح",
+    "message": "النسبه",
     "description": "2.0 course.js"
   },
   "theItemScore": {
@@ -1064,7 +1064,7 @@
     "description": "2.0 course.js"
   },
   "noStart": {
-    "message": "لم يبدأ",
+    "message": "دروس لم تبدأ",
     "description": "2.0 course.js"
   },
   "other": {
@@ -2240,11 +2240,11 @@
     "description": "2.0 course.js"
   },
   "createClass": {
-    "message": "إنشاء فصل دراسي",
+    "message": "إنشاء الصف دراسي",
     "description": "2.0 course.js"
   },
   "className": {
-    "message": "اسم الفصل",
+    "message": "اسم الصف الدراسي",
     "description": "2.0 course.js"
   },
   "classCode": {
@@ -2476,7 +2476,7 @@
     "description": "2.0 course.js"
   },
   "assistantTeacher": {
-    "message": "معيد",
+    "message": "مساعد استاذ",
     "description": "2.0 course.js"
   },
   "courseManage": {
@@ -2824,7 +2824,7 @@
     "description": "2.0 course.js"
   },
   "studentNOColon": {
-    "message": "كود الطالب",
+    "message": "كود الطالب:",
     "description": "2.0 course.js"
   },
   "noStudentInClass": {
@@ -3728,7 +3728,7 @@
     "description": "2.0 course.js"
   },
   "textbookHeadTips": {
-    "message": "يمكن لمشرف المقرر الدراسي استيراد البرامج الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، يحتاج الطلاب إلى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
+    "message": "يمكن لمشرف المقرر الدراسي استيراد المواد الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، لا يحتاج الى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
     "description": "2.0 course.js"
   },
   "textbookTips1": {
@@ -3924,7 +3924,7 @@
     "description": "2.0 course.js"
   },
   "canStudyTime": {
-    "message": "توافر",
+    "message": "الحالة",
     "description": "2.0 course.js"
   },
   "start2": {
@@ -4024,7 +4024,7 @@
     "description": "2.0 course.js"
   },
   "customExport": {
-    "message": "تعريف ذاتي",
+    "message": "تصدير مخصص",
     "description": "2.0 course.js"
   },
   "sectionName": {
@@ -4668,7 +4668,7 @@
     "description": "2.0 course.js"
   },
   "myScore": {
-    "message": "نقاطي",
+    "message": "درجاتي",
     "description": "2.0 course.js"
   },
   "newStrategyTips26": {
@@ -5372,7 +5372,7 @@
     "description": "2.0 course.js"
   },
   "weights": {
-    "message": "{percent}%, {count} نقطة",
+    "message": "{percent}%, {count} نسبه",
     "description": "2.0 course.js"
   },
   "importBBCourse": {
@@ -5604,7 +5604,7 @@
     "description": "2.0 course.js"
   },
   "inClassroom": {
-    "message": "في المحاضرة",
+    "message": "دروس جارية الان",
     "description": "2.0 course.js"
   },
   "classroomReport": {
@@ -5648,7 +5648,7 @@
     "description": "2.0 course.js"
   },
   "allClassroom": {
-    "message": "جميع الدورات",
+    "message": "كل الدروس",
     "description": "2.0 course.js"
   },
   "deleteClassroom": {
@@ -5840,7 +5840,7 @@
     "description": "2.0 course.js"
   },
   "joinExistClassApply": {
-    "message": "طلب الالتحاق بالفصل الدراسي / الانسحاب من الفصل الدراسي",
+    "message": "طلب الالتحاق بالصف الدراسي / الانسحاب من الصف الدراسي",
     "description": "2.0 course.js"
   },
   "applyType": {
@@ -6184,7 +6184,7 @@
     "description": "2.0 course.js"
   },
   "seatsPrefix": {
-    "message": "# من المقاعد",
+    "message": " من المقاعد:",
     "description": "2.0 course.js"
   },
   "seats": {
@@ -6816,7 +6816,7 @@
     "description": "2.0 course.js"
   },
   "numClass": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "announcementValidate5": {
@@ -7723,8 +7723,28 @@
     "message": "المحاكاة الافتراضية",
     "description": "2.0 course.js"
   },
+  "noVirtualTips": {
+    "message": "لا توجد تجارب حالياً",
+    "description": "2.0 course.js"
+  },
+  "virtualTips": {
+    "message": "الدرجة ≥ 85: ممتاز\n60 ≤ الدرجة < 85: مجتاز\nالدرجة < 60: غير مجتاز",
+    "description": "2.0 course.js"
+  },
+  "startExperiment": {
+    "message": "بدء المختبر",
+    "description": "2.0 course.js"
+  },
+  "experimentStepDetail": {
+    "message": "شرح خطوات التجربة",
+    "description": "2.0 course.js"
+  },
   "averageGrade": {
     "message": "متوسط النتيجة",
+    "description": "2.0 course.js"
+  },
+  "experimentJoinedNum": {
+    "message": "إجمالي مرات التجربة",
     "description": "2.0 course.js"
   },
   "completedNum": {
@@ -7739,8 +7759,32 @@
     "message": "مطابق للمعايير",
     "description": "2.0 course.js"
   },
+  "notPassed": {
+    "message": "راسب",
+    "description": "2.0 course.js"
+  },
+  "experimentNum": {
+    "message": "عدد مرات إجراء التجربة",
+    "description": "2.0 course.js"
+  },
+  "experimentTotalUsedTime": {
+    "message": "إجمالي زمن إجراء التجربة",
+    "description": "2.0 course.js"
+  },
+  "experimentMaxGrade": {
+    "message": "أعلى درجة في التجربة",
+    "description": "2.0 course.js"
+  },
   "uncompleted": {
     "message": "غير مكتمل",
+    "description": "2.0 course.js"
+  },
+  "virtualTips1": {
+    "message": "هنا يتم نشر التجارب الافتراضية للطلاب للتعلم. تُقدّم التجارب الافتراضية من قِبل معلم المادة الدراسية، حيث يتم استيراد التجربة من مكتبة التجارب الافتراضية الخاصة بالمدرسة. جميع الفصول الدراسية لنفس المادة يستخدمون نفس التجربة",
+    "description": "2.0 course.js"
+  },
+  "virtualTips2": {
+    "message": "جميع التجارب الافتراضية المنشورة من المعلم موجودة هنا. اطلع على تفاصيل كل تجربة قبل البدء.",
     "description": "2.0 course.js"
   },
   "uploadFail5": {
@@ -7759,12 +7803,60 @@
     "message": "تحليلات التعلم",
     "description": "2.0 course.js"
   },
+  "whoseLearningData": {
+    "message": "ملف الطالب {studentName}",
+    "description": "2.0 course.js"
+  },
+  "homeworkGlobalData": {
+    "message": "عدد الواجبات المنجزة / إجمالي الواجبات: {homeworkNum}/{homeworkTotal}",
+    "description": "2.0 course.js"
+  },
+  "examGlobalData": {
+    "message": "عدد الامتحانات المنجزة / إجمالي الامتحانات : {examNum}/{examTotal}",
+    "description": "2.0 course.js"
+  },
+  "learningStatus": {
+    "message": "الحالة الحالية",
+    "description": "2.0 course.js"
+  },
+  "learningScore": {
+    "message": "النتيجة: {score}",
+    "description": "2.0 course.js"
+  },
   "stuData_stuId": {
-    "message": "كود الطالب",
+    "message": "كود الطالب:",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuSex": {
+    "message": "النوع",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuCreatedTime": {
+    "message": "تاريخ الانضمام",
     "description": "2.0 course.js"
   },
   "stuData_stuEmail": {
     "message": "صندوق بريد:",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuPhone": {
+    "message": "هاتف الطالب",
+    "description": "2.0 course.js"
+  },
+  "stuData_courseProgress": {
+    "message": "يقوم بدراسة {num} مواد دراسية",
+    "description": "2.0 course.js"
+  },
+  "stuData_homeworkProgress": {
+    "message": "تم تسليم {num} واجب/واجبات",
+    "description": "2.0 course.js"
+  },
+  "stuData_examProgress": {
+    "message": "أدى {num} امتحان/امتحانات",
+    "description": "2.0 course.js"
+  },
+  "stuData_disscussionProgress": {
+    "message": "عدد المواضيع المنشورة: {topocNum}، وعدد الردود: {replyNumber}",
     "description": "2.0 course.js"
   },
   "examHistory": {
@@ -8019,12 +8111,60 @@
     "message": " إعدادت متقدمة ",
     "description": "2.0 course.js"
   },
+  "AITeaAssistant": {
+    "message": "المساعد الذكي",
+    "description": "2.0 course.js"
+  },
   "masteryStatistics": {
     "message": "إحصائيات الإتقان",
     "description": "2.0 course.js"
   },
+  "importVirtual": {
+    "message": "استيراد التجربة",
+    "description": "2.0 course.js"
+  },
+  "virtualKeywordSearch": {
+    "message": "أدخل اسم التجربة للبحث",
+    "description": "2.0 course.js"
+  },
+  "delVirtual": {
+    "message": "حذف التجربة",
+    "description": "2.0 course.js"
+  },
+  "graphOverview": {
+    "message": "استعراض المخطط",
+    "description": "2.0 course.js"
+  },
   "knowledgePoints": {
     "message": "درجات المعرفة",
+    "description": "2.0 course.js"
+  },
+  "emphasis": {
+    "message": "النقاط الرئيسية",
+    "description": "2.0 course.js"
+  },
+  "difficulty": {
+    "message": "النقاط الصعبة",
+    "description": "2.0 course.js"
+  },
+  "testPoints": {
+    "message": "درجات الامتحان",
+    "description": "2.0 course.js"
+  },
+  "ideologicalPoints": {
+    "message": "النقاط الأخلاقية",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryUpdateTips1": {
+    "message": "مستوى الإتقان يتم تحديثه تلقائيًا يوميًا عند منتصف الليل، آخر تحديث:",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc": {
+    "message": "يعكس مستوى الإتقان الأداء الشامل للطالب في الاختبارات، التمارين، الواجبات، ودرجات الامتحانات.",
+    "description": "2.0 course.js"
+  },
+  "pleaseChooseGraph": {
+    "message": "الرجاء تحديد المخطط",
     "description": "2.0 course.js"
   },
   "courseTime": {
@@ -8035,8 +8175,716 @@
     "message": "يرجى اختيار التاريخ",
     "description": "2.0 course.js"
   },
+  "stuLiveTips": {
+    "message": "ملاحظة: مدة المشاهدة تشمل وقت مشاهدة البث المباشر وإعادة المشاهدة، ويتم تحديث البيانات مرة واحدة يوميًا عند منتصف الليل.",
+    "description": "2.0 course.js"
+  },
+  "classContent": {
+    "message": "معلومات المادة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "myCourse": {
+    "message": "المادة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "classroomTeaching": {
+    "message": "الحصة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "gradeManagement": {
+    "message": "إدارة الدرجات",
+    "description": "2.0 course.js"
+  },
+  "classroomStuding": {
+    "message": "التعلم داخل الصف",
+    "description": "2.0 course.js"
+  },
+  "allStudentLeve": {
+    "message": "جميع المراحل التعليمية",
+    "description": "2.0 course.js"
+  },
+  "addFile": {
+    "message": "إضافة ملف",
+    "description": "2.0 course.js"
+  },
+  "addVideo": {
+    "message": "إضافة فيديو",
+    "description": "2.0 course.js"
+  },
   "identityVerificationCode": {
     "message": "اسم المستخدم",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_zuel": {
+    "message": "يمكن لمعم المادة الدراسية تعديل محتوى فصول المادة مباشرة. بعد الانتهاء من التعديل، يمكنه اختيار التحديث، وسيتمكّن الطلاب من مشاهدة محتوى الفصول بشكل طبيعي. تستخدم جميع الفصول الدراسية لنفس المادة نفس محتوى الفصول، لكن يمكن إعداد خطط تعلم مختلفة لكل فصل.",
+    "description": "2.0 course.js"
+  },
+  "editCourseInfo": {
+    "message": "تعديل معلومات المادة",
+    "description": "2.0 course.js"
+  },
+  "uploaderScormResource": {
+    "message": "رفع ملف SCORM",
+    "description": "2.0 course.js"
+  },
+  "GeneratingPDF": {
+    "message": "يتم الآن إنشاء PDF",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis2": {
+    "message": "تحليل محتوى مادة [{name}]",
+    "description": "2.0 course.js"
+  },
+  "meetingName": {
+    "message": "اسم الاجتماع",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTitleLabel": {
+    "message": "العنوان",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTitleplaceholder": {
+    "message": "انقر هنا لإدخال العنوان",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDescLabel": {
+    "message": "الوصف",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDescPlaceholder": {
+    "message": "يرجى تقديم مقدمة موجزة عن المتحدث أو المحتوى، لا تتجاوز 500 حرف.",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDurationLabel": {
+    "message": "المدة",
+    "description": "2.0 course.js"
+  },
+  "resourceTypeDistribution": {
+    "message": "توزيع الموارد حسب النوع",
+    "description": "2.0 course.js"
+  },
+  "questionTypeDistribution": {
+    "message": "توزيع الأسئلة حسب النوع",
+    "description": "2.0 course.js"
+  },
+  "profileDataUpdateTips": {
+    "message": "تحديث بيانات ملفي يتم يوميًا عند منتصف الليل.",
+    "description": "2.0 course.js"
+  },
+  "teaProfileExportName": {
+    "message": "ملف التعليم الخاص بـ {name}",
+    "description": "2.0 course.js"
+  },
+  "stuProfileExportName": {
+    "message": "الملف التعليمي لـ {name}",
+    "description": "2.0 course.js"
+  },
+  "employeeIdColon": {
+    "message": "الرقم الوظيفي:",
+    "description": "2.0 course.js"
+  },
+  "courseVisitOverview": {
+    "message": "إحصاءات زيارات المادة",
+    "description": "2.0 course.js"
+  },
+  "visitOverview": {
+    "message": "نظرة عامة على الزيارات",
+    "description": "2.0 course.js"
+  },
+  "collegeColon": {
+    "message": "المرحلة الدراسية:",
+    "description": "2.0 course.js"
+  },
+  "courseNum": {
+    "message": "عدد المواد الدراسية",
+    "description": "2.0 course.js"
+  },
+  "classNum": {
+    "message": "عدد الفصول الدراسية",
+    "description": "2.0 course.js"
+  },
+  "studentNum": {
+    "message": "عدد الطلاب",
+    "description": "2.0 course.js"
+  },
+  "resourceDevelopmentOverview": {
+    "message": "إحصاءات تطوير الموارد",
+    "description": "2.0 course.js"
+  },
+  "resourceUplaodNum": {
+    "message": "عدد الموارد الدراسية المرفوعة",
+    "description": "2.0 course.js"
+  },
+  "resourceSize": {
+    "message": "الحجم",
+    "description": "2.0 course.js"
+  },
+  "createdTextbookNum": {
+    "message": "عدد المناهج الدراسية المنشأة",
+    "description": "2.0 course.js"
+  },
+  "createdQuestionNum": {
+    "message": "عدد الأسئلة المنشأة",
+    "description": "2.0 course.js"
+  },
+  "createdPaperNum": {
+    "message": "عدد أوراق الامتحان المنشأة",
+    "description": "2.0 course.js"
+  },
+  "textbookStudy": {
+    "message": "تقرير تعلم الوسائط التعليمية",
+    "description": "2.0 course.js"
+  },
+  "teachingOverview": {
+    "message": "استعراض العملية التعليمية",
+    "description": "2.0 course.js"
+  },
+  "attendance2": {
+    "message": "الحضور",
+    "description": "2.0 course.js"
+  },
+  "attendanceRateTips": {
+    "message": "في جميع أنشطة تسجيل الحضور المنشورة، نسبة حضور الطلاب هي <span>{rate}</span>.",
+    "description": "2.0 course.js"
+  },
+  "studyOverview": {
+    "message": "إحصاءات حالة التعلم",
+    "description": "2.0 course.js"
+  },
+  "readPeopleNum": {
+    "message": "عدد الطلاب الذين شاهدوا المحتوى",
+    "description": "2.0 course.js"
+  },
+  "downloadNum": {
+    "message": "المشاهدات/التنزيلات",
+    "description": "2.0 course.js"
+  },
+  "discussionPublishNum": {
+    "message": "إجمالي المناقشات المنشورة",
+    "description": "2.0 course.js"
+  },
+  "teacherReplyNum": {
+    "message": "إجمالي ردود المعلم",
+    "description": "2.0 course.js"
+  },
+  "studentReplyNum": {
+    "message": "إجمالي ردود الطلاب",
+    "description": "2.0 course.js"
+  },
+  "numOfCorrections": {
+    "message": "إجمالي التصحيحات",
+    "description": "2.0 course.js"
+  },
+  "publishExam": {
+    "message": "نشر الامتحانات",
+    "description": "2.0 course.js"
+  },
+  "numOfReviews": {
+    "message": "عدد الواجبات التي تم تقييمها",
+    "description": "2.0 course.js"
+  },
+  "numOfUsedQuestions": {
+    "message": "عدد الأسئلة المستخدمة",
+    "description": "2.0 course.js"
+  },
+  "numOfUsedPapers": {
+    "message": "إجمالي أوراق الامتحان المستخدمة",
+    "description": "2.0 course.js"
+  },
+  "averagePassRate2": {
+    "message": "متوسط نسبة النجاح",
+    "description": "2.0 course.js"
+  },
+  "publishAttendance": {
+    "message": "نشر تسجيل الحضور",
+    "description": "2.0 course.js"
+  },
+  "attendance3": {
+    "message": "الحضور",
+    "description": "2.0 course.js"
+  },
+  "studyTextbookNumber": {
+    "message": "إجمالي المناهج الدراسية التي تم دراستها",
+    "description": "2.0 course.js"
+  },
+  "averageStudyProgress": {
+    "message": "متوسط تقدم الطلاب في التعلم",
+    "description": "2.0 course.js"
+  },
+  "readAnnouncementNumber": {
+    "message": "إجمالي الإعلانات التي تم الاطلاع عليها",
+    "description": "2.0 course.js"
+  },
+  "viewResourceNumber": {
+    "message": "عدد الموارد التي تم الاطلاع عليها",
+    "description": "2.0 course.js"
+  },
+  "homeworkSubmitNum": {
+    "message": "عدد الواجبات التي قدّمها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "submitExamNumber": {
+    "message": "إجمالي الامتحانات التي تم تقديمها",
+    "description": "2.0 course.js"
+  },
+  "replyPostNumber": {
+    "message": "إجمالي الردود التي كتبها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "getScoreNum": {
+    "message": "النقاط التي حصل عليها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "joinVote": {
+    "message": "شارك الطالب في التصويت",
+    "description": "2.0 course.js"
+  },
+  "joinResponder": {
+    "message": "شارك الطالب في الاستجابة السريعة",
+    "description": "2.0 course.js"
+  },
+  "joinPickPeople": {
+    "message": "شارك الطالب في الاختيار",
+    "description": "2.0 course.js"
+  },
+  "joinPhotoAndUploader": {
+    "message": "قام الطالب برفع الصور",
+    "description": "2.0 course.js"
+  },
+  "joinScore": {
+    "message": "شارك الطالب في عملية التقييم",
+    "description": "2.0 course.js"
+  },
+  "roomSelectPlaceholder": {
+    "message": "اختر غرفة الاجتماع",
+    "description": "2.0 course.js"
+  },
+  "publishPhotoAndUploader": {
+    "message": "نشر التقاط والرفع",
+    "description": "2.0 course.js"
+  },
+  "publishVote": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 course.js"
+  },
+  "publishResponder": {
+    "message": "إلدأ التنافس على الإجابة",
+    "description": "2.0 course.js"
+  },
+  "publishPickPeople": {
+    "message": "اختيارات عشوائية",
+    "description": "2.0 course.js"
+  },
+  "publishScore": {
+    "message": "مراجعات الأقران",
+    "description": "2.0 course.js"
+  },
+  "joinDiscussionNum": {
+    "message": "عدد مشاركين المناقشة",
+    "description": "2.0 course.js"
+  },
+  "GeneratingExcel": {
+    "message": "جارٍ إنشاء Excel...",
+    "description": "2.0 course.js"
+  },
+  "exportFormate": {
+    "message": "تنسيق التصدير",
+    "description": "2.0 course.js"
+  },
+  "exportExcel": {
+    "message": "تنسيق Excel",
+    "description": "2.0 course.js"
+  },
+  "exportPdf": {
+    "message": "صيغة PDF",
+    "description": "2.0 course.js"
+  },
+  "timeduration": {
+    "message": "الفترة الزمنية",
+    "description": "2.0 course.js"
+  },
+  "exportAnnouncementPrivew": {
+    "message": "تصدير الإعلان مسبقًا",
+    "description": "2.0 course.js"
+  },
+  "timeRequired": {
+    "message": "يرجى تحديد وقتي البدء والانتهاء.",
+    "description": "2.0 course.js"
+  },
+  "courseware_in": {
+    "message": "المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips2_in": {
+    "message": "دعم العديد من عناصر الدرجات مثل المناهج الدراسية والمهام والامتحانات وحتى عناصر الدرجات التي أنشأها المعلمون ، إلخ.",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTitle4_in": {
+    "message": "تعيين أدوات المقررات الدراسية (محتوى الدورة الدراسية) للدورة الدراسية.",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips4_in": {
+    "message": "يمكن للطلاب استهلاك البرامج الدراسية فقط بعد تعيين البرامج الدراسية إلى الدورة الدراسية. يمكن لمشرف الدورة التدريبية فقط تعيين المنهج دراسي للدورة الدراسية. المعلمون ومساعدو التدريس ليس لديهم الإذن للقيام بذلك.",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips3_in": {
+    "message": "ملاحظات: يتضمن الفيديو (الفيديوهات) المدرجة في المناهج الدراسية من قبل ULearning فقط",
+    "description": "2.0 course.js"
+  },
+  "coursewareStudyState_in": {
+    "message": "تحليل تعلم المنهج دراسي",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips6_in": {
+    "message": "لم يتم تعيين أي مناهج دراسية لهذه الدورة دراسية",
+    "description": "2.0 course.js"
+  },
+  "assessmentHeadTip_in": {
+    "message": "من خلال وضع قواعد التصنيف، يمكن الجمع بين التقييمات التكوينية والتقييمات التجميعية لتقييم أداء المقرر الدراسي للطلاب. بعد تعيين قواعد التقدير، سيقوم الموقع تلقائيًا بحساب التقدير النهائي لكل طالب.",
+    "description": "2.0 course.js"
+  },
+  "createStrTips9_in": {
+    "message": "يتم حساب نقاط المنهج دراسي بشكل منفصل للكمبيوتر الشخصي والتطبيق المحمول. يتم احتساب الدرجات الأعلى نحو الدرجةالنهائية للدورة. أيضا يتم احتساب نقاط للمحتوى الكمبيوتر فقط (المحتوى غير متوفر لتطبيق الجوال) نحو الصف النهائي.",
+    "description": "2.0 course.js"
+  },
+  "createStrTips10_in": {
+    "message": "يختلف محتوى هذا البرنامج الدراسي بين إصدار الكمبيوتر وإصدار الهاتف المحمول. إذا كان الطلاب قد درسوا على كل من الكمبيوتر والهاتف المحمول، سيتم حساب وقت التعلم على أساس مجموع كل منهما.",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction11_in": {
+    "message": "أدوات المقررات الدراسية (تعيين)",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction12_in": {
+    "message": "المقررات الدراسية (وضع خطة التعلم)",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction13_in": {
+    "message": "المقرر الدراسي (إعادة العمل)",
+    "description": "2.0 course.js"
+  },
+  "semesterTips4_in": {
+    "message": "الدورات المتاحة هي دوراتك التدريبية النشطة باستخدام هذا البرنامج (برنامج التدريب). إذا لم يكن هناك أحد متاح للطلاب الخارجيين للتسجيل ، فيجب عليك إنشاء واحد أولاً ، وإضافة MOOC إلى الدورة التدريبية ، ثم تأتي إلى هنا لإضافة عرض لها.",
+    "description": "2.0 course.js"
+  },
+  "coursewareVideo_in": {
+    "message": "فيديوهات المناهج الدراسية",
+    "description": "2.0 course.js"
+  },
+  "semesterRichText_in": {
+    "message": "محتويات البرامج التدريبية الغنية: {n} ",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_in": {
+    "message": "يمكن لمشرف المقرر الدراسي استيراد المواد الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، لا يحتاج الى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips1_in": {
+    "message": "الاستيراد من بنك المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "newCourseware_in": {
+    "message": "إنشاء المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "noCourseware_in": {
+    "message": "لم يتم العثور على منهج دراسي",
+    "description": "2.0 course.js"
+  },
+  "noCourseware2_in": {
+    "message": "لا يوجد منهج دراسي حاليًا ، يرجى اختيار طريقة أخرى لاستيراد أو تحرير المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "editMyCourseware_in": {
+    "message": "تحرير/ إنشاء منهج دراسي",
+    "description": "2.0 course.js"
+  },
+  "importFromMyCourseware_in": {
+    "message": "استيراد المنهج الدراسي الخاصة بي",
+    "description": "2.0 course.js"
+  },
+  "importFromCoursewareLib_in": {
+    "message": "استيراد المنهج الدراسي للمكتبة",
+    "description": "2.0 course.js"
+  },
+  "currentCourseware_in": {
+    "message": "المنهج الدراسي الحالي:",
+    "description": "2.0 course.js"
+  },
+  "deleteTbConfirm_in": {
+    "message": "إذا كانت قواعد تقدير الدورة الدراسية تتضمن أدوات المنهج الدراسي كعنصر تقدير، فإن حذف أدوات المقرر الدراسي سيؤثر على التقدير النهائي للطلاب. هل تريد بالتأكيد حذفه؟",
+    "description": "2.0 course.js"
+  },
+  "coursewareNum_in": {
+    "message": "# من المنهج الدراسي: ",
+    "description": "2.0 course.js"
+  },
+  "setCourseware_in": {
+    "message": "تعيين المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "textbookTips4_in": {
+    "message": "هذه الدورة لا تحتوي على أي منهج دراسي. يمكنك استيراد واحد أو أكثر من المنهج الدراسي الخاص بي أو مكتبة المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "textbookTips5_in": {
+    "message": "لم يقم مشرف الدورة التدريبية بإعداد برامج التدريب بعد",
+    "description": "2.0 course.js"
+  },
+  "coursewareContent_in": {
+    "message": "محتوى المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "editCoursewareContent_in": {
+    "message": "تحرير المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "deleteCourseware_in": {
+    "message": "حذف المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "textbookTips6_in": {
+    "message": "لم يتم نشر المنهج الدراسي بعد",
+    "description": "2.0 course.js"
+  },
+  "coursewareNotActivated_in": {
+    "message": "لم يتم تنشيط المنهج الدراسي حتى الآن",
+    "description": "2.0 course.js"
+  },
+  "textbookTips7_in": {
+    "message": "تفعيل المناهج الدراسية قبل البدء في التعلم!",
+    "description": "2.0 course.js"
+  },
+  "activeCourseware_in": {
+    "message": "تنشيط الكتاب الإلكتروني",
+    "description": "2.0 course.js"
+  },
+  "textbookTips8_in": {
+    "message": "قم بخدش  الطلاء على الغطاء الخلفي من الكتاب المدرسي الورقي للكشف عن رمز التنشيط. أدخل الرمز في المربع أعلاه. رمز التنشيط غير حساس لحالة الأحرف.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips9_in": {
+    "message": "يجب تفعيل الكتاب الإلكتروني تحت حسابك الخاص. الرجاء عدم استخدام الرمز لحساب شخص آخر.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips10_in": {
+    "message": "لا منهج دراسي؟ الانتقال إلى ",
+    "description": "2.0 course.js"
+  },
+  "textbookTips11_in": {
+    "message": "لا تتم نسخ و مطابقة نتائج التعلم من هذه المناهج الدراسية بين تطبيقات الكمبيوتر وتطبيقات المحمول. يمكنك تبديل الجهاز للتحقق من تقدم التعلم الخاص بك من كلا الجانبين (ينصح بإجراء التعلم الخاص بك على جهاز واحد حتى يتسنى لمدرسك الصف الخاص بك التعلم المناهج الدراسية بسهولة.)",
+    "description": "2.0 course.js"
+  },
+  "inputCoursewareName_in": {
+    "message": "انقر لإدخال اسم المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "textbookTips13_in": {
+    "message": "اسم المنهج الدراسي موجود بالفعل. أدخل اسماً مختلفاً.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips14_in": {
+    "message": "هل تريد بالتأكيد حذف هذا المنهج الدراسي؟",
+    "description": "2.0 course.js"
+  },
+  "textbookTips15_in": {
+    "message": "يمكن إضافة ما يصل إلى 10 مناهج دراسية",
+    "description": "2.0 course.js"
+  },
+  "textbookTips16_in": {
+    "message": "إذا كانت قواعد تقدير المقرر الدراسي تتضمن تعلم المقررات الدراسية كعنصر تقدير، فإن تحرير المقرر الدراسي سيؤثر على التقدير النهائي للطلاب. هل تريد بالتأكيد تحريره؟",
+    "description": "2.0 course.js"
+  },
+  "modifyCourseware_in": {
+    "message": "تحرير المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "coursewareScore_in": {
+    "message": "درجات المنهج الدراسي : ",
+    "description": "2.0 course.js"
+  },
+  "textbookTips30_in": {
+    "message": "إذا كان محتوى برامج المنهج الدراسي لنفس الدورة الدراسية مختلفًا بين إصداري الكمبيوتر الشخصي و تطبيقات الجوّال، يمكنك تحديد أي من قواعد التقدير الخاصة بـ المنهج الدراسي.",
+    "description": "2.0 course.js"
+  },
+  "coursewareAverageScore_in": {
+    "message": "متوسط درجات المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "coursewareAccumulatedStudyTime_in": {
+    "message": "زمن الدراسة التراكمي",
+    "description": "2.0 course.js"
+  },
+  "myCourseware_in": {
+    "message": "المناهج التعليمية الخاصة بي",
+    "description": "2.0 course.js"
+  },
+  "textbookStrategyScope_in": {
+    "message": "نطاق المحتوى",
+    "description": "2.0 course.js"
+  },
+  "noTextbooks_in": {
+    "message": "لا يوجد منهج دراسي",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType1_in": {
+    "message": "نتيجة دراسة المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType2_in": {
+    "message": "وقت تعلم المنهج.",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType3_in": {
+    "message": "عملية تقدم تعلم المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips26_in": {
+    "message": "من خلال وضع فواعد التقدير للمنهج الدراسي، يمكنك تخديد الأوزان لعناصر تقدير مختلفة. حيث يقوم النظام تلقائيا بحساب درجة التقدير النهائية في المقرر لكل طالب .",
+    "description": "2.0 course.js"
+  },
+  "canUseTip_in": {
+    "message": "متوفر بعد نشره",
+    "description": "2.0 course.js"
+  },
+  "courseTextbooksSupportTips_in": {
+    "message": "يدعم هذا المنهج الدراسي التحليل الإحصائي للدراسة المنهج الدراسي و وقت دراسة المنهج الدراسي فقط ، ولكن ليس التقدم في تعلم الدورة.",
+    "description": "2.0 course.js"
+  },
+  "noSupportSaveActiveTips_in": {
+    "message": "إذا لم تدعم المناهج الدراسية البيانات الإحصائية لتقدم تعلم البرامج الدراسية، فقم بحذف تقدم تعلم البرامج الدراسية من الدرجات أو المنهج الدراسي من الدورة التدريبية.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse_in": {
+    "message": "يتم توفير موارد المناهج الدراسية والبيانات من قبل دورة الحب.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse1_in": {
+    "message": "وتقدم هذه البرامج الدراسية من قبل iCourse.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse2_in": {
+    "message": "يتم توفير موارد البرامج والبيانات من قبل iCourse. يمكن العثور على بيانات اليوم بعد الساعة 12 ظهرًا في اليوم التالي.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse3_in": {
+    "message": "يتم توفير مصادر البرامج والبيانات من قبل iCourse. يمكن العثور على بيانات اليوم بعد الساعة 12 ظهرًا في اليوم التالي.",
+    "description": "2.0 course.js"
+  },
+  "coursewarePreview_in": {
+    "message": "معاينة",
+    "description": "2.0 course.js"
+  },
+  "iCourseAssessmentTips_in": {
+    "message": "يتم توفير المنهج الدراسي من قبل iCourse. لا يدعم تعلم المنهج الدراسي كعنصر تقدير.",
+    "description": "2.0 course.js"
+  },
+  "coursewareStat_in": {
+    "message": "إحصاءات المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "activateMismatch_in": {
+    "message": "رمز التفعيل لا يطابق الكتاب الإلكتروني (المنهج الدراسي)!",
+    "description": "2.0 course.js"
+  },
+  "textbookNullTips_in": {
+    "message": "\"لا توجد مناهج دراسية حاليا\"",
+    "description": "2.0 course.js"
+  },
+  "iCourseTip_in": {
+    "message": "ملاحظة: باستخدام البرامج الدراسية التي تحب الدورة التدريبية، فإنه لا يدعم إعداد خطة التعلم، ويمكن لدرجة التقدم فقط عرض البيانات الإجمالية للبرامج الدراسية، ولا يمكن عرض بيانات الفصول الفرعية، ولا يمكن تضمين درجة البرامج الدراسية في التقييم.",
+    "description": "2.0 course.js"
+  },
+  "textbookName2_in": {
+    "message": "اسم البرنامج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint1_in": {
+    "message": "1. يحتوي الفيديو فقط على مشاركة الشاشة والوسائط المتعددة ولقطات الكاميرا. تتضمن مقاطع الفيديو والبرامج الدراسية السبورات البيضاء والبرامج الدراسية والمستندات ومشاركة الشاشة والوسائط المتعددة ولقطات الكاميرا.",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint2_in": {
+    "message": "2. قد يفشل إنشاء الفيديو والبرامج الدراسية بسبب ضعف شبكة البث المباشر وعدم اكتمال البيانات ، إذا استمر فشل التجديد ، فلا يمكن إنشاؤه ، فمن المستحسن استخدام تنزيل الفيديو فقط.",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint3_in": {
+    "message": "3. وقت إنشاء الفيديو والبرامج الدراسية يساوي تقريبا مدة البث المباشر ، ووقت البث المباشر أطول من 6 ساعات.",
+    "description": "2.0 course.js"
+  },
+  "liveCoursewareState_in": {
+    "message": "حالة البرامج الدراسية للفيديو",
+    "description": "2.0 course.js"
+  },
+  "liveCourseware_in": {
+    "message": "مقاطع الفيديو والبرامج الدراسية",
+    "description": "2.0 course.js"
+  },
+  "unitCourseware_in": {
+    "message": "استيراد وحدات توليد المناهج التعليمية",
+    "description": "2.0 course.js"
+  },
+  "unitImportCourseware_in": {
+    "message": "استيراد المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "obeRulesTips_in": {
+    "message": "بعد تحديد أهداف المقرر الدراسي ونسبة تقييم الدرجات، يمكنك ربط البرامج الدراسية والأنشطة التعليمية المختلفة بأهداف المقرر الدراسي هنا. لن يتم تضمين البيانات غير المرتبطة بأهداف الدورة التدريبية وروابط التقييم في إحصاءات الإنجاز.",
+    "description": "2.0 course.js"
+  },
+  "obeTextbookTips1_in": {
+    "message": "يتم تعيين البرامج الدراسية بشكل موحد من قبل مسؤول المقرر الدراسي لقواعد التقييم. (دعم البرامج الدراسية التي تم إصدارها بواسطة أداة منشئ المقرر الدراسي فقط)",
+    "description": "2.0 course.js"
+  },
+  "importTextbookTips_in": {
+    "message": "ملاحظة: يمكن فقط استيراد البرامج التعليمية المنشورة باستخدام أداة إنشاء الدورات التدريبية من YouAcademy",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips2_in": {
+    "message": "انتهت صلاحية البرامج التعليمية / الكتاب المدرسي ويمكن إعادة تنشيطه لمواصلة التعلم.",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips3_in": {
+    "message": "هذه البرامج التعليمية مشتقة من الكتاب المدرسي / الدورة التدريبية المدفوعة \"{name}\" ولا يمكن تعلمها إلا بعد التنشيط.",
+    "description": "2.0 course.js"
+  },
+  "subjectBank_in": {
+    "message": "موارد مكتبة البرامج التعليمية",
+    "description": "2.0 course.js"
+  },
+  "knowledgeGraphTips1_in": {
+    "message": "تم إصدار البرامج التعليمية الحالية مع رسم بياني معرفي.",
+    "description": "2.0 course.js"
+  },
+  "insertHadCourse_in": {
+    "message": "إدراج البرامج التعليمية الموجودة",
+    "description": "2.0 course.js"
+  },
+  "insertNewCourse_in": {
+    "message": "إنشاء المنهج الدراسي",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourseOfAppended_in": {
+    "message": "يرجى تحديد البرامج التعليمية التي تريد إضافة فصول إليها",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourse_in": {
+    "message": "يرجى تحديد البرامج التعليمية",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc_in": {
+    "message": "يعكس مستوى الإتقان الأداء الشامل للطالب في الاختبارات، التمارين، الواجبات، ودرجات الامتحانات.",
+    "description": "2.0 course.js"
+  },
+  "createdTextbookNum_in": {
+    "message": "عدد المناهج الدراسية المنشأة",
+    "description": "2.0 course.js"
+  },
+  "textbookStudy_in": {
+    "message": "تقرير تعلم الوسائط التعليمية",
+    "description": "2.0 course.js"
+  },
+  "studyTextbookNumber_in": {
+    "message": "إجمالي المناهج الدراسية التي تم دراستها",
     "description": "2.0 course.js"
   }
 }
