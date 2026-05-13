@@ -272,7 +272,7 @@
     "description": "2.0 index.js"
   },
   "confirmDelete": {
-    "message": "確定删除",
+    "message": "確定刪除",
     "description": "2.0 index.js"
   },
   "openCourse": {
@@ -1397,6 +1397,10 @@
   },
   "knowledgeGraph": {
     "message": "知識圖譜",
+    "description": "2.0 index.js"
+  },
+  "joinSmartClassroom": {
+    "message": "加入課堂",
     "description": "2.0 index.js"
   }
 }

@@ -1,3770 +1,3770 @@
 {
   "langCss": {
-    "message": "lang_zh",
+    "message": "lang_en",
     "description": "css标记，中文用lang_zh, 非中文使用lang_en"
   },
   "lang": {
-    "message": "zh",
+    "message": "en",
     "description": "项目的语言标记，使用以下代码，英语en，法语fr，西班牙语es，葡萄牙语pt，俄语ru，阿拉伯语ar，泰语th，印尼语id，简体中文zh，繁体中文tw,阿姆西语am"
   },
   "name": {
-    "message": "简体中文",
+    "message": "English",
     "description": "UClass界面的语言选择，各种语言使用本语的名称表达简体中文 繁體中文 English Français Español Português Русский ไทย Bahasa Indonesia العربية Amharic"
   },
   "Utitle": {
-    "message": "优学院智慧课堂",
+    "message": "ULearning Smart Classroom",
     "description": "smart-classroom 项目"
   },
   "switchLang": {
-    "message": "切换语言",
+    "message": "Select Your Language",
     "description": "smart-classroom 项目"
   },
   "common.netError": {
-    "message": "网络错误",
+    "message": "Network Error!",
     "description": "smart Class"
   },
   "common.cancel": {
-    "message": "取消",
+    "message": "Cancel",
     "description": "smart Class"
   },
   "common.delete": {
-    "message": "删除",
+    "message": "Delete",
     "description": "smart-classroom 项目"
   },
   "common.save": {
-    "message": "保存",
+    "message": "Save",
     "description": "smart-classroom 项目"
   },
   "common.modify": {
-    "message": "修改",
+    "message": "Edit",
     "description": "smart-classroom 项目"
   },
   "common.saveSuccess": {
-    "message": "保存成功",
+    "message": "Saved successfully!",
     "description": "smart-classroom 项目"
   },
   "common.cancelSuccess": {
-    "message": "取消成功",
+    "message": "Canceled successfully!",
     "description": "smart-classroom 项目"
   },
   "common.finish": {
-    "message": "结束",
+    "message": "End",
     "description": "smart-classroom 项目"
   },
   "common.finishSuccess": {
-    "message": "结束成功",
+    "message": "Ended successfully!",
     "description": "smart-classroom 项目"
   },
   "common.deleteSuccess": {
-    "message": "删除成功",
+    "message": "Deleted successfully!",
     "description": "smart-classroom 项目"
   },
   "common.noContent": {
-    "message": "暂无内容",
+    "message": "No content found!",
     "description": "smart-classroom 项目"
   },
   "common.select": {
-    "message": "请选择",
+    "message": "Select",
     "description": "smart-classroom 项目"
   },
   "common.restartSuccess": {
-    "message": "重启成功",
+    "message": "Re-opened successfully!",
     "description": "smart-classroom 项目"
   },
   "common.restartFailed": {
-    "message": "重启失败",
+    "message": "Failed to re-open!",
     "description": "smart-classroom 项目"
   },
   "common.deleteFailed": {
-    "message": "删除失败",
+    "message": "Failed to delete!",
     "description": "smart-classroom 项目"
   },
   "common.finishFail": {
-    "message": "结束失败",
+    "message": "Failed to end!",
     "description": "smart-classroom 项目"
   },
   "common.operateSuccess": {
-    "message": "操作成功",
+    "message": "Operation succeeded!",
     "description": "smart-classroom 项目"
   },
   "common.remind": {
-    "message": "提醒",
+    "message": "Reminder",
     "description": "smart-classroom 项目"
   },
   "common.create": {
-    "message": "创建",
+    "message": "Create",
     "description": "smart-classroom 项目"
   },
   "common.finish2": {
-    "message": "完成",
+    "message": "Finish",
     "description": "smart-classroom 项目"
   },
   "classroom.currentCourse": {
-    "message": "当前课程",
+    "message": "Current Course",
     "description": "smart Class"
   },
   "classroom.switchCourse": {
-    "message": "切换课程",
+    "message": "Switch Course",
     "description": "smart Class"
   },
   "classroom.nums": {
-    "message": "课堂共{count}个",
+    "message": "Sessions: {count} ",
     "description": "smart Class"
   },
   "classroom.createClassroom": {
-    "message": "创建课堂",
+    "message": "Create Session",
     "description": "smart Class"
   },
   "classroom.classes": {
-    "message": "班级：",
+    "message": "Classes: ",
     "description": "smart Class"
   },
   "classroom.copy": {
-    "message": "复制",
+    "message": "Duplicate",
     "description": "smart Class"
   },
   "classroom.delete": {
-    "message": "删除",
+    "message": "Delete",
     "description": "smart Class"
   },
   "classroom.interactive": {
-    "message": "互动",
+    "message": "Interactive Activities",
     "description": "smart Class"
   },
   "classroom.view": {
-    "message": "演示",
+    "message": "Presentations",
     "description": "smart Class"
   },
   "classroom.noClassroomTip": {
-    "message": "您还没有课堂，现在立即创建",
+    "message": "You don't have a classroom session yet. Create one now. ",
     "description": "smart Class"
   },
   "classroom.noClassroomTip1": {
-    "message": "已创建课堂？",
+    "message": "Already created a session?",
     "description": "smart Class"
   },
   "classroom.noClassroomTip2": {
-    "message": "老师还没创建课堂，请等待老师创建或联系老师。",
+    "message": "The teacher has not created a classroom session. Wait or contact your teacher.",
     "description": "smart-classroom 项目"
   },
   "classroom.refresh": {
-    "message": "点此刷新",
+    "message": "Click here to refresh!",
     "description": "smart Class"
   },
   "classroom.noCourseTip2": {
-    "message": "您还没有课程，请先在LMS创建课程，并邀请学生加入",
+    "message": "You don’t have any courses yet. Create a course in LMS and invite students to join.",
     "description": "smart-classroom 项目"
   },
   "classroom.noCourseTip3": {
-    "message": "已创建？",
+    "message": "Already created?",
     "description": "smart-classroom 项目"
   },
   "classroom.noCourseTip4": {
-    "message": "你还没有加入课程，请联系老师。",
+    "message": "You have not enrolled the course, please contact the course teacher.",
     "description": "smart-classroom 项目"
   },
   "classroom.newUser": {
-    "message": "我是新用户 >>",
+    "message": "I'm a new user >>",
     "description": "smart-classroom 项目"
   },
   "classroom.introTip1": {
-    "message": "UClass是面向课堂教学的工具，需要配合我们的LMS使用。请在我们的LMS系统里完成以下准备工作：",
+    "message": "UClass is a tool for classroom teaching and needs to be used in conjunction with our LMS. Complete the following preparations in LMS: ",
     "description": "smart-classroom 项目"
   },
   "classroom.step1": {
-    "message": "创建课程",
+    "message": "Create Course",
     "description": "smart-classroom 项目"
   },
   "classroom.step2": {
-    "message": "创建班级",
+    "message": "Add Class",
     "description": "smart-classroom 项目"
   },
   "classroom.step3": {
-    "message": "邀请/导入学生",
+    "message": "Invite/Import Students",
     "description": "smart-classroom 项目"
   },
   "classroom.introTip2": {
-    "message": "点击这里{0}，或者联系我们的服务人员获取培训。",
+    "message": "Click here {0} or contact our customer service for training",
     "description": "smart-classroom 项目"
   },
   "classroom.viewHelp": {
-    "message": "查看帮助>>",
+    "message": "Help >>",
     "description": "smart-classroom 项目"
   },
   "classroom.ulearnWeb": {
-    "message": "课程中心",
+    "message": "Course Center",
     "description": "smart Class"
   },
   "classroom.startClass": {
-    "message": "开始上课",
+    "message": "Start Now",
     "description": "smart Class"
   },
   "classroom.inputClassroomName": {
-    "message": "请输入课堂名称",
+    "message": "Enter the session name",
     "description": "smart Class"
   },
   "classroom.lastClasses": {
-    "message": "上次班级：",
+    "message": "Previously selected: ",
     "description": "smart Class"
   },
   "classroom.noClass": {
-    "message": "暂无班级",
+    "message": "No Classes yet!",
     "description": "smart Class"
   },
   "classroom.classNames": {
-    "message": "{name}等{count}个班级",
+    "message": "{name} etc., {count} classes",
     "description": "smart Class"
   },
   "classroom.living": {
-    "message": "进行中",
+    "message": "In progress",
     "description": "smart Class"
   },
   "classroom.notStart": {
-    "message": "未开始",
+    "message": "Not started",
     "description": "smart Class"
   },
   "classroom.ended": {
-    "message": "已结束",
+    "message": "Ended",
     "description": "smart Class"
   },
   "classroom.classroom": {
-    "message": "课堂",
+    "message": "Classroom Session",
     "description": "smart Class"
   },
   "classroom.classroomTips1": {
-    "message": "课堂名称不能为空",
+    "message": "Session name cannot be empty!",
     "description": "smart Class"
   },
   "classroom.classroomTips3": {
-    "message": "课堂名称不能超过50个字符",
+    "message": "Session name cannot exceed 50 characters!",
     "description": "smart-classroom 项目"
   },
   "classroom.classroomTips2": {
-    "message": "班级不能为空",
+    "message": "Select at least 1 Class!",
     "description": "smart Class"
   },
   "classroom.createSuccess": {
-    "message": "创建成功",
+    "message": "Created successfully!",
     "description": "smart Class"
   },
   "classroom.createFail": {
-    "message": "创建失败",
+    "message": "Failed to create!",
     "description": "smart Class"
   },
   "classroom.confirmDeleteClass": {
-    "message": "删除课堂将会删除该课堂上发布的课堂互动，确定删除？",
+    "message": "Deleting a session will delete all activities launched in that session. Are you sure you want to delete?",
     "description": "smart Class"
   },
   "classroom.deleteFail": {
-    "message": "删除失败",
+    "message": "Failed to delete!",
     "description": "smart Class"
   },
   "classroom.deleteSuccess": {
-    "message": "删除成功",
+    "message": "Deleted successfully!",
     "description": "smart Class"
   },
   "classroom.classEnded": {
-    "message": "下课了",
+    "message": "Session Has Ended",
     "description": "smart Class"
   },
   "classroom.classAgain": {
-    "message": "再次上课",
+    "message": "Re-Open",
     "description": "smart Class"
   },
   "classroom.arrivalRate": {
-    "message": "到课率",
+    "message": "Attendance",
     "description": "smart Class"
   },
   "classroom.noRollCall": {
-    "message": "本堂课未发起点名",
+    "message": "No roll calls launched",
     "description": "smart Class"
   },
   "classroom.interactions": {
-    "message": "互动次数",
+    "message": "Number of Interactions",
     "description": "smart Class"
   },
   "classroom.classReport": {
-    "message": "课堂报告",
+    "message": "Session Report",
     "description": "smart Class"
   },
   "classroom.classReportDesc1": {
-    "message": "详细数据请查看课堂报告；",
+    "message": "For the detailed classroom session data, please check the session report.",
     "description": "smart Class"
   },
   "classroom.classReportDesc2": {
-    "message": "您也可以在手机APP进行查看。",
+    "message": "You can also view the report on ULearning mobile app.",
     "description": "smart Class"
   },
   "classroom.check": {
-    "message": "查看",
+    "message": "View",
     "description": "smart Class"
   },
   "classroom.startFail": {
-    "message": "开始失败",
+    "message": "Failed to start!",
     "description": "smart Class"
   },
   "classroom.selectAll": {
-    "message": "全选",
+    "message": "Select All",
     "description": "smart Class"
   },
   "classroom.backClassroomList": {
-    "message": "返回课堂列表",
+    "message": "Back to Session List",
     "description": "smart-classroom 项目"
   },
   "classroom.more": {
-    "message": "更多",
+    "message": "More...",
     "description": "smart-classroom 项目"
   },
   "classroom.notGoClass": {
-    "message": "暂不上课",
+    "message": "Start Later",
     "description": "smart-classroom 项目"
   },
   "classroom.editClass": {
-    "message": "修改课堂",
+    "message": "Edit Session",
     "description": "smart-classroom 项目"
   },
   "classroom.copyTip": {
-    "message": "复制课堂活动到其他班级",
+    "message": "Duplicate session activities to other classes",
     "description": "smart-classroom 项目"
   },
   "classroom.copyTip1": {
-    "message": "（复制后活动为未开始状态，您可以在上课后开始这些活动，点名/选人活动不能被复制）",
+    "message": "(Duplicated activities are in the status of Not Started. You can start these activities after the session starts. Roll Call and Pick activities cannot be duplicated.)",
     "description": "smart-classroom 项目"
   },
   "classroom.copyTip2": {
-    "message": "复制课堂后，投票和抢答等活动为未开始状态，您可以在上课后开始这些活动",
+    "message": "For a duplicated classroom session, the duplicated activities (such as Poll, Q&A, etc.) are all in the status of Not Started. You can launch/start these activities after the session starts.",
     "description": "smart-classroom 项目"
   },
   "classroom.copyClass": {
-    "message": "复制课堂",
+    "message": "Duplicate Session",
     "description": "smart-classroom 项目"
   },
   "classroom.copySuccess": {
-    "message": "复制成功",
+    "message": "Duplicated successfully!",
     "description": "smart-classroom 项目"
   },
   "classroom.copyFail": {
-    "message": "复制失败",
+    "message": "Failed to duplicate!",
     "description": "smart-classroom 项目"
   },
   "classroom.noSearchData": {
-    "message": "没有符合条件的内容",
+    "message": "No content found!",
     "description": "smart-classroom 项目"
   },
   "classroom.search": {
-    "message": "搜索",
+    "message": "Search",
     "description": "smart-classroom 项目"
   },
   "classroom.hasDataTip": {
-    "message": "本课堂已产生活动数据，不能修改班级",
+    "message": "This session has generated activity data. It cannot be modified.",
     "description": "smart-classroom 项目"
   },
   "classroom.findDetails": {
-    "message": "查看详情",
+    "message": "View Details",
     "description": "smart-classroom 项目"
   },
   "classroom.classesNum": {
-    "message": "班级数量",
+    "message": "Number of Classes",
     "description": "smart-classroom 项目"
   },
   "classroom.time": {
-    "message": "上课时间",
+    "message": "Session Time",
     "description": "smart-classroom 项目"
   },
   "login.welcomeTip": {
-    "message": "欢迎使用智慧课堂",
+    "message": "Welcome to ULearning Smart Classroom!",
     "description": "smart Class"
   },
   "login.inputUserNameTip1": {
-    "message": "用户名 / 手机号 / 邮箱",
+    "message": "Username",
     "description": "smart Class"
   },
   "login.inputUserNameTip2": {
-    "message": "用户名",
+    "message": "Username",
     "description": "smart-classroom 项目"
   },
   "login.password": {
-    "message": "密码",
+    "message": "Password",
     "description": "smart Class"
   },
   "login.inputPas": {
-    "message": "请输入密码",
+    "message": "Enter your password",
     "description": "smart Class"
   },
   "login.inputPhoneTip": {
-    "message": "请输入手机号",
+    "message": "Enter your phone number",
     "description": "smart Class"
   },
   "login.inputCodeTip": {
-    "message": "请输入验证码",
+    "message": "Enter the verification code",
     "description": "smart Class"
   },
   "login.phoneLoginTip": {
-    "message": "短信登录仅支持中国大陆手机号",
+    "message": "SMS login only supports mobile phone numbers in mainland China!",
     "description": "smart Class"
   },
   "login.psdLogin": {
-    "message": "密码登录",
+    "message": "Password Login",
     "description": "smart Class"
   },
   "login.register": {
-    "message": "注册",
+    "message": "Sign up",
     "description": "smart Class"
   },
   "login.forgetPassword": {
-    "message": "忘记密码",
+    "message": "Forgot Password?",
     "description": "smart Class"
   },
   "login.identityVerification": {
-    "message": "身份验证",
+    "message": "Authentication",
     "description": "smart Class"
   },
   "login.confirm": {
-    "message": "确定",
+    "message": "Confirm",
     "description": "smart Class"
   },
   "login.cancel": {
-    "message": "取消",
+    "message": "Cancel",
     "description": "smart Class"
   },
   "login.mimaLogin": {
-    "message": "账号密码登录",
+    "message": "Username/Password Login",
     "description": "smart Class"
   },
   "login.phoneLogin": {
-    "message": "短信登录",
+    "message": "SMS Login",
     "description": "smart Class"
   },
   "login.wxLogin": {
-    "message": "微信登录",
+    "message": "WeChat Login",
     "description": "smart Class"
   },
   "login.freezeTip": {
-    "message": "系统检测到此账号在{names}课程学习中存在作弊等不当行为，系统已自动冻结此账号，请联系任课老师或平台进行处理",
+    "message": "The system has detected that this user account has cheating and/or other improper behaviors in course {names} . The account is locked automatically. Contact the course teacher or platform admin to unlock your account.",
     "description": "smart Class"
   },
   "login.overErrorTimes": {
-    "message": "超出错误次数",
+    "message": "Exceeded the maximum number of allowed login attempts!",
     "description": "smart Class"
   },
   "login.passwordErr": {
-    "message": "账号或密码错误",
+    "message": "Incorrect username/password!",
     "description": "smart Class"
   },
   "login.loginFail": {
-    "message": "登录失败",
+    "message": "Failed to log in!",
     "description": "smart Class"
   },
   "login.codeErr": {
-    "message": "验证码错误",
+    "message": "Invalid verification code!",
     "description": "smart Class"
   },
   "login.invalidParameter": {
-    "message": "参数错误",
+    "message": "Invalid parameter!",
     "description": "smart Class"
   },
   "login.expiredCode": {
-    "message": "验证码已过期",
+    "message": "The verification code has expired!",
     "description": "smart Class"
   },
   "login.userNotExit": {
-    "message": "用户不存在",
+    "message": "User does not exist!",
     "description": "smart Class"
   },
   "login.getFail": {
-    "message": "获取失败",
+    "message": "Failed to retrieve!",
     "description": "smart Class"
   },
   "login.inputPhoneTip1": {
-    "message": "手机号格式不正确",
+    "message": "Invalid phone number format!",
     "description": "smart Class"
   },
   "login.codeTip1": {
-    "message": "获取验证码太频繁，请60s后再试",
+    "message": "Wait for 60 seconds to make another request for the verification code!",
     "description": "smart Class"
   },
   "login.inputPhoneTip2": {
-    "message": "手机号未注册",
+    "message": "The phone number does not exist in the system!",
     "description": "smart Class"
   },
   "login.getCode": {
-    "message": "获取验证码",
+    "message": "Request Verification Code",
     "description": "smart Class"
   },
   "login.getAgain": {
-    "message": "重新获取",
+    "message": "Re-Request",
     "description": "smart Class"
   },
   "login.inputEmailTip1": {
-    "message": "邮箱格式不正确",
+    "message": "Invalid Email format!",
     "description": "smart Class"
   },
   "login.inputEmail": {
-    "message": "请输入邮箱",
+    "message": "Enter the email",
     "description": "smart Class"
   },
   "login.inputUserNameTip": {
-    "message": "不能包含中文、空格和特殊字符",
+    "message": "Cannot contain Chinese characters, spaces, or special characters!",
     "description": "smart Class"
   },
   "login.inputUserName": {
-    "message": "请输入账号",
+    "message": "Enter the username",
     "description": "smart Class"
   },
   "login.login": {
-    "message": "登录",
+    "message": "Log In",
     "description": "smart-classroom 项目"
   },
   "login.get": {
-    "message": "获取",
+    "message": "Request",
     "description": "smart-classroom 项目"
   },
   "login.logout": {
-    "message": "退出登录",
+    "message": "Log Out",
     "description": "smart-classroom 项目"
   },
   "login.useTeacherAccount": {
-    "message": "请使用教师账号登录",
+    "message": "Log in with your teacher account!",
     "description": "smart-classroom 项目"
   },
   "login.enterCodeTip": {
-    "message": "请输入手机上投屏码",
+    "message": "Enter the cast code on your phone",
     "description": "smart-classroom 项目"
   },
   "login.accountLogin": {
-    "message": "账号密码登录",
+    "message": "Username/Password Login",
     "description": "smart-classroom 项目"
   },
   "login.codeLogin": {
-    "message": "投屏码登录",
+    "message": "Cast Code Log In",
     "description": "smart-classroom 项目"
   },
   "login.codeError": {
-    "message": "投屏码无效",
+    "message": "Invalid cast code!",
     "description": "smart-classroom 项目"
   },
   "login.requestFail": {
-    "message": "请求失败",
+    "message": "Failed to request!",
     "description": "smart-classroom 项目"
   },
   "login.noAccess": {
-    "message": "您所在的学校/机构暂未开放智慧课堂功能，如有需要请联系当地销售或服务人员",
+    "message": "UClass Smart Classroom is not enabled for your institute. Contact the platform admin for details.",
     "description": "smart-classroom 项目"
   },
   "login.privacy": {
-    "message": "隐私政策",
+    "message": "Privacy Policy",
     "description": "smart-classroom 项目"
   },
   "login.browserTip": {
-    "message": "*为保证最佳授课/学习效果，请使用ChromeV58以上版本浏览器。",
+    "message": "* For the best experience, use the latest version of Chrome browser.",
     "description": "smart-classroom 项目"
   },
   "intro.welcomeTip": {
-    "message": "欢迎使用",
+    "message": "Welcome to",
     "description": "smart-classroom 项目"
   },
   "intro.name": {
-    "message": "智慧课堂",
+    "message": " ULearning Smart Classroom!",
     "description": "smart-classroom 项目"
   },
   "intro.tips1": {
-    "message": "混合式教学新体验",
+    "message": "New experience of blended instruction",
     "description": "smart-classroom 项目"
   },
   "intro.tips2": {
-    "message": "使用前需要获得UClass的账号，如果您没有账号请先",
+    "message": "You need to have an user account to use UClass' full features. If you don’t have an one, ",
     "description": "smart-classroom 项目"
   },
   "intro.connectMe": {
-    "message": "联系我们",
+    "message": "contact us at: ",
     "description": "smart-classroom 项目"
   },
   "intro.tips3": {
-    "message": "点击这里查看UClass",
+    "message": "Click here to view the UClass ",
     "description": "smart-classroom 项目"
   },
   "intro.introVideo": {
-    "message": "介绍视频",
+    "message": "introduction video ",
     "description": "smart-classroom 项目"
   },
   "intro.and": {
-    "message": "和",
+    "message": "and ",
     "description": "smart-classroom 项目"
   },
   "intro.introManual": {
-    "message": "使用手册",
+    "message": "user manual",
     "description": "smart-classroom 项目"
   },
   "intro.start": {
-    "message": "开始使用",
+    "message": "Experience it now",
     "description": "smart-classroom 项目"
   },
   "intro.welcomeTip2": {
-    "message": "欢迎使用UClass",
+    "message": "Welcome to UClass!",
     "description": "smart-classroom 项目"
   },
   "intro.params1": {
-    "message": "UClass智慧课堂，为您带来全新的混合教学体验。混合式教学将在线和面对面的教学相结合。与传统的面对面教学相比，混合教学更有效。UClass支持无缝学习环境，增强学生的参与度。<ul>  <li>在线和离线课堂教学无缝结合。</li>  <li>多屏幕互连，从而消除了学习者和教师之间的距离。</li>  <li>在数据驱动下，提高教师教学效率。</li>  <li>AI能力减少教师的工作量。</li>  <li>远程、实时交互和协作促进有效的通信。</li>  <li>使用白板进行现场和虚拟协作。</li>  <li>课堂分析报告提供了对课堂期间进行的物理和虚拟课堂活动的全面数据分析。</li></ul>我们在全国服务400多个教育组织和200万用户。",
+    "message": "UClass Smart Classroom brings you a new experience of blended teaching and learning. It combines online and in-person instruction and but is more effective than the traditional in-person instruction. UClass supports a seamless online/in-person learning environment and enhances student participation. <ul><li>Online and in-person classroom teaching/learning are seamlessly integrated. </li><li>Multi-screen interconnection eliminates the distance between learners and teachers. </li><li>Data-based teaching improves the teaching efficiency. </li><li>AI ability reduces the workload of teachers. </li><li>Remote real-time interaction and collaboration promote effective communication. </li><li>Use whiteboard for in-person and virtual collaboration. </li><li>The classroom session report provides a comprehensive analysis of the classroom activities conducted during the session. </li></ul>We are currently serving more than 400 educational organizations and 2 million users worldwide.",
     "description": "smart-classroom 项目"
   },
   "intro.params2": {
-    "message": "UClass智慧课堂，领先的智能、无边界。",
+    "message": "UClass Smart Classroom - Cutting-edge technology makes teaching/learning unlimited and smart!",
     "description": "smart-classroom 项目"
   },
   "intro.land": {
-    "message": "中国大陆",
+    "message": "Mainland China",
     "description": "smart-classroom 项目"
   },
   "intro.outLand": {
-    "message": "国际",
+    "message": "International",
     "description": "smart-classroom 项目"
   },
   "intro.noAccount": {
-    "message": "没有账号？",
+    "message": "No account?",
     "description": "smart-classroom 项目"
   },
   "intro.helpCenter": {
-    "message": "帮助中心",
+    "message": "Help Center",
     "description": "smart-classroom 项目"
   },
   "discuss.discuss": {
-    "message": "讨论",
+    "message": "Discussions",
     "description": "smart Class"
   },
   "discuss.createDiscuss": {
-    "message": "创建讨论",
+    "message": "Create Discussion",
     "description": "smart Class"
   },
   "discuss.noDiscuss": {
-    "message": "暂无讨论",
+    "message": "No posts found!",
     "description": "smart Class"
   },
   "discuss.noClassDiscuss": {
-    "message": "当前课堂暂无讨论",
+    "message": "No session discussions found!",
     "description": "smart-classroom 项目"
   },
   "discuss.anonymousDiscussion": {
-    "message": "匿名讨论",
+    "message": "Anonymous discussion",
     "description": "smart Class"
   },
   "discuss.discussInClass": {
-    "message": "课堂讨论",
+    "message": "Session Discussions",
     "description": "smart Class"
   },
   "discuss.createDiscussTip": {
-    "message": "讨论名称不能为空",
+    "message": "Discussion name cannot be empty!",
     "description": "smart Class"
   },
   "discuss.anonymous": {
-    "message": "匿名",
+    "message": "Anonymous",
     "description": "smart Class"
   },
   "discuss.wordCloud": {
-    "message": "词云",
+    "message": "Word Cloud",
     "description": "smart Class"
   },
   "discuss.enterDiscussName": {
-    "message": "请输入讨论名称",
+    "message": "Enter the discussion name",
     "description": "smart-classroom 项目"
   },
   "discuss.noKeyword": {
-    "message": "学生发言较少，暂无可提取的关键词",
+    "message": "The content of discussion posts is not enough to retrieve keywords!",
     "description": "smart-classroom 项目"
   },
   "discuss.allDiscuss": {
-    "message": "所有讨论",
+    "message": "All Discussions",
     "description": "smart-classroom 项目"
   },
   "discuss.classRoom": {
-    "message": "课堂班级",
+    "message": "Session Class",
     "description": "smart-classroom 项目"
   },
   "discuss.allClass": {
-    "message": "所有班级",
+    "message": "All Classes",
     "description": "smart-classroom 项目"
   },
   "score.createScoreTip": {
-    "message": "请输入打分标题",
+    "message": "Enter the grading title",
     "description": "smart Class"
   },
   "score.createScoreTip1": {
-    "message": "请选择评价对象，其他学生为他打分",
+    "message": "Select the student(s) to be graded by other students",
     "description": "smart Class"
   },
   "score.selectStudent": {
-    "message": "选择学生",
+    "message": "Select Students",
     "description": "smart Class"
   },
   "score.selectGroup": {
-    "message": "选择小组",
+    "message": "Select Groups",
     "description": "smart Class"
   },
   "score.selectOther": {
-    "message": "其他",
+    "message": "Others",
     "description": "smart Class"
   },
   "score.itemizedScore": {
-    "message": "分项评分",
+    "message": "Grading Items",
     "description": "smart Class"
   },
   "score.enterRatingPoint": {
-    "message": "请输入评分点",
+    "message": "Enter the grading item",
     "description": "smart Class"
   },
   "score.startNow": {
-    "message": "立即开始",
+    "message": "Start",
     "description": "smart Class"
   },
   "score.save": {
-    "message": "保存",
+    "message": "Save",
     "description": "smart Class"
   },
   "score.integral": {
-    "message": "积分",
+    "message": "Points",
     "description": "smart Class"
   },
   "score.classScore": {
-    "message": "课堂打分",
+    "message": "Classroom Grading",
     "description": "smart Class"
   },
   "score.searchTip": {
-    "message": "请输入姓名/学号进行搜索",
+    "message": "Enter student name or ID to search",
     "description": "smart Class"
   },
   "score.member": {
-    "message": "成员：",
+    "message": "Members: ",
     "description": "smart Class"
   },
   "score.allClsses": {
-    "message": "全部班级",
+    "message": "All classes",
     "description": "smart Class"
   },
   "score.evaluationDetails": {
-    "message": "评价详情",
+    "message": "Grading Details",
     "description": "smart-classroom 项目"
   },
   "score.startScoringAgain": {
-    "message": "再次开启打分",
+    "message": "Re-Open Grading",
     "description": "smart-classroom 项目"
   },
   "score.NofinishedEvaluation": {
-    "message": "暂无已结束的评价",
+    "message": "No ended gradings!",
     "description": "smart-classroom 项目"
   },
   "score.Score": {
-    "message": "分",
+    "message": " pts",
     "description": "smart-classroom 项目"
   },
   "score.noStudentEvaluation": {
-    "message": "没有学生评价",
+    "message": "No one has graded!",
     "description": "smart-classroom 项目"
   },
   "score.startAgainEvaluation": {
-    "message": "再次开启评价",
+    "message": "Re-Open Grading",
     "description": "smart-classroom 项目"
   },
   "score.evaluated": {
-    "message": "已评价",
+    "message": "Graded",
     "description": "smart-classroom 项目"
   },
   "score.notEvaluated": {
-    "message": "未评价",
+    "message": "Haven't Graded",
     "description": "smart-classroom 项目"
   },
   "score.confirmEndEvaluation": {
-    "message": "确定结束当前评价吗？",
+    "message": "Are you sure you want to end this grading?",
     "description": "smart-classroom 项目"
   },
   "score.evaluationNums": {
-    "message": "{count}人评价",
+    "message": "{count} have graded ",
     "description": "smart-classroom 项目"
   },
   "score.addEvaluationObject": {
-    "message": "添加评价对象",
+    "message": "Add Student/Group",
     "description": "smart-classroom 项目"
   },
   "score.evaluationObject": {
-    "message": "评价对象",
+    "message": "Students to be graded",
     "description": "smart-classroom 项目"
   },
   "score.noStudent": {
-    "message": "暂无学生",
+    "message": "No students!",
     "description": "smart-classroom 项目"
   },
   "score.noGorup": {
-    "message": "暂无小组",
+    "message": "No groups!",
     "description": "smart-classroom 项目"
   },
   "score.etc": {
-    "message": "等",
+    "message": " and so on",
     "description": "smart-classroom 项目"
   },
   "score.selectStu": {
-    "message": "选学生",
+    "message": "Students",
     "description": "smart-classroom 项目"
   },
   "score.selectGroups": {
-    "message": "选小组",
+    "message": "Groups",
     "description": "smart-classroom 项目"
   },
   "score.scoringObject": {
-    "message": "打分对象",
+    "message": "Students to be graded",
     "description": "smart-classroom 项目"
   },
   "score.confirmDeleteStudent": {
-    "message": "确定删除当前学生吗？",
+    "message": "Are you sure you want to delete this student?",
     "description": "smart-classroom 项目"
   },
   "score.confirmDeleteGroup": {
-    "message": "确定删除当前小组吗？",
+    "message": "Are you sure you want to delete this group?",
     "description": "smart-classroom 项目"
   },
   "score.confirmDeleteObj": {
-    "message": "确定删除当前评价对象吗？",
+    "message": "Are you sure you want to delete this grading object?",
     "description": "smart-classroom 项目"
   },
   "score.enterCorrectScore": {
-    "message": "请输入正确的分值",
+    "message": "Enter a valid number of points!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip1": {
-    "message": "总分不能高于满分",
+    "message": "The total points cannot be higher than the points possible!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip2": {
-    "message": "总分不能低于满分",
+    "message": "The total points cannot be lower than the points possible!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip3": {
-    "message": "每项内容不能为空",
+    "message": "Item content cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip4": {
-    "message": "标题不能为空",
+    "message": "Title cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip5": {
-    "message": "标题不能超过200个字符",
+    "message": "Title cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip6": {
-    "message": "请至少选择一个评价对象",
+    "message": "Select at least one grading object!",
     "description": "smart-classroom 项目"
   },
   "score.confirmDeleteActivity": {
-    "message": "确定删除当前打分活动吗？",
+    "message": "Are you sure you want to delete this grading activity?",
     "description": "smart-classroom 项目"
   },
   "score.clickToAddStu": {
-    "message": "点击右侧按钮添加学生",
+    "message": "Click the button on the right to add student(s)",
     "description": "smart-classroom 项目"
   },
   "score.clickToAddGroup": {
-    "message": "点击右侧按钮添加小组",
+    "message": "Click the button on the right to add group(s)",
     "description": "smart-classroom 项目"
   },
   "score.clickToAddObj": {
-    "message": "点击右侧按钮添加评价对象",
+    "message": "Click the button on the right to add grading object(s)",
     "description": "smart-classroom 项目"
   },
   "score.endedEvaluation": {
-    "message": "已结束的评价",
+    "message": "Ended gradings ",
     "description": "smart-classroom 项目"
   },
   "score.addStudent": {
-    "message": "添加学生",
+    "message": "Add Students",
     "description": "smart-classroom 项目"
   },
   "score.addGroup": {
-    "message": "添加小组",
+    "message": "Add Groups",
     "description": "smart-classroom 项目"
   },
   "score.confirmEndScore": {
-    "message": "确定结束当前打分吗？",
+    "message": "Are you sure you want to end this grading?",
     "description": "smart-classroom 项目"
   },
   "score.stratAgain": {
-    "message": "再次开启",
+    "message": "Re-Open",
     "description": "smart-classroom 项目"
   },
   "score.scoreVal": {
-    "message": "分值",
+    "message": "Pts",
     "description": "smart-classroom 项目"
   },
   "score.addPonit": {
-    "message": "添加评分点",
+    "message": "Add Grading Item",
     "description": "smart-classroom 项目"
   },
   "score.saveFail": {
-    "message": "保存失败",
+    "message": "Failed to save!",
     "description": "smart-classroom 项目"
   },
   "score.leftScore": {
-    "message": "剩余分数",
+    "message": "Remaining pts",
     "description": "smart-classroom 项目"
   },
   "score.objectNums": {
-    "message": "评价对象：共{num}个",
+    "message": "Grading Objects: {num}",
     "description": "smart-classroom 项目"
   },
   "score.totalScore": {
-    "message": "满分{score}分",
+    "message": "Out of {score}",
     "description": "smart-classroom 项目"
   },
   "score.scoreResult": {
-    "message": "得分",
+    "message": "Score",
     "description": "smart-classroom 项目"
   },
   "pick.pickRecord": {
-    "message": "选人记录",
+    "message": "Pick History",
     "description": "smart Class"
   },
   "pick.randomPick": {
-    "message": "随机选人",
+    "message": "Random Pick",
     "description": "smart Class"
   },
   "pick.handlePick": {
-    "message": "手动选人",
+    "message": "Manual Pick",
     "description": "smart-classroom 项目"
   },
   "pick.noRecord": {
-    "message": "暂无选人记录",
+    "message": "No picks found!",
     "description": "smart Class"
   },
   "pick.restart": {
-    "message": "再次开启",
+    "message": "Re-Open",
     "description": "smart Class"
   },
   "pick.start": {
-    "message": "开始",
+    "message": "Start",
     "description": "smart Class"
   },
   "pick.pick": {
-    "message": "选人",
+    "message": "Pick",
     "description": "smart Class"
   },
   "pick.integral": {
-    "message": "积分",
+    "message": "Points",
     "description": "smart Class"
   },
   "pick.reChoose": {
-    "message": "重选",
+    "message": "Re-Pick",
     "description": "smart Class"
   },
   "pick.pickAgain": {
-    "message": "继续选人",
+    "message": "Pick More",
     "description": "smart Class"
   },
   "pick.scoreAll": {
-    "message": "统一打分",
+    "message": "Batch Grade",
     "description": "smart-classroom 项目"
   },
   "pick.noPickMember": {
-    "message": "无人员可选",
+    "message": "No more to pick!",
     "description": "smart Class"
   },
   "pick.deleteConfirm": {
-    "message": "确定删除当前学生吗？",
+    "message": "Are you sure you want to delete this student?",
     "description": "smart Class"
   },
   "pick.randomPicking": {
-    "message": "正在随机选人",
+    "message": "Random picking...",
     "description": "smart Class"
   },
   "pick.defaultScore": {
-    "message": "默认积分",
+    "message": "Default Score",
     "description": "smart Class"
   },
   "pick.pickFromAttd": {
-    "message": "从点名出勤的学生里选",
+    "message": "Pick from students who are present at roll call",
     "description": "smart-classroom 项目"
   },
   "pick.selectStu": {
-    "message": "选择学生回答问题",
+    "message": "Pick students to answer questions",
     "description": "smart-classroom 项目"
   },
   "pick.addPickFirst": {
-    "message": "当前课堂没有发起过点名，请发起点名后使用该功能",
+    "message": "No roll calls yet in this session - Use this feature after you have launched a roll call!",
     "description": "smart-classroom 项目"
   },
   "pick.preabsence": {
-    "message": "代表缺勤",
+    "message": " indicates absent",
     "description": "smart-classroom 项目"
   },
   "attendence.numAttendence": {
-    "message": "数字码签到",
+    "message": "Digital Code Sign-in",
     "description": "smart Class"
   },
   "attendence.inputNum": {
-    "message": "输入屏幕上数字",
+    "message": "Enter the digital code displayed on the screen ",
     "description": "smart Class"
   },
   "attendence.gosign": {
-    "message": "进行签到",
+    "message": "to sign in",
     "description": "smart Class"
   },
   "attendence.gosignNew": {
-    "message": "进行扫码签到",
+    "message": "to scan the QR code to log in",
     "description": "smart-classroom 项目"
   },
   "attendence.codeSign": {
-    "message": "二维码签到",
+    "message": "QR Code Sign-in",
     "description": "smart Class"
   },
   "attendence.phoneScanNew": {
-    "message": "仅支持学生使用手机",
+    "message": "Only support ULearning app ",
     "description": "smart-classroom 项目"
   },
   "attendence.attendence": {
-    "message": "点名",
+    "message": "Roll Call",
     "description": "smart Class"
   },
   "attendence.sign": {
-    "message": "签到",
+    "message": "Sign in",
     "description": "smart Class"
   },
   "attendence.freshTime": {
-    "message": "刷新时间",
+    "message": "Refresh in",
     "description": "smart Class"
   },
   "attendence.scale": {
-    "message": "放大",
+    "message": "Enlarge",
     "description": "smart Class"
   },
   "attendence.unsign": {
-    "message": "未签到",
+    "message": "Not Signed in",
     "description": "smart Class"
   },
   "attendence.signed": {
-    "message": "已签到",
+    "message": "Signed in",
     "description": "smart Class"
   },
   "attendence.readList": {
-    "message": "查看名单",
+    "message": "View Attendance",
     "description": "smart Class"
   },
   "attendence.code": {
-    "message": "二维码",
+    "message": "QR Code",
     "description": "smart Class"
   },
   "attendence.numCode": {
-    "message": "数字码",
+    "message": "Digital Code",
     "description": "smart Class"
   },
   "attendence.confirmEnd": {
-    "message": "确定结束当前点名吗？",
+    "message": "Are you sure you want to end this Roll Call?",
     "description": "smart Class"
   },
   "attendence.peopleNum": {
-    "message": "人数",
+    "message": "Number of Students",
     "description": "smart Class"
   },
   "attendence.changeStatus": {
-    "message": "点击学生头像更改签到状态",
+    "message": "Click the student profile picture to change his or her sign-in status",
     "description": "smart-classroom 项目"
   },
   "attendence.personLeave": {
-    "message": "事假",
+    "message": "Excused Absence",
     "description": "smart-classroom 项目"
   },
   "attendence.sick": {
-    "message": "病假",
+    "message": "Sickness Absence",
     "description": "smart-classroom 项目"
   },
   "attendence.late": {
-    "message": "迟到",
+    "message": "Late",
     "description": "smart-classroom 项目"
   },
   "attendence.leaveEarly": {
-    "message": "早退",
+    "message": "Early Leave",
     "description": "smart-classroom 项目"
   },
   "attendence.attend": {
-    "message": "已到",
+    "message": "Present",
     "description": "smart-classroom 项目"
   },
   "attendence.absence": {
-    "message": "缺勤",
+    "message": "Absent",
     "description": "smart-classroom 项目"
   },
   "attendence.attData": {
-    "message": "出勤{signCount}次，缺勤{absenceCount}次，出勤率{rate}",
+    "message": "Present: {signCount}; Absent: {absenceCount}; Attendance: {rate}",
     "description": "smart-classroom 项目"
   },
   "faceAttendence.classCondition": {
-    "message": "课堂实况",
+    "message": "Null - Classroom Monitoring",
     "description": "smart Class"
   },
   "faceAttendence.cannotPick": {
-    "message": "无法识别",
+    "message": "Null - Unidentified",
     "description": "smart Class"
   },
   "faceAttendence.inClass": {
-    "message": "在教室里的学生",
+    "message": "Null - Detected Students",
     "description": "smart Class"
   },
   "faceAttendence.readList": {
-    "message": "查看名单",
+    "message": "Null - View Attendance List",
     "description": "smart Class"
   },
   "faceAttendence.outClass": {
-    "message": "未检测到在教室的学生",
+    "message": "Null - Undetected Students",
     "description": "smart Class"
   },
   "faceAttendence.outClassPaper": {
-    "message": "未检测到在教室的学生名单",
+    "message": "Null - Undetected Student List",
     "description": "smart Class"
   },
   "faceAttendence.noCome": {
-    "message": "未进入教室",
+    "message": "Null - Absent",
     "description": "smart Class"
   },
   "faceAttendence.noMonitor": {
-    "message": "未检测到",
+    "message": "Null - Undetected ",
     "description": "smart Class"
   },
   "faceAttendence.times": {
-    "message": "次",
+    "message": "Null - Times",
     "description": "smart Class"
   },
   "faceAttendence.smallest": {
-    "message": "最小化",
+    "message": "Null - Minimize",
     "description": "smart Class"
   },
   "faceAttendence.endMonitor": {
-    "message": "结束监控",
+    "message": "Null - End",
     "description": "smart Class"
   },
   "faceAttendence.confirmEnd": {
-    "message": "确定结束监控吗？",
+    "message": "Null - Are you sure you want to end the classroom monitoring?",
     "description": "smart Class"
   },
   "faceAttendence.classMonitor": {
-    "message": "课堂监控",
+    "message": "Null - Classroom Monitoring",
     "description": "smart Class"
   },
   "faceAttendence.attend": {
-    "message": "出勤",
+    "message": "Null - Attendance",
     "description": "smart Class"
   },
   "faceAttendence.late": {
-    "message": "迟到",
+    "message": "Null - Late",
     "description": "smart Class"
   },
   "faceAttendence.attendOut": {
-    "message": "中途离开",
+    "message": "Null - Leave Early",
     "description": "smart Class"
   },
   "faceAttendence.statisticRlues": {
-    "message": "统计规则",
+    "message": "Null - Statistical Rules",
     "description": "smart Class"
   },
   "faceAttendence.setting": {
-    "message": "设置",
+    "message": "Null - Settings",
     "description": "smart Class"
   },
   "faceAttendence.restart": {
-    "message": "再次开启",
+    "message": "Null - Re-open",
     "description": "smart Class"
   },
   "faceAttendence.rlues1": {
-    "message": "监控开始10分钟 (13:20)之后进入教室。",
+    "message": "Null - Enter the classroom 10 minutes after the start of monitoring (13:20)",
     "description": "smart Class"
   },
   "faceAttendence.rlues2": {
-    "message": "监控结束前离开教室超过2分钟。",
+    "message": "Null - Leave the classroom 2 or 2+ minutes before the end of monitoring",
     "description": "smart Class"
   },
   "faceAttendence.nowClassStudents": {
-    "message": "当前教室里的学生",
+    "message": "Null - Students in the classroom",
     "description": "smart Class"
   },
   "faceAttendence.all": {
-    "message": "全部",
+    "message": "Null - All",
     "description": "smart Class"
   },
   "faceAttendence.error": {
-    "message": "异常",
+    "message": "Null - Error",
     "description": "smart Class"
   },
   "faceAttendence.monitorRecord": {
-    "message": "教室监控记录",
+    "message": "Null - Classroom monitoring records",
     "description": "smart Class"
   },
   "faceAttendence.monitorTimes": {
-    "message": "监控到的次数",
+    "message": "Null - Undetected Times ",
     "description": "smart Class"
   },
   "faceAttendence.unmonitorTimes": {
-    "message": "未监控到的次数",
+    "message": "Null - Undetected Times ",
     "description": "smart Class"
   },
   "faceAttendence.unmonitor": {
-    "message": "在教室里未监控到",
+    "message": "Null - Undetected in the classroom ",
     "description": "smart Class"
   },
   "faceAttendence.monitored": {
-    "message": "在教室里监控到",
+    "message": "Null - Detected in the classroom ",
     "description": "smart Class"
   },
   "faceAttendence.thisPic": {
-    "message": "现场照片",
+    "message": "Null - Photos",
     "description": "smart Class"
   },
   "faceAttendence.unMonitor": {
-    "message": "未检测到",
+    "message": "Null - Undetected ",
     "description": "smart Class"
   },
   "student.editClass": {
-    "message": "修改班级",
+    "message": "Edit Session",
     "description": "smart-classroom 项目"
   },
   "student.editScore": {
-    "message": "修改分值",
+    "message": "Edit Points",
     "description": "smart-classroom 项目"
   },
   "student.sortByScore": {
-    "message": "按积分降序",
+    "message": "Sort by score",
     "description": "smart-classroom 项目"
   },
   "student.sortByStudentId": {
-    "message": "按学号排序",
+    "message": "Sort by student ID",
     "description": "smart-classroom 项目"
   },
   "student.addScore": {
-    "message": "加分",
+    "message": "Add Points",
     "description": "smart-classroom 项目"
   },
   "student.cutScore": {
-    "message": "减分",
+    "message": "Deduct Points",
     "description": "smart-classroom 项目"
   },
   "student.student": {
-    "message": "学生",
+    "message": "Student",
     "description": "smart-classroom 项目"
   },
   "student.praise": {
-    "message": "赞",
+    "message": "Like",
     "description": "smart-classroom 项目"
   },
   "student.notUnderstand": {
-    "message": "有疑问",
+    "message": "Ask Questions",
     "description": "smart-classroom 项目"
   },
   "student.understand": {
-    "message": "取消疑问",
+    "message": "Cancel Ask Questions",
     "description": "smart-classroom 项目"
   },
   "student.participate": {
-    "message": "去参与",
+    "message": "Participate",
     "description": "smart-classroom 项目"
   },
   "student.involved": {
-    "message": "已参与",
+    "message": "Participated",
     "description": "smart-classroom 项目"
   },
   "student.callRoll1": {
-    "message": "请输入教师屏幕上显示的数字完成签到",
+    "message": "Enter the digital code on the teacher screen to sign in",
     "description": "smart-classroom 项目"
   },
   "student.fewPoints": {
-    "message": "{num}积分",
+    "message": "{num} pts",
     "description": "smart-classroom 项目"
   },
   "student.toBeSelected": {
-    "message": "恭喜你被老师选中了！",
+    "message": "Congratulations! You have been selected.",
     "description": "smart-classroom 项目"
   },
   "student.submit": {
-    "message": "提交",
+    "message": "Submit",
     "description": "smart-classroom 项目"
   },
   "student.fullMarks": {
-    "message": "满分：{num}",
+    "message": "Points Possible: {num}",
     "description": "smart-classroom 项目"
   },
   "student.combined": {
-    "message": "合计",
+    "message": "Total Score ",
     "description": "smart-classroom 项目"
   },
   "student.selected": {
-    "message": "已选",
+    "message": "Selected ",
     "description": "smart-classroom 项目"
   },
   "student.hasBeenRated": {
-    "message": "已打{num}分",
+    "message": "Scored {num} pts",
     "description": "smart-classroom 项目"
   },
   "student.pleaseWaitFor": {
-    "message": "请等待老师发起课堂活动",
+    "message": "Wait for the teacher to launch a classroom activity",
     "description": "smart-classroom 项目"
   },
   "student.pleaseWatchTeacherScreen": {
-    "message": "教师正在演示其他类型资源，请看教师屏幕",
+    "message": "The teacher is presenting content. Check the teacher screen.",
     "description": "smart-classroom 项目"
   },
   "student.finishSuccess": {
-    "message": "签到成功！请在教师屏查看结果。",
+    "message": "Signed in successfully! Check your sign-in status on the teacher screen.",
     "description": "smart-classroom 项目"
   },
   "student.maxSelectableCount": {
-    "message": "多选 (最多选{selectionableCount}项)",
+    "message": "Multiple responses (select up to {selectionableCount} items)",
     "description": "smart-classroom 项目"
   },
   "student.replySuccess": {
-    "message": "提交成功，请在教师屏查看所有回复。",
+    "message": "Submitted successfully - View all responses on the teacher screen!",
     "description": "smart-classroom 项目"
   },
   "student.showConfirm": {
-    "message": "老师发起了新的{type}，留在当前活动还是参与新活动？",
+    "message": "The teacher launched a new {type} activity. Do you want to go to this new activity or stay here for the current one?",
     "description": "smart-classroom 项目"
   },
   "student.takePartIn": {
-    "message": "参与",
+    "message": "Go",
     "description": "smart-classroom 项目"
   },
   "student.forPoints": {
-    "message": "恭喜你获得{score}积分。",
+    "message": "Congratulations! You got {score} points.",
     "description": "smart-classroom 项目"
   },
   "student.replyAgain": {
-    "message": "再次回复",
+    "message": "Reply Again",
     "description": "smart-classroom 项目"
   },
   "student.replyContent": {
-    "message": "你已参与回复，如需表达更多观点，请点击再次回复。",
+    "message": "You replied before. To reply more, click the Reply Again button.",
     "description": "smart-classroom 项目"
   },
   "student.editClassroom": {
-    "message": "退出课堂",
+    "message": "Exit",
     "description": "smart-classroom 项目"
   },
   "student.classroomEnded": {
-    "message": "本堂课已结束。",
+    "message": "The session has ended!",
     "description": "smart-classroom 项目"
   },
   "student.ercode": {
-    "message": "二维码签到",
+    "message": "QR Code Sign-in",
     "description": "smart-classroom 项目"
   },
   "student.oneCall": {
-    "message": "位置签到",
+    "message": "Location Sign-in",
     "description": "smart-classroom 项目"
   },
   "student.notSupport": {
-    "message": "当前设备不支持{sup}，请联系老师。",
+    "message": "This device does not support {sup} - Please contact your teacher!",
     "description": "smart-classroom 项目"
   },
   "student.activityEnd": {
-    "message": "提交失败，活动已结束。",
+    "message": "Failed to submit and the activity has ended!",
     "description": "smart-classroom 项目"
   },
   "student.activityDelete": {
-    "message": "提交失败，活动已删除。",
+    "message": "Failed to submit and the activity has been deleted!",
     "description": "smart-classroom 项目"
   },
   "student.notice": {
-    "message": "通知",
+    "message": "Notification",
     "description": "smart-classroom 项目"
   },
   "student.submitFail": {
-    "message": "提交失败",
+    "message": "Failed to submit!",
     "description": "smart-classroom 项目"
   },
   "student.classRecord": {
-    "message": "本课堂活动记录",
+    "message": "Classroom Activity List",
     "description": "smart-classroom 项目"
   },
   "student.myScore": {
-    "message": "我的打分",
+    "message": "Score Assigned by Me",
     "description": "smart-classroom 项目"
   },
   "student.deleteUnInvolved": {
-    "message": "无法参与，活动已删除。",
+    "message": "Not available any more - the activity has been deleted!",
     "description": "smart-classroom 项目"
   },
   "student.youInvolved": {
-    "message": "你已参与该活动。",
+    "message": "You have participated in this activity!",
     "description": "smart-classroom 项目"
   },
   "screen.inClass": {
-    "message": "上课中",
+    "message": "In Session",
     "description": "smart Class"
   },
   "screen.inClassTip1": {
-    "message": "点击下面工具栏按钮发起活动，演示课件和讨论",
+    "message": "Tap on the desired activity button below to start that classroom activity",
     "description": "smart Class"
   },
   "screen.beforeClass": {
-    "message": "课前准备中",
+    "message": "In Pre-Session Preparation",
     "description": "smart-classroom 项目"
   },
   "screen.beforeClassTip1": {
-    "message": "课前准备好内容，上课时快速开启，更方便",
+    "message": "Prepare content and set up activities before the session starts. It can make your session more efficient and smoother.",
     "description": "smart-classroom 项目"
   },
   "screen.classActivityNum": {
-    "message": "当前课堂共{num}个活动",
+    "message": "Total {num} classroom activities",
     "description": "smart Class"
   },
   "screen.start": {
-    "message": "开始",
+    "message": "Start",
     "description": "smart Class"
   },
   "screen.onGoing": {
-    "message": "进行中",
+    "message": "In progress",
     "description": "smart Class"
   },
   "screen.ended": {
-    "message": "已结束",
+    "message": "Ended",
     "description": "smart Class"
   },
   "screen.classroomMonitoring": {
-    "message": "课堂监控",
+    "message": "Null - Classroom Monitoring",
     "description": "smart Class"
   },
   "screen.opened": {
-    "message": "已开启",
+    "message": "Null - Enabled",
     "description": "smart Class"
   },
   "screen.startingMonitoring": {
-    "message": "正在启动课堂监控系统",
+    "message": "Null - Classroom monitoring system is launching...",
     "description": "smart Class"
   },
   "screen.startupFailed": {
-    "message": "启动失败",
+    "message": "Null - Failed to launch!",
     "description": "smart Class"
   },
   "screen.startupFailedTip1": {
-    "message": "未能连接监控服务",
+    "message": "Null - Failed to connect to the monitoring service!",
     "description": "smart Class"
   },
   "screen.retry": {
-    "message": "重试",
+    "message": "Null - Retry",
     "description": "smart Class"
   },
   "screen.cancel": {
-    "message": "取消",
+    "message": "Cancel",
     "description": "smart Class"
   },
   "screen.undo": {
-    "message": "撤销",
+    "message": "Undo",
     "description": "smart Class"
   },
   "screen.clear": {
-    "message": "清空",
+    "message": "Clear",
     "description": "smart Class"
   },
   "screen.close": {
-    "message": "关闭",
+    "message": "Close",
     "description": "smart Class"
   },
   "screen.student": {
-    "message": "学生",
+    "message": "Null - Students",
     "description": "smart Class"
   },
   "screen.whiteboard": {
-    "message": "白板",
+    "message": "Whiteboard",
     "description": "smart Class"
   },
   "screen.brush": {
-    "message": "画笔",
+    "message": "Brush",
     "description": "smart Class"
   },
   "screen.attendance": {
-    "message": "点名",
+    "message": "Roll Call",
     "description": "smart Class"
   },
   "screen.pick": {
-    "message": "选人",
+    "message": "Pick",
     "description": "smart Class"
   },
   "screen.answer": {
-    "message": "抢答",
+    "message": "Q&A",
     "description": "smart Class"
   },
   "screen.vote": {
-    "message": "投票",
+    "message": "Polls",
     "description": "smart Class"
   },
   "screen.score": {
-    "message": "打分",
+    "message": "Grading",
     "description": "smart Class"
   },
   "screen.resource": {
-    "message": "资源",
+    "message": "Resources",
     "description": "smart Class"
   },
   "screen.discussion": {
-    "message": "讨论",
+    "message": "Discussions",
     "description": "smart Class"
   },
   "screen.fullScreen": {
-    "message": "全屏",
+    "message": "Full Screen",
     "description": "smart Class"
   },
   "screen.cancelFullScreen": {
-    "message": "取消全屏",
+    "message": "Exit Full Screen",
     "description": "smart Class"
   },
   "screen.collapse": {
-    "message": "收起",
+    "message": "Collapse",
     "description": "smart Class"
   },
   "screen.beginClass": {
-    "message": "上课",
+    "message": "Start",
     "description": "smart Class"
   },
   "screen.endClass": {
-    "message": "下课",
+    "message": "End",
     "description": "smart Class"
   },
   "screen.afterClass": {
-    "message": "请上课后发起{activity}",
+    "message": "Launch the {activity} activity after this classroom session starts!",
     "description": "smart Class"
   },
   "screen.underDevelopment": {
-    "message": "不支持展示该类型的资源",
+    "message": "Opening this resource type is not supported!",
     "description": "smart Class"
   },
   "screen.create": {
-    "message": "新建",
+    "message": "Create",
     "description": "smart Class"
   },
   "screen.return": {
-    "message": "返回",
+    "message": "Back",
     "description": "smart Class"
   },
   "screen.wordCloud": {
-    "message": "词云",
+    "message": "Word Cloud",
     "description": "smart Class"
   },
   "screen.menu": {
-    "message": "菜单",
+    "message": "Menu",
     "description": "smart Class"
   },
   "screen.previousLevel": {
-    "message": "返回上一级",
+    "message": "Back",
     "description": "smart Class"
   },
   "screen.allResource": {
-    "message": "全部资源",
+    "message": "All Resources",
     "description": "smart Class"
   },
   "screen.classStart": {
-    "message": "开始上课了！",
+    "message": "The session starts!",
     "description": "smart-classroom 项目"
   },
   "screen.activityRecord": {
-    "message": "活动记录",
+    "message": "Activity List",
     "description": "smart-classroom 项目"
   },
   "screen.activityNum": {
-    "message": "数量：{num}",
+    "message": "Count: {num}",
     "description": "smart-classroom 项目"
   },
   "screen.clearCache": {
-    "message": "清除缓存",
+    "message": "Clear Cache",
     "description": "smart-classroom 项目"
   },
   "screen.downloadFailed": {
-    "message": "下载失败",
+    "message": "Failed to download!",
     "description": "smart-classroom 项目"
   },
   "screen.download": {
-    "message": "缓存",
+    "message": "Cache",
     "description": "smart-classroom 项目"
   },
   "screen.waitDownload": {
-    "message": "等待下载",
+    "message": "Waiting to download...",
     "description": "smart-classroom 项目"
   },
   "screen.downloaded": {
-    "message": "已缓存",
+    "message": "Cached",
     "description": "smart-classroom 项目"
   },
   "screen.deleteTip": {
-    "message": "确定清除当前设备下缓存的所有资源吗？",
+    "message": "Are you sure you want to clear all cached resources on this device?",
     "description": "smart-classroom 项目"
   },
   "screen.shareScreen": {
-    "message": "同屏",
+    "message": "Share",
     "description": "smart-classroom 项目"
   },
   "screen.shareScreenSuccess": {
-    "message": "同屏成功，学生可以看到讲授内容了",
+    "message": "Shared successfully - Students can see the shared content on their own devices!",
     "description": "smart-classroom 项目"
   },
   "screen.unshareScreenSuccess": {
-    "message": "已取消同屏",
+    "message": "Stopped screen sharing!",
     "description": "smart-classroom 项目"
   },
   "screen.firsttimeShareScreenSuccess": {
-    "message": "点击同屏后，学生可在电脑端看到您的授课内容，并可对有疑问的内容进行标记。目前仅支持PPT同屏，其他资源格式同屏稍后开放。",
+    "message": "When you share the screen, students can view your screen presentation from their own devices. They can also mark the  content page they have questions. Currently only supports sharing PowerPoint content. Other types of content sharing will be added later.",
     "description": "smart-classroom 项目"
   },
   "screen.gotIt": {
-    "message": "知道了",
+    "message": "Got It!",
     "description": "smart-classroom 项目"
   },
   "screen.xStudentsHasDoubt": {
-    "message": "{num}人对此页有疑问",
+    "message": "{num} student(s) have questions about this page",
     "description": "smart-classroom 项目"
   },
   "screen.doubtStudents": {
-    "message": "对此页有疑问的学生：",
+    "message": "Students with questions about this page",
     "description": "smart-classroom 项目"
   },
   "screen.hasxDoubts": {
-    "message": "本堂课{num}次疑问",
+    "message": "Total session questions: {num}",
     "description": "smart-classroom 项目"
   },
   "screen.waitAnswer": {
-    "message": "待抢答",
+    "message": "Available",
     "description": "smart-classroom 项目"
   },
   "screen.recentOpen": {
-    "message": "最近打开",
+    "message": "Recently Opened",
     "description": "smart-classroom 项目"
   },
   "screen.openResource": {
-    "message": "打开资源",
+    "message": "Open Resource",
     "description": "smart-classroom 项目"
   },
   "screen.createAttendance": {
-    "message": "发起点名",
+    "message": "Launch Roll Call",
     "description": "smart-classroom 项目"
   },
   "screen.leadTip1": {
-    "message": "1.您可以提前创建好活动，将其保存为草稿。上课后，可以打开草稿并开始活动",
+    "message": "1. You can create activities in advance and launch them at any time after the classroom session starts.",
     "description": "smart-classroom 项目"
   },
   "screen.leadTip2": {
-    "message": "2.您可以从资源中找到并打开教学用的PPT或者视频等课件，上课后，可以在打开记录里快速找到他们。",
+    "message": "2. Open the resources you want to use in this session, such as PowerPoint or videos. This way you can easily find these resources in the list of recently opened files.",
     "description": "smart-classroom 项目"
   },
   "screen.leadTip3": {
-    "message": "3.当您完成准备工作后，点击右侧的“上课”按钮开始上课。",
+    "message": "3. After you have completed these session preparations, tap the Start button on the right to start this session.",
     "description": "smart-classroom 项目"
   },
   "vote.start": {
-    "message": "发起投票",
+    "message": "Launch Poll",
     "description": "smart-classroom 项目"
   },
   "vote.title": {
-    "message": "标题",
+    "message": "Title",
     "description": "smart-classroom 项目"
   },
   "vote.inputTitle": {
-    "message": "请输入标题",
+    "message": "Enter the title",
     "description": "smart-classroom 项目"
   },
   "vote.notMust": {
-    "message": "非必填",
+    "message": "Enter the choice (optional)",
     "description": "smart-classroom 项目"
   },
   "vote.options": {
-    "message": "选项",
+    "message": "Add Option",
     "description": "smart-classroom 项目"
   },
   "vote.setting": {
-    "message": "设置",
+    "message": "Settings",
     "description": "smart-classroom 项目"
   },
   "vote.selectOne": {
-    "message": "单选",
+    "message": "One response",
     "description": "smart-classroom 项目"
   },
   "vote.multipart": {
-    "message": "多选",
+    "message": "Multiple responses",
     "description": "smart-classroom 项目"
   },
   "vote.score": {
-    "message": "积分",
+    "message": "Points",
     "description": "smart-classroom 项目"
   },
   "vote.toast1": {
-    "message": "有选项内容为空",
+    "message": "Some option fields are empty!",
     "description": "smart-classroom 项目"
   },
   "vote.toast2": {
-    "message": "选项最多26个",
+    "message": "Up to 26 options!",
     "description": "smart-classroom 项目"
   },
   "vote.toast3": {
-    "message": "选项个数为2,只能单选",
+    "message": "Two options and one response only!",
     "description": "smart-classroom 项目"
   },
   "vote.ticket": {
-    "message": "票",
+    "message": "Votes",
     "description": "smart-classroom 项目"
   },
   "vote.unVote": {
-    "message": "未投",
+    "message": "Not voted",
     "description": "smart-classroom 项目"
   },
   "vote.peopleNum": {
-    "message": "人",
+    "message": " ",
     "description": "smart-classroom 项目"
   },
   "vote.allClass": {
-    "message": "全部班级",
+    "message": "All classes",
     "description": "smart-classroom 项目"
   },
   "vote.unVoteNum": {
-    "message": "未投人数",
+    "message": "Not Voted",
     "description": "smart-classroom 项目"
   },
   "vote.finishConfirm": {
-    "message": "确定结束当前投票吗？",
+    "message": "Are sure you want to end this poll?",
     "description": "smart-classroom 项目"
   },
   "vote.finished": {
-    "message": "已结束",
+    "message": "Ended",
     "description": "smart-classroom 项目"
   },
   "vote.peopleNumber": {
-    "message": "人数",
+    "message": "Voters",
     "description": "smart-classroom 项目"
   },
   "vote.deleteConfirm": {
-    "message": "确定删除草稿吗？",
+    "message": "Are you sure you want to delete this activity draft?",
     "description": "smart-classroom 项目"
   },
   "vote.maxSelectableCount": {
-    "message": "多选，最多选{selectionableCount}个",
+    "message": "Multiple responses - select up to {selectionableCount}",
     "description": "smart-classroom 项目"
   },
   "vote.maxSelectable": {
-    "message": "最多选择数量",
+    "message": "Maximum Number of Responses",
     "description": "smart-classroom 项目"
   },
   "vote.selectableNumLower": {
-    "message": "可选项数量不足",
+    "message": "Available options are not enough!",
     "description": "smart-classroom 项目"
   },
   "vote.switchClass": {
-    "message": "切换班级",
+    "message": "Switch Class",
     "description": "smart-classroom 项目"
   },
   "vote.optionsNum": {
-    "message": "选项人数",
+    "message": "  option votes",
     "description": "smart-classroom 项目"
   },
   "answer.inputAnswerContent": {
-    "message": "请输入抢答内容",
+    "message": "Enter the Q&A question",
     "description": "smart-classroom 项目"
   },
   "answer.answerNum": {
-    "message": "抢答人数",
+    "message": "Seats",
     "description": "smart-classroom 项目"
   },
   "answer.endAnswerConfirm": {
-    "message": "确定结束当前抢答吗？",
+    "message": "Are you sure you want to end this Q&A activity?",
     "description": "smart-classroom 项目"
   },
   "answer.waitIn": {
-    "message": "待加入",
+    "message": "Available",
     "description": "smart-classroom 项目"
   },
   "answer.noStu": {
-    "message": "没有学生参与",
+    "message": "No students participated!",
     "description": "smart-classroom 项目"
   },
   "answer.selectStu": {
-    "message": "请选择学生",
+    "message": "Select a Student",
     "description": "smart-classroom 项目"
   },
   "answer.sort": {
-    "message": "排序",
+    "message": "Sort",
     "description": "smart-classroom 项目"
   },
   "answer.joinTimes": {
-    "message": "按次数排序",
+    "message": "Sort by Participations",
     "description": "smart-classroom 项目"
   },
   "answer.stuNum": {
-    "message": "按学号排序",
+    "message": "Sort by Student ID",
     "description": "smart-classroom 项目"
   },
   "answer.addStu": {
-    "message": "添加学生",
+    "message": "Select Student",
     "description": "smart-classroom 项目"
   },
   "answer.totalTips": {
-    "message": "抢答{count}次，被选{selectPersonCount}次",
+    "message": "Grab: {count} Select: {selectPersonCount}",
     "description": "smart-classroom 项目"
   },
   "answer.hasMe": {
-    "message": "已抢答",
+    "message": "Grabbed",
     "description": "smart-classroom 项目"
   },
   "answer.isFull": {
-    "message": "名额已抢完",
+    "message": "No more available!",
     "description": "smart-classroom 项目"
   },
   "live.attdenceLive": {
-    "message": "参与直播 （{ count }）",
+    "message": "Participated in Conference ({ count }) ",
     "description": "smart-classroom 项目"
   },
   "live.classLive": {
-    "message": "课堂直播",
+    "message": "Classroom Conference",
     "description": "smart-classroom 项目"
   },
   "live.liveVideo": {
-    "message": "直播视频",
+    "message": "Conference Video",
     "description": "smart-classroom 项目"
   },
   "live.tips": {
-    "message": "视频生成中，直播结束30分钟后可查看",
+    "message": "Generating video... and playback will be available 30 minutes after the conference ends!",
     "description": "smart-classroom 项目"
   },
   "live.tips2": {
-    "message": "当前正在直播，下课将自动关闭直播，确定下课？",
+    "message": "The conference is in progress. Ending the classroom session will terminate the conference. Are you sure you want to end this session?",
     "description": "smart-classroom 项目"
   },
   "live.tips3": {
-    "message": "当前正在直播，请结束直播后再离开课堂。",
+    "message": "The conference is still in progress. Please leave the classroom session after the conference is ended.",
     "description": "smart-classroom 项目"
   },
   "live.liveRecord": {
-    "message": "直播回放",
+    "message": "Conference Playback",
     "description": "smart-classroom 项目"
   },
   "live.living": {
-    "message": "直播中",
+    "message": "Conference in progress",
     "description": "smart-classroom 项目"
   },
   "live.tip4": {
-    "message": "首次使用IdeaHub设备加入会议时，我们需要知道当前设备的SIP号码",
+    "message": "To join the conference via IdeaHub for the first time, you need to know the device's SIP number.",
     "description": "smart-classroom 项目"
   },
   "live.tip5": {
-    "message": "请输入SIP号码",
+    "message": "Enter the SIP number",
     "description": "smart-classroom 项目"
   },
   "live.tip6": {
-    "message": "如何找到SIP号码：进入Idea-Hub的设置界面，设置 > 设备信息 > SIP号码",
+    "message": "How to find SIP number? IdeaHub: Settings > Set > Device Information > SIP Number",
     "description": "smart-classroom 项目"
   },
   "live.tip7": {
-    "message": "使用当前Idea-Hub设备加入会议？",
+    "message": "Do you want to join the conference using IdealHub?",
     "description": "smart-classroom 项目"
   },
   "live.replaceEquipment": {
-    "message": "更换设备",
+    "message": "Switch Device",
     "description": "smart-classroom 项目"
   },
   "live.joinMeeting": {
-    "message": "加入会议",
+    "message": "Join Conference",
     "description": "smart-classroom 项目"
   },
   "live.meeting": {
-    "message": "正在直播中",
+    "message": "In conference...",
     "description": "smart-classroom 项目"
   },
   "live.enterSipNum": {
-    "message": "请输入正确的大屏sip码",
+    "message": "Enter the correct SIP number",
     "description": "smart-classroom 项目"
   },
   "live.live": {
-    "message": "直播",
+    "message": "Conferences",
     "description": "smart-classroom 项目"
   },
   "welink.loginTitle": {
-    "message": "请先绑定UClass的账号，绑定后可用welink直接登录",
+    "message": "Link to your UClass account first and then you can directly log in using WeLink",
     "description": "smart-classroom 项目"
   },
   "welink.user": {
-    "message": "用户名",
+    "message": "Username",
     "description": "smart-classroom 项目"
   },
   "welink.bind": {
-    "message": "绑定",
+    "message": "Link",
     "description": "smart-classroom 项目"
   },
   "welink.bindSuccess": {
-    "message": "账号绑定成功！",
+    "message": "Linked to your account successfully!",
     "description": "smart-classroom 项目"
   },
   "welink.upErr": {
-    "message": "用户名或密码错误，请重试！",
+    "message": "Incorrect username or password - Try again!",
     "description": "smart-classroom 项目"
   },
   "welink.welinkUser": {
-    "message": "Welink账号",
+    "message": "WeLink Account",
     "description": "smart-classroom 项目"
   },
   "welink.organization": {
-    "message": "所在机构",
+    "message": "Your Organization",
     "description": "smart-classroom 项目"
   },
   "welink.iKnow": {
-    "message": "我知道了",
+    "message": "Got It!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.classroom": {
-    "message": "教室",
+    "message": "Classroom",
     "description": "smart-classroom 项目"
   },
   "multiScreen.network": {
-    "message": "网络：",
+    "message": "Network: ",
     "description": "smart-classroom 项目"
   },
   "multiScreen.teacherScreen": {
-    "message": "教师屏",
+    "message": "Teacher Screen",
     "description": "smart-classroom 项目"
   },
   "multiScreen.groupScreen": {
-    "message": "小组屏",
+    "message": "Group Screen",
     "description": "smart-classroom 项目"
   },
   "multiScreen.offline": {
-    "message": "离线",
+    "message": "Offline",
     "description": "smart-classroom 项目"
   },
   "multiScreen.getFail": {
-    "message": "获取信息失败",
+    "message": "Failed to retrieve data!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.removeGroupScreen": {
-    "message": "从教室中移除",
+    "message": "Remove",
     "description": "smart-classroom 项目"
   },
   "multiScreen.confirmToRemove": {
-    "message": "确定将该小组屏从当前教室移除？",
+    "message": "Are you sure you want to remove this group screen from the classroom?",
     "description": "smart-classroom 项目"
   },
   "multiScreen.removeSuccess": {
-    "message": "移除成功",
+    "message": "Removed successfully!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.removeFail": {
-    "message": "移除失败",
+    "message": "Failed to remove!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.editSuccess": {
-    "message": "修改成功",
+    "message": "Edited successfully!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.groupDiscussionClassroom": {
-    "message": "分组研讨教室",
+    "message": "Seminar Classroom",
     "description": "smart-classroom 项目"
   },
   "multiScreen.school": {
-    "message": "学校",
+    "message": "School",
     "description": "smart-classroom 项目"
   },
   "multiScreen.classroomCode": {
-    "message": "教室编号",
+    "message": "Classroom Code",
     "description": "smart-classroom 项目"
   },
   "multiScreen.enterClassroomCode": {
-    "message": "请输入教室编号",
+    "message": "Enter the classroom code",
     "description": "smart-classroom 项目"
   },
   "multiScreen.classroomCodeTip": {
-    "message": "请将教师屏和小组屏绑定在同一间教室。教室编号仅支持英文字母和数字。",
+    "message": "Link the teacher screen and the group screens with the same classroom.  Classroom code supports numbers and English letters only.",
     "description": "smart-classroom 项目"
   },
   "multiScreen.theCurrentDeviceIs": {
-    "message": "当前设备为",
+    "message": "Current Device",
     "description": "smart-classroom 项目"
   },
   "multiScreen.activationPrompt": {
-    "message": "分组研讨型智慧教室包含1块教师屏和若干小组屏，通过UCLass客户端可以实现教师屏和小组屏之间的屏幕广播、小组对比和自带设备投屏等功能。请确保您所在的教室正确配置了教师屏和小组屏，并购买了多屏互动的服务。",
+    "message": "The smart seminar classroom contains a teacher screen and multiple group screens. UCLass smart classroom system enables screen broadcasting and BYOD device casting. Please make sure that your classroom has been correctly configured with teacher screens and group screens, and you have purchased the multi-screen service.",
     "description": "smart-classroom 项目"
   },
   "multiScreen.contactUs": {
-    "message": "联系我们",
+    "message": "Contact Us",
     "description": "smart-classroom 项目"
   },
   "multiScreen.detection": {
-    "message": "检测",
+    "message": "Check",
     "description": "smart-classroom 项目"
   },
   "multiScreen.detecting": {
-    "message": "正在检测设备，请勿关闭页面",
+    "message": "Checking devices... - Do not close the screen!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.detectionTip": {
-    "message": "您已连续检测了3次，请稍候再试。",
+    "message": "You have checked 3 times - Try again later!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.enterClassroomCodeTip": {
-    "message": "请输入英文字母或数字",
+    "message": "Enter English letters or numbers!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.enterClassroomCodeTip1": {
-    "message": "该设备已经已经绑定了教室{oldCode}，确定将教室改为{code}？",
+    "message": "The device is linked with Classroom {oldCode}. Are you sure to you want to change the classroom to {code}?",
     "description": "smart-classroom 项目"
   },
   "multiScreen.enterClassroomCodeTip2": {
-    "message": "教室编号不能超过10个字符",
+    "message": "The classroom code cannot exceed 10 characters!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.setSuccess": {
-    "message": "设置成功",
+    "message": "Set successfully!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.setSuccess1": {
-    "message": "设置成功，请登录后使用分组研讨功能。",
+    "message": "Set successfully - Log in and start to use the multi-screens feature!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.setFail": {
-    "message": "设置失败",
+    "message": "Failed to set!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.noChange": {
-    "message": "已经绑定了教室，无需重复绑定",
+    "message": "It is already linked to the classroom, no need to re-link!",
     "description": "smart-classroom 项目"
   },
   "loginCode.loginCode": {
-    "message": "扫码登录",
+    "message": "QA Code Login",
     "description": "smart-classroom 项目"
   },
   "loginCode.scanSuccess": {
-    "message": "扫描成功",
+    "message": "Scanned successfully!",
     "description": "smart-classroom 项目"
   },
   "loginCode.refresh": {
-    "message": "刷新",
+    "message": "Refresh",
     "description": "smart-classroom 项目"
   },
   "loginCode.scan": {
-    "message": "扫一扫",
+    "message": "Scan",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg1": {
-    "message": "请使用手机版",
+    "message": "Use your mobile device ",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg2": {
-    "message": "优学院APP",
+    "message": "ULearning app ",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg4": {
-    "message": "请在优学院APP上确认登录",
+    "message": "Confirm your login on ULearning mobile app",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg5": {
-    "message": "二维码已过期，请刷新后再试",
+    "message": "The QR code has expired - Refresh and try again!",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg6": {
-    "message": "仅老师账号登录使用",
+    "message": "For teacher accounts to log in only!",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg7": {
-    "message": "请先升级“优学院APP”至最新版，登录后在右上角点击扫一扫",
+    "message": "Upgrade to the latest version of ULearning app on your mobile device and then scan to log in",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg8": {
-    "message": "欢迎使用优学院智慧课堂",
+    "message": "Welcome to ULearning Smart Classroom!",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg9": {
-    "message": "请使用手机版{msg}扫码登录",
+    "message": "Use {msg} to scan the QR code to log in",
     "description": "smart-classroom 项目"
   },
   "candidates.info": {
-    "message": "详情",
+    "message": "Details",
     "description": "smart-classroom 项目"
   },
   "candidates.instructions": {
-    "message": "话题说明",
+    "message": "Topic Content",
     "description": "smart-classroom 项目"
   },
   "candidates.attachment": {
-    "message": "{num}个附件，请前往教学云平台讨论模块查看附件详情",
+    "message": "{num} attachment(s) - Go to LMS (Course > Discussions) to view the attachment(s)",
     "description": "smart-classroom 项目"
   },
   "candidates.notChoose": {
-    "message": "未被选过的学生数不足（剩余人数：{num}），请重新设置人数，或者创建一个新的选人活动。",
+    "message": "The number of unselected students is insufficient (unselected: {num}). Either reset the number to pick or create a new Pick activity.",
     "description": "smart-classroom 项目"
   },
   "candidates.numberRandom": {
-    "message": "选人数量",
+    "message": "Number of Students to Pick",
     "description": "smart-classroom 项目"
   },
   "candidates.notPickMember": {
-    "message": "所有学生都被选过了，请创建一个新的选人活动",
+    "message": "No more students available - Create a Pick activity!",
     "description": "smart-classroom 项目"
   },
   "candidates.msg1": {
-    "message": "最多10个学生",
+    "message": "Up to 10 students",
     "description": "smart-classroom 项目"
   },
   "candidates.msg2": {
-    "message": "标题长度不能超过200个字符",
+    "message": "Title cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "candidates.record": {
-    "message": "记录",
+    "message": "Records",
     "description": "smart-classroom 项目"
   },
   "candidates.neverRefresh": {
-    "message": "不刷新",
+    "message": "Do not refresh",
     "description": "smart-classroom 项目"
   },
   "common.loading": {
-    "message": "正在加载中...",
+    "message": "Loading...",
     "description": "smart-classroom 项目"
   },
   "classroom.interactionsDesc2": {
-    "message": "互动次数=课堂中活动（不包括点名）的参与人次之和",
+    "message": "Number of interactions = total number of the participations of all students in the activities (excluding the roll call) in the classroom session",
     "description": "smart-classroom 项目"
   },
   "login.userAgreement": {
-    "message": "用户协议",
+    "message": "User Agreement",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg1": {
-    "message": "故障检测",
+    "message": "Troubleshoot",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg2": {
-    "message": "网络",
+    "message": "Network",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg3": {
-    "message": "检测中...",
+    "message": "Checking...",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg4": {
-    "message": "当前网络",
+    "message": "Network",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg5": {
-    "message": "有线",
+    "message": "Wired",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg6": {
-    "message": "当前网络:WIFI,为了保障广播清晰度和稳定性请使用有线网络。",
+    "message": "Network: Wi-Fi. To ensure broadcast clarity and stability, use a wired network!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg7": {
-    "message": "组网IP",
+    "message": "Pre-Assigned IP",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg8": {
-    "message": "当前IP",
+    "message": "Current IP",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg9": {
-    "message": "当前IP和组网IP不一致！",
+    "message": "The current IP is not same as the pre-assigned IP!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg10": {
-    "message": "请将设备的IP设置为{ip}，设置完成后，请重启UClass应用",
+    "message": "Set the device IP address as {ip}. When it's done, restart UClass app.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg11": {
-    "message": "查看操作说明",
+    "message": "View the instructions",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg12": {
-    "message": "请关闭WI-FI功能。设备同时连接有线和WIFI会导致设备IP地址异常。",
+    "message": "Turn off Wi-Fi. Connecting to both wired and Wi-Fi networks at the same time will cause the device IP error.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg13": {
-    "message": "设置完成后，在教师端重新开启广播或小组对比。",
+    "message": "After the setting is completed, restart Broadcast or Group Comparison on the teacher screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg14": {
-    "message": "证书",
+    "message": "License",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg15": {
-    "message": "正常",
+    "message": "Normal",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg17": {
-    "message": "其它",
+    "message": "Others",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg18": {
-    "message": "如有其他问题，建议关闭并重新打开UClass，服务会进行重启。",
+    "message": "If you're still having trouble, turn off and then restart the UClass app, and the service will be restarted.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg19": {
-    "message": "小组屏显示离线或者无法接收广播画面，该怎么办？",
+    "message": "What should I do if a group screen shows offline or cannot receive the broadcast screen?",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg20": {
-    "message": "检查小组屏的UClass是否正在运行",
+    "message": "Check whether UClass app of the group screen is running.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg21": {
-    "message": "确保小组屏的UClass应用正在运行。小组屏的UClass未打开或者处于后台运行时无法接受教师屏的广播。",
+    "message": "Make sure the UClass app on the group screen is working as expected. When UClass is not turned on or is not running in the background, the broadcast of the teacher screen cannot be received.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg22": {
-    "message": "可以尝试关闭并重新打开小组屏的UClass应用，小组屏将会尝试重新连接教师屏，重新连接需要10s左右的时间。",
+    "message": "Close the UClass app on the group screen and restart it. Restarting takes about 10 seconds.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg23": {
-    "message": "查看如何关闭或打开UClass应用",
+    "message": "View how to close/start UClass",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg24": {
-    "message": "教师屏尝试关闭并重新打开相关功能",
+    "message": "Try to close and then re-start the relevant feature on the teacher screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg25": {
-    "message": "在小组屏的UClass运行正常的情况下，尝试在教师屏关闭并重新打开广播/小组对比等功能，系统将会尝试重新连接小组屏。",
+    "message": "If UClass of the group screen is running as expected, try to close and then restart Broadcast or Group Comparison. The system will try to reconnect the group screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg26": {
-    "message": "可以尝试关闭并重新打开教师屏的UClass应用，服务会进行重启。",
+    "message": "You can try to close and then restart UClass on the teacher screen. The service will restart.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg27": {
-    "message": "检查小组屏的网络连接/IP地址是否正确",
+    "message": "Check wheter the network connection/IP address of the group screen is correct.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg28": {
-    "message": "查看小组屏左下角，检查当前IP和组网IP是否一致。",
+    "message": "Check whether the current IP address is the same as the pre-assigned IP address on the lower left corner of the group screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg29": {
-    "message": "检查小组屏的网络连接是否正常。",
+    "message": "Check whether the network connection of the group screen is working as expected.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg30": {
-    "message": "按照提示进行相关操作后任然无法解决问题，请寻求学校的IT人员的帮助。",
+    "message": "If the problem still cannot be fixed after following the instructions, contact your school's IT helpdesk for assistance.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg31": {
-    "message": "如果学校IT人员确定当前功能无法修复的情况，请与我们的技术支持进行联系。为了方便我们的技术人员定位问题，点击这里",
+    "message": "If IT can't fix it, contact our technical support. To help our engineers troubleshoot, click here ",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg32": {
-    "message": "发送错误报告",
+    "message": "to report the problem.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg33": {
-    "message": "点击右下角设置",
+    "message": "Tap the Settings link on the lower right corner",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg34": {
-    "message": "设置面板中找到以下路径查看：设置>高级设置>有线网络",
+    "message": "Follow the path in the settings panel: Settings > Advanced Settings > Wired Network",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg35": {
-    "message": "首先将有线网络关闭",
+    "message": "First, turn off the wired network",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg36": {
-    "message": "设置ip地址",
+    "message": "Set the IP address",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg37": {
-    "message": "点击图标",
+    "message": "Tap the icon",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg38": {
-    "message": "返回首页",
+    "message": "Back to home screen",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg39": {
-    "message": "点击右上角的“关闭”图标关闭UClass应用",
+    "message": "Tap the Close icon in the upper right corner to close UClass",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg40": {
-    "message": "小组",
+    "message": "Group",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg42": {
-    "message": "发送中，请稍等",
+    "message": "Sending..., please wait!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg43": {
-    "message": "发送成功",
+    "message": "Sent successfully!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg44": {
-    "message": "发送失败",
+    "message": "Failed to send!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg45": {
-    "message": "点击首页右下角设置，设置面板中找到以下路径查看：设置>高级设置>有线网络。",
+    "message": "Tap the Settings link in the lower right corner. Follow the path in the settings panel: Settings > Advanced Settings > Wired Network.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg46": {
-    "message": "点击图标返回首页，点击右上角的“关闭”图标关闭UClass应用",
+    "message": "Tap the icon to return to the home screen, and then tap the Close icon in the upper right corner to close UClass.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg47": {
-    "message": "注：请勿同时连接多个网络，设备同时连接有线和WIFI会导致设备IP地址异常。",
+    "message": "Note: Do not connect to multiple networks at the same time. Connecting to both wired and Wi-Fi networks at the same time will cause the device IP error.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg48": {
-    "message": "设置路径：设置>高级设置>有线网络。",
+    "message": "Setting path: Settings > Advanced Settings > Wired Network.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code1": {
-    "message": "无法获取Mac地址",
+    "message": "Unable to get MAC address!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code2": {
-    "message": "无法获取硬件信息",
+    "message": "Unable to get hardware information!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code3": {
-    "message": "检验Mac地址失败",
+    "message": "Failed to verify MAC address!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code4": {
-    "message": "校验硬件信息失败",
+    "message": "Failed to verify hardware information!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code5": {
-    "message": "SDK类型不一致",
+    "message": "Inconsistent SDK type!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code6": {
-    "message": "授权已过期",
+    "message": "The license has expired!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code7": {
-    "message": "无法解析license",
+    "message": "Unable to parse license!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code8": {
-    "message": "其他验证错误",
+    "message": "Other errors!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code9": {
-    "message": "LICENSE信息为空",
+    "message": "The License information is empty!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code10": {
-    "message": "平台类型不匹配(windows, android 必须匹配)",
+    "message": "Platform type do not match (software version has to match the corresponding OS such as windows, android, or HarmonyOS).",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code11": {
-    "message": "productId不匹配",
+    "message": "ProductId does not match!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code12": {
-    "message": "输入的sdkType参数不合法(请输入有效的sdkType)",
+    "message": "The entered sdkType parameter is invalid (Enter a valid sdkType)!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.photoUpload": {
-    "message": "拍照上传",
+    "message": "Upload",
     "description": "smart-classroom 项目"
   },
   "photoUpload.commonUse": {
-    "message": "常用功能",
+    "message": "Frequently Used Features",
     "description": "smart-classroom 项目"
   },
   "photoUpload.moreFn": {
-    "message": "更多功能",
+    "message": "More Features",
     "description": "smart-classroom 项目"
   },
   "photoUpload.when": {
-    "message": "用时",
+    "message": "Time Used",
     "description": "smart-classroom 项目"
   },
   "photoUpload.notation": {
-    "message": "批注",
+    "message": "Annotations",
     "description": "smart-classroom 项目"
   },
   "photoUpload.delnotation": {
-    "message": "删除批注",
+    "message": "Delete Annotations",
     "description": "smart-classroom 项目"
   },
   "photoUpload.submitNumber": {
-    "message": "提交人数",
+    "message": "Submissions",
     "description": "smart-classroom 项目"
   },
   "photoUpload.noInvolved": {
-    "message": "未参与",
+    "message": "Not participated",
     "description": "smart-classroom 项目"
   },
   "photoUpload.share": {
-    "message": "分享",
+    "message": "Share",
     "description": "smart-classroom 项目"
   },
   "photoUpload.shareSucc": {
-    "message": "分享成功",
+    "message": "Shared successfully!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.sharestu": {
-    "message": "分享给学生",
+    "message": "Share with students",
     "description": "smart-classroom 项目"
   },
   "photoUpload.prompt": {
-    "message": "提示",
+    "message": "Note",
     "description": "smart-classroom 项目"
   },
   "photoUpload.screenshots": {
-    "message": "截图",
+    "message": "Screenshots",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg1": {
-    "message": "常用的功能将会显示在右侧菜单栏中，最多选择6个",
+    "message": "Frequently used features are displayed in the right menu bar, and you can select up to 6 to display.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg2": {
-    "message": "常用功能最多选6个",
+    "message": "Select no more than 6 features!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg5": {
-    "message": "分享给学生",
+    "message": "Share with Students",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg6": {
-    "message": "分享给本课堂内的所有学生，学生可以在课堂活动记录中查看。",
+    "message": "Share with all students in this session and students can view it in the session activity records",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg7": {
-    "message": "批注正在保存中",
+    "message": "Annotations are being saved...",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg8": {
-    "message": "批注正在删除中",
+    "message": "Annotations are being deleted...",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg9": {
-    "message": "确定删除批注？",
+    "message": "Are you sure you want to delete these annotations?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg11": {
-    "message": "截图正在生成中",
+    "message": "The screenshot is being generated...",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg12": {
-    "message": "请上课后分享给学生",
+    "message": "Share with students after the classroom session starts",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg13": {
-    "message": "标题不能超过2000个字符",
+    "message": "Title cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg14": {
-    "message": "删除后，学生提交的图片将无法找回，需要学生重新提交，确定删除？如果活动已结束，学生将无法重新提交。",
+    "message": "After deletion, the images submitted by students cannot be restored. Students need to re-submit them. Are you sure you want to delete? Students will not be able to re-submit if the activity has ended.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg16": {
-    "message": "还没有学生提交",
+    "message": "No submissions yet!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg17": {
-    "message": "确定结束当前拍照上传吗？",
+    "message": "Are you sure you want to end this Upload activity?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg18": {
-    "message": "截图失败",
+    "message": "Failed to take a screenshot!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg19": {
-    "message": "连接超时",
+    "message": "Connecting timed out!",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeeting": {
-    "message": "腾讯会议",
+    "message": "VooV Meeting",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.createMeeting": {
-    "message": "创建会议",
+    "message": "Create Meeting",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.addMeeting": {
-    "message": "加入会议",
+    "message": "Join Meeting",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg1": {
-    "message": "自动开启云录制",
+    "message": "Start cloud recording automatically",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg3": {
-    "message": "会议正在进行中…",
+    "message": "The meeting is in progress...",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg4": {
-    "message": "课堂名称：",
+    "message": "Session Name: ",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg5": {
-    "message": "开始时间：",
+    "message": "Start Time: ",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg6": {
-    "message": "会议号：",
+    "message": "Meeting ID: ",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg7": {
-    "message": "会议功能由腾讯会议提供，初次使用需要登录个人的腾讯会议账号并进行授权。如需解除授权，可以腾讯会议客户端中进行操作。",
+    "message": "The meeting feature is provided by VooV Meeting. For the first-time use, you need to log in to your personal VooV Meeting account to authorize. If you need to deauthorize, you can do it in VooV Meeting Client.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.instructions": {
-    "message": "说明",
+    "message": "Instructions",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.authorization": {
-    "message": "去授权",
+    "message": "Authorize",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveClass": {
-    "message": "保存到课堂",
+    "message": "Save to Classroom Session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.openFile": {
-    "message": "打开课堂中的文件",
+    "message": "Open Session Files",
     "description": "smart-classroom 项目"
   },
   "whiteboard.processing": {
-    "message": "正在处理中，请稍后...",
+    "message": "Processing..., please wait!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.designation": {
-    "message": "名称",
+    "message": "Name",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClass": {
-    "message": "选择课堂",
+    "message": "Select Session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.open": {
-    "message": "打开",
+    "message": "Open",
     "description": "smart-classroom 项目"
   },
   "whiteboard.nameNotNull": {
-    "message": "名称不能为空",
+    "message": "Name cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectCourse": {
-    "message": "请选择课程",
+    "message": "Select course",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClassroom": {
-    "message": "请选择课堂",
+    "message": "Select session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg4": {
-    "message": "您已成功保存板书到{name}，现在可以在课堂文件中查看了。",
+    "message": "You have successfully saved the whiteboard content to {name} and can now view it in Session Sources",
     "description": "smart-classroom 项目"
   },
   "whiteboard.noData": {
-    "message": "没有已保存的白板文件",
+    "message": "No saved whiteboard files found!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveErr": {
-    "message": "保存失败，无法连接到服务器",
+    "message": "Failed to save, unable to connect to server!",
     "description": "smart-classroom 项目"
   },
   "remark.remark": {
-    "message": "备注，最多200字",
+    "message": "Up to 200 characters!",
     "description": "smart-classroom 项目"
   },
   "custom.custom": {
-    "message": "自定义",
+    "message": "Custom",
     "description": "smart-classroom 项目"
   },
   "custom.pleaseScore": {
-    "message": "请输入分值",
+    "message": "Enter the points",
     "description": "smart-classroom 项目"
   },
   "custom.qrMsg": {
-    "message": "使用微信/优学院APP扫码进行分享",
+    "message": "Use ULearning App to scan the QR code to share",
     "description": "smart-classroom 项目"
   },
   "discuss.duration": {
-    "message": "持续时间",
+    "message": "Duration",
     "description": "smart-classroom 项目"
   },
   "discuss.unlimited": {
-    "message": "不限制",
+    "message": "No limit",
     "description": "smart-classroom 项目"
   },
   "discuss.minute": {
-    "message": "分钟",
+    "message": " minutes",
     "description": "smart-classroom 项目"
   },
   "discuss.again": {
-    "message": "确定再次开启讨论吗？",
+    "message": "Are you sure you want to re-open this Discussions？",
     "description": "smart-classroom 项目"
   },
   "discuss.end": {
-    "message": "确定结束当前讨论吗？",
+    "message": "Are you sure you want to end this Discussions？",
     "description": "smart-classroom 项目"
   },
   "discuss.successStart": {
-    "message": "开启成功",
+    "message": "Started successfully!",
     "description": "smart-classroom 项目"
   },
   "discuss.successEnd": {
-    "message": "结束成功",
+    "message": "Ended successfully!",
     "description": "smart-classroom 项目"
   },
   "discuss.failStart": {
-    "message": "开启失败",
+    "message": "Failed to start!",
     "description": "smart-classroom 项目"
   },
   "discuss.failEnd": {
-    "message": "结束失败",
+    "message": "Failed to end!",
     "description": "smart-classroom 项目"
   },
   "discuss.enterDuration": {
-    "message": "请输入持续时间",
+    "message": "Enter a duration!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code13": {
-    "message": "mac地址不匹配",
+    "message": "MAC address does not match!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code14": {
-    "message": "端口占用",
+    "message": "Port occupied!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code15": {
-    "message": "未知错误",
+    "message": "Unknown error!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.port": {
-    "message": "端口",
+    "message": "Port",
     "description": "smart-classroom 项目"
   },
   "faultDetect.portError": {
-    "message": "通信端口被占用，请联系我们重新进行配置。",
+    "message": "The port is in use. Please contact us to reconfigure.",
     "description": "smart-classroom 项目"
   },
   "common.uploadError": {
-    "message": "失败",
+    "message": "Failed!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg20": {
-    "message": "学生上传图片/视频进行课堂展示",
+    "message": "Students upload images/videos for classroom presentation",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg21": {
-    "message": "允许学生查看其他学生的图片/视频",
+    "message": "Allow students to view images/videos uploaded by other students",
     "description": "smart-classroom 项目"
   },
   "classroom.reverseOrder": {
-    "message": "按时间倒序",
+    "message": "Sort Newest to Oldest",
     "description": "smart-classroom 项目"
   },
   "classroom.positiveOrder": {
-    "message": "按时间正序",
+    "message": "Sort Oldest to Newest",
     "description": "smart-classroom 项目"
   },
   "discuss.timeRemaining": {
-    "message": "剩余时间：",
+    "message": "Time Left: ",
     "description": "smart-classroom 项目"
   },
   "score.evaluatedScoreNew": {
-    "message": "学生评价平均分",
+    "message": "Avg. score of peer grading",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore": {
-    "message": "教师评分",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.weight": {
-    "message": "比重",
+    "message": "Weight",
     "description": "smart-classroom 项目"
   },
   "score.inputWeightTip": {
-    "message": "比重不能为空",
+    "message": "Weight cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
-    "message": "教师参与评分，与学生评分得出综合成绩",
+    "message": "Teacher grading is combined with student grading for the final score",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore1": {
-    "message": "教师评",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.waitTeacherScore": {
-    "message": "待教师评",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreWeightTip": {
-    "message": "教师评分所占比重{n}%",
+    "message": "Teacher grading weights {n}%",
     "description": "smart-classroom 项目"
   },
   "score.teacherRemark": {
-    "message": "教师评价",
+    "message": "Teacher Grading",
     "description": "smart-classroom 项目"
   },
   "score.inputScore": {
-    "message": "请输入分数",
+    "message": "Enter the points",
     "description": "smart-classroom 项目"
   },
   "score.inputScoreTip": {
-    "message": "分数不能为空",
+    "message": "Points cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.inputWeight": {
-    "message": "请输入比重",
+    "message": "Enter the weight",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc1": {
-    "message": "您也可以在手机上进行打分，打开课堂模块找到已发布的打分活动进行打分。",
+    "message": "You can also grade on ULearning app from your mobile device. Open the classroom module and find the launched Grading activity to grade.",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreWeightTitle": {
-    "message": "教师评分比重",
+    "message": "Teacher Grading Weight",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip": {
-    "message": "请输入0～100的整数",
+    "message": "Enter an integer from 0 to 100!",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip1": {
-    "message": "请输入0～{n}的整数",
+    "message": "Enter an integer from 0 to {n}!",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip2": {
-    "message": "请输入1～100的整数",
+    "message": "Enter an integer from 1 to 100!",
     "description": "smart-classroom 项目"
   },
   "score.fullmarks": {
-    "message": "满分",
+    "message": "Points possible",
     "description": "smart-classroom 项目"
   },
   "score.scoreSettings": {
-    "message": "评分设置",
+    "message": "Grading Settings",
     "description": "smart-classroom 项目"
   },
   "score.scoreTemplate": {
-    "message": "评分模板",
+    "message": "Grading Rubrics",
     "description": "smart-classroom 项目"
   },
   "score.createTemplate": {
-    "message": "新建模板",
+    "message": "Create Rubric",
     "description": "smart-classroom 项目"
   },
   "score.use": {
-    "message": "使用",
+    "message": "Select",
     "description": "smart-classroom 项目"
   },
   "score.createTemplateTip": {
-    "message": "最多创建50个模板",
+    "message": "Can add up to 50 rubrics!",
     "description": "smart-classroom 项目"
   },
   "score.inputName": {
-    "message": "请输入名称",
+    "message": "Enter the rubric name",
     "description": "smart-classroom 项目"
   },
   "score.confirmDelete": {
-    "message": "确定删除？",
+    "message": "Are you sure you want to delete it?",
     "description": "smart-classroom 项目"
   },
   "score.weightTip": {
-    "message": "比重{n}%",
+    "message": "Weight {n}%",
     "description": "smart-classroom 项目"
   },
   "score.open": {
-    "message": "开启",
+    "message": "Enabled",
     "description": "smart-classroom 项目"
   },
   "score.inputNameTip": {
-    "message": "名称不能为空",
+    "message": "Name cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.inputNameTip1": {
-    "message": "名称不能超过200个字符",
+    "message": "Name cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip7": {
-    "message": "每项内容不能超过100个字符",
+    "message": "Each grading item content cannot exceed 100 characters!",
     "description": "smart-classroom 项目"
   },
   "pick.confirmEnd": {
-    "message": "确定结束当前选人吗？",
+    "message": "Are you sure you want to end this Pick activity?",
     "description": "smart-classroom 项目"
   },
   "screen.openRecent": {
-    "message": "最近打开",
+    "message": "Recently Opened",
     "description": "smart-classroom 项目"
   },
   "live.createLive": {
-    "message": "创建直播",
+    "message": "Create Conference",
     "description": "smart-classroom 项目"
   },
   "live.reservation": {
-    "message": "今日预约",
+    "message": "Today's Conferences",
     "description": "smart-classroom 项目"
   },
   "live.noReservation": {
-    "message": "今日无直播",
+    "message": "No conferences today!",
     "description": "smart-classroom 项目"
   },
   "welink.bindMsg": {
-    "message": "请绑定UClass账号，绑定后可以使用welink扫码登录",
+    "message": "Link to your UClass account and then you can use WeLink to scan the code to log in.",
     "description": "smart-classroom 项目"
   },
   "welink.alreadyBind": {
-    "message": "当前账号已经绑定了Welink账号",
+    "message": "Your UClass account is already linked to WeLink!",
     "description": "smart-classroom 项目"
   },
   "welink.bindDesc": {
-    "message": "您未绑定welink账号， 请扫码绑定后发起直播。",
+    "message": "You have not linked UClass to your WeLink account. Please link it first and then launch the conference.",
     "description": "smart-classroom 项目"
   },
   "welink.huaweiLive": {
-    "message": "华为云会议",
+    "message": "Huawei Cloud Meeting",
     "description": "smart-classroom 项目"
   },
   "multiScreen.requestActivation": {
-    "message": "申请激活",
+    "message": "Request Activation",
     "description": "smart-classroom 项目"
   },
   "multiScreen.msg1": {
-    "message": "当前设备未激活多屏互动功能",
+    "message": "The multi-screens feature is not activated on this device!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.msg2": {
-    "message": "如已购买了我们的服务，请联系我们获取激活码并点击下方按钮开始激活。",
+    "message": "If you have already purchased this feature, contact us to get the activation code and then tap the button below to start activation.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg49": {
-    "message": "更新IP",
+    "message": "Update IP Address",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg51": {
-    "message": "更新成功！请重启教师屏和小组屏的UClass应用。",
+    "message": "Updated successfully! Restart the UClass app for both teacher screen and group screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg52": {
-    "message": "更新IP后，将以当前最新的IP和其它设备建立链接，确定更新IP？",
+    "message": "After the IP address is updated, the new IP will be used to establish connections with other devices. Are you sure to you want update the IP address?",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg53": {
-    "message": "为了系统稳定性，建议当前设备设置静态IP。使用有线网络的设备，在高级设置中设置静态IP；使用WiFi的设备可以在路由器里为该设备设置静态IP。",
+    "message": "For system stability, it is recommended to assign a static IP address for the device. For devices using a wired network, set a static IP address in Advanced Settings. For devices using Wi-Fi, you can set a static IP address in the router for the devices.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.version": {
-    "message": "版本",
+    "message": "Version",
     "description": "smart-classroom 项目"
   },
   "faultDetect.checkUpdates": {
-    "message": "检查更新",
+    "message": "Check Updates",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg2New": {
-    "message": "若需回放，请开启云录制，并确保腾讯会议录制空间充足。您可以在腾讯会议中下载保存后删除非必要的录制，以节省录制空间。",
+    "message": "If conference playback is needed, enable Cloud Recording. Make sure there is sufficient storage space in VooV Meeting. You can delete unneeded recordings to free the storage space.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeetingAccount": {
-    "message": "腾讯会议账号",
+    "message": "VooV Meeting Account",
     "description": "smart-classroom 项目"
   },
   "remark.allClassroom": {
-    "message": "全部课堂",
+    "message": "All Classroom Sessions",
     "description": "smart-classroom 项目"
   },
   "remark.classroomList": {
-    "message": "课堂列表",
+    "message": "Session List",
     "description": "smart-classroom 项目"
   },
   "wx.noticeClass": {
-    "message": "通知上课",
+    "message": "Notify Students",
     "description": "smart-classroom 项目"
   },
   "wx.noticeSucc": {
-    "message": "通知成功",
+    "message": "The session start notification is sent successfully!",
     "description": "smart-classroom 项目"
   },
   "wx.classQr": {
-    "message": "课堂码",
+    "message": "Session QR Code",
     "description": "smart-classroom 项目"
   },
   "wx.msg": {
-    "message": "学生微信/APP扫码进入课堂",
+    "message": "Students scan the QR code on ULearning app to enter the session",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerSheet": {
-    "message": "答题",
+    "message": "Quizzes",
     "description": "smart-classroom 项目"
   },
   "answerSheet.createAnswer": {
-    "message": "创建答题",
+    "message": "Create Quiz",
     "description": "smart-classroom 项目"
   },
   "answerSheet.optionsNum": {
-    "message": "选项数量",
+    "message": "Options",
     "description": "smart-classroom 项目"
   },
   "answerSheet.joinScore": {
-    "message": "参与活动，积分",
+    "message": "Participation: Points",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerScore": {
-    "message": "回答正确，积分",
+    "message": "Correct answer: Points",
     "description": "smart-classroom 项目"
   },
   "answerSheet.judge": {
-    "message": "判断",
+    "message": "True/False",
     "description": "smart-classroom 项目"
   },
   "answerSheet.selectAnswer": {
-    "message": "请同学们选择正确答案",
+    "message": "Select the correct answer(s)",
     "description": "smart-classroom 项目"
   },
   "answerSheet.judgeTorF": {
-    "message": "请判断对错",
+    "message": "Select true or false",
     "description": "smart-classroom 项目"
   },
   "answerSheet.stuAnswer": {
-    "message": "学生答案",
+    "message": "Student Responses",
     "description": "smart-classroom 项目"
   },
   "answerSheet.correct": {
-    "message": "正确率",
+    "message": "Accuracy Rate",
     "description": "smart-classroom 项目"
   },
   "answerSheet.endAnswer": {
-    "message": "结束答题",
+    "message": "End Quiz",
     "description": "smart-classroom 项目"
   },
   "answerSheet.updateAnswer": {
-    "message": "修改答案",
+    "message": "Edit Answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.revealAnswer": {
-    "message": "公布答案",
+    "message": "Post Answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.sureClose": {
-    "message": "确定结束答题？",
+    "message": "Are you sure you want to end this quiz?",
     "description": "smart-classroom 项目"
   },
   "answerSheet.setAnswer": {
-    "message": "设置正确答案",
+    "message": "Set Correct Answer(s)",
     "description": "smart-classroom 项目"
   },
   "answerSheet.onlyAnswer": {
-    "message": "本题有一个正确答案",
+    "message": "Has one correct answer",
     "description": "smart-classroom 项目"
   },
   "answerSheet.mulitAnswer": {
-    "message": "本题有多个正确答案",
+    "message": "Has one or more correct answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.scoreCorrectScore": {
-    "message": "参与{score}积分，回答正确{correctScore}积分",
+    "message": "Participation pts: {score}; Correct pts: {correctScore}",
     "description": "smart-classroom 项目"
   },
   "answerSheet.theRadio": {
-    "message": "单选题",
+    "message": "Multiple Choice",
     "description": "smart-classroom 项目"
   },
   "answerSheet.multipleChoice": {
-    "message": "多选题",
+    "message": "Multiple Answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.trueORfalse": {
-    "message": "判断题",
+    "message": "True/False",
     "description": "smart-classroom 项目"
   },
   "answerSheet.isSubmitted": {
-    "message": "正在提交",
+    "message": "Submitting...",
     "description": "smart-classroom 项目"
   },
   "answerSheet.true": {
-    "message": "正确",
+    "message": "Correct",
     "description": "smart-classroom 项目"
   },
   "answerSheet.false": {
-    "message": "错误",
+    "message": "Incorrect",
     "description": "smart-classroom 项目"
   },
   "answerSheet.correctAnswer": {
-    "message": "正确答案",
+    "message": "Correct Answer",
     "description": "smart-classroom 项目"
   },
   "answerSheet.yourAnswer": {
-    "message": "你的答案",
+    "message": "Your Answer",
     "description": "smart-classroom 项目"
   },
   "answerSheet.msg1": {
-    "message": "答题已结束，请等待老师公布答案",
+    "message": "The quiz has ended. Please wait for your teacher to post the correct answer.",
     "description": "smart-classroom 项目"
   },
   "answerSheet.msg2": {
-    "message": "文件类型错误，请选择图片类型",
+    "message": "File type error - Please select the image type!",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerTrue": {
-    "message": "答对了",
+    "message": "Correct!",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerFalse": {
-    "message": "答错了",
+    "message": "Incorrect!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadImgVideo": {
-    "message": "上传图片/视频",
+    "message": "Upload Images/Videos",
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadLoading": {
-    "message": "请等待文件上传完成",
+    "message": "Please wait for the file upload to complete!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.submitSucc": {
-    "message": "提交成功",
+    "message": "Submitted successfully!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.submitErrEnd": {
-    "message": "提交失败，活动已结束",
+    "message": "Failed to submit and the activity has ended!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.submitErrDel": {
-    "message": "提交失败，活动已删除",
+    "message": "Failed to submit and the activity was deleted!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadMax20": {
-    "message": "最多上传20张图片或视频",
+    "message": "Upload up to 20 images or videos!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg": {
-    "message": "按照教师要求上传照片/视频，最多上传20张图片或视频",
+    "message": "Upload images/videos as required by your teacher, up to 20 images/videos.",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg1": {
-    "message": "活动已结束",
+    "message": "The activity has ended!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg2": {
-    "message": "活动已结束，你未参与",
+    "message": "The activity has ended. You did not participate.",
     "description": "smart-classroom 项目"
   },
   "wxwb.shareBoardWriting": {
-    "message": "分享板书",
+    "message": "Share Whiteboard Content",
     "description": "smart-classroom 项目"
   },
   "wxwb.shareClassroom": {
-    "message": "分享到课堂",
+    "message": "Share to Classroom Session",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg2": {
-    "message": "扫码带走",
+    "message": "scan to save",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg4": {
-    "message": "点击这里手机",
+    "message": "Click here to ",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink1": {
-    "message": "使用welink扫码登录",
+    "message": "Scan to Log in with WeLink",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink2": {
-    "message": "扫码查看",
+    "message": "Scan to View",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink3": {
-    "message": "使用welink扫码",
+    "message": "Scan with WeLink",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink4": {
-    "message": "扫码查看板书",
+    "message": "Scan to View Whiteboard Content",
     "description": "smart-classroom 项目"
   },
   "welinkLive.enter": {
-    "message": "进入",
+    "message": "Join",
     "description": "smart-classroom 项目"
   },
   "welinkLive.today": {
-    "message": "今日",
+    "message": "Today",
     "description": "smart-classroom 项目"
   },
   "welinkLive.reserveLive": {
-    "message": "预定直播/会议",
+    "message": "Schedule Conference/Meeting",
     "description": "smart-classroom 项目"
   },
   "welinkLive.welikAccount": {
-    "message": "Welink账号",
+    "message": "WeLink Account",
     "description": "smart-classroom 项目"
   },
   "welinkLive.bindAccount": {
-    "message": "绑定账号",
+    "message": "Link Account",
     "description": "smart-classroom 项目"
   },
   "welinkLive.startTime": {
-    "message": "开始时间",
+    "message": "When",
     "description": "smart-classroom 项目"
   },
   "welinkLive.duration": {
-    "message": "时长",
+    "message": "Duration",
     "description": "smart-classroom 项目"
   },
   "welinkLive.1hour": {
-    "message": "1小时",
+    "message": "1 hour",
     "description": "smart-classroom 项目"
   },
   "welinkLive.2hour": {
-    "message": "2小时",
+    "message": "2 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.4hour": {
-    "message": "4小时",
+    "message": "4 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.12hour": {
-    "message": "12小时",
+    "message": "12 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.msg": {
-    "message": "课堂列表展示您在课程中创建或预约的直播，您可以选择后进入直播进行授课。如果需要创建直播，请先创建课堂并点击右侧“直播”按钮开始直播。",
+    "message": "The conference list here shows all conferences you have created or scheduled for the selected course. You can click the Enter button to start a conference here. But, if you want to schedule a conference, you need to create a classroom session first. Once inside the classroom session, click the Conferences button on the right to schedule one.",
     "description": "smart-classroom 项目"
   },
   "welinkLive.msg1": {
-    "message": "请绑定账号后创建直播！",
+    "message": "Please link your account and then you can create a conference!",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.activated": {
-    "message": "已激活",
+    "message": "Activated",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.activationCode": {
-    "message": "激活代码",
+    "message": "Activation Code",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.classroomName": {
-    "message": "教室名称",
+    "message": "Classroom Name",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.equipment": {
-    "message": "设备",
+    "message": "Device",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.groupNumber": {
-    "message": "小组序号",
+    "message": "Group Serial Number",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.macAddress": {
-    "message": "MAC地址",
+    "message": "MAC Address",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.ipAddress": {
-    "message": "IP地址",
+    "message": "IP Address",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.site": {
-    "message": "站点",
+    "message": "Site",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg1": {
-    "message": "激活信息已提交，请等待我们的工作人员进行处理",
+    "message": "The activation request has been submitted. Please wait for the support staff to process it.",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg2": {
-    "message": "UClass权限设置",
+    "message": "UClass Permission Settings",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg3": {
-    "message": "为保证UClass正常运行，请在大屏进行以下设置。",
+    "message": "To ensure UClass to run as expected, follow the instructions below to set up UClass.",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg4": {
-    "message": "将UClass设置为首页显示",
+    "message": "Set UClass to display on the home screen",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg5": {
-    "message": "在大屏首页长按UClass图标进入屏幕编辑界面，勾选UClass。",
+    "message": "On home screen, long-tap (press-and-hold) UClass icon to enter into the edit mode, and then select UClass.",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg6": {
-    "message": "将UClass设置为开机自启动，开启悬浮窗权限",
+    "message": "Set UClass as Run at Startup (auto-launch) and enable Suspension (Floating) Window",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg7": {
-    "message": "大屏设置>高级设置>应用管理>应用权限>UClass，开启开机自启动，开启悬浮窗和自定广播权限。",
+    "message": "Settings > Advanced > App Management > App Permissions > UClass - Enable Run at Startup, Suspension Window, and Custom Broadcast",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg8": {
-    "message": "将UClass设置为应用常驻后台",
+    "message": "Set UClass as background app",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg9": {
-    "message": "大屏设置>高级设置>应用管理>应用常驻后台。",
+    "message": "Settings > Advanced > App Management > Background Apps",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg10": {
-    "message": "激活多屏互动",
+    "message": "Activate Multi-Screens",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg11": {
-    "message": "请输入激活代码",
+    "message": "Enter the activation code",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg12": {
-    "message": "激活代码不能为空",
+    "message": "Activation code cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg13": {
-    "message": "教室编号不能为空",
+    "message": "Classroom serial number cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage1": {
-    "message": "题目不能为空",
+    "message": "Question cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage2": {
-    "message": "选项不足两个",
+    "message": "Less than two options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage3": {
-    "message": "选项不能超过20个",
+    "message": "No more than 20 options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage4": {
-    "message": "正确答案不能为空",
+    "message": "Correct answer cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage5": {
-    "message": "正确答案选项中的内容不能为空",
+    "message": "The content in the correct answer option cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage6": {
-    "message": "请填写选项内容，或将多余的选项删除",
+    "message": "Please fill in the options or delete the extra options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage7": {
-    "message": "正确答案的个数不能超过选项的个数",
+    "message": "The number of correct answers cannot exceed the number of options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage8": {
-    "message": "正确答案中不能出现非选择项",
+    "message": "The correct answer(s) has to be among the answer options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage9": {
-    "message": "正确答案中有重复项",
+    "message": "There are duplicate options in the correct answer!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage10": {
-    "message": "参考答案的内容不能为空",
+    "message": "The content of the reference answer cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage11": {
-    "message": "正确答案数量不能少于空的数量",
+    "message": "The number of correct answers cannot be less than the number of blanks!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage12": {
-    "message": "最多添加20个填空项",
+    "message": "No more than 20 blank items!",
     "description": "smart-classroom 项目"
   },
   "correct": {
-    "message": "正确",
+    "message": "Correct",
     "description": "smart-classroom 项目"
   },
   "incorrect": {
-    "message": "错误",
+    "message": "Incorrect",
     "description": "smart-classroom 项目"
   },
   "quesOrder": {
-    "message": "第{n}题，",
+    "message": "Question {n}, ",
     "description": "smart-classroom 项目"
   },
   "quesAnswer": {
-    "message": "答案",
+    "message": "Answer",
     "description": "smart-classroom 项目"
   },
   "analysisTit": {
-    "message": "此处填写解析，没有可不填",
+    "message": "Answer explanation - optional",
     "description": "smart-classroom 项目"
   },
   "attendence.oneKey": {
-    "message": "一键",
+    "message": "One Click",
     "description": "smart-classroom 项目"
   },
   "attendence.oneClickCheckIn": {
-    "message": "一键签到",
+    "message": "One-Click Sign In",
     "description": "smart-classroom 项目"
   },
   "attendence.clickSignIn": {
-    "message": "点击即可签到",
+    "message": "Click to sign in",
     "description": "smart-classroom 项目"
   },
   "attendence.clickBtnSignIn": {
-    "message": "点击下方按钮完成签到",
+    "message": "Click the button below to sign in",
     "description": "smart-classroom 项目"
   },
   "student.clickToClassroom": {
-    "message": "请点击右侧课堂列表进入课堂",
+    "message": "Click the Session List link on the right to go to the course session list screen",
     "description": "smart-classroom 项目"
   },
   "screen.classResource": {
-    "message": "班课资源",
+    "message": "Class Resources",
     "description": "smart-classroom 项目"
   },
   "screen.myResource": {
-    "message": "我的资源",
+    "message": "My Resources",
     "description": "smart-classroom 项目"
   },
   "screen.textbook": {
-    "message": "课件/教材",
+    "message": "Courseware",
     "description": "smart-classroom 项目"
   },
   "screen.commonResource": {
-    "message": "公共资源",
+    "message": "Shared Resources",
     "description": "smart-classroom 项目"
   },
   "screen.noData": {
-    "message": "暂无数据",
+    "message": "No data found",
     "description": "smart-classroom 项目"
   },
   "live.playBack": {
-    "message": "回放",
+    "message": "Playback",
     "description": "smart-classroom 项目"
   },
   "live.teacherIsLiving": {
-    "message": "教师正在直播",
+    "message": "Teacher started a conference!",
     "description": "smart-classroom 项目"
   },
   "wx.newMsg": {
-    "message": "学生APP扫码进入课堂",
+    "message": "Students scan (ULearning app) the QR code to join",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionByAI": {
-    "message": "AI出题",
+    "message": "Questions Generated by AI",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionByAITip": {
-    "message": "题目由AI大模型生成，不能完全保障内容正确性，建议检查后再使用",
+    "message": "The questions are generated by AI large language models, and the correctness of the content cannot be completely guaranteed. It is recommended to check the content before use.",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionLoading": {
-    "message": "正在调用大模型出题",
+    "message": "Calling the AI large language model to generate questions...",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionType": {
-    "message": "题型",
+    "message": "Question Type",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionNums": {
-    "message": "每次生成题目数",
+    "message": "Number of Questions",
     "description": "smart-classroom 项目"
   },
   "answerSheet.requestInput": {
-    "message": "请输入出题要求或关键词",
+    "message": "Enter the question requirements and/or keywords",
     "description": "smart-classroom 项目"
   },
   "answerSheet.startQuestion": {
-    "message": "开始答题",
+    "message": "Start",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answer": {
-    "message": "答案：",
+    "message": "Answer: ",
     "description": "smart-classroom 项目"
   },
   "answerSheet.hide": {
-    "message": "隐藏",
+    "message": "Hide",
     "description": "smart-classroom 项目"
   },
   "answerSheet.switchQuestion": {
-    "message": "换一批",
+    "message": "Refresh",
     "description": "smart-classroom 项目"
   },
   "answerSheet.keyword": {
-    "message": "关键词：",
+    "message": "Keywords: ",
     "description": "smart-classroom 项目"
   },
   "wxwb.qrToday": {
-    "message": "二维码今日有效",
+    "message": "QR code valid today",
     "description": "smart-classroom 项目"
   },
   "activate.enterActivationCode": {
-    "message": "请输入激活码激活",
+    "message": "Enter the activation code",
     "description": "smart-classroom 项目"
   },
   "activate.perfectInfo": {
-    "message": "请完善教室信息",
+    "message": "Complete the classroom information",
     "description": "smart-classroom 项目"
   },
   "activate.unbind": {
-    "message": "解除绑定",
+    "message": "Unlink",
     "description": "smart-classroom 项目"
   },
   "activate.unbindMsg": {
-    "message": "解绑后需要重新激活，确定解绑吗？",
+    "message": "It needs to be reactivated after unlink. Are you sure you want to unlink?",
     "description": "smart-classroom 项目"
   },
   "integrating.active": {
-    "message": "活动",
+    "message": "Activity",
     "description": "smart-classroom 项目"
   },
   "integrating.addScore": {
-    "message": "加积分",
+    "message": "Add Points",
     "description": "smart-classroom 项目"
   },
   "integrating.sortByStuName": {
-    "message": "按姓名排序",
+    "message": "Sort by Name",
     "description": "smart-classroom 项目"
   },
   "integrating.scoreRecord": {
-    "message": "加分记录",
+    "message": "Bonus Points History",
     "description": "smart-classroom 项目"
   },
   "integrating.batchBonus": {
-    "message": "批量加分",
+    "message": "Batch Add Points",
     "description": "smart-classroom 项目"
   },
   "integrating.leaderboard": {
-    "message": "排行榜",
+    "message": "Scoreboard",
     "description": "smart-classroom 项目"
   },
   "integrating.classroomScore": {
-    "message": "课堂积分排行榜",
+    "message": "Session Scoreboard",
     "description": "smart-classroom 项目"
   },
   "integrating.classroom": {
-    "message": "本课堂",
+    "message": "This Session",
     "description": "smart-classroom 项目"
   },
   "integrating.courseScore": {
-    "message": "课程总积分",
+    "message": "Course Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.classroomTotalScore": {
-    "message": "本课堂总积分",
+    "message": "Session Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.stuName": {
-    "message": "学生姓名",
+    "message": "Student Name",
     "description": "smart-classroom 项目"
   },
   "integrating.totalScore": {
-    "message": "总积分",
+    "message": "Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.teaAddScore": {
-    "message": "教师加分",
+    "message": "Bonus Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.activityIntegral": {
-    "message": "活动积分",
+    "message": "Activity Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.activityNum": {
-    "message": "参与活动数",
+    "message": "Activities",
     "description": "smart-classroom 项目"
   },
   "integrating.filter": {
-    "message": "筛选",
+    "message": "Filter",
     "description": "smart-classroom 项目"
   },
   "integrating.delMsg": {
-    "message": "确定删除当前加分记录吗？",
+    "message": "Are you sure you want to delete this record?",
     "description": "smart-classroom 项目"
   },
   "integrating.joinNum": {
-    "message": "参与次数",
+    "message": "Participations",
     "description": "smart-classroom 项目"
   },
   "integrating.allActive": {
-    "message": "全部活动",
+    "message": "All Activities",
     "description": "smart-classroom 项目"
   },
   "integrating.noDataNoStuJoin": {
-    "message": "课堂中未发布过{type} / 无学生参与",
+    "message": "Activities Unlaunched {type}/Not Participated",
     "description": "smart-classroom 项目"
   },
   "integrating.noData": {
-    "message": "暂无数据",
+    "message": "No data found!",
     "description": "smart-classroom 项目"
   },
   "integrating.scoreboard": {
-    "message": "积分榜",
+    "message": "Scoreboard",
     "description": "smart-classroom 项目"
   },
   "integrating.addScoreSucc": {
-    "message": "加分成功，可查看历史加分记录",
+    "message": "Added points successfully - You can check the bonus points history!",
     "description": "smart-classroom 项目"
   },
   "integrating.noGroup": {
-    "message": "暂无小组",
+    "message": "No groups yet!",
     "description": "smart-classroom 项目"
   },
   "screen.sendStudents": {
-    "message": "发送给学生",
+    "message": "Sent to Students",
     "description": "smart-classroom 项目"
   },
   "screen.beBeingSent": {
-    "message": "发送中...",
+    "message": "Sending...",
     "description": "smart-classroom 项目"
   },
   "screen.picture": {
-    "message": "图片",
+    "message": "Image",
     "description": "smart-classroom 项目"
   },
   "screen.video": {
-    "message": "视频",
+    "message": "Video",
     "description": "smart-classroom 项目"
   },
   "screen.audio": {
-    "message": "音频",
+    "message": "Audio",
     "description": "smart-classroom 项目"
   },
   "screen.document": {
-    "message": "文档",
+    "message": "Document",
     "description": "smart-classroom 项目"
   },
   "createClass.msg": {
-    "message": "提示：如果是教研组共管课程，只需课程负责人创建课程，再将其他老师加入课程教学团队即可，不需要每位老师单独创建。",
+    "message": "Note: For co-taught or co-managed courses, you only need to create one course. You can add other teachers after the course is created.",
     "description": "smart-classroom 项目"
   },
   "createClass.noClass": {
-    "message": "您还没有进行中的课程，请先创建课程。",
+    "message": "You have no active courses. Create a course first.",
     "description": "smart-classroom 项目"
   },
   "createClass.noJoin": {
-    "message": "你还没有加入课程，请联系老师。",
+    "message": "You have not enrolled the course, please contact your course teacher!",
     "description": "smart-classroom 项目"
   },
   "createClass.interceptCover": {
-    "message": "截取封面",
+    "message": "Crop Image",
     "description": "smart-classroom 项目"
   },
   "createClass.courseTitle": {
-    "message": "课程名称",
+    "message": "Course Name",
     "description": "smart-classroom 项目"
   },
   "createClass.courseCover": {
-    "message": "课程封面",
+    "message": "Thumbnail",
     "description": "smart-classroom 项目"
   },
   "createClass.localUpload": {
-    "message": "本地上传",
+    "message": "Upload Image",
     "description": "smart-classroom 项目"
   },
   "createClass.upload": {
-    "message": "上传",
+    "message": "upload",
     "description": "smart-classroom 项目"
   },
   "createClass.continueCreate": {
-    "message": "继续创建",
+    "message": "Continue to Create",
     "description": "smart-classroom 项目"
   },
   "createClass.resume": {
-    "message": "继续",
+    "message": "Continue",
     "description": "smart-classroom 项目"
   },
   "createClass.confirmMsg": {
-    "message": "本校已存在同名课程（由{msg}老师创建），建议您先联系建课老师进行沟通确认，以免重复建课带来不便。\n是否继续创建?",
+    "message": "Course with the same name has already existed (created by teacher {msg}). It is recommended that you contact the teacher to make sure there are no duplicate courses. \\n Do you want to continue?",
     "description": "smart-classroom 项目"
   },
   "createClass.imgErr": {
-    "message": "图片类型必须是.gif,jpeg,jpg,png,bmp中的一种",
+    "message": "The image type must be gif, jpeg, jpg, png, or bmp!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.coursewareScreenshots": {
-    "message": "课件截图",
+    "message": "Content Screenshot",
     "description": "smart-classroom 项目"
   },
   "whiteboard.blackboard": {
-    "message": "课堂板书",
+    "message": "Whiteboard Content",
     "description": "smart-classroom 项目"
   },
   "screen.others": {
-    "message": "其他",
+    "message": "Others",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg3I18n": {
-    "message": "使用优学院APP扫码",
+    "message": "Scan with ULearning App",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg6I18n": {
-    "message": "使用优学院APP扫码登录",
+    "message": "Scan to Log in with ULearning App",
     "description": "smart-classroom 项目"
   },
   "createClass.courseMsgErr": {
-    "message": "课程名必须在2-100字以内",
+    "message": "Course name must be within 2 to 100 characters!",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.meetingCloud": {
-    "message": "云会议室",
+    "message": "Meeting Room",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.meetingStatus": {
-    "message": "云会议室状态",
+    "message": "Cloud Meeting Rooms",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.seating": {
-    "message": "座位数",
+    "message": "Seats",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.recordAfterEntering": {
-    "message": "进入会议后，自动录制",
+    "message": "Auto-recording",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.meetingNotStarted": {
-    "message": "会议未开始",
+    "message": "The meeting has not started",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.msg": {
-    "message": "没有可用云会议室，请您联系学校管理员添加",
+    "message": "No cloud meeting rooms available - Contact your school's admin to add!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.whiteBoardTips": {
-    "message": "保存到课堂后，您和学生可以在课堂文件中查看批注图片。点击这里手机",
+    "message": "After you save it to the classroom session, you and your students can view the annotated pictures in the Session Resources. Click here to ",
     "description": "smart-classroom 项目"
   },
   "classroom.unstartTip": {
-    "message": "请等待教师开始课堂",
+    "message": "Please wait for the teacher to start the lesson",
     "description": "smart-classroom 项目"
   },
   "common.operateFailed": {
-    "message": "操作失败",
+    "message": "Operation failed",
     "description": "smart-classroom 项目"
   },
   "common.noEntrance": {
-    "message": "该资源还未设置预览入口，请前往资源库设置预览入口！",
+    "message": "The content entrance has not been set for this resource. Please go to the resource library to set up a content entrance!",
     "description": "smart-classroom 项目"
   },
   "classroom.developmentTip": {
-    "message": "功能正在开发中，敬请期待",
+    "message": "The feature is not yet available!",
     "description": "smart-classroom 项目"
   },
   "classroom.interactionsDesc": {
-    "message": "互动次数=课堂中投票、选人、抢答和打分等活动的参与人次总和",
+    "message": "Number of Interactions = the sum of active participants in each activity",
     "description": "smart-classroom 项目"
   },
   "classroom.classroomTitle": {
-    "message": "{date}课堂",
+    "message": "Session - {date} ",
     "description": "smart-classroom 项目"
   },
   "classroom.interactionsDesc1": {
-    "message": "互动次数=课堂中投票、选人、抢答、打分和课堂讨论的参与人次总和",
+    "message": "Number of interactions = Total number of student participations of Poll, Pick, Q&A, Assess, and Discussion activities in the session",
     "description": "smart-classroom 项目"
   },
   "discuss.discussTitle": {
-    "message": "{date}课堂讨论",
+    "message": "Discussion - {date} ",
     "description": "smart-classroom 项目"
   },
   "score.score": {
-    "message": "分数：",
+    "message": "Scores: ",
     "description": "smart-classroom 项目"
   },
   "score.enterObject": {
-    "message": "请输入评价对象",
+    "message": " Please enter evaluation object ",
     "description": "smart-classroom 项目"
   },
   "score.evaluatedScore": {
-    "message": "被评价分数",
+    "message": "Peer Review Score ",
     "description": "smart-classroom 项目"
   },
   "score.endEvaluation": {
-    "message": "结束评价",
+    "message": "End Peer Review",
     "description": "smart-classroom 项目"
   },
   "score.endScore": {
-    "message": "结束打分",
+    "message": "End Peer Review",
     "description": "smart-classroom 项目"
   },
   "score.scoreTitle": {
-    "message": "{date}课堂打分",
+    "message": "Peer Review - {date} ",
     "description": "smart-classroom 项目"
   },
   "score.inputWeightTip1": {
-    "message": "请输入有效的比重",
+    "message": "Please enter a valid value",
     "description": "smart-classroom 项目"
   },
   "score.inputFullmarkTip": {
-    "message": "满分不能为空",
+    "message": "Points possible cannot be empty",
     "description": "smart-classroom 项目"
   },
   "score.inputFullmarkTip1": {
-    "message": "请输入有效的分值",
+    "message": "Please enter a valid value",
     "description": "smart-classroom 项目"
   },
   "pick.pickTitle": {
-    "message": "{date}课堂选人",
+    "message": "Random Pick - {date} ",
     "description": "smart-classroom 项目"
   },
   "attendence.phoneScan": {
-    "message": "使用手机扫二维码",
+    "message": "Scan the QR code",
     "description": "smart-classroom 项目"
   },
   "attendence.endSign": {
-    "message": "结束点名",
+    "message": "End roll call",
     "description": "smart-classroom 项目"
   },
   "attendence.attendenceTitle": {
-    "message": "{date}课堂点名",
+    "message": "Roll Call - {date} ",
     "description": "smart-classroom 项目"
   },
   "student.discuss1": {
-    "message": "你该如何选择？",
+    "message": "How should you choose?",
     "description": "smart-classroom 项目"
   },
   "student.teamEvaluation": {
-    "message": "实践课小组评价",
+    "message": "Group Project Peer Review",
     "description": "smart-classroom 项目"
   },
   "student.howPoints": {
-    "message": "{num}分",
+    "message": "{num} pts",
     "description": "smart-classroom 项目"
   },
   "student.totalFew": {
-    "message": "共{num}个",
+    "message": "Total {num}",
     "description": "smart-classroom 项目"
   },
   "student.voteErr": {
-    "message": "投票失败",
+    "message": "Polling failed",
     "description": "smart-classroom 项目"
   },
   "student.average": {
-    "message": "平均分",
+    "message": "Average Score",
     "description": "smart-classroom 项目"
   },
   "student.pleaseIndicate": {
-    "message": "请给评价对象打分",
+    "message": "Please grade the review item",
     "description": "smart-classroom 项目"
   },
   "student.iWillGiveScore": {
-    "message": "我给评价对象的打分",
+    "message": "Score Assigned by Me",
     "description": "smart-classroom 项目"
   },
   "screen.question": {
-    "message": "试题",
+    "message": "Quiz",
     "description": "smart-classroom 项目"
   },
   "screen.homework": {
-    "message": "作业",
+    "message": "Assignments",
     "description": "smart-classroom 项目"
   },
   "screen.expand": {
-    "message": "展开",
+    "message": "Expand",
     "description": "smart-classroom 项目"
   },
   "screen.toTop": {
-    "message": "顶部",
+    "message": "Top",
     "description": "smart-classroom 项目"
   },
   "screen.history": {
-    "message": "历史记录",
+    "message": "History",
     "description": "smart-classroom 项目"
   },
   "screen.openFromResource": {
-    "message": "从资源中打开",
+    "message": "Open from Resources",
     "description": "smart-classroom 项目"
   },
   "screen.aiResourceSearch": {
-    "message": "资源智能检索",
+    "message": "Smart Resource Search",
     "description": "smart-classroom 项目"
   },
   "screen.inputKeyword": {
-    "message": "输入关键词",
+    "message": "Enter a keyword",
     "description": "smart-classroom 项目"
   },
   "screen.pinputKeyword": {
-    "message": "输入关键词",
+    "message": "Enter a keyword",
     "description": "smart-classroom 项目"
   },
   "screen.inputKeywordTip": {
-    "message": "请输入关键词搜索",
+    "message": "Enter a keyword to search",
     "description": "smart-classroom 项目"
   },
   "screen.noDataTip": {
-    "message": "暂无搜索结果",
+    "message": "No search results!",
     "description": "smart-classroom 项目"
   },
   "screen.mooc": {
@@ -3772,731 +3772,623 @@
     "description": "smart-classroom 项目"
   },
   "screen.smartedu": {
-    "message": "国家智慧教学公共服务平台",
+    "message": "National Smart Education Public Service Platform",
     "description": "smart-classroom 项目"
   },
   "screen.pleaseKeyWord": {
-    "message": "请输入关键词",
+    "message": "Enter a keyword",
     "description": "smart-classroom 项目"
   },
   "screen.abstract": {
-    "message": "摘要：",
+    "message": "Summary: ",
     "description": "smart-classroom 项目"
   },
   "screen.uLearn": {
-    "message": "优学院",
+    "message": "ULearning",
     "description": "smart-classroom 项目"
   },
   "screen.noMore": {
-    "message": "没有更多了",
+    "message": "No more",
     "description": "smart-classroom 项目"
   },
   "screen.vmResource": {
-    "message": "虚仿资源",
+    "message": "VR Resources",
     "description": "smart-classroom 项目"
   },
   "vote.must": {
-    "message": "必填",
+    "message": "Required",
     "description": "smart-classroom 项目"
   },
   "vote.endVote": {
-    "message": "结束投票",
+    "message": "End Poll",
     "description": "smart-classroom 项目"
   },
   "vote.voteEnded": {
-    "message": "投票已结束",
+    "message": "Poll ended",
     "description": "smart-classroom 项目"
   },
   "vote.voteTitle": {
-    "message": "{date}课堂投票",
+    "message": "Poll - {date} ",
     "description": "smart-classroom 项目"
   },
   "answer.endAnswer": {
-    "message": "结束抢答",
+    "message": "End Compete to Answer",
     "description": "smart-classroom 项目"
   },
   "answer.answerTitle": {
-    "message": "{date}课堂抢答",
+    "message": "Compete to Answer - {date} ",
     "description": "smart-classroom 项目"
   },
   "live.invite": {
-    "message": "邀请",
+    "message": "Invite",
     "description": "smart-classroom 项目"
   },
   "live.handing": {
-    "message": "举手中…",
+    "message": "Raising hand...",
     "description": "smart-classroom 项目"
   },
   "live.allow": {
-    "message": "允许",
+    "message": "Allow",
     "description": "smart-classroom 项目"
   },
   "live.speaking": {
-    "message": "发言中……",
+    "message": "Speaking...",
     "description": "smart-classroom 项目"
   },
   "welink.bindAccount": {
-    "message": "绑定账号",
+    "message": "Bind account",
     "description": "smart-classroom 项目"
   },
   "welink.welinkMeeting": {
-    "message": "WeLink网络研讨会",
+    "message": "WeLink Webinars",
     "description": "smart-classroom 项目"
   },
   "multiScreen.activationPrompt1": {
-    "message": "您当前设备未激活多屏互动功能，如已购买了我们的服务请点击下方按钮联网检测",
+    "message": "The multi-screen interaction feature is not enabled for your current device. If you have purchased this feature please click the button below to detect/test this function.",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg3": {
-    "message": "打开“优学院APP”后右上角点击扫一扫",
+    "message": "Open ULearning app and tap on the upper right corner to scan",
     "description": "smart-classroom 项目"
   },
   "candidates.studentid": {
-    "message": "学号",
+    "message": "Student ID",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg16": {
-    "message": "服务已过期",
+    "message": "Expired",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg41": {
-    "message": "无线",
+    "message": "Wireless",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg50": {
-    "message": "通信端口被占用，请联系我们重新进行配置。",
+    "message": "The port is in use. Please contact us to reconfigure.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg3": {
-    "message": "学生上传图片进行课堂展示",
+    "message": "Students upload images for classroom presentation",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg4": {
-    "message": "允许学生查看其他学生的图片/视频",
+    "message": "Allow students to view images/videos uploaded by other students",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg10": {
-    "message": "将该图片或批注分享给课堂里的所有学生，分享后学生可以在课堂里查看该图片或批注",
+    "message": "Share the image or annotations to all students in the session. Students can view the image or annotations later.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg15": {
-    "message": "确定结束当前活动吗？",
+    "message": "Are you sure you want to end this activity?",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg2": {
-    "message": "若需回放，请开启云录制，并确保腾讯会议录制空间充足。您可以在腾讯会议中下载保存后删除非必要的录制，以节省录制空间。",
+    "message": "If session playback is needed, please enable Cloud Recording. Make sure there is sufficient storage space in Tencent Meeting. You can delete unneeded recordings to free recording space.",
     "description": "smart-classroom 项目"
   },
   "whiteboard.youNotLogin": {
-    "message": "你未登录，请登录后保存到课堂",
+    "message": "You are not logged in. Please log in and then save to classroom.",
     "description": "smart-classroom 项目"
   },
   "whiteboard.scanAPP": {
-    "message": "使用优学院APP扫一扫",
+    "message": "Use ULearning App to scan",
     "description": "smart-classroom 项目"
   },
   "whiteboard.exportImages": {
-    "message": "导出图片",
+    "message": "Export Image",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg1": {
-    "message": "保存后，教师和学生可以在课堂里查看板书图片，教师可以在其他教室下载并打开该板书继续编辑。",
+    "message": "After saving, teachers and students can view the whiteboard screenshots on the classroom screen. Teachers can also download and edit the whiteboard screenshots from another classroom screen.",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg2": {
-    "message": "您已成功保存板书图片和源文件到{name}。学生可以在课堂查看板书的图片，你可以在其他教室下载并打开该板书继续编辑。",
+    "message": "You have successfully saved the whiteboard screenshot and source file to {name}. Students can view the whiteboard screenshot in the classroom screen, and you can download and edit the whiteboard screenshot from another classroom screen.",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg3": {
-    "message": "保存到课堂后，您和学生可以在课堂文件中查看板书图片，您还可以在其他教室下载并打开板书继续编辑。",
+    "message": "After saving, teachers and students can view the whiteboard screenshots on the classroom screen. Teachers can also download and edit the whiteboard screenshots from another classroom screen.",
     "description": "smart-classroom 项目"
   },
   "remark.allCourse": {
-    "message": "全部课程",
+    "message": "All Courses",
     "description": "smart-classroom 项目"
   },
   "wx.msg1": {
-    "message": "学生APP扫码进入课堂",
+    "message": "Students scan the QR code to enter the session",
     "description": "smart-classroom 项目"
   },
   "answerSheet.haveBeen": {
-    "message": "已保存",
+    "message": "Saved",
     "description": "smart-classroom 项目"
   },
   "answerSheet.contentNull": {
-    "message": "标题不能为空",
+    "message": " The title cannot be blank ",
     "description": "smart-classroom 项目"
   },
   "answerSheet.recordFail": {
-    "message": "未识别到清晰的语音，点击重新发起语音",
+    "message": "No clear audio was detected. Click to relaunch the audio.",
     "description": "smart-classroom 项目"
   },
   "answerSheet.recordQuestion": {
-    "message": "请说出你的出题要求",
+    "message": "Please state your question requirements",
     "description": "smart-classroom 项目"
   },
   "answerSheet.doNotSet": {
-    "message": "暂不设置",
+    "message": "Not Now",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg1": {
-    "message": "使用优学院APP/微信扫码分享板书到课堂",
+    "message": "Scan with ULearning app to share whiteboard content to course session",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg3": {
-    "message": "使用优学院APP/微信扫码",
+    "message": "Scan with ULearning App",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg5": {
-    "message": "扫码带走板书",
+    "message": "scan to mobile",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg6": {
-    "message": "使用优学院APP扫码登录",
+    "message": "Scan to Log in with ULearning App",
     "description": "smart-classroom 项目"
   },
   "integrating.stuAddScore": {
-    "message": "给学生加积分",
+    "message": "Add points to students",
     "description": "smart-classroom 项目"
   },
   "integrating.groupAddScore": {
-    "message": "给小组加积分",
+    "message": "Add points to groups",
     "description": "smart-classroom 项目"
   },
   "aiResourceView.notPreview": {
-    "message": "该文件不支持在线预览",
+    "message": "The file does not support online preview",
     "description": "smart-classroom 项目"
   },
   "aiResourceView.notResourse": {
-    "message": "抱歉，当前暂无资源",
+    "message": "No resources available!",
     "description": "smart-classroom 项目"
   },
   "aiResourceView.aiGenerate": {
-    "message": "以下内容由机器自动生成，仅供参考",
+    "message": "The following content is auto-generated by the system and is for reference only.",
     "description": "smart-classroom 项目"
   },
   "aiResourceView.summaryGeneration": {
-    "message": "摘要生成中",
+    "message": "Generating…",
     "description": "smart-classroom 项目"
   },
   "intelligentAssistant": {
-    "message": "智能助手",
+    "message": "Smart Assistant",
     "description": "smart-classroom 项目"
   },
   "enterQuestion": {
-    "message": "请输入你的问题",
+    "message": "Enter your question",
     "description": "smart-classroom 项目"
   },
   "stopAnswering": {
-    "message": "停止回答",
+    "message": "Stop",
     "description": "smart-classroom 项目"
   },
   "allLoaded": {
-    "message": "已加载全部",
+    "message": "All loaded",
     "description": "smart-classroom 项目"
   },
   "aILoaing": {
-    "message": "正在思考...",
+    "message": "Thinking...",
     "description": "smart-classroom 项目"
   },
   "aIAssistantTip1": {
-    "message": "嗨，我是UClass智能助手。",
+    "message": "Hi, I'm UClass Smart Assistant.",
     "description": "smart-classroom 项目"
   },
   "aIAssistantTip2": {
-    "message": "在这里你可以随时提问，我能为你答疑解惑，提供知识和灵感，快来试试吧。",
+    "message": "Here you can ask questions at any time, and I can answer your questions, provide knowledge and inspiration, come and try it out.",
     "description": "smart-classroom 项目"
   },
   "aIAssistantTip3": {
-    "message": "你可能想问：",
+    "message": "You may want to ask:",
     "description": "smart-classroom 项目"
   },
   "aIWorkbench": {
-    "message": "AI工作台",
+    "message": "AI Workbench",
     "description": "smart-classroom 项目"
   },
   "common.clickLoadMore": {
-    "message": "点击加载更多",
+    "message": "Click to load more",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg54": {
-    "message": "操作路径：点击九宫格返回首页，点击任务窗右上角的“关闭”图标，关闭UClass应用。",
+    "message": "Tap the icon to return to the home screen, and then tap the Close icon in the upper right corner to close UClass.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg55": {
-    "message": "更新成功！",
+    "message": "Updated successfully",
     "description": "smart-classroom 项目"
   },
   "whiteboard.sendStudents": {
-    "message": "发送给学生",
+    "message": "Sent to Students",
     "description": "smart-classroom 项目"
   },
   "whiteboard.beBeingSent": {
-    "message": "发送中...",
+    "message": "Sending...",
     "description": "smart-classroom 项目"
   },
   "whiteboard.picture": {
-    "message": "图片",
+    "message": "Image",
     "description": "smart-classroom 项目"
   },
   "whiteboard.video": {
-    "message": "视频",
+    "message": "Video",
     "description": "smart-classroom 项目"
   },
   "whiteboard.audio": {
-    "message": "音频",
+    "message": "Audio",
     "description": "smart-classroom 项目"
   },
   "whiteboard.document": {
-    "message": "文档",
+    "message": "Document",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg3Local": {
-    "message": "使用微信扫码",
+    "message": "Scan with WeChat",
     "description": "smart-classroom 项目"
   },
   "welinkLive.hour": {
-    "message": "小时",
+    "message": "Hours",
     "description": "smart-classroom 项目"
   },
   "cloudConference.selectSite": {
-    "message": "选择激活站点",
+    "message": "Select activate site",
     "description": "smart-classroom 项目"
   },
   "cloudConference.goActivate": {
-    "message": "去激活",
+    "message": "To activate",
     "description": "smart-classroom 项目"
   },
   "cloudConference.unbindMsg": {
-    "message": "解除绑定将导致云会议功能不可以使用，确定解除绑定？",
+    "message": "Unbinding will render the cloud meeting function unusable. Are you sure you want to unbind?",
     "description": "smart-classroom 项目"
   },
   "cloudConference.activateTips": {
-    "message": "当前设备没有激活云会议，请激活后入会。",
+    "message": "The current device has not activated cloud conferencing. Please activate it before joining.",
     "description": "smart-classroom 项目"
   },
   "cloudConference.msg": {
-    "message": "采用“云+端”的方式,在课堂内可一键发起会议，满足本地+远程、线下与线上融合式远程互动授课的多种需求，提供高清、稳定、安全、高效的极简会议体验",
+    "message": "Adopting a \"cloud+terminal\" approach, meetings can be initiated with just one click in the classroom, meeting various needs for local+remote, offline and online integrated remote interactive teaching, providing a high-definition, stable, secure and efficient minimalist meeting experience.",
     "description": "smart-classroom 项目"
   },
   "remote.unboundTeaBuilding": {
-    "message": "暂未绑定教学楼",
+    "message": "Teaching building not yet bound",
     "description": "smart-classroom 项目"
   },
   "remote.pleaseBindClassroom": {
-    "message": "请绑定教室",
+    "message": "Please bind the classroom",
     "description": "smart-classroom 项目"
   },
   "remote.todayNoDistanceCourses": {
-    "message": "今日无远程课程",
+    "message": "There are no remote courses available today",
     "description": "smart-classroom 项目"
   },
   "remote.month": {
-    "message": "月",
+    "message": "Month",
     "description": "smart-classroom 项目"
   },
   "remote.day": {
-    "message": "日",
+    "message": "Date",
     "description": "smart-classroom 项目"
   },
   "remote.createClassroom": {
-    "message": "创建远程课堂",
+    "message": "Create remote classroom",
     "description": "smart-classroom 项目"
   },
   "remote.joinClassroom": {
-    "message": "加入远程课堂",
+    "message": "Join remote classroom",
     "description": "smart-classroom 项目"
   },
   "remote.noDistanceCourses": {
-    "message": "今日无远程课程",
+    "message": "There are no remote courses available today",
     "description": "smart-classroom 项目"
   },
   "remote.distanceTeaching": {
-    "message": "远程教学",
+    "message": "Remote teaching",
     "description": "smart-classroom 项目"
   },
   "remote.courseName": {
-    "message": "课堂名称",
+    "message": "Session Name",
     "description": "smart-classroom 项目"
   },
   "remote.endTime": {
-    "message": "结束时间",
+    "message": "End Time",
     "description": "smart-classroom 项目"
   },
   "remote.mainRoom": {
-    "message": "主讲教室",
+    "message": "Main lecture room",
     "description": "smart-classroom 项目"
   },
   "remote.speaker": {
-    "message": "主讲",
+    "message": "Instructor",
     "description": "smart-classroom 项目"
   },
   "remote.listenTalk": {
-    "message": "听讲",
+    "message": "Listening",
     "description": "smart-classroom 项目"
   },
   "remote.listenRoom": {
-    "message": "听讲教室",
+    "message": "Listening Classroom",
     "description": "smart-classroom 项目"
   },
   "remote.selectRoom": {
-    "message": "选择教室",
+    "message": "Select a classroom!",
     "description": "smart-classroom 项目"
   },
   "remote.selectDate": {
-    "message": "选择日期",
+    "message": "Choose the date",
     "description": "smart-classroom 项目"
   },
   "remote.joinRoom": {
-    "message": "加入教室",
+    "message": "Join Classroom",
     "description": "smart-classroom 项目"
   },
   "remote.freeEntry": {
-    "message": "允许自由加入",
+    "message": "Allow free joining",
     "description": "smart-classroom 项目"
   },
   "remote.freeJoin": {
-    "message": "允许加入",
+    "message": "Allow joining",
     "description": "smart-classroom 项目"
   },
   "remote.operate": {
-    "message": "操作",
+    "message": "Operation",
     "description": "smart-classroom 项目"
   },
   "remote.yes": {
-    "message": "是",
+    "message": "Yes",
     "description": "smart-classroom 项目"
   },
   "remote.no": {
-    "message": "否",
+    "message": "No",
     "description": "smart-classroom 项目"
   },
   "remote.select": {
-    "message": "选择",
+    "message": "Select",
     "description": "smart-classroom 项目"
   },
   "remote.teacher": {
-    "message": "教师",
+    "message": "Teacher",
     "description": "smart-classroom 项目"
   },
   "remote.time": {
-    "message": "时间",
+    "message": "Time",
     "description": "smart-classroom 项目"
   },
   "remote.msg1": {
-    "message": "开启后，其他教室可以通过搜索查找并加入当前课堂",
+    "message": "After activation, other classrooms can be searched and added to the current classroom",
     "description": "smart-classroom 项目"
   },
   "remote.msg2": {
-    "message": "创建远程互动课堂",
+    "message": "Create remote classroom",
     "description": "smart-classroom 项目"
   },
   "remote.msg3": {
-    "message": "请输入教室名称",
+    "message": "Enter the classroom name",
     "description": "smart-classroom 项目"
   },
   "remote.msg4": {
-    "message": "最多只能选十间教室",
+    "message": "Only up to ten classrooms can be selected",
     "description": "smart-classroom 项目"
   },
   "remote.msg5": {
-    "message": "请选择开始时间",
+    "message": "Select a start time",
     "description": "smart-classroom 项目"
   },
   "remote.msg6": {
-    "message": "请选择结束时间",
+    "message": "Select a end time",
     "description": "smart-classroom 项目"
   },
   "remote.msg7": {
-    "message": "请输入教师姓名",
+    "message": "Enter the teacher name",
     "description": "smart-classroom 项目"
   },
   "remote.msg8": {
-    "message": "确认删除课堂？",
+    "message": "Are you sure you want to delete it?",
     "description": "smart-classroom 项目"
   },
   "remote.msg9": {
-    "message": "修改远程互动课堂",
+    "message": "Edit remote classroom",
     "description": "smart-classroom 项目"
   },
   "remote.msg10": {
-    "message": "结束时间不能早于开始时间",
+    "message": "The end time cannot be earlier than the start time",
     "description": "smart-classroom 项目"
   },
   "remote.msg11": {
-    "message": "课堂已结束",
+    "message": "The session is ended.",
     "description": "smart-classroom 项目"
   },
   "remote.msg12": {
-    "message": "确定进入该课堂？",
+    "message": "Are you sure you want to join this session",
     "description": "smart-classroom 项目"
   },
   "classroom.publish": {
-    "message": "发布",
+    "message": "Publish",
     "description": "smart-classroom 项目"
   },
   "classroom.publishTo": {
-    "message": "发布到",
+    "message": "Publish",
     "description": "smart-classroom 项目"
   },
   "classroom.shotPreview": {
-    "message": "截图预览",
+    "message": "Screenshot Preview",
     "description": "smart-classroom 项目"
   },
   "discuss.switchActivities": {
-    "message": "切换活动",
+    "message": "Switch activities",
     "description": "smart-classroom 项目"
   },
   "student.answerRight": {
-    "message": "答对",
+    "message": "Answer correctly",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionType1": {
-    "message": "题目类型",
+    "message": "Question type",
     "description": "smart-classroom 项目"
   },
   "welinkLive.timedOutReauthorize": {
-    "message": "已超时，请重新授权",
+    "message": "Timed out, please reauthorize",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.groupNumberCorresponding": {
-    "message": "请选择当前设备对应的小组序号",
+    "message": "Please select the group number corresponding to the current device",
     "description": "smart-classroom 项目"
   },
   "common.selectClass": {
-    "message": "选择班级",
+    "message": "Select Class",
     "description": "smart-classroom 项目"
   },
   "common.selectActivity": {
-    "message": "选择活动",
+    "message": "Select Activities",
     "description": "smart-classroom 项目"
   },
   "classroom.classIntegral": {
-    "message": "课堂积分榜",
+    "message": "Classroom Scoring Ranking",
     "description": "smart-classroom 项目"
   },
   "classroom.exportDataBeing": {
-    "message": "正在导出数据...",
+    "message": "Exporting data ..",
     "description": "smart-classroom 项目"
   },
   "classroom.exportData": {
-    "message": "导出数据",
+    "message": "Export data",
     "description": "smart-classroom 项目"
   },
   "classroom.noCourseTip": {
-    "message": "你还没有课程，请先创建课程",
+    "message": "No courses yet - Please create a course first",
     "description": "smart-classroom 项目"
   },
   "classroom.toCreate": {
-    "message": "去创建",
+    "message": "Go to create.",
     "description": "smart-classroom 项目"
   },
   "classroom.plsCreateClassroom": {
-    "message": "请创建课堂",
+    "message": "Please Create the Session",
     "description": "smart-classroom 项目"
   },
   "integrating.classroomAllTotalScore": {
-    "message": "课堂总积分",
+    "message": "Classroom Session Points",
     "description": "smart-classroom 项目"
   },
   "classroom.joinClassroom": {
-    "message": "加入课堂",
+    "message": "Join the class",
     "description": "smart-classroom 项目"
   },
   "classroom.inputCode": {
-    "message": "请输入课堂码",
+    "message": "Please enter the class code",
     "description": "smart-classroom 项目"
   },
   "classroom.inputPlease": {
-    "message": "请输入",
+    "message": "Please enter...",
     "description": "smart-classroom 项目"
   },
   "classroom.pleaseSelectClass": {
-    "message": "请选择班级加入",
+    "message": "Please select a class to join",
     "description": "smart-classroom 项目"
   },
   "classroom.course": {
-    "message": "课程",
+    "message": "Course",
     "description": "smart-classroom 项目"
   },
   "classroom.giveUp": {
-    "message": "放弃",
+    "message": "Give up",
     "description": "smart-classroom 项目"
   },
   "classroom.join": {
-    "message": "加入",
+    "message": "Join",
     "description": "smart-classroom 项目"
   },
   "classroom.msg1": {
-    "message": "已提交加入班级申请，请等待教师审核，审核通过后可以进入课堂学习",
+    "message": "The application for joining the class has been submitted. Please wait for the teacher's review. After the approval, you can enter the class to learn.",
     "description": "smart-classroom 项目"
   },
   "classroom.msg2": {
-    "message": "你已加入该课程其它班级，请勿重复加入。如果你加入错误的班级，请联系任课教师更改班级。",
+    "message": "You have already enrolled one of the classes offered by this course. You cannot enroll multiple classes of the same course. If you enrolled a wrong class and want to switch to a different one, please contact the teacher to do it for you.",
     "description": "smart-classroom 项目"
   },
   "classroom.msg3": {
-    "message": "加班成功",
+    "message": "Joined successfully!",
     "description": "smart-classroom 项目"
   },
   "screen.experimentalResources": {
-    "message": "实验资源",
+    "message": "Experimental resources",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateLabel": {
-    "message": "学科白板",
+    "message": "Subject Whiteboard",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activatePlaceholder": {
-    "message": "请输入激活码",
+    "message": "Enter the activation code",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateLabelTips": {
-    "message": "请输入激活码以启用学科白板",
+    "message": "Please enter the activation code to enable the subject whiteboard",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateSuccessLabel": {
-    "message": "解除绑定",
+    "message": "Unbind",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateSuccessTitle": {
-    "message": "学科白板已激活",
+    "message": "Subject Whiteboard activated",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateReleaseTip": {
-    "message": "解除授权后，学科白板将无法使用。确定要解除吗？",
+    "message": "Subject Whiteboards will not be available after deauthorization. Are you sure you want to disarm it?",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateLoadingTip": {
-    "message": "正在激活，请勿关闭页面",
+    "message": "Activating, do not close the page",
     "description": "smart-classroom 项目"
   },
   "whiteboard.activateEmptyMsg": {
-    "message": "激活码不能为空",
+    "message": "Activation code cannot be empty",
     "description": "smart-classroom 项目"
   },
   "whiteboard.reactivateLabel": {
-    "message": "重新激活",
+    "message": "Reactivate",
     "description": "smart-classroom 项目"
   },
   "whiteboard.reactivateTip": {
-    "message": "学科白板已解除授权",
+    "message": "Subject Whiteboard has been de-authorized",
     "description": "smart-classroom 项目"
   },
   "whiteboard.reactivateMsg": {
-    "message": "重新激活后，学科白板功能将恢复正常。确定要重新激活吗？",
+    "message": "After reactivation, the subject whiteboard function will return to normal. Are you sure you want to reactivate?",
     "description": "smart-classroom 项目"
   },
   "wx.classQrGet": {
-    "message": "生成课堂码",
-    "description": "smart-classroom 项目"
-  },
-  "screen.classExperimentalResources": {
-    "message": "班课实验资源",
-    "description": "smart-classroom 项目"
-  },
-  "screen.myExperimentalResources": {
-    "message": "我的实验资源",
-    "description": "smart-classroom 项目"
-  },
-  "screen.experimentalResourcesError": {
-    "message": "实验资源加载失败，请稍后重试",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.averageScore": {
-    "message": "平均积分",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.medianScore": {
-    "message": "中位积分",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.title": {
-    "message": "题组",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.question": {
-    "message": "题目",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.question1": {
-    "message": "题",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.num": {
-    "message": "{num}道",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.singleChoice": {
-    "message": "单选",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.multipleChoice": {
-    "message": "多选",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.judge": {
-    "message": "判断",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.fillBlank": {
-    "message": "填空",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.importFromBank": {
-    "message": "从题库导入",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.intelligentQuestion": {
-    "message": "智能出题",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.questionNum": {
-    "message": "题数",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.current": {
-    "message": "回答正确！",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.error": {
-    "message": "回答错误！",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.tip": {
-    "message": "还有题目未完成，确认要提交吗？",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.deleteQuestion": {
-    "message": "删除题目",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.add": {
-    "message": "添加到题组",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.unSaveTip": {
-    "message": "第{num}题未保存，请先保存题目",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.addQuestionTip": {
-    "message": "请至少添加一道题目",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.titleTip": {
-    "message": "请输入题组标题",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.batchSetting": {
-    "message": "批量设置",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.batchSetScore": {
-    "message": "批量设置分数:",
-    "description": "smart-classroom 项目"
-  },
-  "questionGroup.scoreTip": {
-    "message": "第 {num} 题分数必须大于 0",
+    "message": "Generate class code",
     "description": "smart-classroom 项目"
   }
 }
